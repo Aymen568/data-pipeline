@@ -24,7 +24,10 @@ jobs:
       run: python -m pip install pandas 
     # Step 4    
     - name: Run script to create main csv
-      run: python get_all_data.py     
+      run: python get_all_data.py 
+    # Step 5    
+    - name: Run script to create analysis file
+      run: python check_last_earthquake.py
     # Step 5
     - name: Commit and push if it changed
       run: |-
