@@ -48,4 +48,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.07 and occurred in/near 8 km WNW of The Geysers, CA on 10/23/2024 at 02:08 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 5.5 and occurred in/near south of the Fiji Islands on 10/22/2024 at 03:45 PM./nSince 07:04 AM on 10/22/2024, there have been 297 recorded earthquakes.
 The most recent earthquake had a magnitude of 0.81 and occurred in/near 7 km NNW of The Geysers, CA on 10/23/2024 at 02:30 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 5.5 and occurred in/near south of the Fiji Islands on 10/22/2024 at 03:45 PM./nSince 07:04 AM on 10/22/2024, there have been 300 recorded earthquakes.
+The most recent earthquake had a magnitude of 0.21 and occurred in/near 7 km WNW of Cobb, CA on 10/23/2024 at 02:35 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 5.5 and occurred in/near south of the Fiji Islands on 10/22/2024 at 03:45 PM./n
