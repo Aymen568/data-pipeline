@@ -234,3 +234,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-23T07:28:59.760Z,38.84349822998,-122.8253326416,2.0899999141693,1.04,md,19.0,77.0,0.009323,0.02,nc,nc75077621,2024-10-23T07:30:35.268Z,"9 km WNW of Cobb, CA",earthquake,0.23,0.460000008,0.11,20.0,automatic,nc,nc
 2024-10-23T07:41:45.814Z,59.7061,-139.4135,10.2,1.9,ml,,,,0.58,ak,ak024dnb0zsl,2024-10-23T07:44:00.673Z,"25 km NE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-23T07:36:44.094Z,58.602,-154.1345,0.9,2.2,ml,,,,0.7,ak,ak024dnazx2x,2024-10-23T07:38:45.933Z,"93 km NW of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-23T07:53:30.031Z,60.2955,-150.689,41.5,2.0,ml,,,,0.77,ak,ak024dnb3hk6,2024-10-23T07:55:20.354Z,"23 km S of Funny River, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-10-23T07:52:06.080Z,38.835334777832,-122.88150024414,2.4800000190735,0.28,md,8.0,126.0,0.01108,0.05,nc,nc75077631,2024-10-23T07:53:43.860Z,"12 km E of Cloverdale, CA",earthquake,0.43,0.970000029,0.15,7.0,automatic,nc,nc
+2024-10-23T07:51:54.060Z,60.3108,-150.7046,44.8,1.6,ml,,,,0.29,ak,ak024dnb35la,2024-10-23T07:53:42.356Z,"21 km S of Funny River, Alaska",earthquake,,0.8,,,automatic,ak,ak
