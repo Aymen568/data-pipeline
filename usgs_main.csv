@@ -373,3 +373,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-23T19:23:05.700Z,32.8751667,-116.5481667,9.03,1.17,ml,35.0,42.0,0.0545,0.19,ci,ci40962128,2024-10-23T19:30:26.081Z,"6 km NNW of Pine Valley, CA",earthquake,0.19,0.47,0.254,29.0,automatic,ci,ci
 2024-10-23T17:49:33.489Z,-24.0439,-66.9871,177.8,4.4,mb,32.0,107.0,1.542,0.51,us,us7000nmpt,2024-10-23T19:29:57.040Z,"70 km WNW of San Antonio de los Cobres, Argentina",earthquake,11.43,6.582,0.127,18.0,reviewed,us,us
 2024-10-22T20:04:00.650Z,33.8703333,-117.5113333,-0.47,1.02,ml,14.0,63.0,0.07636,0.26,ci,ci40960856,2024-10-23T19:30:02.124Z,"1 km SE of Home Gardens, CA",quarry blast,0.68,31.61,0.236,5.0,reviewed,ci,ci
+2024-10-23T19:35:59.970Z,34.5266667,-118.8531667,11.67,1.6,ml,45.0,23.0,0.07065,0.23,ci,ci40962160,2024-10-23T19:46:57.220Z,"14 km NNW of Piru, CA",earthquake,0.23,0.71,0.225,33.0,automatic,ci,ci
+2024-10-23T19:33:46.588Z,61.1463,-147.4384,3.2,1.4,ml,,,,0.78,ak,ak024dni4h9s,2024-10-23T19:41:12.511Z,"51 km NW of Tatitlek, Alaska",earthquake,,5.4,,,automatic,ak,ak
