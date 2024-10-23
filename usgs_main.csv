@@ -386,3 +386,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-23T19:00:18.000Z,46.003666666667,-112.47016666667,-2.0,1.66,ml,9.0,82.0,0.06071,0.1,mb,mb90064228,2024-10-23T20:25:10.670Z,"5 km E of Butte, Montana",quarry blast,0.41,31.61,0.093988440065183,7.0,reviewed,mb,mb
 2024-10-23T18:14:04.274Z,69.396,-144.6656,14.582,2.7,ml,16.0,80.0,0.408,0.74,us,us7000nmpx,2024-10-23T20:29:04.040Z,"91 km SSW of Kaktovik, Alaska",earthquake,3.16,7.633,0.05,52.0,reviewed,us,us
 2024-10-23T00:19:15.470Z,58.172,-155.37583333333,3.85,1.58,ml,13.0,72.0,0.04574,0.17,av,av93327413,2024-10-23T20:41:32.550Z,"86 km NW of Karluk, Alaska",earthquake,0.31,1.01,0.23843129877209,13.0,reviewed,av,av
+2024-10-23T20:38:00.699Z,31.645,-104.127,4.2807,1.5,ml,18.0,77.0,0.1,0.5,tx,tx2024uwjv,2024-10-23T20:46:24.485Z,"48 km NW of Toyah, Texas",earthquake,0.0,1.2089606523514,0.2,14.0,automatic,tx,tx
