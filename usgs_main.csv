@@ -409,3 +409,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-23T22:14:25.530Z,44.3025,-110.54533333333,4.48,1.31,md,10.0,97.0,0.04049,0.11,uu,uu80085046,2024-10-23T22:27:47.330Z,"59 km SE of West Yellowstone, Montana",earthquake,0.34,0.44,0.23637270025819,7.0,reviewed,uu,uu
 2024-10-23T22:12:46.286Z,36.1547,-115.6034,14.6,1.8,ml,17.0,266.58,0.584,0.3369,nn,nn00886475,2024-10-23T22:15:01.264Z,"11 km SSE of Mount Charleston, Nevada",earthquake,,1.1,0.29,12.0,automatic,nn,nn
 2024-10-23T04:12:11.070Z,61.315333333333,-152.3095,-1.95,-0.41,ml,6.0,146.0,0.06405,0.31,av,av93024934,2024-10-23T22:32:03.840Z,"68 km WNW of Beluga, Alaska",earthquake,0.82,14.02,0.27047454966524,6.0,reviewed,av,av
+2024-10-23T22:44:22.060Z,35.9638333,-117.6585,3.32,1.3,ml,25.0,94.0,0.01721,0.14,ci,ci40962376,2024-10-23T22:50:25.475Z,"22 km E of Little Lake, CA",earthquake,0.21,0.3,0.166,17.0,automatic,ci,ci
+2024-10-23T04:28:05.680Z,61.3135,-152.25016666667,-2.43,0.32,ml,10.0,122.0,0.06658,0.15,av,av93327608,2024-10-23T22:51:33.490Z,"65 km WNW of Beluga, Alaska",earthquake,0.31,1.43,0.18298653088899,10.0,reviewed,av,av
