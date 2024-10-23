@@ -375,3 +375,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T20:04:00.650Z,33.8703333,-117.5113333,-0.47,1.02,ml,14.0,63.0,0.07636,0.26,ci,ci40960856,2024-10-23T19:30:02.124Z,"1 km SE of Home Gardens, CA",quarry blast,0.68,31.61,0.236,5.0,reviewed,ci,ci
 2024-10-23T19:35:59.970Z,34.5266667,-118.8531667,11.67,1.6,ml,45.0,23.0,0.07065,0.23,ci,ci40962160,2024-10-23T19:46:57.220Z,"14 km NNW of Piru, CA",earthquake,0.23,0.71,0.225,33.0,automatic,ci,ci
 2024-10-23T19:33:46.588Z,61.1463,-147.4384,3.2,1.4,ml,,,,0.78,ak,ak024dni4h9s,2024-10-23T19:41:12.511Z,"51 km NW of Tatitlek, Alaska",earthquake,,5.4,,,automatic,ak,ak
+2024-10-23T19:49:57.350Z,35.3978333,-118.6511667,5.4,1.41,ml,28.0,80.0,0.1213,0.16,ci,ci40962184,2024-10-23T19:56:52.396Z,"26 km SW of Bodfish, CA",earthquake,0.22,1.13,0.306,23.0,automatic,ci,ci
+2024-10-23T19:20:52.765Z,-17.7988,-174.9545,213.179,4.9,mb,32.0,66.0,4.927,0.77,us,us7000nmqr,2024-10-23T20:03:17.040Z,"139 km NW of Neiafu, Tonga",earthquake,10.97,7.599,0.088,40.0,reviewed,us,us
+2024-10-23T19:03:05.990Z,18.9605,-64.955666666667,49.78,3.33,md,11.0,258.0,0.6049,0.36,pr,pr71463328,2024-10-23T20:00:04.540Z,"68 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,4.69,8.62,0.11043740262078,6.0,reviewed,pr,pr
+2024-10-23T05:48:09.870Z,46.701166666667,-121.57933333333,-0.59,0.45,ml,18.0,278.0,0.03068,0.12,uw,uw62056201,2024-10-23T19:55:40.970Z,"12 km NNE of Packwood, Washington",earthquake,0.46,10.65,0.14437057905767,8.0,reviewed,uw,uw
