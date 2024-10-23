@@ -346,3 +346,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-23T11:39:52.836Z,41.8575,-119.6745,3.4,2.6,ml,5.0,128.67,0.47,0.1358,nn,nn00886462,2024-10-23T17:28:34.155Z,"39 km E of Fort Bidwell, California",earthquake,,5.7,0.8,5.0,reviewed,nn,nn
 2024-10-23T09:44:43.424Z,41.8233,-119.6304,2.7,1.3,ml,3.0,229.2,0.507,0.1841,nn,nn00886461,2024-10-23T17:19:22.586Z,"43 km E of Fort Bidwell, California",earthquake,,7.7,0.0,1.0,reviewed,nn,nn
 2024-10-23T08:54:59.490Z,19.167833333333,-155.50033333333,32.51,1.72,md,20.0,155.0,0.08013,0.09,hv,hv74509426,2024-10-23T17:16:51.360Z,"4 km SSW of Pāhala, Hawaii",earthquake,1.03,0.78,0.20641916021718,10.0,reviewed,hv,hv
+2024-10-23T17:38:28.961Z,36.2391,-115.2033,4.0,1.5,ml,8.0,208.22,0.268,0.1826,nn,nn00886464,2024-10-23T17:42:48.431Z,"8 km WNW of North Las Vegas, Nevada",earthquake,,19.0,0.74,5.0,automatic,nn,nn
+2024-10-23T17:29:46.500Z,19.139333724976,-155.37483215332,30.440000534058,2.3,ml,62.0,184.0,0.08405,0.129999995,hv,hv74510361,2024-10-23T17:32:40.900Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.44,0.529999971,0.37,26.0,automatic,hv,hv
+2024-10-23T17:19:38.940Z,17.951166666667,-67.0805,6.86,2.78,md,8.0,252.0,0.03902,0.12,pr,pr71463318,2024-10-23T17:34:23.110Z,"4 km SW of La Parguera, Puerto Rico",earthquake,0.62,0.32,0.16492078310476,6.0,reviewed,pr,pr
