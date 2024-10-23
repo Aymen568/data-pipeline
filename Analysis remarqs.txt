@@ -28,4 +28,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.91 and occurred in/near 4 km NNE of Puebla, B.C., MX on 10/23/2024 at 10:51 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 5.5 and occurred in/near south of the Fiji Islands on 10/22/2024 at 03:45 PM./nSince 07:04 AM on 10/22/2024, there have been 262 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.37 and occurred in/near 5 km NNE of Malibu, CA on 10/23/2024 at 11:08 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 5.5 and occurred in/near south of the Fiji Islands on 10/22/2024 at 03:45 PM./nSince 07:04 AM on 10/22/2024, there have been 263 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.79999995 and occurred in/near 6 km S of Pāhala, Hawaii on 10/23/2024 at 11:22 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 5.5 and occurred in/near south of the Fiji Islands on 10/22/2024 at 03:45 PM./n
