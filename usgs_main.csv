@@ -281,3 +281,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-23T13:07:01.310Z,19.406665802002,-155.26899719238,3.329999923706,1.88999999,md,41.0,35.0,0.008835,0.230000004,hv,hv74509981,2024-10-23T13:08:53.530Z,"5 km SW of Volcano, Hawaii",earthquake,0.24,0.25999999,0.230000004,21.0,automatic,hv,hv
 2024-10-23T10:36:02.003Z,32.019,-102.402,4.0771,1.3,ml,15.0,75.0,0.1,0.1,tx,tx2024uvqa,2024-10-23T13:25:33.597Z,"2 km W of Gardendale, Texas",earthquake,0.987984084024,1.4109546633733,0.2,11.0,reviewed,tx,tx
 2024-10-23T07:54:27.644Z,32.092,-102.055,7.9346,1.1,ml,13.0,66.0,0.0,0.2,tx,tx2024uvko,2024-10-23T13:02:57.405Z,"10 km NNE of Midland, Texas",earthquake,0.85161827993413,1.1332987386577,0.1,7.0,reviewed,tx,tx
+2024-10-23T13:37:30.191Z,60.6295,-151.8701,78.1,2.8,ml,,,,0.31,ak,ak024dnekpd7,2024-10-23T13:39:12.356Z,"30 km W of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-10-23T13:32:24.509Z,36.7329,-116.0772,0.9,0.7,ml,17.0,77.04,0.036,0.2526,nn,nn00886438,2024-10-23T13:34:28.654Z,"40 km WNW of Indian Springs, Nevada",earthquake,,1.6,0.47,11.0,automatic,nn,nn
+2024-10-23T13:29:12.020Z,33.8438333,-117.6258333,10.25,1.81,ml,17.0,82.0,0.05038,0.15,ci,ci40961680,2024-10-23T13:36:46.388Z,"6 km WSW of Corona, CA",earthquake,0.3,0.41,0.356,31.0,automatic,ci,ci
+2024-10-23T08:20:50.274Z,36.7731,-116.0493,2.0,-0.4,ml,13.0,173.36,0.015,0.0827,nn,nn00886437,2024-10-23T13:32:56.056Z,"40 km WNW of Indian Springs, Nevada",earthquake,,2.1,0.47,6.0,reviewed,nn,nn
+2024-10-23T04:21:46.322Z,39.2046,-119.6695,7.3,0.5,ml,8.0,144.89,0.128,0.1095,nn,nn00886440,2024-10-23T13:39:05.042Z,"7 km WSW of Dayton, Nevada",earthquake,,4.6,0.18,3.0,reviewed,nn,nn
+2024-10-23T01:51:38.577Z,32.145,-101.06,8.96,2.2,ml,17.0,78.0,0.2,0.1,tx,tx2024uuyp,2024-10-23T13:35:26.667Z,"23 km S of Westbrook, Texas",earthquake,0.71190770344587,2.5459647239397,0.0,7.0,reviewed,tx,tx
