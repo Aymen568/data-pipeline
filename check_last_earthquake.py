@@ -29,5 +29,5 @@ file = open("Analysis remarqs.txt","a")
 file.write(f'Since {earliest.iloc[0]["time"]} on {earliest.iloc[0]["date"].strftime("%m/%d/%Y")}, there have been {number_earthquakes} recorded earthquakes.\n'
            f'The most recent earthquake had a magnitude of {latest.iloc[0]["mag"]} and occurred in/near {latest.iloc[0]["place"]} on {latest.iloc[0]["date"].strftime("%m/%d/%Y")} at {latest.iloc[0]["time"]}.\n'
            f'The strongest earthquake since the start of this web scraper had a magnitude of {strongest.iloc[0]["mag"]} and occurred in/near {strongest.iloc[0]["place"]} on {strongest.iloc[0]["date"].strftime("%m/%d/%Y")} at {strongest.iloc[0]["time"]}.')
-f.write("/n")
+file.write("/n")
 file.close()
