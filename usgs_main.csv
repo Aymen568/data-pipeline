@@ -422,3 +422,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-23T23:14:04.000Z,33.2685,-116.207,11.44,1.42,ml,11.0,64.0,0.08525,0.08,ci,ci40962416,2024-10-23T23:20:48.491Z,"16 km NNW of Ocotillo Wells, CA",earthquake,0.4,1.04,0.368,12.0,automatic,ci,ci
 2024-10-23T23:34:47.970Z,33.7973333,-117.8621667,2.4,1.49,ml,24.0,211.0,0.01768,0.18,ci,ci40962448,2024-10-23T23:41:43.611Z,"3 km WSW of Orange, CA",earthquake,0.86,0.41,0.264,35.0,automatic,ci,ci
 2024-10-23T06:15:24.110Z,54.526166666667,-163.50866666667,10.24,1.93,ml,7.0,266.0,0.1807,0.21,av,av93327738,2024-10-23T23:38:29.960Z,"37 km S of False Pass, Alaska",earthquake,0.87,1.65,0.355581158996,7.0,reviewed,av,av
+2024-10-23T23:47:43.087Z,58.8877,-154.726,128.2,1.9,ml,,,,0.43,ak,ak024dnkl7k4,2024-10-23T23:51:03.699Z,"61 km S of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
