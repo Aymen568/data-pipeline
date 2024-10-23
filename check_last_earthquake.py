@@ -26,5 +26,8 @@ strongest = df_main[df_main["mag"] == df_main["mag"].max()] # Return the row wit
 
 file = open("Analysis remarqs.txt","a")
 # Paste the values into a sentence. If there are earthquakes that happened at the same earliest time or had the same magnitude, we are taking the first row
-file.write("Hello \n")(f'Since {earliest.iloc[0]["time"]} on {earliest.iloc[0]["date"].strftime("%m/%d/%Y")} there have been {number_earthquakes} recorded earthquakes. {chr(10)} The most recent earthquake was {latest.iloc[0]["mag"]} in magnitude and occured in/near {latest.iloc[0]["place"]} on {latest.iloc[0]["date"]} at {latest.iloc[0]["time"]}.{chr(10)} The strongest earthquakes since the start of this webscraper was {strongest.iloc[0]["mag"]} magnitude and occured in/near {strongest.iloc[0]["place"]} on {strongest.iloc[0]["date"]} at {strongest.iloc[0]["time"]}.')
+file.write(f'Since {earliest.iloc[0]["time"]} on {earliest.iloc[0]["date"].strftime("%m/%d/%Y")}, there have been {number_earthquakes} recorded earthquakes.\n'
+           f'The most recent earthquake had a magnitude of {latest.iloc[0]["mag"]} and occurred in/near {latest.iloc[0]["place"]} on {latest.iloc[0]["date"].strftime("%m/%d/%Y")} at {latest.iloc[0]["time"]}.\n'
+           f'The strongest earthquake since the start of this web scraper had a magnitude of {strongest.iloc[0]["mag"]} and occurred in/near {strongest.iloc[0]["place"]} on {strongest.iloc[0]["date"].strftime("%m/%d/%Y")} at {strongest.iloc[0]["time"]}.')
+f.write("/n")
 file.close()
