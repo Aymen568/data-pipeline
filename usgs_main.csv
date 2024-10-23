@@ -244,3 +244,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-23T08:30:11.020Z,17.959166666667,-67.002166666667,7.94,2.28,md,10.0,203.0,0.04131,0.08,pr,pr71463243,2024-10-23T08:39:21.330Z,"5 km ESE of La Parguera, Puerto Rico",earthquake,0.37,0.6,0.13606208238358,4.0,reviewed,pr,pr
 2024-10-23T08:44:36.520Z,33.4586667,-116.6156667,9.81,0.6,ml,38.0,40.0,0.02389,0.14,ci,ci40961480,2024-10-23T08:50:36.354Z,"12 km SSE of Anza, CA",earthquake,0.17,0.35,0.213,14.0,automatic,ci,ci
 2024-10-23T09:04:24.960Z,33.4925,-116.4766667,12.74,1.07,ml,64.0,58.0,0.07914,0.17,ci,ci40961504,2024-10-23T09:10:24.473Z,"20 km ESE of Anza, CA",earthquake,0.14,0.32,0.167,26.0,automatic,ci,ci
+2024-10-23T09:26:20.580Z,63.4269,-144.853,32.1,2.2,ml,,,,0.77,ak,ak024dnc4lbe,2024-10-23T09:28:25.063Z,"26 km SSW of Dry Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
