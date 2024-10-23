@@ -255,3 +255,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-23T10:09:04.490Z,19.141834259033,-155.34783935547,28.739999771118,2.43000007,md,32.0,225.0,0.1061,0.100000001,hv,hv74509591,2024-10-23T10:10:43.910Z,"15 km ESE of Pāhala, Hawaii",earthquake,0.74,0.649999976,0.280000001,3.0,automatic,hv,hv
 2024-10-23T09:37:12.797Z,-19.1671,-69.3145,113.557,4.4,mb,35.0,94.0,0.511,1.6,us,us7000nmky,2024-10-23T10:17:47.040Z,"19 km NE of Camiña, Chile",earthquake,7.64,7.429,0.097,31.0,reviewed,us,us
 2024-10-23T09:12:48.109Z,-9.1684,114.0096,78.651,4.4,mb,22.0,64.0,0.708,0.77,us,us7000nmkv,2024-10-23T10:09:03.040Z,"86 km S of Gambiran Satu, Indonesia",earthquake,8.31,7.062,0.138,15.0,reviewed,us,us
+2024-10-23T10:35:25.234Z,62.6117,-149.6632,3.7,2.6,ml,,,,0.65,ak,ak024dncryq3,2024-10-23T10:37:11.604Z,"28 km NE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
