@@ -452,3 +452,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-24T02:56:06.241Z,62.3411,-150.031,57.8,1.5,ml,,,,1.02,ak,ak024dovoay8,2024-10-24T02:58:13.848Z,"4 km ENE of Talkeetna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-24T02:37:03.740Z,38.814334869385,-122.85299682617,1.3600000143051,0.82,md,11.0,98.0,0.01353,0.01,nc,nc75077936,2024-10-24T02:38:40.239Z,"9 km NW of The Geysers, CA",earthquake,0.33,0.74000001,0.21,12.0,automatic,nc,nc
 2024-10-24T02:33:25.026Z,60.7916,-152.2293,45.3,0.5,ml,,,,1.01,ak,ak024dovjfjy,2024-10-24T02:35:56.018Z,"52 km WNW of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-10-24T03:13:38.950Z,33.8675,-116.6581667,14.24,1.75,ml,79.0,30.0,0.09548,0.17,ci,ci40962624,2024-10-24T03:24:31.840Z,"11 km WSW of Garnet, CA",earthquake,0.12,0.28,0.216,26.0,automatic,ci,ci
+2024-10-24T03:12:42.480Z,33.8685,-116.6526667,12.62,0.64,ml,30.0,55.0,0.09613,0.13,ci,ci40962616,2024-10-24T03:18:45.290Z,"11 km WSW of Garnet, CA",earthquake,0.2,0.59,0.17,13.0,automatic,ci,ci
+2024-10-24T03:05:17.133Z,61.2928,-146.2824,20.0,1.6,ml,,,,0.63,ak,ak024dovytvl,2024-10-24T03:07:11.370Z,"18 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-24T02:20:24.696Z,-36.2812,-71.6578,95.465,4.2,mb,36.0,91.0,0.491,0.67,us,us7000nmsj,2024-10-24T03:08:25.040Z,"21 km SE of Parral, Chile",earthquake,7.01,5.105,0.153,12.0,reviewed,us,us
+2024-10-24T02:09:53.942Z,-27.3314,-69.3481,98.918,4.4,mb,33.0,78.0,0.896,0.89,us,us7000nmsg,2024-10-24T03:14:49.040Z,"97 km E of Copiapó, Chile",earthquake,7.01,9.788,0.13,17.0,reviewed,us,us
+2024-10-23T12:56:06.745Z,-24.0806,-67.1351,194.961,4.3,mb,12.0,99.0,1.477,0.43,us,us7000nmli,2024-10-24T03:07:34.040Z,"84 km W of San Antonio de los Cobres, Argentina",earthquake,12.29,13.781,0.161,11.0,reviewed,us,us
+2024-10-23T07:50:07.330Z,53.861166666667,-166.95333333333,25.33,1.18,ml,8.0,210.0,0.05368,0.13,av,av93024964,2024-10-24T03:27:29.660Z,"27 km W of Dutch Harbor, Alaska",earthquake,0.98,0.91,0.23935173839572,8.0,reviewed,av,av
+2024-10-23T07:49:44.470Z,53.8845,-166.95533333333,18.9,1.52,ml,11.0,215.0,0.07538,0.32,av,av93327893,2024-10-24T03:24:34.530Z,"27 km W of Dutch Harbor, Alaska",earthquake,1.46,0.95,0.29555276263822,11.0,reviewed,av,av
+2024-10-23T07:39:26.990Z,53.888166666667,-166.9645,23.74,0.92,ml,7.0,224.0,0.07504,0.18,av,av93024959,2024-10-24T03:09:30.760Z,"27 km W of Dutch Harbor, Alaska",earthquake,1.04,0.99,0.22429101223539,8.0,reviewed,av,av
