@@ -591,3 +591,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-24T11:45:38.989Z,-28.649,-71.6233,31.392,5.0,mb,56.0,141.0,0.656,0.82,us,us7000nmum,2024-10-24T12:05:25.040Z,"84 km W of Vallenar, Chile",earthquake,5.32,5.101,0.049,134.0,reviewed,us,us
 2024-10-24T06:42:36.699Z,36.7683,-116.0536,2.6,-0.4,ml,17.0,162.03,0.013,0.1126,nn,nn00886504,2024-10-24T12:18:51.795Z,"40 km WNW of Indian Springs, Nevada",earthquake,,1.1,0.7,6.0,reviewed,nn,nn
 2024-10-24T06:00:19.080Z,36.7708,-116.0389,2.9,-0.2,ml,6.0,234.16,0.01,0.0325,nn,nn00886503,2024-10-24T12:12:41.747Z,"39 km NW of Indian Springs, Nevada",earthquake,,2.1,0.1,3.0,reviewed,nn,nn
+2024-10-24T12:32:18.840Z,38.823501586914,-122.84083557129,1.7699999809265,0.36,md,8.0,140.0,0.004551,0.01,nc,nc75078146,2024-10-24T12:52:14.536Z,"9 km NW of The Geysers, CA",earthquake,0.42,1.13,0.24,9.0,automatic,nc,nc
+2024-10-24T12:25:55.677Z,58.202,-154.6661,4.8,1.1,ml,,,,1.22,ak,ak024dp1g3m7,2024-10-24T12:27:54.021Z,"71 km N of Karluk, Alaska",earthquake,,4.1,,,automatic,ak,ak
+2024-10-24T09:09:54.968Z,32.006,-101.684,8.9111,1.5,ml,25.0,55.0,0.1,0.1,tx,tx2024uxio,2024-10-24T12:38:29.678Z,"16 km SE of Stanton, Texas",earthquake,0.3261721003235,0.74282705105115,0.1,25.0,reviewed,tx,tx
+2024-10-24T09:05:20.278Z,32.136,-101.515,7.5928,1.2,ml,19.0,86.0,0.0,0.1,tx,tx2024uxil,2024-10-24T12:59:06.852Z,"13 km SSW of Big Spring, Texas",earthquake,0.62772615734986,0.87117827629162,0.2,14.0,reviewed,tx,tx
+2024-10-24T08:51:47.084Z,36.845,-116.1915,4.8,-0.2,ml,9.0,154.31,0.075,0.0539,nn,nn00886507,2024-10-24T12:28:04.322Z,"51 km E of Beatty, Nevada",earthquake,,2.9,0.0,1.0,reviewed,nn,nn
+2024-10-23T22:59:48.542Z,32.13,-101.102,5.9082,1.6,ml,22.0,82.0,0.2,0.1,tx,tx2024uwol,2024-10-24T12:27:52.584Z,"25 km E of Forsan, Texas",earthquake,0.61448756406139,1.7290682033384,0.2,20.0,reviewed,tx,tx
+2024-10-23T17:48:06.200Z,34.372,-96.81983333,0.0,1.25,ml,27.0,141.0,0.2384532073,0.63,ok,ok2024uwed,2024-10-24T13:00:49.940Z,"3 km S of Mill Creek, Oklahoma",quarry blast,,1.6,0.27,14.0,reviewed,ok,ok
+2024-10-23T16:00:42.390Z,34.505,-96.67433333,0.0,1.2,ml,36.0,81.0,0.1259752794,0.59,ok,ok2024uwap,2024-10-24T12:52:42.350Z,"17 km NE of Mill Creek, Oklahoma",quarry blast,,0.9,0.23,14.0,reviewed,ok,ok
