@@ -562,3 +562,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-24T09:25:40.130Z,37.29349899292,-121.67082977295,1.3999999761581,1.78,md,23.0,54.0,0.0345,0.06,nc,nc75078081,2024-10-24T09:27:15.884Z,"15 km E of Seven Trees, CA",earthquake,0.17,0.469999999,0.07,20.0,automatic,nc,nc
 2024-10-24T09:24:02.794Z,36.6183,-115.0455,4.8,0.9,ml,14.0,273.68,0.145,0.245,nn,nn00886494,2024-10-24T09:26:32.115Z,"40 km W of Moapa Town, Nevada",earthquake,,14.9,0.47,8.0,automatic,nn,nn
 2024-10-24T09:23:01.140Z,33.4923333,-116.7661667,9.24,0.88,ml,58.0,22.0,0.03693,0.17,ci,ci40962816,2024-10-24T09:29:45.192Z,"11 km ENE of Aguanga, CA",earthquake,0.13,0.38,0.147,28.0,automatic,ci,ci
+2024-10-24T09:43:32.500Z,38.822666168213,-122.80500030518,1.9400000572205,0.31,md,10.0,104.0,0.00403,0.03,nc,nc75078091,2024-10-24T09:45:09.683Z,"7 km NNW of The Geysers, CA",earthquake,0.51,0.870000005,0.11,10.0,automatic,nc,nc
+2024-10-24T09:42:20.882Z,62.7735,-149.9639,74.2,1.5,ml,,,,0.53,ak,ak024dozrdag,2024-10-24T09:44:20.981Z,"36 km N of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
