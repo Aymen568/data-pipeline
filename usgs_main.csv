@@ -447,3 +447,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-24T01:20:44.020Z,17.961666666667,-66.914666666667,7.57,2.57,md,5.0,204.0,0.1236,0.15,pr,pr71463353,2024-10-24T01:42:35.460Z,"1 km SSW of Guánica, Puerto Rico",earthquake,1.01,0.54,0.079897650781775,5.0,reviewed,pr,pr
 2024-10-24T01:11:35.430Z,17.976,-66.806,14.37,2.87,md,20.0,161.0,0.04588,0.26,pr,pr71463343,2024-10-24T01:40:45.240Z,"2 km SE of Indios, Puerto Rico",earthquake,0.49,0.59,0.096352170916929,10.0,reviewed,pr,pr
 2024-10-23T07:14:21.410Z,53.394666666667,-168.08983333333,3.58,-0.39,ml,5.0,117.0,0.02615,0.24,av,av93327828,2024-10-24T02:07:16.340Z,"72 km NE of Nikolski, Alaska",earthquake,0.64,0.95,0.25674504531191,5.0,reviewed,av,av
+2024-10-24T03:00:02.380Z,32.9641685,-116.3336639,8.53,1.7,ml,11.0,199.0,0.4311,0.14,ci,ci40962608,2024-10-24T03:02:32.616Z,"24 km NE of Pine Valley, CA",earthquake,0.91,3.6,0.453,10.0,automatic,ci,ci
+2024-10-24T02:57:48.975Z,61.053,-148.3425,0.8,0.9,ml,,,,0.9,ak,ak024dovolyp,2024-10-24T03:00:07.295Z,"36 km NNE of Whittier, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-10-24T02:56:06.241Z,62.3411,-150.031,57.8,1.5,ml,,,,1.02,ak,ak024dovoay8,2024-10-24T02:58:13.848Z,"4 km ENE of Talkeetna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-10-24T02:37:03.740Z,38.814334869385,-122.85299682617,1.3600000143051,0.82,md,11.0,98.0,0.01353,0.01,nc,nc75077936,2024-10-24T02:38:40.239Z,"9 km NW of The Geysers, CA",earthquake,0.33,0.74000001,0.21,12.0,automatic,nc,nc
+2024-10-24T02:33:25.026Z,60.7916,-152.2293,45.3,0.5,ml,,,,1.01,ak,ak024dovjfjy,2024-10-24T02:35:56.018Z,"52 km WNW of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
