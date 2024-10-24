@@ -498,3 +498,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-24T05:02:08.901Z,0.1081,-77.7489,125.018,2.4,ml,8.0,218.0,0.48,0.34,us,us7000nmsz,2024-10-24T05:29:50.040Z,"37 km SE of Pimampiro, Ecuador",earthquake,13.32,10.433,0.091,16.0,reviewed,us,us
 2024-10-23T21:54:51.060Z,47.233333333333,-123.72316666667,10.68,1.05,ml,11.0,150.0,0.0481,0.34,uw,uw62056431,2024-10-24T05:26:05.080Z,"17 km E of Humptulips, Washington",earthquake,0.9,1.81,0.13585631394078,6.0,reviewed,uw,uw
 2024-10-23T12:20:20.180Z,61.306,-152.232,1.8,-0.31,ml,8.0,140.0,0.05509,0.06,av,av93328218,2024-10-24T05:25:41.480Z,"64 km WNW of Beluga, Alaska",earthquake,0.31,1.13,0.22675559538753,8.0,reviewed,av,av
+2024-10-23T12:33:05.420Z,53.8455,-166.92466666667,23.71,0.13,ml,7.0,174.0,0.03862,0.26,av,av93024994,2024-10-24T05:40:01.170Z,"25 km W of Dutch Harbor, Alaska",earthquake,1.58,1.82,0.28011488345355,8.0,reviewed,av,av
