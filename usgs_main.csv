@@ -567,3 +567,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-24T09:52:12.880Z,35.227,-118.217,2.54,1.24,ml,44.0,61.0,0.07877,0.18,ci,ci40962832,2024-10-24T09:58:43.058Z,"20 km NNW of Mojave, CA",earthquake,0.17,0.36,0.15,26.0,automatic,ci,ci
 2024-10-23T16:57:19.711Z,32.755,-100.634,8.2275,1.9,ml,15.0,80.0,0.1,0.2,tx,tx2024uwcn,2024-10-24T10:03:24.269Z,"17 km NE of Hermleigh, Texas",earthquake,0.69988563293219,1.2760432572422,0.1,13.0,reviewed,tx,tx
 2024-10-24T10:08:06.689Z,62.0075,-148.4086,30.6,1.2,ml,,,,0.48,ak,ak024dp05hgc,2024-10-24T10:09:59.451Z,"23 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-24T10:38:52.030Z,38.828834533691,-122.80366516113,1.5599999427795,1.03,md,19.0,64.0,0.007387,0.02,nc,nc75078106,2024-10-24T10:40:30.169Z,"7 km WNW of Cobb, CA",earthquake,0.21,0.349999994,0.19,20.0,automatic,nc,nc
+2024-10-24T10:28:20.092Z,31.66,-104.37,4.8879,2.1,ml,18.0,70.0,0.1,0.2,tx,tx2024uxld,2024-10-24T10:42:08.658Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.4241471290588,0.2,14.0,automatic,tx,tx
