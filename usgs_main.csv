@@ -526,3 +526,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-24T07:20:31.400Z,33.1818333,-115.6201667,5.02,1.65,ml,44.0,42.0,0.002395,0.24,ci,ci40962752,2024-10-24T07:27:14.361Z,"11 km SW of Niland, CA",earthquake,0.25,0.33,0.245,28.0,automatic,ci,ci
 2024-10-24T07:14:29.702Z,52.3155,-170.5674,35.0,5.0,mb,120.0,126.0,0.618,1.05,us,us7000nmtw,2024-10-24T07:34:38.024Z,"134 km WSW of Nikolski, Alaska",earthquake,4.79,1.897,0.03,365.0,reviewed,us,us
 2024-10-23T08:11:17.873Z,41.4128,142.0682,66.635,4.3,mb,21.0,159.0,0.981,0.48,us,us7000nmku,2024-10-24T07:34:09.040Z,"72 km E of Mutsu, Japan",earthquake,8.93,10.515,0.178,9.0,reviewed,us,us
+2024-10-24T07:42:17.232Z,61.146,-151.0156,63.2,1.5,ml,,,,0.17,ak,ak024doykhsr,2024-10-24T07:43:58.838Z,"3 km E of Beluga, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-10-24T07:38:48.530Z,33.1835,-115.62,3.38,1.42,ml,34.0,81.0,0.002187,0.19,ci,ci40962760,2024-10-24T07:44:58.043Z,"11 km WSW of Niland, CA",earthquake,0.21,0.14,0.239,31.0,automatic,ci,ci
+2024-10-24T07:37:52.980Z,40.302665710449,-124.31866455078,14.229999542236,1.56,md,7.0,125.0,0.02317,0.09,nc,nc75078021,2024-10-24T07:39:30.547Z,"4 km WSW of Petrolia, CA",earthquake,1.42,2.36999989,0.15,5.0,automatic,nc,nc
+2024-10-24T07:32:21.622Z,31.622,-104.086,5.1987,2.2,ml,20.0,90.0,0.0,0.4,tx,tx2024uxfi,2024-10-24T07:38:54.222Z,"43 km NW of Toyah, Texas",earthquake,0.0,2.9430446624756,0.2,14.0,automatic,tx,tx
