@@ -627,3 +627,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-24T14:20:29.081Z,60.6819,-151.1247,38.5,1.8,ml,,,,0.39,ak,ak024dp2lu70,2024-10-24T14:22:01.056Z,"9 km E of Nikiski, Alaska",earthquake,,4.0,,,automatic,ak,ak
 2024-10-24T11:48:11.520Z,44.377,-115.18983333333,4.22,1.92,ml,8.0,127.0,0.3663,0.18,mb,mb90064273,2024-10-24T14:27:44.200Z,"26 km NW of Stanley, Idaho",earthquake,0.5,2.33,0.18425629672752,16.0,reviewed,mb,mb
 2024-10-24T14:18:34.430Z,17.9675,-66.866833333333,14.12,2.53,md,14.0,168.0,0.01401,0.24,pr,pr71463388,2024-10-24T14:52:01.580Z,"2 km ESE of Maria Antonia, Puerto Rico",earthquake,0.55,0.8,0.043413134448975,7.0,reviewed,pr,pr
+2024-10-24T15:00:28.470Z,34.728,-119.0711667,6.97,1.47,ml,33.0,75.0,0.02746,0.19,ci,ci40963040,2024-10-24T15:15:01.638Z,"15 km SSE of Pine Mountain Club, CA",earthquake,0.24,0.49,0.288,30.0,reviewed,ci,ci
+2024-10-24T05:05:09.820Z,34.700666666667,-85.2185,11.95,1.92,md,13.0,114.0,0.168,0.11,se,se60502648,2024-10-24T15:00:42.950Z,"5 km E of LaFayette, Georgia",earthquake,0.61,2.07,0.066970101813618,10.0,reviewed,se,se
+2024-10-24T00:09:21.390Z,36.4235,-92.761,4.72,1.89,md,9.0,123.0,0.1003,0.12,nm,nm60502643,2024-10-24T15:07:17.450Z,"13 km ENE of South Lead Hill, Arkansas",earthquake,0.58,2.04,0.080485932232239,8.0,reviewed,nm,nm
+2024-10-23T22:20:26.900Z,46.887833333333,-112.52816666667,8.9,1.45,ml,10.0,123.0,0.05661,0.07,mb,mb90064283,2024-10-24T15:20:47.860Z,"13 km ESE of Lincoln, Montana",earthquake,0.47,0.6,0.17321162208384,15.0,reviewed,mb,mb
