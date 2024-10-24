@@ -694,3 +694,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-24T19:33:39.350Z,34.0453339,-117.2243347,7.65,1.41,ml,50.0,30.0,0.07713,0.18,ci,ci40963472,2024-10-24T19:35:58.757Z,"3 km E of Loma Linda, CA",earthquake,0.21,1.08,0.273,10.0,automatic,ci,ci
 2024-10-24T19:28:11.450Z,19.35650062561,-155.12266540527,-0.28999999165535,1.92,ml,24.0,178.0,0.02833,0.330000013,hv,hv74511297,2024-10-24T19:31:03.440Z,"12 km S of Fern Forest, Hawaii",earthquake,0.72,0.75,0.38,3.0,automatic,hv,hv
 2024-10-24T18:52:09.570Z,-5.0468,152.2399,57.198,5.2,mb,60.0,62.0,0.853,0.84,us,us7000nmz2,2024-10-24T19:30:33.040Z,"77 km S of Kokopo, Papua New Guinea",earthquake,8.99,7.044,0.038,232.0,reviewed,us,us
+2024-10-24T19:41:35.080Z,36.0268333,-117.5406667,4.33,1.0,ml,12.0,202.0,0.1035,0.15,ci,ci40963488,2024-10-24T19:47:28.374Z,"31 km NNW of Searles Valley, CA",earthquake,0.62,0.75,0.275,10.0,automatic,ci,ci
+2024-10-24T19:23:14.552Z,-17.4608,-70.808,116.55,5.0,mb,44.0,71.0,1.008,1.47,us,us7000nmzd,2024-10-24T19:40:13.040Z,"17 km NNW of Locumba, Peru",earthquake,7.15,3.422,0.077,54.0,reviewed,us,us
