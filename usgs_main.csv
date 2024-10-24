@@ -566,3 +566,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-24T09:42:20.882Z,62.7735,-149.9639,74.2,1.5,ml,,,,0.53,ak,ak024dozrdag,2024-10-24T09:44:20.981Z,"36 km N of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-10-24T09:52:12.880Z,35.227,-118.217,2.54,1.24,ml,44.0,61.0,0.07877,0.18,ci,ci40962832,2024-10-24T09:58:43.058Z,"20 km NNW of Mojave, CA",earthquake,0.17,0.36,0.15,26.0,automatic,ci,ci
 2024-10-23T16:57:19.711Z,32.755,-100.634,8.2275,1.9,ml,15.0,80.0,0.1,0.2,tx,tx2024uwcn,2024-10-24T10:03:24.269Z,"17 km NE of Hermleigh, Texas",earthquake,0.69988563293219,1.2760432572422,0.1,13.0,reviewed,tx,tx
+2024-10-24T10:08:06.689Z,62.0075,-148.4086,30.6,1.2,ml,,,,0.48,ak,ak024dp05hgc,2024-10-24T10:09:59.451Z,"23 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
