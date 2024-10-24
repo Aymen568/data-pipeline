@@ -666,3 +666,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-24T17:38:36.250Z,34.0643349,-117.2279968,16.55,1.22,ml,24.0,67.0,0.06125,0.29,ci,ci40963272,2024-10-24T17:40:42.712Z,"4 km ENE of Loma Linda, CA",earthquake,0.55,1.55,0.269,6.0,automatic,ci,ci
 2024-10-24T17:22:43.663Z,-2.3421,134.2625,30.391,4.9,mb,53.0,61.0,2.092,0.41,us,us7000nmyq,2024-10-24T17:40:00.040Z,"86 km ESE of Bintuni, Indonesia",earthquake,8.34,5.584,0.096,34.0,reviewed,us,us
 2024-10-24T12:51:05.750Z,42.699833333333,-124.6975,23.45,1.47,ml,5.0,306.0,0.2419,0.23,uw,uw61503493,2024-10-24T17:32:38.230Z,"17 km WSW of Port Orford, Oregon",earthquake,1.55,0.65,0.14451726629275,6.0,reviewed,uw,uw
+2024-10-24T09:45:10.080Z,47.607833333333,-113.56,4.88,0.11,ml,6.0,208.0,0.2261,0.14,mb,mb90064338,2024-10-24T17:45:45.980Z,"14 km NE of Condon, Montana",earthquake,1.07,8.77,0.12690336861525,2.0,reviewed,mb,mb
+2024-10-23T22:06:55.060Z,44.823,-111.578,7.9,0.12,ml,6.0,147.0,0.1056,0.03,mb,mb90064343,2024-10-24T17:49:52.110Z,"31 km W of Hebgen Lake Estates, Montana",earthquake,0.56,0.68,0.22025285694177,2.0,reviewed,mb,mb
