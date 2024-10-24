@@ -668,3 +668,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-24T12:51:05.750Z,42.699833333333,-124.6975,23.45,1.47,ml,5.0,306.0,0.2419,0.23,uw,uw61503493,2024-10-24T17:32:38.230Z,"17 km WSW of Port Orford, Oregon",earthquake,1.55,0.65,0.14451726629275,6.0,reviewed,uw,uw
 2024-10-24T09:45:10.080Z,47.607833333333,-113.56,4.88,0.11,ml,6.0,208.0,0.2261,0.14,mb,mb90064338,2024-10-24T17:45:45.980Z,"14 km NE of Condon, Montana",earthquake,1.07,8.77,0.12690336861525,2.0,reviewed,mb,mb
 2024-10-23T22:06:55.060Z,44.823,-111.578,7.9,0.12,ml,6.0,147.0,0.1056,0.03,mb,mb90064343,2024-10-24T17:49:52.110Z,"31 km W of Hebgen Lake Estates, Montana",earthquake,0.56,0.68,0.22025285694177,2.0,reviewed,mb,mb
+2024-10-24T18:15:27.541Z,60.2026,-152.6802,107.2,2.0,ml,,,,0.64,ak,ak024dp4yhw9,2024-10-24T18:18:36.262Z,"58 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-10-24T18:15:16.600Z,38.837001800537,-122.81083679199,2.210000038147,0.76,md,10.0,76.0,0.0136,0.01,nc,nc75078266,2024-10-24T18:16:53.090Z,"8 km WNW of Cobb, CA",earthquake,0.42,1.34000003,0.15,12.0,automatic,nc,nc
+2024-10-24T18:13:06.828Z,63.1394,-149.7824,82.2,2.5,ml,,,,0.62,ak,ak024dp4y0ub,2024-10-24T18:14:59.199Z,"50 km SW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-10-24T18:11:49.625Z,60.5112,-151.7896,39.6,1.9,ml,,,,4.93,ak,ak024dp4xopn,2024-10-24T18:14:26.968Z,"28 km WSW of Salamatof, Alaska",earthquake,,15.2,,,automatic,ak,ak
+2024-10-24T18:07:00.500Z,36.2148333,-117.8758333,4.37,2.03,ml,32.0,49.0,0.09853,0.18,ci,ci40963304,2024-10-24T18:18:00.740Z,"14 km ESE of Olancha, CA",earthquake,0.24,0.72,0.259,26.0,automatic,ci,ci
+2024-10-24T17:51:28.383Z,25.5386,142.6739,10.0,5.1,mww,94.0,68.0,1.612,1.36,us,us7000nmyu,2024-10-24T18:18:15.040Z,"Volcano Islands, Japan region",earthquake,9.15,1.856,0.073,18.0,reviewed,us,us
+2024-10-24T17:39:27.833Z,-21.7152,-67.4286,191.875,4.7,mb,42.0,68.0,1.413,1.25,us,us7000nmyt,2024-10-24T17:59:00.040Z,"101 km ESE of Ollagüe, Chile",earthquake,8.52,7.718,0.081,47.0,reviewed,us,us
+2024-10-24T07:36:46.040Z,44.79,-111.53683333333,12.45,0.2,ml,8.0,132.0,0.08624,0.15,mb,mb90064348,2024-10-24T17:59:19.700Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.44,1.02,0.12767339271115,6.0,reviewed,mb,mb
