@@ -856,3 +856,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-25T02:44:55.178Z,31.676,-104.415,6.9202,1.5,ml,20.0,76.0,0.0,0.2,tx,tx2024uyrk,2024-10-25T10:02:13.635Z,"55 km S of Whites City, New Mexico",earthquake,0.8114693732377,0.80540413929111,0.1,14.0,reviewed,tx,tx
 2024-10-25T10:31:52.301Z,65.9476,-148.9447,8.9,1.6,ml,,,,0.63,ak,ak024dqntuxq,2024-10-25T10:33:41.247Z,"9 km SE of Stevens Village, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-25T10:23:28.900Z,38.773834228516,-122.73316955566,1.8400000333786,0.79,md,6.0,167.0,0.009792,0.02,nc,nc75078561,2024-10-25T10:25:04.941Z,"2 km ESE of The Geysers, CA",earthquake,1.18,1.34000003,0.21,7.0,automatic,nc,nc
+2024-10-25T10:40:00.120Z,36.1101685,-117.3618317,8.13,1.49,ml,15.0,211.0,0.2462,0.24,ci,ci40964192,2024-10-25T10:42:35.486Z,"38 km N of Searles Valley, CA",earthquake,1.39,5.33,0.46,7.0,automatic,ci,ci
