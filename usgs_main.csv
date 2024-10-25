@@ -948,3 +948,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-25T18:18:39.090Z,38.778999328613,-122.75783538818,0.95999997854233,1.83,md,38.0,38.0,0.01032,0.06,nc,nc75078721,2024-10-25T18:37:17.352Z,"0 km NNW of The Geysers, CA",earthquake,0.2,0.289999992,0.16,38.0,automatic,nc,nc
 2024-10-25T00:00:03.030Z,58.505833333333,-154.426,9.78,0.99,ml,11.0,202.0,0.1002,0.36,av,av93330443,2024-10-25T18:24:51.020Z,"101 km WNW of Aleneva, Alaska",earthquake,1.74,1.04,0.2342544899445,11.0,reviewed,av,av
 2024-10-25T18:42:06.920Z,36.5778333,-117.0746667,-0.86,2.22,ml,14.0,205.0,0.4786,0.15,ci,ci40964560,2024-10-25T18:49:07.870Z,"7 km ESE of Stovepipe Wells, CA",earthquake,0.55,1.29,0.146,22.0,automatic,ci,ci
+2024-10-25T18:52:12.701Z,61.056,-149.5726,28.9,2.6,ml,,,,0.42,ak,ak024dqspqra,2024-10-25T19:07:45.563Z,"15 km NNE of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
