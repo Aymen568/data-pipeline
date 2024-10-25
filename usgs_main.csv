@@ -934,3 +934,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-25T11:21:16.950Z,45.872333333333,-111.60566666667,4.0,0.44,ml,6.0,140.0,0.1934,0.14,mb,mb90064508,2024-10-25T17:16:14.560Z,"4 km WSW of Three Forks, Montana",earthquake,0.62,9.96,0.087690532033732,5.0,reviewed,mb,mb
 2024-10-25T04:16:10.840Z,47.704,-113.82733333333,5.69,-0.19,ml,5.0,168.0,0.09623,0.06,mb,mb90064518,2024-10-25T17:28:47.820Z,"18 km ESE of Finley Point, Montana",earthquake,0.57,2.39,0.21489009426715,2.0,reviewed,mb,mb
 2024-10-24T19:32:53.090Z,47.493333333333,-114.0215,9.84,1.09,ml,13.0,81.0,0.02219,0.16,mb,mb90064513,2024-10-25T17:22:46.240Z,"5 km NE of Kicking Horse, Montana",earthquake,0.44,1.05,0.12834289248584,4.0,reviewed,mb,mb
+2024-10-25T06:19:00.230Z,44.6535,-112.1065,5.0,0.62,ml,6.0,110.0,0.2141,0.1,mb,mb90064523,2024-10-25T17:39:05.540Z,"33 km N of Spencer, Idaho",earthquake,0.6,7.19,0.135719389417,5.0,reviewed,mb,mb
