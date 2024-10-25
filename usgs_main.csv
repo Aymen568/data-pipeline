@@ -949,3 +949,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-25T00:00:03.030Z,58.505833333333,-154.426,9.78,0.99,ml,11.0,202.0,0.1002,0.36,av,av93330443,2024-10-25T18:24:51.020Z,"101 km WNW of Aleneva, Alaska",earthquake,1.74,1.04,0.2342544899445,11.0,reviewed,av,av
 2024-10-25T18:42:06.920Z,36.5778333,-117.0746667,-0.86,2.22,ml,14.0,205.0,0.4786,0.15,ci,ci40964560,2024-10-25T18:49:07.870Z,"7 km ESE of Stovepipe Wells, CA",earthquake,0.55,1.29,0.146,22.0,automatic,ci,ci
 2024-10-25T18:52:12.701Z,61.056,-149.5726,28.9,2.6,ml,,,,0.42,ak,ak024dqspqra,2024-10-25T19:07:45.563Z,"15 km NNE of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-25T19:18:39.292Z,61.9713,-147.4817,35.7,1.6,ml,,,,0.64,ak,ak024dqt3y2h,2024-10-25T19:21:21.394Z,"16 km WNW of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-25T19:11:22.246Z,62.8574,-150.8294,103.5,1.7,ml,,,,0.28,ak,ak024dqt2eqo,2024-10-25T19:13:23.046Z,"40 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-10-25T19:08:52.700Z,38.780166625977,-122.75633239746,1.0499999523163,1.27,md,19.0,66.0,0.01196,0.04,nc,nc75078761,2024-10-25T19:10:28.237Z,"0 km NNE of The Geysers, CA",earthquake,0.23,0.379999995,0.2,17.0,automatic,nc,nc
+2024-10-25T19:07:44.890Z,37.473331451416,-118.81616973877,2.2699999809265,1.94,md,22.0,157.0,,0.04,nc,nc75078756,2024-10-25T19:10:53.650Z,"16 km WSW of Toms Place, CA",earthquake,0.32,1.41999996,0.19,22.0,automatic,nc,nc
