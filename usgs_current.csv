@@ -241,6 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-24T07:52:44.977Z,58.0356,-151.6755,23.8,2.2,ml,,,,0.35,ak,ak024doymp3l,2024-10-24T07:55:55.060Z,"50 km ENE of Ouzinkie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-24T07:52:31.730Z,35.6046667,-117.3835,8.56,0.61,ml,4,225,0.06665,0.05,ci,ci37686692,2024-10-24T20:15:40.498Z,"18 km S of Trona, CA",earthquake,2.54,0.97,0.114,2,reviewed,ci,ci
 2024-10-24T07:52:31.350Z,35.6998333,-117.49,9.99,0.73,ml,20,143,0.06413,0.13,ci,ci40962768,2024-10-24T20:15:21.891Z,"11 km SW of Searles Valley, CA",earthquake,0.28,0.69,0.296,7,reviewed,ci,ci
-2024-10-24T07:47:17.330Z,40.303165435791,-124.29933166504,9.5100002288818,1.35,md,7,204,0.06219,0.01,nc,nc75078026,2024-10-24T07:57:15.535Z,"3 km SW of Petrolia, CA",earthquake,1.07,1.86000001,0.04,6,automatic,nc,nc
-2024-10-24T07:46:39.290Z,58.0607,-152.5002,16,1.9,ml,,,,0.35,ak,ak024doyleh1,2024-10-24T07:49:12.612Z,"15 km N of Ouzinkie, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-10-24T07:42:17.232Z,61.146,-151.0156,63.2,1.5,ml,,,,0.17,ak,ak024doykhsr,2024-10-24T07:43:58.838Z,"3 km E of Beluga, Alaska",earthquake,,1.5,,,automatic,ak,ak
