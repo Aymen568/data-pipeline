@@ -844,3 +844,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-25T07:51:37.740Z,62.3195,-150.1265,3.0,1.9,ml,,,,0.56,ak,ak024dqm5tbi,2024-10-25T07:53:13.698Z,"1 km WSW of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-25T08:24:59.570Z,19.176666259766,-155.47900390625,35.009998321533,1.75,md,39.0,80.0,0.02649,0.119999997,hv,hv74512087,2024-10-25T08:26:48.530Z,"2 km S of Pāhala, Hawaii",earthquake,0.55,0.649999976,0.140000001,7.0,automatic,hv,hv
 2024-10-25T08:18:50.800Z,38.967498779297,-123.39900207519,3.7799999713898,2.38,md,32.0,56.0,0.04406,0.09,nc,nc75078521,2024-10-25T08:37:20.074Z,"5 km SW of Boonville, CA",earthquake,0.22,0.699999988,0.18,28.0,automatic,nc,nc
+2024-10-25T08:47:58.970Z,36.5858345,-117.1021652,-1.55,2.11,ml,19.0,197.0,0.4611,0.23,ci,ci40964160,2024-10-25T08:50:28.941Z,"5 km ESE of Stovepipe Wells, CA",earthquake,0.8,2.11,0.154,12.0,automatic,ci,ci
