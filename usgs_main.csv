@@ -1008,3 +1008,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-25T22:53:53.109Z,36.5958,-117.0998,4.0,0.8,ml,9.0,265.79,0.33,0.2255,nn,nn00886769,2024-10-25T22:56:02.094Z,"27 km NW of Furnace Creek, California",earthquake,,16.3,0.24,8.0,automatic,nn,nn
 2024-10-25T14:40:44.360Z,53.638166666667,-166.95516666667,11.04,1.47,ml,16.0,197.0,0.1622,0.17,av,av93331008,2024-10-25T23:14:43.990Z,"38 km SW of Unalaska, Alaska",earthquake,1.12,0.75,0.32496307422543,17.0,reviewed,av,av
 2024-10-25T14:34:50.430Z,61.368333333333,-152.3395,3.67,-0.14,ml,9.0,151.0,0.1108,0.23,av,av93330993,2024-10-25T23:08:37.510Z,"72 km WNW of Beluga, Alaska",earthquake,0.5,0.74,0.14112452752269,9.0,reviewed,av,av
+2024-10-25T23:20:03.940Z,36.46216583252,-121.03133392334,9.0299997329712,1.42,md,8.0,201.0,,0.08,nc,nc75078846,2024-10-25T23:21:40.264Z,"13 km SE of Pinnacles, CA",earthquake,0.96,0.75,0.33,7.0,automatic,nc,nc
