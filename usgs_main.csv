@@ -880,3 +880,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-24T23:00:54.899Z,36.1105,-97.87333333,5.02,1.51,ml,80.0,36.0,0.112477928,0.19,ok,ok2024uyjz,2024-10-25T12:37:12.844Z,"2 km E of Hennessey, Oklahoma",earthquake,,0.4,0.24,32.0,reviewed,ok,ok
 2024-10-24T21:10:42.420Z,35.66883333,-97.097,7.46,1.09,ml,30.0,63.0,0.1115781046,0.19,ok,ok2024uygi,2024-10-25T12:45:35.654Z,"4 km SW of Wellston, Oklahoma",earthquake,,0.6,0.21,11.0,reviewed,ok,ok
 2024-10-24T19:14:31.109Z,34.3625,-96.85666667,0.0,1.35,ml,27.0,124.0,0.2708468506,0.27,ok,ok2024uycm,2024-10-25T12:25:17.215Z,"5 km SSW of Mill Creek, Oklahoma",quarry blast,,0.6,0.24,11.0,reviewed,ok,ok
+2024-10-25T13:11:59.260Z,19.379499435425,-155.13932800293,2.0,1.82000005,md,26.0,138.0,0.01416,0.379999995,hv,hv74512462,2024-10-25T13:13:35.720Z,"9 km S of Fern Forest, Hawaii",earthquake,1.3,0.620000005,0.379999995,13.0,automatic,hv,hv
+2024-10-25T13:09:49.350Z,38.831832885742,-122.80083465576,1.7300000190735,0.93,md,11.0,52.0,0.0105,0.01,nc,nc75078596,2024-10-25T13:11:24.048Z,"7 km WNW of Cobb, CA",earthquake,0.33,0.579999983,0.27,13.0,automatic,nc,nc
+2024-10-25T12:55:13.039Z,64.8434,-150.1724,16.6,1.4,ml,,,,0.63,ak,ak024dqp5sav,2024-10-25T12:56:56.979Z,"28 km SE of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-25T12:41:37.660Z,35.6461667,-117.5678333,8.89,0.84,ml,27.0,77.0,0.1047,0.14,ci,ci40964256,2024-10-25T12:47:25.753Z,"10 km ENE of Ridgecrest, CA",earthquake,0.16,0.67,0.107,8.0,automatic,ci,ci
