@@ -935,3 +935,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-25T04:16:10.840Z,47.704,-113.82733333333,5.69,-0.19,ml,5.0,168.0,0.09623,0.06,mb,mb90064518,2024-10-25T17:28:47.820Z,"18 km ESE of Finley Point, Montana",earthquake,0.57,2.39,0.21489009426715,2.0,reviewed,mb,mb
 2024-10-24T19:32:53.090Z,47.493333333333,-114.0215,9.84,1.09,ml,13.0,81.0,0.02219,0.16,mb,mb90064513,2024-10-25T17:22:46.240Z,"5 km NE of Kicking Horse, Montana",earthquake,0.44,1.05,0.12834289248584,4.0,reviewed,mb,mb
 2024-10-25T06:19:00.230Z,44.6535,-112.1065,5.0,0.62,ml,6.0,110.0,0.2141,0.1,mb,mb90064523,2024-10-25T17:39:05.540Z,"33 km N of Spencer, Idaho",earthquake,0.6,7.19,0.135719389417,5.0,reviewed,mb,mb
+2024-10-25T17:43:02.500Z,36.4125,-96.87633333,6.34,1.21,ml,45.0,55.0,0.04409134777,0.43,ok,ok2024uzuz,2024-10-25T17:57:41.945Z,"10 km NW of Pawnee, Oklahoma",earthquake,,0.7,0.26,17.0,reviewed,ok,ok
+2024-10-25T14:22:25.369Z,31.304,-103.424,7.9456,1.8,ml,19.0,79.0,0.1,0.1,tx,tx2024uzoj,2024-10-25T17:42:18.127Z,"13 km SE of Lindsay, Texas",earthquake,0.57794785116519,1.3823093423468,0.2,20.0,reviewed,tx,tx
