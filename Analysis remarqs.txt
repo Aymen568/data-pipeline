@@ -354,4 +354,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.79 and occurred in/near 6 km S of Volcano, Hawaii on 10/25/2024 at 02:25 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 899 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.6 and occurred in/near 7 km ESE of Stevens Village, Alaska on 10/25/2024 at 02:39 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 905 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.85000002 and occurred in/near 8 km S of Fern Forest, Hawaii on 10/25/2024 at 03:07 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n
