@@ -854,3 +854,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-25T10:04:12.350Z,63.2018,-149.9809,102.2,1.6,ml,,,,0.21,ak,ak024dqnnzir,2024-10-25T10:06:35.720Z,"55 km WSW of Cantwell, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-10-25T09:54:50.766Z,62.3471,-151.1893,87.1,1.4,ml,,,,0.5,ak,ak024dqndcok,2024-10-25T09:56:43.707Z,"27 km SW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-10-25T02:44:55.178Z,31.676,-104.415,6.9202,1.5,ml,20.0,76.0,0.0,0.2,tx,tx2024uyrk,2024-10-25T10:02:13.635Z,"55 km S of Whites City, New Mexico",earthquake,0.8114693732377,0.80540413929111,0.1,14.0,reviewed,tx,tx
+2024-10-25T10:31:52.301Z,65.9476,-148.9447,8.9,1.6,ml,,,,0.63,ak,ak024dqntuxq,2024-10-25T10:33:41.247Z,"9 km SE of Stevens Village, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-25T10:23:28.900Z,38.773834228516,-122.73316955566,1.8400000333786,0.79,md,6.0,167.0,0.009792,0.02,nc,nc75078561,2024-10-25T10:25:04.941Z,"2 km ESE of The Geysers, CA",earthquake,1.18,1.34000003,0.21,7.0,automatic,nc,nc
