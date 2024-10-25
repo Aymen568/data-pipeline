@@ -1004,3 +1004,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-25T22:51:05.999Z,63.4896,-151.1277,10.3,1.6,ml,,,,0.55,ak,ak024dqv38xz,2024-10-25T22:52:50.123Z,"30 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-25T12:18:42.110Z,61.326,-152.30333333333,-2.26,-0.05,ml,10.0,129.0,0.07492,0.17,av,av93330903,2024-10-25T22:51:26.420Z,"68 km WNW of Beluga, Alaska",earthquake,0.35,1.59,0.17826502413724,10.0,reviewed,av,av
 2024-10-25T12:04:36.340Z,52.695666666667,-169.87316666667,8.72,1.46,ml,4.0,297.0,0.1036,0.11,av,av93025194,2024-10-25T22:54:28.180Z,"73 km WSW of Nikolski, Alaska",earthquake,1.44,2.81,0.098875231751883,4.0,reviewed,av,av
+2024-10-25T23:03:50.944Z,61.7395,-149.0833,35.6,1.9,ml,,,,0.47,ak,ak024dqvehlg,2024-10-25T23:06:32.908Z,"2 km NNE of Buffalo Soapstone, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-25T22:53:53.109Z,36.5958,-117.0998,4.0,0.8,ml,9.0,265.79,0.33,0.2255,nn,nn00886769,2024-10-25T22:56:02.094Z,"27 km NW of Furnace Creek, California",earthquake,,16.3,0.24,8.0,automatic,nn,nn
+2024-10-25T14:40:44.360Z,53.638166666667,-166.95516666667,11.04,1.47,ml,16.0,197.0,0.1622,0.17,av,av93331008,2024-10-25T23:14:43.990Z,"38 km SW of Unalaska, Alaska",earthquake,1.12,0.75,0.32496307422543,17.0,reviewed,av,av
+2024-10-25T14:34:50.430Z,61.368333333333,-152.3395,3.67,-0.14,ml,9.0,151.0,0.1108,0.23,av,av93330993,2024-10-25T23:08:37.510Z,"72 km WNW of Beluga, Alaska",earthquake,0.5,0.74,0.14112452752269,9.0,reviewed,av,av
