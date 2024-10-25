@@ -937,3 +937,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-25T06:19:00.230Z,44.6535,-112.1065,5.0,0.62,ml,6.0,110.0,0.2141,0.1,mb,mb90064523,2024-10-25T17:39:05.540Z,"33 km N of Spencer, Idaho",earthquake,0.6,7.19,0.135719389417,5.0,reviewed,mb,mb
 2024-10-25T17:43:02.500Z,36.4125,-96.87633333,6.34,1.21,ml,45.0,55.0,0.04409134777,0.43,ok,ok2024uzuz,2024-10-25T17:57:41.945Z,"10 km NW of Pawnee, Oklahoma",earthquake,,0.7,0.26,17.0,reviewed,ok,ok
 2024-10-25T14:22:25.369Z,31.304,-103.424,7.9456,1.8,ml,19.0,79.0,0.1,0.1,tx,tx2024uzoj,2024-10-25T17:42:18.127Z,"13 km SE of Lindsay, Texas",earthquake,0.57794785116519,1.3823093423468,0.2,20.0,reviewed,tx,tx
+2024-10-25T18:16:43.645Z,36.5376,-117.1642,0.4,0.7,ml,12.0,294.02,0.455,0.3524,nn,nn00886752,2024-10-25T18:18:48.041Z,"29 km WNW of Furnace Creek, California",earthquake,,40.9,0.37,6.0,automatic,nn,nn
+2024-10-25T18:10:33.820Z,60.4351,-150.3781,38.0,3.1,ml,,,,0.51,ak,ak024dqsgsan,2024-10-25T18:12:08.393Z,"22 km ESE of Funny River, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-10-25T17:54:31.040Z,33.9706667,-116.6741667,16.57,1.05,ml,46.0,50.0,0.0711,0.12,ci,ci40964520,2024-10-25T18:01:48.303Z,"12 km ENE of Cabazon, CA",earthquake,0.14,0.34,0.129,27.0,automatic,ci,ci
+2024-10-25T17:48:02.420Z,34.5235,-118.8548333,8.48,1.07,ml,23.0,46.0,0.06753,0.22,ci,ci40964512,2024-10-25T17:54:09.444Z,"13 km NNW of Piru, CA",earthquake,0.36,0.86,0.292,23.0,automatic,ci,ci
