@@ -412,4 +412,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 3.42 and occurred in/near 97 km N of Cruz Bay, U.S. Virgin Islands on 10/25/2024 at 10:12 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 1002 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.67 and occurred in/near 9 km WNW of Cobb, CA on 10/25/2024 at 10:32 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 1005 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.6 and occurred in/near 30 km E of Denali National Park, Alaska on 10/25/2024 at 10:51 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n
