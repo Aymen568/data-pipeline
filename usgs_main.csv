@@ -832,3 +832,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-25T06:55:49.571Z,62.3397,-150.1669,9.9,1.9,ml,,,,0.64,ak,ak024dqll9hp,2024-10-25T06:58:01.009Z,"3 km WNW of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-25T06:55:24.820Z,36.59,-117.0883333,-0.28,2.46,ml,15.0,203.0,0.4626,0.16,ci,ci40964056,2024-10-25T07:09:09.040Z,"6 km ESE of Stovepipe Wells, CA",earthquake,0.55,1.26,0.104,22.0,automatic,ci,ci
 2024-10-25T06:52:07.660Z,36.6004982,-117.065834,-1.62,4.13,mw,30.0,149.0,0.4626,0.23,ci,ci40964048,2024-10-25T07:11:09.745Z,"7 km E of Stovepipe Wells, CA",earthquake,0.44,1.43,,6.0,automatic,ci,ci
+2024-10-25T07:22:09.261Z,64.4966,-146.8808,6.3,1.9,ml,,,,0.4,ak,ak024dqlzjcu,2024-10-25T07:29:42.547Z,"3 km SSE of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-25T07:19:49.880Z,38.818500518799,-122.61233520508,1.6000000238419,1.09,md,11.0,183.0,0.1237,0.12,nc,nc75078461,2024-10-25T07:21:24.295Z,"5 km WNW of Hidden Valley Lake, CA",earthquake,1.95,13.2299995,0.15,7.0,automatic,nc,nc
+2024-10-25T07:14:28.000Z,36.599,-117.0995,-0.04,2.34,ml,15.0,202.0,0.4504,0.18,ci,ci40964088,2024-10-25T07:21:19.953Z,"4 km E of Stovepipe Wells, CA",earthquake,0.65,1.43,0.162,25.0,automatic,ci,ci
