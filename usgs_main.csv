@@ -884,3 +884,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-25T13:09:49.350Z,38.831832885742,-122.80083465576,1.7300000190735,0.93,md,11.0,52.0,0.0105,0.01,nc,nc75078596,2024-10-25T13:11:24.048Z,"7 km WNW of Cobb, CA",earthquake,0.33,0.579999983,0.27,13.0,automatic,nc,nc
 2024-10-25T12:55:13.039Z,64.8434,-150.1724,16.6,1.4,ml,,,,0.63,ak,ak024dqp5sav,2024-10-25T12:56:56.979Z,"28 km SE of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-25T12:41:37.660Z,35.6461667,-117.5678333,8.89,0.84,ml,27.0,77.0,0.1047,0.14,ci,ci40964256,2024-10-25T12:47:25.753Z,"10 km ENE of Ridgecrest, CA",earthquake,0.16,0.67,0.107,8.0,automatic,ci,ci
+2024-10-25T13:19:52.894Z,62.5474,-148.7978,31.6,2.3,ml,,,,1.05,ak,ak024dqpjl55,2024-10-25T13:21:38.463Z,"68 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-25T13:13:00.450Z,33.9515,-118.2975,11.53,1.87,ml,59.0,56.0,0.03512,0.3,ci,ci40964304,2024-10-25T13:19:44.759Z,"4 km E of Inglewood, CA",earthquake,0.28,0.46,0.118,26.0,automatic,ci,ci
