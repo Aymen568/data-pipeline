@@ -922,3 +922,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-25T16:32:21.772Z,63.3029,-151.0191,2.6,2.5,ml,,,,0.8,ak,ak024dqrelxd,2024-10-25T16:34:30.237Z,"44 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-25T16:29:14.720Z,38.812999725342,-122.81349945068,2.8499999046326,0.78,md,11.0,90.0,0.01072,0.01,nc,nc75078666,2024-10-25T16:30:49.171Z,"6 km NW of The Geysers, CA",earthquake,0.42,0.779999971,0.2,10.0,automatic,nc,nc
 2024-10-25T07:29:57.690Z,45.2325,-122.64516666667,25.12,1.12,ml,16.0,71.0,0.1208,0.18,uw,uw62056886,2024-10-25T16:40:04.680Z,"5 km SE of Canby, Oregon",earthquake,0.4,0.67,0.11279829318388,6.0,reviewed,uw,uw
+2024-10-25T15:54:53.580Z,18.983,-64.9128,30.0,3.47,md,14.0,260.0,0.6316,0.59,pr,pr2024299002,2024-10-25T16:44:48.672Z,"70 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,4.7,23.85,0.14,8.0,reviewed,pr,pr
