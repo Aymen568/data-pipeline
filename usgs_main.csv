@@ -953,3 +953,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-25T19:11:22.246Z,62.8574,-150.8294,103.5,1.7,ml,,,,0.28,ak,ak024dqt2eqo,2024-10-25T19:13:23.046Z,"40 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-10-25T19:08:52.700Z,38.780166625977,-122.75633239746,1.0499999523163,1.27,md,19.0,66.0,0.01196,0.04,nc,nc75078761,2024-10-25T19:10:28.237Z,"0 km NNE of The Geysers, CA",earthquake,0.23,0.379999995,0.2,17.0,automatic,nc,nc
 2024-10-25T19:07:44.890Z,37.473331451416,-118.81616973877,2.2699999809265,1.94,md,22.0,157.0,,0.04,nc,nc75078756,2024-10-25T19:10:53.650Z,"16 km WSW of Toms Place, CA",earthquake,0.32,1.41999996,0.19,22.0,automatic,nc,nc
+2024-10-25T19:21:58.301Z,36.5991,-117.1479,5.7,0.6,ml,11.0,271.84,0.392,0.1846,nn,nn00886759,2024-10-25T19:24:08.812Z,"31 km WNW of Furnace Creek, California",earthquake,,5.6,0.27,7.0,automatic,nn,nn
+2024-10-25T00:07:18.680Z,61.259166666667,-152.1995,23.99,-0.26,ml,8.0,101.0,0.02243,0.24,av,av93025134,2024-10-25T19:29:31.770Z,"61 km WNW of Tyonek, Alaska",earthquake,1.0,1.21,0.27160889235852,8.0,reviewed,av,av
