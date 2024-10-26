@@ -1158,3 +1158,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-26T12:15:23.880Z,62.3695,-150.6779,62.9,1.8,ml,,,,0.37,ak,ak024dscgkzo,2024-10-26T12:17:14.354Z,"14 km SSE of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-26T11:56:27.620Z,19.370166778564,-155.1755065918,2.3599998950958,1.92,ml,37.0,130.0,0.01094,0.239999995,hv,hv74513787,2024-10-26T11:59:19.190Z,"10 km SE of Volcano, Hawaii",earthquake,0.59,0.49000001,0.27,11.0,automatic,hv,hv
 2024-10-26T11:48:52.402Z,19.1109,-64.5865,39.862,3.1,ml,16.0,287.0,0.688,0.43,us,us7000nnbg,2024-10-26T12:07:08.040Z,"89 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,10.09,26.882,0.064,32.0,reviewed,us,us
+2024-10-26T12:28:56.484Z,60.6445,-146.9552,29.1,1.6,ml,,,,0.21,ak,ak024dscjftc,2024-10-26T12:30:22.253Z,"28 km SSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-26T12:22:34.977Z,62.2331,-150.1443,15.2,1.6,ml,,,,0.51,ak,ak024dsci3ux,2024-10-26T12:24:51.821Z,"10 km S of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-26T12:19:36.323Z,64.8647,-147.3474,17.7,1.2,ml,,,,0.87,ak,ak024dschgtc,2024-10-26T12:21:28.697Z,"11 km NE of Badger, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-26T12:17:05.910Z,69.3213,-144.6211,0.1,2.8,ml,,,,0.73,ak,ak024dsch0mj,2024-10-26T12:28:19.981Z,"98 km SSW of Kaktovik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-26T11:48:52.820Z,19.2028,-64.5935,22.0,3.67,md,20.0,293.0,0.7882,0.3,pr,pr2024300000,2024-10-26T12:45:05.384Z,"98 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,1.12,24.46,0.2,16.0,reviewed,pr,pr
