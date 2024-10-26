@@ -1233,3 +1233,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-26T19:41:26.674Z,35.89597321,-98.34911346,1.696103454,2.34,ml,49.0,30.71325684,0.121563457,0.5762286604,ok,ok2024vbuk,2024-10-26T19:52:01.962Z,"8 km S of Hitchcock, Oklahoma",earthquake,1.726210434,1.471226106,0.33,23.0,automatic,ok,ok
 2024-10-26T20:07:40.874Z,36.8505,-115.9599,11.9,-0.1,ml,10.0,182.56,0.099,0.2203,nn,nn00886844,2024-10-26T20:09:22.093Z,"40 km NW of Indian Springs, Nevada",earthquake,,1.6,0.55,6.0,automatic,nn,nn
 2024-10-26T19:51:00.782Z,64.7025,-147.5473,14.4,0.9,ml,,,,0.18,ak,ak024dsgua7y,2024-10-26T19:52:37.459Z,"10 km WSW of North Pole, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-26T20:24:29.950Z,33.9891663,-117.1565018,14.15,1.73,ml,74.0,27.0,0.04382,0.17,ci,ci40965376,2024-10-26T20:27:01.138Z,"8 km SSE of Redlands, CA",earthquake,0.2,0.42,0.272,27.0,automatic,ci,ci
+2024-10-26T20:11:03.160Z,39.5663,-119.9858,3.0,1.2,ml,10.0,112.48,0.045,0.079,nn,nn00886845,2024-10-26T20:12:52.223Z,"5 km NNE of Verdi, California",earthquake,,0.6,0.1,4.0,automatic,nn,nn
+2024-10-26T20:10:59.589Z,64.0951,-150.1489,0.0,1.6,ml,,,,0.68,ak,ak024dsh7206,2024-10-26T20:13:00.378Z,"50 km WSW of Clear, Alaska",earthquake,,0.4,,,automatic,ak,ak
