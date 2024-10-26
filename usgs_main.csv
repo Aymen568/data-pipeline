@@ -1256,3 +1256,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-26T21:43:06.536Z,60.9862,-147.4536,4.7,1.6,ml,,,,0.39,ak,ak024dshzg59,2024-10-26T21:44:52.668Z,"44 km WNW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-26T21:38:11.227Z,63.2653,-151.1126,0.0,1.4,ml,,,,0.58,ak,ak024dshydxe,2024-10-26T21:40:06.103Z,"43 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-26T17:08:17.380Z,29.2861,51.5308,10.0,4.2,mb,46.0,81.0,6.002,0.72,us,us7000nncw,2024-10-26T21:43:55.040Z,"30 km E of Borāzjān, Iran",earthquake,9.78,1.892,0.092,34.0,reviewed,us,us
+2024-10-26T22:03:13.600Z,38.832832336426,-122.79733276367,1.7400000095367,1.16,md,19.0,72.0,0.007797,0.05,nc,nc75079341,2024-10-26T22:04:49.806Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.50999999,0.19,23.0,automatic,nc,nc
+2024-10-26T22:02:15.616Z,64.5924,-146.9995,17.4,0.8,ml,,,,0.21,ak,ak024dsic43d,2024-10-26T22:04:25.401Z,"8 km SSE of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-26T22:00:26.293Z,65.7162,-145.6944,0.0,1.9,ml,,,,0.84,ak,ak024dsibphh,2024-10-26T22:02:12.582Z,"44 km WNW of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
