@@ -1044,3 +1044,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-26T01:17:23.720Z,32.7126656,-115.4036636,15.77,2.99,ml,58.0,34.0,0.08793,0.34,ci,ci40964904,2024-10-26T02:22:14.669Z,"9 km NE of Mexicali, B.C., MX",earthquake,0.34,0.54,0.265,22.0,automatic,ci,ci
 2024-10-26T01:14:58.858Z,62.1304,-147.5976,31.4,1.9,ml,,,,0.59,ak,ak024ds5wobh,2024-10-26T01:16:36.123Z,"31 km NW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-26T01:13:43.120Z,32.71,-115.3981667,12.41,1.85,ml,29.0,64.0,0.08748,0.21,ci,ci40964896,2024-10-26T01:24:44.050Z,"9 km NE of Mexicali, B.C., MX",earthquake,0.25,0.82,0.167,27.0,automatic,ci,ci
+2024-10-26T02:48:34.560Z,19.151332855225,-155.35932922363,29.469999313354,2.2,ml,56.0,182.0,0.093,0.140000001,hv,hv74513187,2024-10-26T02:51:25.640Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.46,0.620000005,0.68,7.0,automatic,hv,hv
+2024-10-26T02:29:34.047Z,36.5952,-117.1217,0.0,0.8,ml,16.0,268.67,0.348,0.2969,nn,nn00886784,2024-10-26T02:31:45.899Z,"29 km NW of Furnace Creek, California",earthquake,,42.6,0.3,12.0,automatic,nn,nn
+2024-10-26T02:29:15.537Z,62.1023,-149.9447,249.9,1.9,ml,,,,0.81,ak,ak024ds6l8u3,2024-10-26T02:34:23.751Z,"8 km SW of Susitna North, Alaska",earthquake,,2.7,,,automatic,ak,ak
+2024-10-25T16:56:12.210Z,58.2985,-154.986,2.68,-0.03,ml,6.0,144.0,0.04083,0.09,av,av93331178,2024-10-26T02:35:56.350Z,"87 km NNW of Karluk, Alaska",earthquake,0.35,0.53,0.20729933606131,7.0,reviewed,av,av
+2024-10-25T16:22:05.650Z,61.296833333333,-152.30466666667,1.03,0.37,ml,12.0,117.0,0.04998,0.12,av,av93331128,2024-10-26T02:32:35.370Z,"67 km WNW of Tyonek, Alaska",earthquake,0.26,0.88,0.20852070653365,12.0,reviewed,av,av
+2024-10-25T06:57:52.016Z,36.5804,-117.0869,0.0,1.5,ml,18.0,92.26,0.17,0.1882,nn,nn00886599,2024-10-26T02:47:40.348Z,"25 km NW of Furnace Creek, California",earthquake,,0.0,0.27,8.0,reviewed,nn,nn
