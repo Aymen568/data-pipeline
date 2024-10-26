@@ -1203,3 +1203,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-26T17:11:13.401Z,60.663,-150.2901,44.4,2.1,ml,,,,0.33,ak,ak024dsfevcc,2024-10-26T17:12:38.061Z,"29 km ENE of Sterling, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-26T17:10:24.691Z,62.813,-149.5105,71.7,1.8,ml,,,,0.43,ak,ak024dsfeohx,2024-10-26T17:12:13.382Z,"50 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-26T16:51:32.060Z,18.240166666667,-66.947,16.71,2.12,md,11.0,174.0,0.1467,0.17,pr,pr71463653,2024-10-26T17:07:29.670Z,"4 km ESE of Las Marías, Puerto Rico",earthquake,0.53,1.19,0.085138872912697,5.0,reviewed,pr,pr
+2024-10-26T17:22:25.317Z,63.0855,-151.3524,0.0,1.5,ml,,,,0.54,ak,ak024dsfh94z,2024-10-26T17:24:22.840Z,"54 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
