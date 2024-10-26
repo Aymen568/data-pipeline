@@ -1163,3 +1163,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-26T12:19:36.323Z,64.8647,-147.3474,17.7,1.2,ml,,,,0.87,ak,ak024dschgtc,2024-10-26T12:21:28.697Z,"11 km NE of Badger, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-26T12:17:05.910Z,69.3213,-144.6211,0.1,2.8,ml,,,,0.73,ak,ak024dsch0mj,2024-10-26T12:28:19.981Z,"98 km SSW of Kaktovik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-26T11:48:52.820Z,19.2028,-64.5935,22.0,3.67,md,20.0,293.0,0.7882,0.3,pr,pr2024300000,2024-10-26T12:45:05.384Z,"98 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,1.12,24.46,0.2,16.0,reviewed,pr,pr
+2024-10-26T13:06:43.520Z,19.203666687012,-155.47250366211,28.510000228882,1.83000004,md,38.0,97.0,0.04899,0.100000001,hv,hv74513857,2024-10-26T13:09:06.950Z,"0 km E of Pāhala, Hawaii",earthquake,0.57,0.689999998,0.469999999,5.0,automatic,hv,hv
