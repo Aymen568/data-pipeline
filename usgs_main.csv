@@ -1187,3 +1187,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-26T15:12:25.169Z,60.9308,-150.6541,34.0,1.6,ml,,,,0.44,ak,ak024dse88r8,2024-10-26T15:13:57.980Z,"2 km ENE of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-26T14:56:22.410Z,38.795166015625,-122.80999755859,3.2799999713898,0.79,md,15.0,87.0,0.008715,0.02,nc,nc75079176,2024-10-26T14:58:00.936Z,"5 km NW of The Geysers, CA",earthquake,0.35,0.959999979,0.27,17.0,automatic,nc,nc
 2024-10-26T14:21:56.464Z,-8.4622,119.8829,181.826,4.6,mb,46.0,69.0,2.335,0.93,us,us7000nnc7,2024-10-26T15:27:06.040Z,"3 km N of Labuan Bajo, Indonesia",earthquake,8.28,6.498,0.086,41.0,reviewed,us,us
+2024-10-26T15:23:36.250Z,33.098999,-116.9375,1.36,1.67,ml,10.0,95.0,0.1442,0.34,ci,ci40965240,2024-10-26T15:41:45.380Z,"2 km ENE of San Pasqual, CA",earthquake,1.09,2.17,0.302,16.0,automatic,ci,ci
+2024-10-26T13:09:18.301Z,-15.3265,-174.7256,264.526,4.4,mb,29.0,102.0,3.178,0.44,us,us7000nnc4,2024-10-26T15:31:16.040Z,"121 km NW of Hihifo, Tonga",earthquake,10.49,8.692,0.12,20.0,reviewed,us,us
