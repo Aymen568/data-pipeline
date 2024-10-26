@@ -1204,3 +1204,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-26T17:10:24.691Z,62.813,-149.5105,71.7,1.8,ml,,,,0.43,ak,ak024dsfeohx,2024-10-26T17:12:13.382Z,"50 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-26T16:51:32.060Z,18.240166666667,-66.947,16.71,2.12,md,11.0,174.0,0.1467,0.17,pr,pr71463653,2024-10-26T17:07:29.670Z,"4 km ESE of Las Marías, Puerto Rico",earthquake,0.53,1.19,0.085138872912697,5.0,reviewed,pr,pr
 2024-10-26T17:22:25.317Z,63.0855,-151.3524,0.0,1.5,ml,,,,0.54,ak,ak024dsfh94z,2024-10-26T17:24:22.840Z,"54 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-26T17:44:05.949Z,58.1514,-155.0587,114.5,0.5,ml,,,,0.59,ak,ak024dsflxoc,2024-10-26T17:48:21.092Z,"74 km NNW of Karluk, Alaska",earthquake,,4.1,,,automatic,ak,ak
+2024-10-26T17:40:46.412Z,35.53546524,-96.75730896,3.629576206,1.6,ml,15.0,52.49755859,0.01594253257,0.2409995657,ok,ok2024vbqk,2024-10-26T17:49:48.191Z,"8 km NW of Prague, Oklahoma",earthquake,2.777282319,2.441262245,0.31,8.0,automatic,ok,ok
