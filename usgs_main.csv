@@ -1079,3 +1079,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-26T04:58:14.550Z,36.6066,-117.058,3.9,1.1,ml,22.0,219.65,0.298,0.2075,nn,nn00886796,2024-10-26T05:00:17.820Z,"25 km NW of Furnace Creek, California",earthquake,,7.3,0.32,12.0,automatic,nn,nn
 2024-10-26T04:52:07.673Z,31.671,-104.407,4.3982,2.1,ml,18.0,70.0,0.0,0.3,tx,tx2024varb,2024-10-26T05:11:51.622Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.2270350456238,0.2,14.0,automatic,tx,tx
 2024-10-25T19:47:17.790Z,42.210666666667,-124.31483333333,-0.52,1.82,ml,8.0,174.0,0.06603,0.29,uw,uw62056971,2024-10-26T05:18:44.170Z,"9 km SE of Pistol River, Oregon",explosion,0.63,31.61,0.16640667698402,2.0,reviewed,uw,uw
+2024-10-26T05:29:29.081Z,60.7675,-150.2779,44.4,1.7,ml,,,,0.46,ak,ak024ds8dk6k,2024-10-26T05:31:38.723Z,"28 km SE of Point Possession, Alaska",earthquake,,0.8,,,automatic,ak,ak
