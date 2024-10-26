@@ -1199,3 +1199,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-26T13:24:11.030Z,17.929333333333,-66.8645,18.63,1.95,md,7.0,219.0,0.04759,0.04,pr,pr71463633,2024-10-26T16:09:30.930Z,"6 km SSE of Maria Antonia, Puerto Rico",earthquake,1.11,0.47,0.17037406961,7.0,reviewed,pr,pr
 2024-10-26T16:30:38.113Z,59.9336,-145.7157,22.0,1.9,ml,,,,0.63,ak,ak024dsexk8z,2024-10-26T16:33:11.701Z,"67 km S of Cordova, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-26T16:26:28.715Z,36.6057,-117.1405,4.7,1.1,ml,21.0,249.92,0.364,0.233,nn,nn00886826,2024-10-26T16:28:32.032Z,"31 km NW of Furnace Creek, California",earthquake,,2.3,0.24,12.0,automatic,nn,nn
+2024-10-26T16:42:40.310Z,35.706665,-117.5041656,9.58,1.6,ml,26.0,78.0,0.07752,0.11,ci,ci40965272,2024-10-26T16:48:57.762Z,"11 km SW of Searles Valley, CA",earthquake,0.29,0.82,0.254,12.0,automatic,ci,ci
