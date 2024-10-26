@@ -1164,3 +1164,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-26T12:17:05.910Z,69.3213,-144.6211,0.1,2.8,ml,,,,0.73,ak,ak024dsch0mj,2024-10-26T12:28:19.981Z,"98 km SSW of Kaktovik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-26T11:48:52.820Z,19.2028,-64.5935,22.0,3.67,md,20.0,293.0,0.7882,0.3,pr,pr2024300000,2024-10-26T12:45:05.384Z,"98 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,1.12,24.46,0.2,16.0,reviewed,pr,pr
 2024-10-26T13:06:43.520Z,19.203666687012,-155.47250366211,28.510000228882,1.83000004,md,38.0,97.0,0.04899,0.100000001,hv,hv74513857,2024-10-26T13:09:06.950Z,"0 km E of Pāhala, Hawaii",earthquake,0.57,0.689999998,0.469999999,5.0,automatic,hv,hv
+2024-10-26T13:27:26.667Z,63.8426,-149.0326,121.9,1.7,ml,,,,0.15,ak,ak024dsd4lei,2024-10-26T13:29:38.216Z,"3 km WSW of Healy, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-10-26T12:56:21.744Z,-7.0352,129.1733,185.31,4.6,mb,49.0,79.0,2.6,0.59,us,us7000nnbu,2024-10-26T13:19:45.040Z,"290 km NE of Lospalos, Timor Leste",earthquake,7.59,7.439,0.079,47.0,reviewed,us,us
+2024-10-26T11:37:35.980Z,19.3396,-68.834,18.0,3.55,md,8.0,222.0,0.3577,0.46,pr,pr2024300001,2024-10-26T13:19:57.280Z,"45 km NNE of Miches, Dominican Republic",earthquake,4.15,3.91,0.16,7.0,reviewed,pr,pr
+2024-10-25T20:07:48.580Z,49.959,-114.82033333333,-2.0,2.54,ml,16.0,180.0,0.4698,0.33,mb,mb90064558,2024-10-26T13:30:15.790Z,"11 km SSE of Elkford, Canada",quarry blast,1.85,31.61,0.097422714752689,13.0,reviewed,mb,mb
