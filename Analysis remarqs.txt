@@ -482,4 +482,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.79 and occurred in/near 13 km NNE of Yountville, CA on 10/26/2024 at 10:06 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 1142 recorded earthquakes.
 The most recent earthquake had a magnitude of 2.02 and occurred in/near 24 km ESE of Ridgecrest, CA on 10/26/2024 at 10:30 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 1144 recorded earthquakes.
+The most recent earthquake had a magnitude of 2.31999993 and occurred in/near 5 km SSW of Pāhala, Hawaii on 10/26/2024 at 10:35 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n
