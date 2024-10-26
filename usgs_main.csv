@@ -1091,3 +1091,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-26T06:12:30.165Z,61.8499,-148.7242,13.0,1.7,ml,,,,0.33,ak,ak024ds8vcp4,2024-10-26T06:13:58.326Z,"8 km NNE of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-26T06:09:05.100Z,38.585666656494,-122.75433349609,6.1300001144409,1.59,md,23.0,76.0,0.04141,0.07,nc,nc75078946,2024-10-26T06:27:15.413Z,"7 km ENE of Windsor, CA",earthquake,0.21,0.600000024,0.14,19.0,automatic,nc,nc
 2024-10-26T03:39:26.840Z,37.416666666667,-118.49433333333,11.22,1.48,md,23.0,150.0,0.1373,0.07,nc,nc75078916,2024-10-26T06:21:52.397Z,"7 km NNW of West Bishop, CA",earthquake,0.36,1.31,0.152,20.0,reviewed,nc,nc
+2024-10-26T06:29:15.824Z,37.2961,-104.5084,8.61,3.4,ml,11.0,64.0,0.175,0.43,us,us7000nnab,2024-10-26T06:46:24.720Z,"8 km NNW of El Moro, Colorado",earthquake,2.46,7.564,0.056,42.0,reviewed,us,us
