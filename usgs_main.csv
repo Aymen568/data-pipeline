@@ -1030,3 +1030,17 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-25T15:15:00.490Z,60.0365,-153.08983333333,-0.15,-0.4,ml,5.0,106.0,0.02472,0.1,av,av93331043,2024-10-26T00:38:53.410Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.3,1.64,0.32546858987598,5.0,reviewed,av,av
 2024-10-25T14:47:53.980Z,61.323833333333,-152.3,2.7,-0.59,ml,6.0,214.0,0.07373,0.1,av,av93025209,2024-10-26T00:23:44.620Z,"68 km WNW of Beluga, Alaska",earthquake,0.52,1.54,0.1719666194718,7.0,reviewed,av,av
 2024-10-25T08:57:00.180Z,19.22,-155.46916666667,27.82,1.38,md,11.0,206.0,0.03988,0.1,hv,hv74512137,2024-10-26T00:12:59.850Z,"2 km NNE of Pāhala, Hawaii",earthquake,0.9,0.96,0.030026630210641,6.0,reviewed,hv,hv
+2024-10-26T02:22:07.188Z,62.3453,-148.8678,35.1,2.0,ml,,,,0.38,ak,ak024ds6jpny,2024-10-26T02:24:00.403Z,"55 km ENE of Susitna North, Alaska",earthquake,,4.3,,,automatic,ak,ak
+2024-10-26T02:14:49.300Z,34.0408333,-116.7288333,10.95,1.13,ml,55.0,51.0,0.0658,0.15,ci,ci40964944,2024-10-26T02:20:57.770Z,"14 km W of Morongo Valley, CA",earthquake,0.13,0.37,0.123,27.0,automatic,ci,ci
+2024-10-26T02:09:11.177Z,37.4809,-114.517,0.0,1.9,ml,23.0,208.26,0.431,0.4639,nn,nn00886779,2024-10-26T02:11:57.897Z,"14 km S of Caliente, Nevada",earthquake,,3.7,0.3,17.0,automatic,nn,nn
+2024-10-26T02:05:02.787Z,31.472,-103.584,5.0173,1.6,ml,9.0,143.0,0.1,0.6,tx,tx2024valo,2024-10-26T02:13:41.781Z,"10 km WNW of Pecos, Texas",earthquake,0.0,4.3552474975586,0.2,7.0,automatic,tx,tx
+2024-10-26T02:01:58.723Z,36.5854,-117.1163,9.8,1.2,ml,21.0,226.02,0.343,0.3675,nn,nn00886778,2024-10-26T02:04:16.598Z,"28 km WNW of Furnace Creek, California",earthquake,,1.2,0.23,13.0,automatic,nn,nn
+2024-10-26T01:57:14.935Z,62.9999,-150.2309,118.9,1.6,ml,,,,0.72,ak,ak024ds65sos,2024-10-26T02:05:35.516Z,"61 km N of Chase, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2024-10-26T01:31:23.942Z,61.7273,-146.3546,27.0,1.7,ml,,,,0.88,ak,ak024ds608sq,2024-10-26T01:32:52.664Z,"36 km SE of Nelchina, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-26T01:30:05.340Z,36.2136667,-118.0101667,2.45,1.15,ml,24.0,54.0,0.1581,0.2,ci,ci40964920,2024-10-26T01:35:55.893Z,"8 km S of Olancha, CA",earthquake,0.28,0.94,0.221,15.0,automatic,ci,ci
+2024-10-26T01:25:23.969Z,36.5532,-117.1262,2.1,0.9,ml,17.0,271.64,0.35,0.2548,nn,nn00886777,2024-10-26T01:27:35.209Z,"27 km WNW of Furnace Creek, California",earthquake,,9.8,0.51,8.0,automatic,nn,nn
+2024-10-26T01:21:57.493Z,12.6102,-88.2041,57.083,4.8,mb,50.0,150.0,0.861,0.9,us,us7000nn9u,2024-10-26T01:44:07.703Z,"66 km SSW of Intipucá, El Salvador",earthquake,5.48,8.153,0.029,367.0,reviewed,us,us
+2024-10-26T01:18:21.210Z,32.7101667,-115.3981667,12.88,2.21,ml,32.0,67.0,0.08763,0.3,ci,ci40964912,2024-10-26T01:25:02.829Z,"9 km NE of Mexicali, B.C., MX",earthquake,0.38,0.91,0.155,22.0,automatic,ci,ci
+2024-10-26T01:17:23.720Z,32.7126656,-115.4036636,15.77,2.99,ml,58.0,34.0,0.08793,0.34,ci,ci40964904,2024-10-26T02:22:14.669Z,"9 km NE of Mexicali, B.C., MX",earthquake,0.34,0.54,0.265,22.0,automatic,ci,ci
+2024-10-26T01:14:58.858Z,62.1304,-147.5976,31.4,1.9,ml,,,,0.59,ak,ak024ds5wobh,2024-10-26T01:16:36.123Z,"31 km NW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-26T01:13:43.120Z,32.71,-115.3981667,12.41,1.85,ml,29.0,64.0,0.08748,0.21,ci,ci40964896,2024-10-26T01:24:44.050Z,"9 km NE of Mexicali, B.C., MX",earthquake,0.25,0.82,0.167,27.0,automatic,ci,ci
