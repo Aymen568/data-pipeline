@@ -1236,3 +1236,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-26T20:24:29.950Z,33.9891663,-117.1565018,14.15,1.73,ml,74.0,27.0,0.04382,0.17,ci,ci40965376,2024-10-26T20:27:01.138Z,"8 km SSE of Redlands, CA",earthquake,0.2,0.42,0.272,27.0,automatic,ci,ci
 2024-10-26T20:11:03.160Z,39.5663,-119.9858,3.0,1.2,ml,10.0,112.48,0.045,0.079,nn,nn00886845,2024-10-26T20:12:52.223Z,"5 km NNE of Verdi, California",earthquake,,0.6,0.1,4.0,automatic,nn,nn
 2024-10-26T20:10:59.589Z,64.0951,-150.1489,0.0,1.6,ml,,,,0.68,ak,ak024dsh7206,2024-10-26T20:13:00.378Z,"50 km WSW of Clear, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-26T20:36:24.896Z,63.961,-152.8882,0.0,1.8,ml,,,,0.99,ak,ak024dshcjy1,2024-10-26T20:38:24.623Z,"29 km WNW of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-26T20:30:54.080Z,35.720664978027,-120.25299835205,10.920000076294,1.35,md,5.0,113.0,0.01029,0.02,nc,nc75079321,2024-10-26T20:32:32.806Z,"4 km ESE of Cholame, CA",earthquake,0.96,1.36000001,0.14,4.0,automatic,nc,nc
