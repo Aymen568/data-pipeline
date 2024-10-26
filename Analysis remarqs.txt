@@ -476,4 +476,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 3.89 and occurred in/near 95 km WNW of Petrolia, CA on 10/26/2024 at 09:23 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 1126 recorded earthquakes.
 The most recent earthquake had a magnitude of 3.46 and occurred in/near 113 km WNW of Petrolia, CA on 10/26/2024 at 09:34 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 1129 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.6 and occurred in/near 18 km NNE of Moose Pass, Alaska on 10/26/2024 at 09:46 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n
