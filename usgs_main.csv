@@ -1197,3 +1197,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-26T15:52:03.526Z,2.1685,121.7549,557.563,4.6,mb,39.0,79.0,1.432,1.01,us,us7000nnck,2024-10-26T16:13:23.040Z,"231 km NW of Gorontalo, Indonesia",earthquake,12.99,9.202,0.097,32.0,reviewed,us,us
 2024-10-26T15:48:57.410Z,32.9798333,-116.319,8.42,0.87,ml,31.0,52.0,0.07744,0.18,ci,ci40965248,2024-10-26T15:54:51.802Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.22,0.67,0.165,17.0,automatic,ci,ci
 2024-10-26T13:24:11.030Z,17.929333333333,-66.8645,18.63,1.95,md,7.0,219.0,0.04759,0.04,pr,pr71463633,2024-10-26T16:09:30.930Z,"6 km SSE of Maria Antonia, Puerto Rico",earthquake,1.11,0.47,0.17037406961,7.0,reviewed,pr,pr
+2024-10-26T16:30:38.113Z,59.9336,-145.7157,22.0,1.9,ml,,,,0.63,ak,ak024dsexk8z,2024-10-26T16:33:11.701Z,"67 km S of Cordova, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-26T16:26:28.715Z,36.6057,-117.1405,4.7,1.1,ml,21.0,249.92,0.364,0.233,nn,nn00886826,2024-10-26T16:28:32.032Z,"31 km NW of Furnace Creek, California",earthquake,,2.3,0.24,12.0,automatic,nn,nn
