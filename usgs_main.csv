@@ -1420,3 +1420,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-27T15:42:52.351Z,61.847,-151.099,101.4,1.7,ml,,,,0.86,ak,ak024du1y2tv,2024-10-27T15:45:39.305Z,"22 km SE of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-10-27T14:50:06.510Z,19.7723,-66.6826,30.0,3.64,md,9.0,257.0,1.4274,0.29,pr,pr2024301000,2024-10-27T15:51:29.683Z,"143 km N of Hatillo, Puerto Rico",earthquake,1.49,22.64,0.06,6.0,reviewed,pr,pr
 2024-10-27T15:59:12.070Z,38.786499023438,-122.74683380127,2.2000000476837,0.91,md,12.0,82.0,0.008546,0.02,nc,nc75079716,2024-10-27T16:00:47.179Z,"1 km NE of The Geysers, CA",earthquake,0.29,0.600000024,0.21,12.0,automatic,nc,nc
+2024-10-27T16:24:11.990Z,38.838333129883,-122.7808303833,1.6699999570847,0.69,md,7.0,130.0,0.005491,0.01,nc,nc75079721,2024-10-27T16:25:47.382Z,"5 km WNW of Cobb, CA",earthquake,0.64,0.389999986,0.1,7.0,automatic,nc,nc
+2024-10-27T16:22:51.076Z,63.0756,-151.3998,0.5,1.5,ml,,,,0.63,ak,ak024du2f80d,2024-10-27T16:25:07.820Z,"54 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-27T15:56:21.504Z,5.7602,126.6937,10.286,4.6,mb,28.0,185.0,1.709,0.91,us,us7000nnhw,2024-10-27T16:33:29.040Z,"87 km SE of Pondaguitan, Philippines",earthquake,10.31,5.735,0.129,21.0,reviewed,us,us
+2024-10-27T15:53:18.508Z,-0.9813,-80.6206,30.105,3.2,ml,8.0,283.0,1.823,0.64,us,us7000nnhv,2024-10-27T16:25:54.040Z,"8 km NNE of Montecristi, Ecuador",earthquake,11.85,18.409,0.091,16.0,reviewed,us,us
