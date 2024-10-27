@@ -1331,3 +1331,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-27T06:23:40.235Z,61.5877,-151.7549,91.2,1.9,ml,,,,0.42,ak,ak024dtwh2uf,2024-10-27T06:25:36.874Z,"48 km SSW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-10-27T06:14:41.767Z,58.8345,-154.4385,126.9,2.5,ml,,,,0.48,ak,ak024dtwf5j9,2024-10-27T06:16:28.532Z,"70 km SSE of Kokhanok, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-27T05:41:31.670Z,18.406833333333,-66.2175,66.05,2.96,md,14.0,192.0,0.16,0.23,pr,pr71463768,2024-10-27T06:00:21.990Z,"0 km WNW of Candelaria, Puerto Rico",earthquake,1.49,1.01,0.11094288780278,13.0,reviewed,pr,pr
+2024-10-27T06:39:48.750Z,40.238998413086,-121.15299987793,8.3400001525879,1.79,md,7.0,162.0,0.2379,0.05,nc,nc75079506,2024-10-27T06:41:29.029Z,"3 km NE of Almanor, CA",earthquake,0.96,4.96999979,0.1,8.0,automatic,nc,nc
