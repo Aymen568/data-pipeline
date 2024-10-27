@@ -708,4 +708,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 2.3 and occurred in/near 52 km W of Mentone, Texas on 10/27/2024 at 06:48 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 1448 recorded earthquakes.
 The most recent earthquake had a magnitude of 0.98 and occurred in/near 15 km N of Borrego Springs, CA on 10/27/2024 at 07:24 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 1451 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.92999995 and occurred in/near 9 km NE of Pāhala, Hawaii on 10/27/2024 at 07:37 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n
