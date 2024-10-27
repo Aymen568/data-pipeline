@@ -1417,3 +1417,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-27T15:20:31.080Z,33.735,-116.6935,14.83,1.19,ml,62.0,24.0,0.02148,0.14,ci,ci40965784,2024-10-27T15:26:59.517Z,"2 km ESE of Idyllwild, CA",earthquake,0.13,0.23,0.2,25.0,automatic,ci,ci
 2024-10-27T01:03:31.420Z,35.523666666667,-84.5035,15.36,2.07,md,15.0,80.0,0.07504,0.07,se,se60593141,2024-10-27T15:29:17.400Z,"3 km ENE of Niota, Tennessee",earthquake,0.27,0.68,0.060425484188149,12.0,reviewed,se,se
 2024-10-27T01:04:00.250Z,35.522666666667,-84.498833333333,14.77,1.68,md,4.0,151.0,0.07493,0.04,se,se60502653,2024-10-27T15:35:13.470Z,"4 km ENE of Niota, Tennessee",earthquake,0.51,0.87,0.042120545400383,3.0,reviewed,se,se
+2024-10-27T15:42:52.351Z,61.847,-151.099,101.4,1.7,ml,,,,0.86,ak,ak024du1y2tv,2024-10-27T15:45:39.305Z,"22 km SE of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-10-27T14:50:06.510Z,19.7723,-66.6826,30.0,3.64,md,9.0,257.0,1.4274,0.29,pr,pr2024301000,2024-10-27T15:51:29.683Z,"143 km N of Hatillo, Puerto Rico",earthquake,1.49,22.64,0.06,6.0,reviewed,pr,pr
