@@ -1335,3 +1335,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-27T07:02:34.873Z,62.1911,-151.2144,71.1,1.8,ml,,,,0.18,ak,ak024dtwxzzz,2024-10-27T07:03:58.270Z,"24 km NNE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-10-27T07:01:05.700Z,38.832332611084,-122.7996673584,2.0299999713898,1.09,md,16.0,46.0,0.009478,0.01,nc,nc75079511,2024-10-27T07:17:19.049Z,"7 km WNW of Cobb, CA",earthquake,0.25,0.620000005,0.12,17.0,automatic,nc,nc
 2024-10-27T06:19:12.768Z,23.4128,120.4172,10.0,4.3,mwr,37.0,99.0,0.225,1.14,us,us7000nnfp,2024-10-27T07:07:36.040Z,"8 km SSW of Pizitou, Taiwan",earthquake,3.74,1.873,0.068,21.0,reviewed,us,us
+2024-10-27T07:30:42.560Z,19.177333831787,-155.49783325195,31.200000762939,1.84000003,md,34.0,97.0,0.04019,0.119999997,hv,hv74514867,2024-10-27T07:32:15.320Z,"3 km SW of Pāhala, Hawaii",earthquake,0.59,0.709999979,0.140000001,4.0,automatic,hv,hv
+2024-10-27T07:26:50.204Z,37.3011,-116.7289,2.1,0.2,ml,10.0,196.2,0.312,0.1763,nn,nn00886883,2024-10-27T07:28:56.156Z,"43 km N of Beatty, Nevada",earthquake,,13.2,0.67,6.0,automatic,nn,nn
+2024-10-27T06:56:54.934Z,23.4181,120.447,10.0,4.2,mwr,31.0,97.0,0.205,1.29,us,us7000nnfr,2024-10-27T07:23:38.040Z,"7 km S of Pizitou, Taiwan",earthquake,4.24,1.881,0.073,18.0,reviewed,us,us
