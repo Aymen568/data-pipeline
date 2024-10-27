@@ -1376,3 +1376,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-27T10:22:22.814Z,36.6136,-117.0904,9.4,1.0,ml,21.0,263.37,0.325,0.1546,nn,nn00886893,2024-10-27T10:24:29.108Z,"28 km NW of Furnace Creek, California",earthquake,,2.0,0.46,11.0,automatic,nn,nn
 2024-10-27T10:15:51.408Z,62.9668,-148.7237,64.1,1.9,ml,,,,0.69,ak,ak024dtyt4ec,2024-10-27T10:17:27.443Z,"48 km SSE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-27T10:34:30.892Z,61.4087,-151.3031,96.8,1.7,ml,,,,0.86,ak,ak024dtyx5f5,2024-10-27T10:37:08.058Z,"32 km NNW of Beluga, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-10-27T10:21:45.232Z,23.9745,121.6705,29.378,5.1,mb,60.0,69.0,0.21,1.2,us,us7000nngq,2024-10-27T10:54:07.390Z,"6 km E of Hualien City, Taiwan",earthquake,4.3,4.161,0.065,78.0,reviewed,us,us
