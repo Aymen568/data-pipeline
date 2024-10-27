@@ -1482,3 +1482,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-27T23:34:43.640Z,63.0074,-150.7227,108.3,1.9,ml,,,,0.47,ak,ak024du6nt9o,2024-10-27T23:36:50.442Z,"56 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-10-27T23:31:57.189Z,63.0901,-151.3517,0.0,2.0,ml,,,,0.56,ak,ak024du6n75y,2024-10-27T23:33:43.945Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-27T23:30:38.304Z,63.1181,-151.3541,2.2,2.2,ml,,,,0.76,ak,ak024du6mxzq,2024-10-27T23:32:46.895Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-27T23:47:39.817Z,58.5403,-153.5815,69.5,1.6,ml,,,,0.18,ak,ak024du6qla5,2024-10-27T23:49:54.157Z,"66 km NW of Aleneva, Alaska",earthquake,,1.6,,,automatic,ak,ak
