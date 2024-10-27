@@ -1436,3 +1436,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-27T17:36:12.000Z,19.378833770752,-155.24032592773,1.0599999427795,1.85,ml,29.0,70.0,0.005245,0.189999998,hv,hv74515327,2024-10-27T17:39:04.660Z,"7 km S of Volcano, Hawaii",earthquake,0.24,0.189999998,0.25,12.0,automatic,hv,hv
 2024-10-27T17:33:44.429Z,62.5483,-149.2789,43.8,1.6,ml,,,,0.51,ak,ak024du32zze,2024-10-27T17:35:32.627Z,"43 km ENE of Chase, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-10-27T17:24:21.608Z,61.2574,-152.2662,0.1,0.8,ml,,,,1.24,ak,ak024du30zp8,2024-10-27T17:29:04.186Z,"64 km WNW of Tyonek, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-10-27T18:10:50.190Z,32.9788322,-116.3154984,8.93,1.2,ml,29.0,52.0,0.02623,0.2,ci,ci40965808,2024-10-27T18:13:03.450Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.43,0.78,0.284,7.0,automatic,ci,ci
