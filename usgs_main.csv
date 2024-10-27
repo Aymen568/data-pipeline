@@ -1395,3 +1395,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-27T13:05:46.770Z,33.483,-116.463,12.37,0.71,ml,52.0,59.0,0.09353,0.17,ci,ci40965728,2024-10-27T13:11:44.670Z,"21 km ESE of Anza, CA",earthquake,0.18,0.37,0.111,19.0,automatic,ci,ci
 2024-10-27T12:59:08.290Z,33.5746667,-116.6375,14.79,0.48,ml,26.0,50.0,0.009858,0.15,ci,ci40965720,2024-10-27T13:05:10.694Z,"4 km ENE of Anza, CA",earthquake,0.22,0.38,0.071,10.0,automatic,ci,ci
 2024-10-27T12:50:17.339Z,36.5497,-117.1859,3.6,1.2,ml,15.0,278.43,0.398,0.2397,nn,nn00886900,2024-10-27T12:52:28.932Z,"31 km WNW of Furnace Creek, California",earthquake,,17.4,0.38,9.0,automatic,nn,nn
+2024-10-27T13:16:05.581Z,64.434,-147.9402,13.8,1.1,ml,,,,0.6,ak,ak024du0lfmk,2024-10-27T13:18:03.575Z,"42 km S of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
