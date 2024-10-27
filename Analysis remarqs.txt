@@ -676,4 +676,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 2.1 and occurred in/near 1 km SE of Diamond Ridge, Alaska on 10/27/2024 at 02:51 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 1413 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.2 and occurred in/near 37 km WNW of Furnace Creek, California on 10/27/2024 at 03:11 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 1417 recorded earthquakes.
+The most recent earthquake had a magnitude of 0.74 and occurred in/near 2 km NNE of The Geysers, CA on 10/27/2024 at 03:26 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n

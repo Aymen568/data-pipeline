@@ -1412,3 +1412,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-27T14:51:15.208Z,59.6661,-151.5426,176.6,2.1,ml,,,,0.76,ak,ak024du1ehsw,2024-10-27T14:53:33.333Z,"1 km SE of Diamond Ridge, Alaska",earthquake,,3.8,,,automatic,ak,ak
 2024-10-27T14:43:42.850Z,33.9455,-118.3581667,11.77,1.44,ml,26.0,74.0,0.04501,0.17,ci,ci40965768,2024-10-27T14:50:10.690Z,"1 km NNW of Lennox, CA",earthquake,0.32,0.38,0.18,32.0,automatic,ci,ci
 2024-10-27T15:11:44.975Z,36.548,-117.2542,1.0,1.2,ml,15.0,285.5,0.453,0.3265,nn,nn00886907,2024-10-27T15:14:00.310Z,"37 km WNW of Furnace Creek, California",earthquake,,33.4,0.32,12.0,automatic,nn,nn
+2024-10-27T15:26:38.120Z,38.797164916992,-122.75566864014,1.7799999713898,0.74,md,11.0,91.0,0.004682,0.02,nc,nc75079706,2024-10-27T15:28:16.939Z,"2 km NNE of The Geysers, CA",earthquake,0.27,0.870000005,0.36,11.0,automatic,nc,nc
+2024-10-27T15:26:11.700Z,36.669666290283,-121.36450195312,9.1199998855591,1.82,md,31.0,63.0,,0.14,nc,nc75079701,2024-10-27T15:29:09.690Z,"14 km SSW of Tres Pinos, CA",earthquake,0.32,0.689999998,0.18,27.0,automatic,nc,nc
+2024-10-27T15:20:31.080Z,33.735,-116.6935,14.83,1.19,ml,62.0,24.0,0.02148,0.14,ci,ci40965784,2024-10-27T15:26:59.517Z,"2 km ESE of Idyllwild, CA",earthquake,0.13,0.23,0.2,25.0,automatic,ci,ci
+2024-10-27T01:03:31.420Z,35.523666666667,-84.5035,15.36,2.07,md,15.0,80.0,0.07504,0.07,se,se60593141,2024-10-27T15:29:17.400Z,"3 km ENE of Niota, Tennessee",earthquake,0.27,0.68,0.060425484188149,12.0,reviewed,se,se
