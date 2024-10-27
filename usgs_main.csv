@@ -1466,3 +1466,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-27T21:00:51.672Z,31.652,-104.369,4.3396,2.1,ml,18.0,71.0,0.1,0.3,tx,tx2024vdsn,2024-10-27T21:18:19.040Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.2982923984528,0.2,13.0,automatic,tx,tx
 2024-10-27T20:58:18.623Z,-1.9776,137.452,23.808,4.7,mww,25.0,71.0,3.292,0.8,us,us7000nniq,2024-10-27T21:18:51.040Z,"176 km ESE of Biak, Indonesia",earthquake,9.51,5.259,0.089,12.0,reviewed,us,us
 2024-10-27T20:33:46.280Z,19.171,-64.5865,25.36,3.32,md,15.0,298.0,0.7475,0.23,pr,pr71463828,2024-10-27T21:22:20.210Z,"95 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,1.74,18.24,0.089690364945139,14.0,reviewed,pr,pr
+2024-10-27T21:37:29.850Z,33.4690018,-116.4778366,14.06,1.01,ml,22.0,67.0,0.09881,0.14,ci,ci40965872,2024-10-27T21:39:51.098Z,"20 km ESE of Anza, CA",earthquake,0.34,1.06,0.2,3.0,automatic,ci,ci
+2024-10-27T21:16:14.227Z,-22.0233,-68.6679,130.716,4.7,mb,43.0,62.0,0.579,1.14,us,us7000nnit,2024-10-27T21:34:12.040Z,"54 km NNE of Calama, Chile",earthquake,6.2,5.242,0.1,30.0,reviewed,us,us
