@@ -1396,3 +1396,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-27T12:59:08.290Z,33.5746667,-116.6375,14.79,0.48,ml,26.0,50.0,0.009858,0.15,ci,ci40965720,2024-10-27T13:05:10.694Z,"4 km ENE of Anza, CA",earthquake,0.22,0.38,0.071,10.0,automatic,ci,ci
 2024-10-27T12:50:17.339Z,36.5497,-117.1859,3.6,1.2,ml,15.0,278.43,0.398,0.2397,nn,nn00886900,2024-10-27T12:52:28.932Z,"31 km WNW of Furnace Creek, California",earthquake,,17.4,0.38,9.0,automatic,nn,nn
 2024-10-27T13:16:05.581Z,64.434,-147.9402,13.8,1.1,ml,,,,0.6,ak,ak024du0lfmk,2024-10-27T13:18:03.575Z,"42 km S of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-27T13:35:04.143Z,61.1766,-149.8,37.5,1.6,ml,,,,0.6,ak,ak024du0plvy,2024-10-27T13:36:52.868Z,"7 km SE of Anchorage, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-27T13:23:02.590Z,17.941166666667,-66.850833333333,12.73,2.32,md,5.0,217.0,0.04322,0.13,pr,pr71463803,2024-10-27T13:37:30.670Z,"5 km SE of Maria Antonia, Puerto Rico",earthquake,1.26,0.54,0.063273295014935,4.0,reviewed,pr,pr
+2024-10-27T13:17:27.620Z,17.929333333333,-66.848166666667,13.0,2.46,md,10.0,186.0,0.05425,0.19,pr,pr71463798,2024-10-27T13:33:14.090Z,"6 km SE of Maria Antonia, Puerto Rico",earthquake,0.84,0.43,0.017015844220204,4.0,reviewed,pr,pr
