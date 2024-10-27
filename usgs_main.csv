@@ -1392,3 +1392,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-27T12:34:59.990Z,56.8858,-155.8311,18.3,2.3,ml,,,,0.54,ak,ak024du042vj,2024-10-27T12:36:32.562Z,"101 km W of Akhiok, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-10-27T12:33:02.483Z,60.7799,-147.3013,21.6,1.3,ml,,,,0.17,ak,ak024du03qq0,2024-10-27T12:34:25.094Z,"35 km WSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-27T12:32:54.250Z,19.171667098999,-155.4538269043,32.069999694824,1.80999994,md,41.0,206.0,0.01797,0.129999995,hv,hv74515102,2024-10-27T12:34:39.210Z,"4 km SE of Pāhala, Hawaii",earthquake,0.62,0.689999998,0.150000006,4.0,automatic,hv,hv
+2024-10-27T13:05:46.770Z,33.483,-116.463,12.37,0.71,ml,52.0,59.0,0.09353,0.17,ci,ci40965728,2024-10-27T13:11:44.670Z,"21 km ESE of Anza, CA",earthquake,0.18,0.37,0.111,19.0,automatic,ci,ci
+2024-10-27T12:59:08.290Z,33.5746667,-116.6375,14.79,0.48,ml,26.0,50.0,0.009858,0.15,ci,ci40965720,2024-10-27T13:05:10.694Z,"4 km ENE of Anza, CA",earthquake,0.22,0.38,0.071,10.0,automatic,ci,ci
+2024-10-27T12:50:17.339Z,36.5497,-117.1859,3.6,1.2,ml,15.0,278.43,0.398,0.2397,nn,nn00886900,2024-10-27T12:52:28.932Z,"31 km WNW of Furnace Creek, California",earthquake,,17.4,0.38,9.0,automatic,nn,nn
