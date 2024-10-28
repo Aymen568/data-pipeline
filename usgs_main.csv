@@ -1583,3 +1583,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-28T09:05:51.210Z,17.912166666667,-66.774833333333,6.7,2.6,md,5.0,234.0,0.1174,0.09,pr,pr71463963,2024-10-28T09:18:45.810Z,"10 km SSE of Indios, Puerto Rico",earthquake,0.72,0.43,0.029271394611042,5.0,reviewed,pr,pr
 2024-10-28T09:02:26.695Z,31.617,-104.396,4.0448,1.6,ml,17.0,88.0,0.0,0.2,tx,tx2024veqi,2024-10-28T09:17:38.603Z,"61 km S of Whites City, New Mexico",earthquake,0.0,1.566988825798,0.1,13.0,automatic,tx,tx
 2024-10-28T08:49:59.280Z,19.269666666667,-64.7695,24.86,3.39,md,13.0,285.0,0.8567,0.3,pr,pr71463953,2024-10-28T09:09:08.760Z,"103 km N of Cruz Bay, U.S. Virgin Islands",earthquake,1.55,24.06,0.064411785578811,9.0,reviewed,pr,pr
+2024-10-28T09:38:14.074Z,61.408,-150.6908,35.8,1.5,ml,,,,0.27,ak,ak024dvlvvvj,2024-10-28T09:39:54.450Z,"17 km SSW of Susitna, Alaska",earthquake,,5.4,,,automatic,ak,ak
+2024-10-28T09:26:54.620Z,32.9778328,-118.0165024,12.03,2.04,ml,24.0,218.0,0.539,0.34,ci,ci40966040,2024-10-28T09:29:09.074Z,"35 km ENE of San Clemente Is. (SE tip), CA",earthquake,1.27,3.12,0.12,18.0,automatic,ci,ci
+2024-10-28T09:25:40.076Z,61.3925,-150.0746,33.0,2.4,ml,,,,0.29,ak,ak024dvlt5kn,2024-10-28T09:27:08.064Z,"6 km NW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
