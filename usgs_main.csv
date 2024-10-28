@@ -1628,3 +1628,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-28T14:26:40.350Z,61.2855,-152.3011,14.0,0.4,ml,,,,0.38,ak,ak024dvosjei,2024-10-28T14:28:53.468Z,"67 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-28T14:19:24.744Z,64.4832,-146.9355,4.6,1.1,ml,,,,0.41,ak,ak024dvor04a,2024-10-28T14:24:00.130Z,"4 km SSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-27T16:55:08.109Z,34.996,-97.83033333,7.59,0.64,ml,41.0,66.0,0.05758869913,0.25,ok,ok2024vdkk,2024-10-28T14:40:23.414Z,"10 km ENE of Ninnekah, Oklahoma",earthquake,,0.9,0.27,16.0,reviewed,ok,ok
+2024-10-28T14:41:03.160Z,39.201999664307,-120.39866638184,4.6500000953674,1.37,md,4.0,194.0,0.1613,0.05,nc,nc75080091,2024-10-28T14:42:39.318Z,"21 km WNW of Sunnyside-Tahoe City, CA",earthquake,1.11,7.15999985,0.14,4.0,automatic,nc,nc
