@@ -1615,3 +1615,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-28T12:59:17.880Z,38.826831817627,-122.85733032227,2.1400001049042,1.53,md,29.0,75.0,0.0007967,0.02,nc,nc75080076,2024-10-28T13:17:17.895Z,"10 km NW of The Geysers, CA",earthquake,0.2,0.319999993,0.14,31.0,automatic,nc,nc
 2024-10-28T11:05:57.099Z,31.604,-103.959,8.9325,2.2,ml,23.0,55.0,0.0,0.1,tx,tx2024veuk,2024-10-28T13:17:50.104Z,"35 km NNW of Toyah, Texas",earthquake,0.33480446124575,0.35011395535534,0.2,59.0,reviewed,tx,tx
 2024-10-27T23:16:29.500Z,35.047333333333,-85.07,6.49,2.02,md,14.0,62.0,0.1467,0.35,se,se60502658,2024-10-28T13:06:38.950Z,"1 km WSW of Collegedale, Tennessee",earthquake,0.65,5.38,0.10021858863026,11.0,reviewed,se,se
+2024-10-28T13:36:18.041Z,63.028,-150.6115,103.9,1.4,ml,,,,0.15,ak,ak024dvo9764,2024-10-28T13:38:20.537Z,"59 km N of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-10-28T10:24:25.460Z,55.0564,-160.6445,9.284,3.7,ml,37.0,187.0,0.309,0.73,us,us7000nnm0,2024-10-28T13:38:19.040Z,"32 km SSW of Sand Point, Alaska",earthquake,4.46,7.104,0.066,30.0,reviewed,us,us
+2024-10-28T03:32:58.270Z,32.782,-100.58,4.2236,2.2,ml,25.0,68.0,0.0,0.1,tx,tx2024vefl,2024-10-28T13:38:20.464Z,"13 km SW of Rotan, Texas",earthquake,0.82946205723471,0.83170495238217,0.1,36.0,reviewed,tx,tx
+2024-10-27T17:53:48.740Z,34.7085,-97.49116667,6.0,1.26,ml,64.0,58.0,0.1223759857,0.3,ok,ok2024vdmi,2024-10-28T13:35:29.319Z,"10 km N of Foster, Oklahoma",earthquake,,0.7,0.28,22.0,reviewed,ok,ok
