@@ -1483,3 +1483,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-27T23:31:57.189Z,63.0901,-151.3517,0.0,2.0,ml,,,,0.56,ak,ak024du6n75y,2024-10-27T23:33:43.945Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-27T23:30:38.304Z,63.1181,-151.3541,2.2,2.2,ml,,,,0.76,ak,ak024du6mxzq,2024-10-27T23:32:46.895Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-27T23:47:39.817Z,58.5403,-153.5815,69.5,1.6,ml,,,,0.18,ak,ak024du6qla5,2024-10-27T23:49:54.157Z,"66 km NW of Aleneva, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2024-10-28T01:00:55.428Z,59.9373,-151.7828,75.6,1.6,ml,,,,0.37,ak,ak024dvgwd0m,2024-10-28T01:02:47.931Z,"3 km WSW of Happy Valley, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-10-28T00:21:58.339Z,62.0173,-150.5731,22.8,1.4,ml,,,,0.29,ak,ak024dvgffo9,2024-10-28T00:23:32.143Z,"37 km SSW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-28T00:20:59.830Z,38.791667938232,-122.77799987793,1.710000038147,1.32,md,28.0,80.0,0.007896,0.03,nc,nc75079911,2024-10-28T00:37:17.467Z,"2 km NW of The Geysers, CA",earthquake,0.22,0.340000004,0.25,27.0,automatic,nc,nc
+2024-10-28T00:16:04.023Z,36.7006,-116.1694,4.0,-0.1,ml,11.0,99.09,0.014,0.2107,nn,nn00886919,2024-10-28T00:17:42.643Z,"46 km WNW of Indian Springs, Nevada",earthquake,,0.3,0.38,6.0,automatic,nn,nn
+2024-10-28T00:14:44.985Z,4.9065,-82.6777,10.0,4.9,mww,43.0,152.0,3.539,1.03,us,us7000nnja,2024-10-28T00:29:08.040Z,south of Panama,earthquake,11.14,1.95,0.063,24.0,reviewed,us,us
+2024-10-27T23:21:19.250Z,19.2105,-64.562,32.95,3.39,md,7.0,300.0,0.7881,0.16,pr,pr71463833,2024-10-28T00:12:24.080Z,"100 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,1.22,31.61,0.10390671415545,4.0,reviewed,pr,pr
