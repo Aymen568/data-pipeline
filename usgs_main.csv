@@ -1632,3 +1632,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-28T15:02:50.030Z,33.1803322,-116.4029999,3.19,1.03,ml,18.0,66.0,0.191,0.28,ci,ci40966128,2024-10-28T15:04:53.267Z,"9 km SSW of Borrego Springs, CA",earthquake,0.63,2.67,0.358,3.0,automatic,ci,ci
 2024-10-28T14:43:44.120Z,17.943166666667,-66.831,13.73,2.2,md,5.0,217.0,0.05582,0.16,pr,pr71464033,2024-10-28T14:58:12.510Z,"5 km SSW of Indios, Puerto Rico",earthquake,1.28,0.54,0.095390966097698,4.0,reviewed,pr,pr
 2024-10-28T14:24:32.820Z,41.571166666667,-112.4055,2.74,0.95,md,5.0,120.0,0.1206,0.02,uu,uu80085541,2024-10-28T14:55:45.810Z,"16 km SW of Thatcher, Utah",earthquake,0.48,3.23,0.20612329431888,4.0,reviewed,uu,uu
+2024-10-28T15:25:22.921Z,62.0415,-148.7705,22.1,1.2,ml,,,,0.58,ak,ak024dvpdpvo,2024-10-28T15:28:28.266Z,"29 km N of Sutton-Alpine, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-10-28T13:07:11.293Z,1.5687,97.0928,37.35,4.8,mb,43.0,112.0,0.55,0.6,us,us7000nnmk,2024-10-28T15:10:49.040Z,"65 km WNW of Gunungsitoli, Indonesia",earthquake,8.55,7.191,0.103,29.0,reviewed,us,us
+2024-10-28T05:23:13.529Z,35.0865,-95.519,7.46,2.65,ml,78.0,55.0,0.0,0.23,ok,ok2024vejc,2024-10-28T15:32:05.416Z,"14 km WSW of Quinton, Oklahoma",earthquake,,0.6,0.27,15.0,reviewed,ok,ok
