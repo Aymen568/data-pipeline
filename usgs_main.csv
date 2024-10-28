@@ -1694,3 +1694,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-28T20:03:59.643Z,55.5166,-155.9639,28.4,4.1,ml,,,,0.65,ak,ak024dvs88t2,2024-10-28T20:24:36.040Z,"175 km ESE of Chignik, Alaska",earthquake,,1.2,,,reviewed,ak,ak
 2024-10-28T18:07:36.539Z,-3.01,147.4349,10.0,4.4,mb,24.0,72.0,0.963,0.41,us,us7000nnnx,2024-10-28T19:59:29.040Z,"109 km S of Lorengau, Papua New Guinea",earthquake,6.33,1.77,0.155,13.0,reviewed,us,us
 2024-10-28T15:13:26.120Z,19.4795,-155.5285,11.2,1.38,md,16.0,79.0,0.02916,0.12,hv,hv74516162,2024-10-28T20:10:08.940Z,"31 km N of Pāhala, Hawaii",earthquake,0.41,0.77,0.056701709050835,4.0,reviewed,hv,hv
+2024-10-28T20:31:25.139Z,62.7504,-148.8906,3.4,1.6,ml,,,,0.56,ak,ak024dvse6dd,2024-10-28T20:33:31.925Z,"70 km ENE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-28T19:58:39.684Z,18.9868,-64.6791,35.0,3.1,ml,18.0,204.0,0.566,0.54,us,us7000nnp0,2024-10-28T20:27:58.040Z,"73 km N of Cruz Bay, U.S. Virgin Islands",earthquake,6.22,2.017,0.064,32.0,reviewed,us,us
