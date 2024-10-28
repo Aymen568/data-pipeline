@@ -1523,3 +1523,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-28T03:55:49.800Z,34.5774994,-120.5256653,-0.08,3.28,ml,45.0,182.0,0.1303,0.28,ci,ci40965984,2024-10-28T04:12:27.063Z,"9 km SW of Lompoc, CA",earthquake,0.55,0.83,0.22,24.0,automatic,ci,ci
 2024-10-28T03:53:53.865Z,64.7213,-147.4114,25.1,2.7,ml,,,,0.57,ak,ak024dviel22,2024-10-28T04:15:33.151Z,"4 km SW of North Pole, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-10-27T23:25:47.590Z,61.299,-152.2655,1.56,-0.8,ml,8.0,138.0,0.06308,0.06,av,av93333988,2024-10-28T03:57:03.590Z,"65 km WNW of Tyonek, Alaska",earthquake,0.32,1.21,0.1152082838507,8.0,reviewed,av,av
+2024-10-28T04:29:16.100Z,38.80683517456,-122.81716918945,2.6400001049042,0.93,md,11.0,63.0,0.0096,0.02,nc,nc75079976,2024-10-28T04:30:53.458Z,"6 km NW of The Geysers, CA",earthquake,0.37,1.10000002,0.32,12.0,automatic,nc,nc
+2024-10-28T03:01:16.311Z,10.5846,-86.0658,43.977,4.7,mb,86.0,135.0,1.133,0.49,us,us7000nnk5,2024-10-28T04:27:36.040Z,"40 km NW of Tamarindo, Costa Rica",earthquake,3.95,9.291,0.046,144.0,reviewed,us,us
