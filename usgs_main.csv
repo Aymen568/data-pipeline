@@ -1640,3 +1640,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-28T15:31:12.880Z,38.795333862305,-122.78016662598,3.2799999713898,0.78,md,10.0,97.0,0.006428,0.01,nc,nc75080111,2024-10-28T15:32:48.832Z,"3 km NW of The Geysers, CA",earthquake,0.6,1.17999995,0.19,12.0,automatic,nc,nc
 2024-10-28T15:29:23.165Z,61.134,-147.1759,11.0,1.4,ml,,,,0.38,ak,ak024dvpekrg,2024-10-28T15:31:27.616Z,"40 km NW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-28T13:08:40.107Z,27.8734,94.0243,36.279,4.6,mb,62.0,98.0,6.688,0.65,us,us7000nnml,2024-10-28T15:32:26.040Z,"35 km NNE of Ziro, India",earthquake,8.9,7.335,0.078,49.0,reviewed,us,us
+2024-10-28T05:48:22.580Z,40.967833333333,-111.4685,12.11,1.06,md,7.0,146.0,0.0843,0.04,uu,uu80085431,2024-10-28T15:53:29.200Z,"2 km WSW of Echo, Utah",earthquake,1.6,2.94,0.30499882318465,6.0,reviewed,uu,uu
+2024-10-27T23:37:47.210Z,44.5915,-112.64983333333,3.71,0.85,ml,6.0,111.0,0.02606,0.06,mb,mb90064713,2024-10-28T15:43:27.210Z,"6 km SW of Lima, Montana",earthquake,0.69,0.45,0.53263593394145,3.0,reviewed,mb,mb
