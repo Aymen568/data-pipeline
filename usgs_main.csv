@@ -1565,3 +1565,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-28T07:30:42.080Z,38.835998535156,-122.79116821289,7.0999999046326,1.0,md,11.0,79.0,0.002492,0.05,nc,nc75080006,2024-10-28T07:32:14.715Z,"6 km WNW of Cobb, CA",earthquake,1.04,4.44999981,0.14,2.0,automatic,nc,nc
 2024-10-28T07:29:13.730Z,35.6736679,-117.5390015,4.99,1.19,ml,13.0,129.0,0.1071,0.14,ci,ci40966008,2024-10-28T07:31:16.187Z,"14 km ENE of Ridgecrest, CA",earthquake,0.46,1.03,0.199,7.0,automatic,ci,ci
 2024-10-28T07:26:16.980Z,33.6845,-117.4378333,8.69,0.66,ml,22.0,208.0,0.07102,0.16,ci,ci40966000,2024-10-28T07:33:22.364Z,"10 km WNW of Lakeland Village, CA",earthquake,0.62,0.82,0.239,14.0,automatic,ci,ci
+2024-10-28T07:40:15.813Z,36.7268,-116.2753,7.6,1.6,ml,26.0,69.47,0.039,0.2393,nn,nn00886921,2024-10-28T07:42:36.785Z,"47 km ESE of Beatty, Nevada",earthquake,,0.5,0.42,18.0,automatic,nn,nn
