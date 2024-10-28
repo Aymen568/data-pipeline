@@ -1686,3 +1686,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-28T16:50:25.707Z,-1.1361,127.3513,10.0,4.2,mb,16.0,105.0,1.895,1.25,us,us7000nnnp,2024-10-28T19:01:25.040Z,"58 km SSW of Labuha, Indonesia",earthquake,7.23,1.804,0.236,6.0,reviewed,us,us
 2024-10-28T12:17:32.812Z,60.446,-152.0212,84.6,1.4,ml,,,,0.42,ak,ak024dvnjqfj,2024-10-28T19:04:15.596Z,"40 km WNW of Cohoe, Alaska",earthquake,,1.0,,,reviewed,ak,ak
 2024-10-28T19:17:07.010Z,38.792167663574,-122.77933502197,1.960000038147,0.73,md,10.0,106.0,0.006783,0.02,nc,nc75080176,2024-10-28T19:18:44.139Z,"3 km NW of The Geysers, CA",earthquake,0.37,0.720000029,0.08,10.0,automatic,nc,nc
+2024-10-28T05:53:43.591Z,36.658,-116.2718,6.4,0.0,ml,9.0,102.78,0.055,0.0687,nn,nn00886934,2024-10-28T19:30:26.675Z,"51 km ESE of Beatty, Nevada",earthquake,,1.7,0.21,4.0,reviewed,nn,nn
+2024-10-28T04:22:55.953Z,36.694,-116.1833,3.5,-0.3,ml,9.0,180.75,0.007,0.0299,nn,nn00886933,2024-10-28T19:27:20.264Z,"47 km WNW of Indian Springs, Nevada",earthquake,,1.7,0.18,2.0,reviewed,nn,nn
