@@ -866,4 +866,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.6 and occurred in/near 70 km ENE of Chase, Alaska on 10/28/2024 at 08:31 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 1701 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.7 and occurred in/near 52 km ENE of Pedro Bay, Alaska on 10/28/2024 at 08:43 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 1704 recorded earthquakes.
+The most recent earthquake had a magnitude of 4.5 and occurred in/near 50 km SSW of Sola, Vanuatu on 10/28/2024 at 08:49 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n
