@@ -1683,3 +1683,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-28T18:44:27.758Z,58.0449,-157.0889,12.0,1.6,ml,,,,1.16,ak,ak024dvra3o7,2024-10-28T18:46:36.921Z,"25 km SE of Egegik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-28T15:44:08.107Z,-5.7036,147.5628,136.859,4.2,mb,20.0,96.0,3.699,0.55,us,us7000nnna,2024-10-28T18:40:37.040Z,"99 km NNW of Finschhafen, Papua New Guinea",earthquake,10.92,7.293,0.146,13.0,reviewed,us,us
 2024-10-28T13:07:23.080Z,45.341333333333,-121.7525,0.24,0.34,md,8.0,129.0,0.03025,0.06,uw,uw62057361,2024-10-28T18:44:01.440Z,"4 km N of Government Camp, Oregon",earthquake,0.17,0.27,0.38494314471852,5.0,reviewed,uw,uw
+2024-10-28T16:50:25.707Z,-1.1361,127.3513,10.0,4.2,mb,16.0,105.0,1.895,1.25,us,us7000nnnp,2024-10-28T19:01:25.040Z,"58 km SSW of Labuha, Indonesia",earthquake,7.23,1.804,0.236,6.0,reviewed,us,us
+2024-10-28T12:17:32.812Z,60.446,-152.0212,84.6,1.4,ml,,,,0.42,ak,ak024dvnjqfj,2024-10-28T19:04:15.596Z,"40 km WNW of Cohoe, Alaska",earthquake,,1.0,,,reviewed,ak,ak
