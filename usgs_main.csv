@@ -1655,3 +1655,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-28T16:04:03.241Z,31.654,-104.362,4.0279,2.0,ml,13.0,82.0,0.1,0.3,tx,tx2024vfeg,2024-10-28T16:33:06.783Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.7044746875763,0.2,10.0,automatic,tx,tx
 2024-10-28T14:35:01.487Z,-10.9851,164.3113,10.0,4.7,mb,42.0,120.0,4.562,0.69,us,us7000nnn1,2024-10-28T16:32:05.040Z,"164 km W of Lata, Solomon Islands",earthquake,11.47,1.878,0.089,38.0,reviewed,us,us
 2024-10-28T10:45:45.990Z,47.294,-113.311,6.89,0.71,ml,8.0,167.0,0.1348,0.04,mb,mb90064733,2024-10-28T16:42:07.830Z,"18 km NE of Seeley Lake, Montana",earthquake,0.65,1.67,0.17843504877717,3.0,reviewed,mb,mb
+2024-10-28T16:43:46.530Z,33.056,-117.9261667,12.62,2.84,ml,42.0,124.0,0.4399,0.34,ci,ci40966152,2024-10-28T16:55:28.442Z,"47 km NE of San Clemente Is. (SE tip), CA",earthquake,0.61,2.66,0.126,26.0,automatic,ci,ci
+2024-10-28T16:28:35.441Z,31.694,-104.151,4.0639,2.1,ml,15.0,87.0,0.1,0.4,tx,tx2024vffa,2024-10-28T16:56:51.989Z,"52 km W of Mentone, Texas",earthquake,0.0,1.467444896698,0.3,13.0,automatic,tx,tx
