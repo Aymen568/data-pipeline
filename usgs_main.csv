@@ -1696,3 +1696,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-28T15:13:26.120Z,19.4795,-155.5285,11.2,1.38,md,16.0,79.0,0.02916,0.12,hv,hv74516162,2024-10-28T20:10:08.940Z,"31 km N of Pāhala, Hawaii",earthquake,0.41,0.77,0.056701709050835,4.0,reviewed,hv,hv
 2024-10-28T20:31:25.139Z,62.7504,-148.8906,3.4,1.6,ml,,,,0.56,ak,ak024dvse6dd,2024-10-28T20:33:31.925Z,"70 km ENE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-28T19:58:39.684Z,18.9868,-64.6791,35.0,3.1,ml,18.0,204.0,0.566,0.54,us,us7000nnp0,2024-10-28T20:27:58.040Z,"73 km N of Cruz Bay, U.S. Virgin Islands",earthquake,6.22,2.017,0.064,32.0,reviewed,us,us
+2024-10-28T20:43:14.340Z,59.9202,-153.2098,127.4,1.7,ml,,,,0.41,ak,ak024dvsgq4q,2024-10-28T20:45:49.683Z,"52 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-28T20:42:29.020Z,38.837665557861,-122.80366516113,2.1099998950958,0.71,md,10.0,119.0,0.01043,0.02,nc,nc75080191,2024-10-28T20:44:06.107Z,"7 km WNW of Cobb, CA",earthquake,0.39,0.819999993,0.4,11.0,automatic,nc,nc
+2024-10-28T19:58:39.940Z,19.1273,-64.649,21.0,3.74,md,21.0,282.0,0.7129,0.35,pr,pr2024302002,2024-10-28T20:45:22.549Z,"89 km N of Cruz Bay, U.S. Virgin Islands",earthquake,1.29,28.4,0.13,16.0,reviewed,pr,pr
+2024-10-28T10:35:25.520Z,43.875166666667,-110.96633333333,10.91,1.1,ml,9.0,134.0,0.02436,0.09,mb,mb90064653,2024-10-28T20:45:41.310Z,"14 km NNE of Alta, Wyoming",earthquake,0.54,0.58,0.24259773933487,8.0,reviewed,mb,mb
