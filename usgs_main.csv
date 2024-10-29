@@ -1942,3 +1942,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-29T19:06:20.760Z,44.300333333333,-114.86383333333,5.5,2.32,ml,16.0,96.0,0.1945,0.17,mb,mb90064863,2024-10-29T19:41:37.920Z,"10 km NNE of Stanley, Idaho",earthquake,0.42,1.12,0.29731640199914,29.0,reviewed,mb,mb
 2024-10-29T19:02:48.050Z,46.015666666667,-112.48266666667,-2.0,1.32,ml,7.0,144.0,0.0518,0.04,mb,mb90064868,2024-10-29T19:49:45.010Z,"4 km ENE of Butte, Montana",quarry blast,0.52,31.61,0.27425752988593,16.0,reviewed,mb,mb
 2024-10-29T18:44:26.491Z,-13.0812,166.3824,43.724,4.5,mb,24.0,130.0,7.276,1.21,us,us7000nnwb,2024-10-29T19:49:31.040Z,"154 km NW of Sola, Vanuatu",earthquake,11.24,7.027,0.125,19.0,reviewed,us,us
+2024-10-29T19:33:36.002Z,36.5844,-117.0973,4.5,1.0,ml,11.0,134.75,0.328,0.1623,nn,nn00886972,2024-10-29T19:57:59.271Z,"26 km NW of Furnace Creek, California",earthquake,,5.1,0.48,3.0,reviewed,nn,nn
+2024-10-29T07:01:59.805Z,32.757,-100.67,4.9072,1.6,ml,16.0,67.0,0.1,0.1,tx,tx2024vghw,2024-10-29T19:53:37.394Z,"15 km NNE of Hermleigh, Texas",earthquake,0.62718214193918,1.5324917783089,0.2,12.0,reviewed,tx,tx
