@@ -1957,3 +1957,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-29T21:18:06.430Z,38.821834564209,-122.76533508301,2.2300000190735,0.74,md,15.0,118.0,0.009336,0.03,nc,nc75080611,2024-10-29T21:19:44.306Z,"4 km W of Cobb, CA",earthquake,0.32,0.589999974,0.08,14.0,automatic,nc,nc
 2024-10-29T18:05:32.643Z,39.8873,-120.822,7.5,1.1,ml,4.0,207.73,0.356,0.0806,nn,nn00886979,2024-10-29T21:29:59.314Z,"3 km WSW of Spring Garden, California",earthquake,,10.4,0.29,3.0,reviewed,nn,nn
 2024-10-29T16:43:26.840Z,33.3574,30.0546,10.0,4.5,mb,65.0,72.0,2.892,0.77,us,us7000nnvc,2024-10-29T21:37:24.040Z,"219 km N of Rosetta, Egypt",earthquake,6.69,1.88,0.073,63.0,reviewed,us,us
+2024-10-29T21:29:46.550Z,41.6025,-112.41666666667,3.62,1.13,md,15.0,89.0,0.07417,0.18,uu,uu80085651,2024-10-29T21:49:31.340Z,"14 km SW of Thatcher, Utah",earthquake,0.39,1.87,0.1630919897832,12.0,reviewed,uu,uu
+2024-10-29T16:52:02.256Z,-2.632,128.8747,10.0,4.4,mb,35.0,82.0,2.141,1.01,us,us7000nnvf,2024-10-29T21:46:53.040Z,"74 km N of Masohi, Indonesia",earthquake,7.39,1.705,0.114,30.0,reviewed,us,us
