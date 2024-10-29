@@ -1856,3 +1856,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-29T12:45:22.175Z,39.9556,-120.2618,0.8,1.6,ml,10.0,174.4,0.116,0.2533,nn,nn00886948,2024-10-29T12:47:39.148Z,"15 km WSW of Doyle, California",earthquake,,11.4,0.27,6.0,automatic,nn,nn
 2024-10-29T12:39:56.537Z,66.1097,-148.5195,0.0,1.8,ml,,,,0.9,ak,ak024dxb7u6d,2024-10-29T12:41:56.885Z,"28 km ENE of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-29T12:13:57.708Z,51.7846,157.9069,86.383,4.9,mb,110.0,118.0,1.322,0.54,us,us7000nnss,2024-10-29T12:42:53.040Z,"102 km ENE of Ozernovskiy, Russia",earthquake,7.52,4.039,0.03,360.0,reviewed,us,us
+2024-10-29T12:41:24.920Z,17.9775,-66.84,14.53,2.15,md,5.0,199.0,0.03744,0.08,pr,pr71464183,2024-10-29T12:56:03.340Z,"2 km SW of Indios, Puerto Rico",earthquake,0.73,0.54,0.09866863818592,4.0,reviewed,pr,pr
+2024-10-29T05:53:58.050Z,36.308666666667,-83.411,14.31,2.15,md,13.0,104.0,0.05559,0.13,se,se60593181,2024-10-29T13:07:59.690Z,"9 km ENE of Rutledge, Tennessee",earthquake,0.39,0.72,0.087406136334388,9.0,reviewed,se,se
+2024-10-29T03:36:21.167Z,32.378,-101.663,6.0791,1.1,ml,8.0,80.0,0.1,0.1,tx,tx2024vgbb,2024-10-29T12:54:06.159Z,"17 km SSE of Ackerly, Texas",earthquake,0.53321804413881,0.81075199442867,0.1,7.0,reviewed,tx,tx
