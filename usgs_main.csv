@@ -1959,3 +1959,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-29T16:43:26.840Z,33.3574,30.0546,10.0,4.5,mb,65.0,72.0,2.892,0.77,us,us7000nnvc,2024-10-29T21:37:24.040Z,"219 km N of Rosetta, Egypt",earthquake,6.69,1.88,0.073,63.0,reviewed,us,us
 2024-10-29T21:29:46.550Z,41.6025,-112.41666666667,3.62,1.13,md,15.0,89.0,0.07417,0.18,uu,uu80085651,2024-10-29T21:49:31.340Z,"14 km SW of Thatcher, Utah",earthquake,0.39,1.87,0.1630919897832,12.0,reviewed,uu,uu
 2024-10-29T16:52:02.256Z,-2.632,128.8747,10.0,4.4,mb,35.0,82.0,2.141,1.01,us,us7000nnvf,2024-10-29T21:46:53.040Z,"74 km N of Masohi, Indonesia",earthquake,7.39,1.705,0.114,30.0,reviewed,us,us
+2024-10-29T21:49:24.973Z,7.2319,-72.234,81.529,4.7,mb,81.0,93.0,1.576,0.74,us,us7000nnx8,2024-10-29T22:09:44.040Z,"28 km NNW of Cubará, Colombia",earthquake,8.31,7.265,0.062,78.0,reviewed,us,us
+2024-10-29T02:19:09.160Z,19.189,-155.4635,32.09,1.44,ml,25.0,110.0,0.03344,0.11,hv,hv74516562,2024-10-29T22:03:19.080Z,"2 km SE of Pāhala, Hawaii",earthquake,0.81,0.72,0.19875347222417,6.0,reviewed,hv,hv
+2024-10-28T22:49:43.910Z,56.9125,-158.08583333333,3.77,0.31,ml,4.0,235.0,0.02522,0.24,av,av93025599,2024-10-29T22:09:07.720Z,"71 km NNE of Chignik, Alaska",earthquake,1.14,2.19,0.34130952960498,4.0,reviewed,av,av
