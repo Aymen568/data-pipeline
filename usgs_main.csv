@@ -1908,3 +1908,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-29T17:24:27.818Z,36.2251,-116.8677,9.1,1.7,ml,25.0,124.77,0.367,0.2386,nn,nn00886959,2024-10-29T17:28:13.771Z,"24 km S of Furnace Creek, California",earthquake,,1.4,0.24,16.0,automatic,nn,nn
 2024-10-29T17:17:04.980Z,37.549835205078,-121.66049957275,4.5500001907349,1.32,md,10.0,102.0,0.0724,0.06,nc,nc75080491,2024-10-29T17:18:43.353Z,"17 km SSE of Livermore, CA",earthquake,0.36,1.10000002,0.13,9.0,automatic,nc,nc
 2024-10-29T11:07:53.330Z,38.835333333333,-122.80666666667,2.17,0.41,md,25.0,52.0,0.01221,0.03,nc,nc75080396,2024-10-29T17:23:11.470Z,"7 km WNW of Cobb, CA",earthquake,0.17,0.38,0.121,21.0,reviewed,nc,nc
+2024-10-29T02:05:54.055Z,32.416,-102.16,6.5186,1.4,ml,31.0,68.0,0.0,0.1,tx,tx2024vfyb,2024-10-29T17:41:38.618Z,"36 km ENE of McKinney Acres, Texas",earthquake,0.6204498866065,0.52855541742152,0.2,25.0,reviewed,tx,tx
