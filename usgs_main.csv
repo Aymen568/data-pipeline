@@ -1886,3 +1886,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-29T09:37:46.560Z,44.298166666667,-114.86133333333,6.56,2.14,ml,17.0,63.0,0.1922,0.19,mb,mb90064818,2024-10-29T15:38:35.290Z,"10 km NE of Stanley, Idaho",earthquake,0.41,1.05,0.26811597179733,31.0,reviewed,mb,mb
 2024-10-28T18:55:49.934Z,32.127,-101.491,5.9326,1.4,ml,22.0,49.0,0.1,0.1,tx,tx2024vfjx,2024-10-29T15:30:08.206Z,"11 km W of Forsan, Texas",earthquake,0.50426998006837,0.95174690751569,0.2,17.0,reviewed,tx,tx
 2024-10-29T15:46:49.213Z,62.2132,-151.4573,90.2,2.0,ml,,,,0.44,ak,ak024dxd1mft,2024-10-29T15:48:46.179Z,"25 km N of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-29T16:09:10.130Z,35.0965,-116.6545,7.96,2.54,ml,24.0,51.0,0.04442,0.16,ci,ci40966352,2024-10-29T16:16:40.352Z,"19 km S of Fort Irwin, CA",earthquake,0.24,0.49,0.138,26.0,automatic,ci,ci
+2024-10-29T15:53:59.440Z,35.6761667,-117.5308333,6.4,0.69,ml,23.0,66.0,0.08792,0.12,ci,ci40966344,2024-10-29T16:02:16.024Z,"14 km ENE of Ridgecrest, CA",earthquake,0.19,0.6,0.199,7.0,automatic,ci,ci
+2024-10-29T00:03:24.357Z,31.599,-104.532,8.8171,1.4,ml,29.0,72.0,0.1,0.2,tx,tx2024vfub,2024-10-29T16:12:38.454Z,"65 km SSW of Whites City, New Mexico",earthquake,1.2202602878743,1.1018217931454,0.1,21.0,reviewed,tx,tx
