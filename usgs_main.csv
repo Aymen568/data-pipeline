@@ -1853,3 +1853,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-29T11:19:21.989Z,36.6343,-117.0211,3.9,0.5,ml,12.0,251.56,0.275,0.0887,nn,nn00886946,2024-10-29T11:21:19.119Z,"25 km NW of Furnace Creek, California",earthquake,,11.2,0.5,8.0,automatic,nn,nn
 2024-10-29T11:32:00.150Z,33.8308334,-117.7584991,3.29,1.52,ml,33.0,82.0,0.02585,0.21,ci,ci40966312,2024-10-29T11:34:32.433Z,"5 km ENE of Villa Park, CA",earthquake,0.41,0.5,0.212,15.0,automatic,ci,ci
 2024-10-29T12:01:06.310Z,38.844665527344,-122.82983398438,1.4400000572205,0.78,md,12.0,91.0,0.007504,0.02,nc,nc75080411,2024-10-29T12:02:42.433Z,"10 km WNW of Cobb, CA",earthquake,0.36,0.579999983,0.31,12.0,automatic,nc,nc
+2024-10-29T12:45:22.175Z,39.9556,-120.2618,0.8,1.6,ml,10.0,174.4,0.116,0.2533,nn,nn00886948,2024-10-29T12:47:39.148Z,"15 km WSW of Doyle, California",earthquake,,11.4,0.27,6.0,automatic,nn,nn
+2024-10-29T12:39:56.537Z,66.1097,-148.5195,0.0,1.8,ml,,,,0.9,ak,ak024dxb7u6d,2024-10-29T12:41:56.885Z,"28 km ENE of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-29T12:13:57.708Z,51.7846,157.9069,86.383,4.9,mb,110.0,118.0,1.322,0.54,us,us7000nnss,2024-10-29T12:42:53.040Z,"102 km ENE of Ozernovskiy, Russia",earthquake,7.52,4.039,0.03,360.0,reviewed,us,us
