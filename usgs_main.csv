@@ -1944,3 +1944,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-29T18:44:26.491Z,-13.0812,166.3824,43.724,4.5,mb,24.0,130.0,7.276,1.21,us,us7000nnwb,2024-10-29T19:49:31.040Z,"154 km NW of Sola, Vanuatu",earthquake,11.24,7.027,0.125,19.0,reviewed,us,us
 2024-10-29T19:33:36.002Z,36.5844,-117.0973,4.5,1.0,ml,11.0,134.75,0.328,0.1623,nn,nn00886972,2024-10-29T19:57:59.271Z,"26 km NW of Furnace Creek, California",earthquake,,5.1,0.48,3.0,reviewed,nn,nn
 2024-10-29T07:01:59.805Z,32.757,-100.67,4.9072,1.6,ml,16.0,67.0,0.1,0.1,tx,tx2024vghw,2024-10-29T19:53:37.394Z,"15 km NNE of Hermleigh, Texas",earthquake,0.62718214193918,1.5324917783089,0.2,12.0,reviewed,tx,tx
+2024-10-29T19:36:26.132Z,40.3126,142.3223,53.218,4.3,mb,22.0,194.0,1.07,0.52,us,us7000nnwi,2024-10-29T20:20:10.040Z,"48 km ENE of Noda, Japan",earthquake,7.81,5.326,0.154,12.0,reviewed,us,us
