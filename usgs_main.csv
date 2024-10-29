@@ -1911,3 +1911,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-29T02:05:54.055Z,32.416,-102.16,6.5186,1.4,ml,31.0,68.0,0.0,0.1,tx,tx2024vfyb,2024-10-29T17:41:38.618Z,"36 km ENE of McKinney Acres, Texas",earthquake,0.6204498866065,0.52855541742152,0.2,25.0,reviewed,tx,tx
 2024-10-29T17:50:10.562Z,62.6149,-148.4469,43.6,2.1,ml,,,,0.99,ak,ak024dxe99j4,2024-10-29T17:52:37.123Z,"87 km ENE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-29T17:32:51.709Z,-59.6938,-27.3994,152.712,5.1,mb,115.0,70.0,15.523,0.63,us,us7000nnvq,2024-10-29T17:50:42.040Z,South Sandwich Islands region,earthquake,10.99,6.785,0.055,113.0,reviewed,us,us
+2024-10-29T18:22:20.821Z,58.172,-155.3817,1.1,1.0,ml,,,,0.19,ak,ak024dxeopvm,2024-10-29T18:23:42.575Z,"86 km NW of Karluk, Alaska",earthquake,,2.5,,,automatic,ak,ak
+2024-10-29T18:15:52.747Z,62.0606,-149.445,32.8,1.8,ml,,,,0.86,ak,ak024dxenabu,2024-10-29T18:18:05.592Z,"23 km ESE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-29T18:06:01.100Z,32.5498333,-115.2408333,13.59,2.29,ml,21.0,70.0,0.1408,0.26,ci,ci40966432,2024-10-29T18:13:18.245Z,"11 km E of Puebla, B.C., MX",earthquake,0.36,1.33,0.127,25.0,automatic,ci,ci
+2024-10-29T18:04:19.200Z,32.5463333,-115.2396667,18.76,2.01,ml,21.0,100.0,0.138,0.21,ci,ci40966424,2024-10-29T18:10:58.231Z,"11 km E of Puebla, B.C., MX",earthquake,0.34,0.9,0.208,29.0,automatic,ci,ci
+2024-10-29T17:54:22.090Z,33.994,-116.579,9.66,1.52,ml,55.0,73.0,0.05789,0.15,ci,ci40966408,2024-10-29T18:04:55.820Z,"6 km S of Morongo Valley, CA",earthquake,0.14,0.37,0.172,27.0,automatic,ci,ci
+2024-10-29T16:06:13.935Z,32.415,-102.071,7.1777,1.8,ml,18.0,82.0,0.0,0.1,tx,tx2024vgzu,2024-10-29T18:05:36.746Z,"35 km WSW of Ackerly, Texas",earthquake,0.56836932127329,0.67365294166035,0.2,17.0,reviewed,tx,tx
+2024-10-29T06:56:24.492Z,32.03,-102.402,4.4189,1.0,ml,14.0,68.0,0.1,0.2,tx,tx2024vghr,2024-10-29T18:28:24.877Z,"2 km WNW of Gardendale, Texas",earthquake,1.0520897687414,1.4608939021753,0.3,14.0,reviewed,tx,tx
+2024-10-29T03:29:43.124Z,32.023,-102.401,3.9551,1.1,ml,20.0,76.0,0.1,0.1,tx,tx2024vgav,2024-10-29T17:57:32.707Z,"1 km W of Gardendale, Texas",earthquake,0.78171753998457,1.3573512433742,0.3,15.0,reviewed,tx,tx
+2024-10-29T00:00:50.140Z,40.1096,-119.7327,13.7,0.8,ml,3.0,202.78,0.061,0.0816,nn,nn00886963,2024-10-29T18:01:50.768Z,"20 km NNW of Sutcliffe, Nevada",earthquake,,4.3,0.27,3.0,reviewed,nn,nn
