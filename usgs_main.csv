@@ -1894,3 +1894,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-29T16:25:14.740Z,19.368165969849,-155.27400207519,29.520000457764,2.36,ml,57.0,53.0,0.01051,0.140000001,hv,hv74516972,2024-10-29T16:28:11.720Z,"9 km SSW of Volcano, Hawaii",earthquake,0.33,0.419999987,0.46,22.0,automatic,hv,hv
 2024-10-29T16:16:32.311Z,-19.8315,-176.9349,331.669,4.9,mb,93.0,126.0,4.844,0.7,us,us7000nnv7,2024-10-29T16:33:47.040Z,"225 km NW of Houma, Tonga",earthquake,10.45,6.515,0.039,218.0,reviewed,us,us
 2024-10-29T14:03:50.336Z,-17.6769,-69.5847,173.542,4.2,mb,23.0,103.0,0.132,0.56,us,us7000nnsz,2024-10-29T16:22:37.040Z,"41 km ENE of Palca, Peru",earthquake,9.17,3.423,0.166,11.0,reviewed,us,us
+2024-10-29T16:49:12.658Z,61.031,-152.3433,110.9,1.7,ml,,,,0.15,ak,ak024dxdnmdd,2024-10-29T16:50:45.695Z,"65 km W of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-10-29T16:00:32.105Z,-54.7514,159.0141,17.571,4.7,mb,24.0,179.0,0.257,0.38,us,us7000nnv3,2024-10-29T16:46:32.040Z,Macquarie Island region,earthquake,9.22,4.772,0.126,19.0,reviewed,us,us
