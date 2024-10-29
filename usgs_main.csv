@@ -1889,3 +1889,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-29T16:09:10.130Z,35.0965,-116.6545,7.96,2.54,ml,24.0,51.0,0.04442,0.16,ci,ci40966352,2024-10-29T16:16:40.352Z,"19 km S of Fort Irwin, CA",earthquake,0.24,0.49,0.138,26.0,automatic,ci,ci
 2024-10-29T15:53:59.440Z,35.6761667,-117.5308333,6.4,0.69,ml,23.0,66.0,0.08792,0.12,ci,ci40966344,2024-10-29T16:02:16.024Z,"14 km ENE of Ridgecrest, CA",earthquake,0.19,0.6,0.199,7.0,automatic,ci,ci
 2024-10-29T00:03:24.357Z,31.599,-104.532,8.8171,1.4,ml,29.0,72.0,0.1,0.2,tx,tx2024vfub,2024-10-29T16:12:38.454Z,"65 km SSW of Whites City, New Mexico",earthquake,1.2202602878743,1.1018217931454,0.1,21.0,reviewed,tx,tx
+2024-10-29T16:35:03.481Z,62.7231,-149.6656,57.9,2.9,ml,,,,0.46,ak,ak024dxdklm5,2024-10-29T16:36:44.818Z,"37 km NE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-29T16:25:52.066Z,63.8596,-148.7095,10.2,1.5,ml,,,,0.33,ak,ak024dxdik86,2024-10-29T16:27:27.669Z,"12 km E of Healy, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-29T16:25:14.740Z,19.368165969849,-155.27400207519,29.520000457764,2.36,ml,57.0,53.0,0.01051,0.140000001,hv,hv74516972,2024-10-29T16:28:11.720Z,"9 km SSW of Volcano, Hawaii",earthquake,0.33,0.419999987,0.46,22.0,automatic,hv,hv
+2024-10-29T16:16:32.311Z,-19.8315,-176.9349,331.669,4.9,mb,93.0,126.0,4.844,0.7,us,us7000nnv7,2024-10-29T16:33:47.040Z,"225 km NW of Houma, Tonga",earthquake,10.45,6.515,0.039,218.0,reviewed,us,us
+2024-10-29T14:03:50.336Z,-17.6769,-69.5847,173.542,4.2,mb,23.0,103.0,0.132,0.56,us,us7000nnsz,2024-10-29T16:22:37.040Z,"41 km ENE of Palca, Peru",earthquake,9.17,3.423,0.166,11.0,reviewed,us,us
