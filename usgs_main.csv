@@ -1781,3 +1781,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-29T02:35:49.601Z,37.2444,-117.5838,3.8,1.7,ml,10.0,111.91,0.051,0.3542,nn,nn00886944,2024-10-29T02:38:27.449Z,"56 km S of Silver Peak, Nevada",earthquake,,1.4,0.5,6.0,automatic,nn,nn
 2024-10-29T03:31:37.750Z,33.841835,-117.625,7.71,1.26,ml,22.0,65.0,0.04828,0.2,ci,ci40966264,2024-10-29T03:33:55.017Z,"6 km WSW of Corona, CA",earthquake,0.46,0.91,0.292,19.0,automatic,ci,ci
 2024-10-29T03:12:57.080Z,19.138833999634,-155.46116638184,32.220001220703,2.13000011,md,42.0,174.0,0.01652,0.150000006,hv,hv74516612,2024-10-29T03:15:07.980Z,"7 km SSE of Pāhala, Hawaii",earthquake,0.55,0.649999976,0.370000005,8.0,automatic,hv,hv
+2024-10-29T02:35:27.930Z,4.7184,96.2377,42.117,4.6,mb,27.0,91.0,0.87,0.55,us,us7000nnqs,2024-10-29T03:36:02.040Z,"55 km S of Reuleuet, Indonesia",earthquake,5.1,8.273,0.146,14.0,reviewed,us,us
