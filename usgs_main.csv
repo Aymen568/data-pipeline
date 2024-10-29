@@ -1956,3 +1956,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-29T21:23:15.484Z,62.0122,-149.567,33.1,2.2,ml,,,,0.5,ak,ak024dxgh7zw,2024-10-29T21:25:22.334Z,"22 km SE of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-29T21:18:06.430Z,38.821834564209,-122.76533508301,2.2300000190735,0.74,md,15.0,118.0,0.009336,0.03,nc,nc75080611,2024-10-29T21:19:44.306Z,"4 km W of Cobb, CA",earthquake,0.32,0.589999974,0.08,14.0,automatic,nc,nc
 2024-10-29T18:05:32.643Z,39.8873,-120.822,7.5,1.1,ml,4.0,207.73,0.356,0.0806,nn,nn00886979,2024-10-29T21:29:59.314Z,"3 km WSW of Spring Garden, California",earthquake,,10.4,0.29,3.0,reviewed,nn,nn
+2024-10-29T16:43:26.840Z,33.3574,30.0546,10.0,4.5,mb,65.0,72.0,2.892,0.77,us,us7000nnvc,2024-10-29T21:37:24.040Z,"219 km N of Rosetta, Egypt",earthquake,6.69,1.88,0.073,63.0,reviewed,us,us
