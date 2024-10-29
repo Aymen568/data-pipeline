@@ -1845,3 +1845,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-29T10:47:14.770Z,36.564834594727,-121.16683197022,0.56000000238419,1.47,md,9.0,150.0,0.1034,0.04,nc,nc75080386,2024-10-29T10:48:52.712Z,"4 km NNW of Pinnacles, CA",earthquake,0.89,7.96999979,0.2,6.0,automatic,nc,nc
 2024-10-29T10:38:32.690Z,33.2065,-116.0508333,10.64,1.27,ml,47.0,79.0,0.06957,0.2,ci,ci40966304,2024-10-29T10:45:04.816Z,"10 km NE of Ocotillo Wells, CA",earthquake,0.21,0.44,0.128,26.0,automatic,ci,ci
 2024-10-29T00:08:00.730Z,38.783666666667,-122.759,2.23,0.24,md,11.0,92.0,0.01396,0.01,nc,nc75080251,2024-10-29T10:43:35.174Z,"1 km  of The Geysers, CA",earthquake,0.45,1.04,0.273,10.0,reviewed,nc,nc
+2024-10-29T11:00:04.130Z,38.824501037598,-122.80233001709,3.2699999809265,0.39,md,9.0,135.0,0.006149,0.01,nc,nc75080391,2024-10-29T11:01:41.941Z,"7 km NNW of The Geysers, CA",earthquake,0.71,1.90999997,0.18,11.0,automatic,nc,nc
+2024-10-29T10:49:17.050Z,59.4365,-152.6239,61.3,2.1,ml,,,,0.18,ak,ak024dxa312x,2024-10-29T10:50:58.828Z,"40 km WNW of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-10-29T10:28:33.950Z,19.5038,-64.5613,60.0,3.75,md,12.0,301.0,1.0903,0.44,pr,pr2024303003,2024-10-29T11:02:51.263Z,"132 km N of Cruz Bay, U.S. Virgin Islands",earthquake,6.12,16.2,0.09,6.0,reviewed,pr,pr
