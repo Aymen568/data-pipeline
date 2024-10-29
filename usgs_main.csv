@@ -1814,3 +1814,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-29T06:08:36.664Z,60.3051,-143.1948,2.6,1.7,ml,,,,1.07,ak,ak024dx7gjte,2024-10-29T06:10:36.154Z,"126 km S of McCarthy, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-10-29T04:27:10.467Z,-2.8502,129.7385,10.0,4.9,mb,42.0,60.0,1.669,0.98,us,us7000nnr7,2024-10-29T06:00:56.040Z,"98 km ENE of Masohi, Indonesia",earthquake,5.76,1.858,0.091,38.0,reviewed,us,us
 2024-10-28T16:18:04.470Z,53.885166666667,-167.01416666667,19.39,0.46,ml,5.0,287.0,0.08865,0.29,av,av93025514,2024-10-29T06:04:02.510Z,"31 km W of Dutch Harbor, Alaska",earthquake,2.42,2.3,0.15356772867699,5.0,reviewed,av,av
+2024-10-28T18:04:24.450Z,37.8735,-121.86583333333,10.25,1.06,md,5.0,188.0,0.05071,0.02,nc,nc75080141,2024-10-29T06:48:04.500Z,"7 km NE of Blackhawk, CA",earthquake,1.24,0.92,0.366,4.0,reviewed,nc,nc
+2024-10-28T11:45:52.180Z,36.256333333333,-120.43183333333,7.12,1.12,md,14.0,122.0,0.09277,0.14,nc,nc75080071,2024-10-29T06:42:32.944Z,"14 km NNW of Coalinga, CA",earthquake,0.81,1.73,0.15,8.0,reviewed,nc,nc
