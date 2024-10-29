@@ -1934,3 +1934,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-29T18:56:10.661Z,60.2357,-154.276,39.3,2.6,ml,,,,1.26,ak,ak024dxevzmm,2024-10-29T18:59:57.156Z,"4 km NNE of Port Alsworth, Alaska",earthquake,,5.5,,,automatic,ak,ak
 2024-10-29T18:46:45.382Z,-12.337,-14.757,10.0,5.0,mb,40.0,108.0,4.394,0.56,us,us7000nnwd,2024-10-29T19:10:56.040Z,southern Mid-Atlantic Ridge,earthquake,14.33,1.902,0.093,37.0,reviewed,us,us
 2024-10-29T15:50:05.192Z,-7.3374,120.1628,570.664,4.4,mb,71.0,63.0,2.344,0.73,us,us7000nnub,2024-10-29T19:04:14.040Z,"131 km NNE of Labuan Bajo, Indonesia",earthquake,10.85,6.721,0.071,58.0,reviewed,us,us
+2024-10-29T19:22:42.440Z,33.5025,-116.4355,7.36,1.64,ml,71.0,32.0,0.1107,0.18,ci,ci40966504,2024-10-29T19:29:19.709Z,"21 km SSW of La Quinta, CA",earthquake,0.12,0.62,0.213,27.0,automatic,ci,ci
+2024-10-29T19:16:18.290Z,32.9958333,-116.4393333,4.87,0.83,ml,24.0,93.0,0.03399,0.16,ci,ci40966496,2024-10-29T19:22:04.663Z,"18 km ESE of Julian, CA",earthquake,0.19,0.34,0.075,14.0,automatic,ci,ci
