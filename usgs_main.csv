@@ -1885,3 +1885,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-28T19:20:17.589Z,36.454,-98.81083333,6.25,1.28,ml,15.0,106.0,0.008998234239,0.05,ok,ok2024vfks,2024-10-29T15:21:43.909Z,"15 km SSE of Waynoka, Oklahoma",earthquake,,0.2,0.15,6.0,reviewed,ok,ok
 2024-10-29T09:37:46.560Z,44.298166666667,-114.86133333333,6.56,2.14,ml,17.0,63.0,0.1922,0.19,mb,mb90064818,2024-10-29T15:38:35.290Z,"10 km NE of Stanley, Idaho",earthquake,0.41,1.05,0.26811597179733,31.0,reviewed,mb,mb
 2024-10-28T18:55:49.934Z,32.127,-101.491,5.9326,1.4,ml,22.0,49.0,0.1,0.1,tx,tx2024vfjx,2024-10-29T15:30:08.206Z,"11 km W of Forsan, Texas",earthquake,0.50426998006837,0.95174690751569,0.2,17.0,reviewed,tx,tx
+2024-10-29T15:46:49.213Z,62.2132,-151.4573,90.2,2.0,ml,,,,0.44,ak,ak024dxd1mft,2024-10-29T15:48:46.179Z,"25 km N of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
