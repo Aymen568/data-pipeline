@@ -1926,3 +1926,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-29T06:56:48.124Z,32.75,-100.663,7.3242,1.9,ml,11.0,62.0,0.1,0.1,tx,tx2024vghs,2024-10-29T18:41:31.946Z,"15 km NE of Hermleigh, Texas",earthquake,0.67492629166652,1.380920015164,0.2,13.0,reviewed,tx,tx
 2024-10-29T18:46:27.470Z,37.346832275391,-118.58016967773,11.710000038147,2.03,md,5.0,208.0,,0.08,nc,nc75080536,2024-10-29T18:48:19.025Z,"8 km S of Round Valley, CA",earthquake,3.39,2.5999999,0.26,5.0,automatic,nc,nc
 2024-10-29T18:45:58.890Z,35.6851667,-118.1088333,1.54,0.22,ml,15.0,118.0,0.1093,0.14,ci,ci40966456,2024-10-29T18:52:01.530Z,"27 km W of Inyokern, CA",earthquake,0.27,0.59,0.074,3.0,automatic,ci,ci
+2024-10-29T19:08:22.430Z,38.83150100708,-122.81583404541,1.6599999666214,0.72,md,18.0,50.0,0.009261,0.01,nc,nc75080551,2024-10-29T19:09:59.183Z,"8 km NNW of The Geysers, CA",earthquake,0.22,0.519999981,0.17,18.0,automatic,nc,nc
+2024-10-29T19:04:37.680Z,37.461166381836,-118.80316925049,4.2199997901917,1.54,md,22.0,205.0,,0.06,nc,nc75080546,2024-10-29T19:06:14.254Z,"16 km SW of Toms Place, CA",earthquake,0.61,1.97000003,0.11,18.0,automatic,nc,nc
+2024-10-29T19:04:24.850Z,33.7146667,-116.814,15.32,0.76,ml,8.0,230.0,0.08903,0.1,ci,ci40966480,2024-10-29T19:12:13.782Z,"8 km ESE of Valle Vista, CA",earthquake,1.16,1.22,0.132,11.0,automatic,ci,ci
+2024-10-29T19:02:26.330Z,33.7011667,-116.8075,16.32,0.94,ml,6.0,277.0,0.1475,0.07,ci,ci40966464,2024-10-29T19:08:56.043Z,"9 km WSW of Idyllwild, CA",earthquake,1.7,1.21,0.171,20.0,automatic,ci,ci
+2024-10-29T18:56:43.743Z,62.0355,-148.389,39.9,1.4,ml,,,,0.42,ak,ak024dxew1zq,2024-10-29T18:58:50.309Z,"26 km N of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-10-29T18:56:10.661Z,60.2357,-154.276,39.3,2.6,ml,,,,1.26,ak,ak024dxevzmm,2024-10-29T18:59:57.156Z,"4 km NNE of Port Alsworth, Alaska",earthquake,,5.5,,,automatic,ak,ak
+2024-10-29T18:46:45.382Z,-12.337,-14.757,10.0,5.0,mb,40.0,108.0,4.394,0.56,us,us7000nnwd,2024-10-29T19:10:56.040Z,southern Mid-Atlantic Ridge,earthquake,14.33,1.902,0.093,37.0,reviewed,us,us
+2024-10-29T15:50:05.192Z,-7.3374,120.1628,570.664,4.4,mb,71.0,63.0,2.344,0.73,us,us7000nnub,2024-10-29T19:04:14.040Z,"131 km NNE of Labuan Bajo, Indonesia",earthquake,10.85,6.721,0.071,58.0,reviewed,us,us
