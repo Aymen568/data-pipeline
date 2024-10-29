@@ -1920,3 +1920,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-29T06:56:24.492Z,32.03,-102.402,4.4189,1.0,ml,14.0,68.0,0.1,0.2,tx,tx2024vghr,2024-10-29T18:28:24.877Z,"2 km WNW of Gardendale, Texas",earthquake,1.0520897687414,1.4608939021753,0.3,14.0,reviewed,tx,tx
 2024-10-29T03:29:43.124Z,32.023,-102.401,3.9551,1.1,ml,20.0,76.0,0.1,0.1,tx,tx2024vgav,2024-10-29T17:57:32.707Z,"1 km W of Gardendale, Texas",earthquake,0.78171753998457,1.3573512433742,0.3,15.0,reviewed,tx,tx
 2024-10-29T00:00:50.140Z,40.1096,-119.7327,13.7,0.8,ml,3.0,202.78,0.061,0.0816,nn,nn00886963,2024-10-29T18:01:50.768Z,"20 km NNW of Sutcliffe, Nevada",earthquake,,4.3,0.27,3.0,reviewed,nn,nn
+2024-10-29T18:31:31.400Z,38.525165557861,-122.30016326904,4.2800002098083,1.4,md,11.0,95.0,0.06,0.08,nc,nc75080526,2024-10-29T18:33:08.093Z,"14 km SE of Angwin, CA",earthquake,0.26,1.21000004,0.05,7.0,automatic,nc,nc
+2024-10-29T18:27:25.947Z,63.0579,-150.5054,108.6,1.9,ml,,,,0.35,ak,ak024dxepsuq,2024-10-29T18:29:52.933Z,"63 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-10-29T18:24:07.290Z,33.5975,-116.6276667,12.33,0.57,ml,7.0,160.0,0.02644,0.03,ci,ci40966440,2024-10-29T18:44:59.446Z,"6 km NE of Anza, CA",earthquake,0.25,0.31,0.202,5.0,reviewed,ci,ci
+2024-10-29T06:56:48.124Z,32.75,-100.663,7.3242,1.9,ml,11.0,62.0,0.1,0.1,tx,tx2024vghs,2024-10-29T18:41:31.946Z,"15 km NE of Hermleigh, Texas",earthquake,0.67492629166652,1.380920015164,0.2,13.0,reviewed,tx,tx
