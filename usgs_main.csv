@@ -1936,3 +1936,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-29T15:50:05.192Z,-7.3374,120.1628,570.664,4.4,mb,71.0,63.0,2.344,0.73,us,us7000nnub,2024-10-29T19:04:14.040Z,"131 km NNE of Labuan Bajo, Indonesia",earthquake,10.85,6.721,0.071,58.0,reviewed,us,us
 2024-10-29T19:22:42.440Z,33.5025,-116.4355,7.36,1.64,ml,71.0,32.0,0.1107,0.18,ci,ci40966504,2024-10-29T19:29:19.709Z,"21 km SSW of La Quinta, CA",earthquake,0.12,0.62,0.213,27.0,automatic,ci,ci
 2024-10-29T19:16:18.290Z,32.9958333,-116.4393333,4.87,0.83,ml,24.0,93.0,0.03399,0.16,ci,ci40966496,2024-10-29T19:22:04.663Z,"18 km ESE of Julian, CA",earthquake,0.19,0.34,0.075,14.0,automatic,ci,ci
+2024-10-29T19:38:00.170Z,33.8703346,-117.51017,0.17,1.24,ml,19.0,75.0,0.04268,0.27,ci,ci40966512,2024-10-29T19:40:02.634Z,"1 km SE of Home Gardens, CA",earthquake,0.59,1.11,0.158,4.0,automatic,ci,ci
+2024-10-29T15:58:33.279Z,40.1217,-119.8008,13.0,0.4,ml,3.0,167.92,0.072,0.1068,nn,nn00886974,2024-10-29T19:39:35.335Z,"25 km NW of Sutcliffe, Nevada",earthquake,,6.1,0.03,2.0,reviewed,nn,nn
+2024-10-29T13:11:10.273Z,38.8027,-117.976,8.4,1.1,ml,5.0,110.79,0.203,0.1352,nn,nn00886967,2024-10-29T19:30:24.258Z,"8 km SSW of Gabbs, Nevada",earthquake,,7.4,0.26,3.0,reviewed,nn,nn
