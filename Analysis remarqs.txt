@@ -1044,4 +1044,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.59 and occurred in/near 11 km WSW of Lake Pillsbury, CA on 10/30/2024 at 01:08 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 1999 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.42 and occurred in/near 2 km WNW of Saint Helena, CA on 10/30/2024 at 02:39 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 2003 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.08 and occurred in/near 7 km WNW of Cobb, CA on 10/30/2024 at 03:05 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n
