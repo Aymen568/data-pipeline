@@ -2078,3 +2078,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-30T09:49:30.240Z,61.586,-149.7428,39.0,2.4,ml,,,,0.36,ak,ak024dyx0yzk,2024-10-30T09:56:38.448Z,"6 km SE of Houston, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-10-30T09:47:39.930Z,33.572,-116.8873333,11.32,0.95,ml,53.0,26.0,0.0666,0.16,ci,ci40966688,2024-10-30T09:53:48.906Z,"14 km N of Aguanga, CA",earthquake,0.13,0.34,0.169,28.0,automatic,ci,ci
 2024-10-30T09:47:28.970Z,38.750331878662,-122.72283172607,1.1599999666214,1.22,md,13.0,122.0,0.01136,0.04,nc,nc75080811,2024-10-30T09:49:06.555Z,"4 km SW of Anderson Springs, CA",earthquake,0.27,0.419999987,0.16,13.0,automatic,nc,nc
+2024-10-30T10:21:47.570Z,34.4588318,-119.1324997,8.54,1.36,ml,16.0,51.0,0.02225,0.18,ci,ci40966712,2024-10-30T10:23:53.587Z,"10 km E of Ojai, CA",earthquake,0.47,1.05,0.323,5.0,automatic,ci,ci
+2024-10-30T10:18:00.820Z,34.0173333,-117.5916667,5.02,1.23,ml,58.0,29.0,0.02047,0.14,ci,ci40966704,2024-10-30T10:25:50.003Z,"5 km SE of Ontario, CA",earthquake,0.12,0.23,0.214,32.0,automatic,ci,ci
