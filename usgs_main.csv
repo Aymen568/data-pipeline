@@ -2075,3 +2075,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-30T08:59:09.119Z,-25.2279,-178.7697,387.282,4.9,mb,41.0,114.0,4.071,1.27,us,us7000nnyz,2024-10-30T09:16:42.040Z,south of the Fiji Islands,earthquake,13.21,10.078,0.096,34.0,reviewed,us,us
 2024-10-30T09:32:38.730Z,32.7913322,-116.104332,10.79,1.76,ml,55.0,64.0,0.006045,0.27,ci,ci40966680,2024-10-30T09:34:59.355Z,"12 km WNW of Ocotillo, CA",earthquake,0.31,0.52,0.275,19.0,automatic,ci,ci
 2024-10-30T09:41:14.386Z,37.0587,-117.5012,0.0,0.4,ml,9.0,206.43,0.125,0.4963,nn,nn00886994,2024-10-30T09:43:42.833Z,"68 km WNW of Beatty, Nevada",earthquake,,14.2,0.09,3.0,automatic,nn,nn
+2024-10-30T09:49:30.240Z,61.586,-149.7428,39.0,2.4,ml,,,,0.36,ak,ak024dyx0yzk,2024-10-30T09:56:38.448Z,"6 km SE of Houston, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-10-30T09:47:39.930Z,33.572,-116.8873333,11.32,0.95,ml,53.0,26.0,0.0666,0.16,ci,ci40966688,2024-10-30T09:53:48.906Z,"14 km N of Aguanga, CA",earthquake,0.13,0.34,0.169,28.0,automatic,ci,ci
+2024-10-30T09:47:28.970Z,38.750331878662,-122.72283172607,1.1599999666214,1.22,md,13.0,122.0,0.01136,0.04,nc,nc75080811,2024-10-30T09:49:06.555Z,"4 km SW of Anderson Springs, CA",earthquake,0.27,0.419999987,0.16,13.0,automatic,nc,nc
