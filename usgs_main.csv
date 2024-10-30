@@ -2090,3 +2090,16 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-30T11:44:05.260Z,59.5082,-152.169,76.9,2.3,ml,,,,0.89,ak,ak024dyy6lxw,2024-10-30T11:47:54.580Z,"22 km NW of Nanwalek, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-10-30T12:05:11.240Z,35.9203333,-117.717,8.89,0.83,ml,25.0,47.0,0.06066,0.11,ci,ci40966744,2024-10-30T12:10:56.623Z,"17 km E of Little Lake, CA",earthquake,0.15,0.39,0.11,10.0,automatic,ci,ci
 2024-10-30T11:43:21.501Z,-24.2892,-67.128,196.121,4.9,mb,36.0,62.0,1.643,0.8,us,us7000nnz6,2024-10-30T11:56:49.040Z,"82 km W of San Antonio de los Cobres, Argentina",earthquake,10.15,8.628,0.081,47.0,reviewed,us,us
+2024-10-30T12:49:11.670Z,34.0443333,-118.8051667,10.7,1.79,ml,51.0,97.0,0.02386,0.21,ci,ci40966784,2024-10-30T12:56:03.882Z,"4 km N of Malibu, CA",earthquake,0.24,0.3,0.214,35.0,automatic,ci,ci
+2024-10-30T12:49:03.293Z,62.54,-146.9999,0.0,2.3,ml,,,,0.73,ak,ak024dyyt7q1,2024-10-30T12:51:04.865Z,"36 km NW of Lake Louise, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-10-30T12:48:15.805Z,31.685,-104.436,6.3268,1.7,ml,15.0,54.0,0.0,0.2,tx,tx2024viou,2024-10-30T12:53:45.774Z,"54 km S of Whites City, New Mexico",earthquake,0.0,2.7087459564209,0.2,13.0,automatic,tx,tx
+2024-10-30T12:45:01.567Z,36.47486877,-98.80969238,1.520708084,2.61,ml,48.0,75.52159119,0.02596816421,0.793562695,ok,ok2024vior,2024-10-30T12:55:11.304Z,"13 km SSE of Waynoka, Oklahoma",earthquake,2.136473676,1.319480268,0.25,24.0,automatic,ok,ok
+2024-10-30T12:41:49.830Z,34.4176667,-119.1356667,14.4,1.56,ml,20.0,53.0,0.01927,0.27,ci,ci40966776,2024-10-30T12:48:49.587Z,"10 km NW of Santa Paula, CA",earthquake,0.46,0.84,0.43,27.0,automatic,ci,ci
+2024-10-30T12:30:27.190Z,33.314,-116.3476667,10.27,0.91,ml,42.0,81.0,0.02067,0.18,ci,ci40966768,2024-10-30T12:36:35.775Z,"7 km NNE of Borrego Springs, CA",earthquake,0.21,0.33,0.122,17.0,automatic,ci,ci
+2024-10-30T12:28:31.970Z,17.988166666667,-66.836166666667,16.16,1.75,md,4.0,177.0,0.04304,0.14,pr,pr71464258,2024-10-30T12:51:14.450Z,"1 km WSW of Indios, Puerto Rico",earthquake,0.9,1.15,0.22109873806059,4.0,reviewed,pr,pr
+2024-10-30T12:18:52.635Z,-4.4502,150.0872,521.212,6.0,mww,97.0,19.0,2.086,0.84,us,us7000nnz9,2024-10-30T12:37:27.118Z,"121 km N of Kimbe, Papua New Guinea",earthquake,7.86,7.895,0.052,36.0,reviewed,us,us
+2024-10-30T12:16:52.709Z,36.5517,-117.0613,3.7,1.1,ml,18.0,226.95,0.298,0.1751,nn,nn00886995,2024-10-30T12:19:05.359Z,"21 km WNW of Furnace Creek, California",earthquake,,8.4,0.35,12.0,automatic,nn,nn
+2024-10-30T03:47:55.565Z,32.441,-101.694,7.2754,1.9,ml,32.0,51.0,0.1,0.1,tx,tx2024vhwy,2024-10-30T12:41:33.728Z,"9 km SSE of Ackerly, Texas",earthquake,0.31679479100231,0.48023955558643,0.1,37.0,reviewed,tx,tx
+2024-10-29T22:17:32.770Z,32.767,-100.66,8.3496,2.1,ml,16.0,79.0,0.1,0.1,tx,tx2024vhmb,2024-10-30T12:47:54.752Z,"17 km NNE of Hermleigh, Texas",earthquake,0.63474806078794,0.8846397893452,0.1,25.0,reviewed,tx,tx
+2024-10-29T17:45:06.030Z,34.68866667,-97.45466667,5.41,1.48,ml,20.0,107.0,0.1214761622,0.29,ok,ok2024vhdb,2024-10-30T12:44:38.101Z,"8 km NNE of Foster, Oklahoma",earthquake,,1.0,0.34,8.0,reviewed,ok,ok
+2024-10-29T16:53:33.570Z,36.09216667,-97.87433333,6.59,1.65,ml,36.0,63.0,0.1304743965,0.18,ok,ok2024vhbj,2024-10-30T12:33:01.970Z,"2 km SE of Hennessey, Oklahoma",earthquake,,0.5,0.15,15.0,reviewed,ok,ok
