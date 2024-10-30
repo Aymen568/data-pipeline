@@ -2135,3 +2135,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-30T06:13:55.750Z,44.3045,-114.86466666667,5.5,2.33,ml,29.0,56.0,0.1987,0.19,mb,mb90064888,2024-10-30T15:51:53.450Z,"11 km NNE of Stanley, Idaho",earthquake,0.35,0.88,0.21263286208002,50.0,reviewed,mb,mb
 2024-10-30T16:30:33.860Z,33.1526667,-116.5838333,14.15,1.21,ml,49.0,48.0,0.07057,0.18,ci,ci40781823,2024-10-30T16:41:10.250Z,"8 km NNE of Julian, CA",earthquake,0.17,0.4,0.197,27.0,automatic,ci,ci
 2024-10-30T16:18:41.150Z,62.4289,-151.1572,14.5,1.8,ml,,,,0.25,ak,ak024dz10dv7,2024-10-30T16:20:36.689Z,"21 km WSW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-30T16:52:17.390Z,38.833831787109,-122.80867004394,1.8099999427795,0.74,md,12.0,98.0,0.01048,0.02,nc,nc75080896,2024-10-30T16:53:52.262Z,"8 km WNW of Cobb, CA",earthquake,0.33,0.75999999,0.14,12.0,automatic,nc,nc
