@@ -2007,3 +2007,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-29T04:11:39.600Z,61.305333333333,-152.24533333333,0.1,-0.1,ml,9.0,119.0,0.05917,0.06,av,av93335498,2024-10-30T03:57:25.200Z,"65 km WNW of Beluga, Alaska",earthquake,0.22,1.83,0.22768317894152,10.0,reviewed,av,av
 2024-10-30T04:31:04.103Z,63.0685,-149.3125,77.0,2.3,ml,,,,0.41,ak,ak024dytxw22,2024-10-30T04:32:57.993Z,"40 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-30T04:30:42.580Z,37.959167480469,-122.06800079346,10.109999656677,1.35,md,13.0,79.0,0.07788,0.07,nc,nc75080726,2024-10-30T04:32:21.256Z,"1 km NNW of Pleasant Hill, CA",earthquake,0.3,0.99000001,0.24,9.0,automatic,nc,nc
+2024-10-30T04:37:22.654Z,62.3826,-149.1626,34.8,2.1,ml,,,,0.39,ak,ak024dytz7s9,2024-10-30T04:39:05.433Z,"43 km NE of Susitna North, Alaska",earthquake,,3.7,,,automatic,ak,ak
+2024-10-30T04:29:56.739Z,60.0983,-153.0697,122.0,3.0,ml,,,,1.07,ak,ak024dytxkp7,2024-10-30T04:42:40.207Z,"67 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
