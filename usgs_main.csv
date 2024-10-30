@@ -2082,3 +2082,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-30T10:18:00.820Z,34.0173333,-117.5916667,5.02,1.23,ml,58.0,29.0,0.02047,0.14,ci,ci40966704,2024-10-30T10:25:50.003Z,"5 km SE of Ontario, CA",earthquake,0.12,0.23,0.214,32.0,automatic,ci,ci
 2024-10-30T10:42:15.438Z,61.3325,-151.3001,68.6,2.3,ml,,,,0.68,ak,ak024dyxkvqi,2024-10-30T10:45:36.268Z,"24 km NNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-10-30T10:39:47.140Z,34.4511667,-119.1356667,9.95,1.24,ml,20.0,53.0,0.01429,0.17,ci,ci40966720,2024-10-30T10:45:53.124Z,"10 km E of Ojai, CA",earthquake,0.26,0.67,0.406,25.0,automatic,ci,ci
+2024-10-30T06:31:31.008Z,31.654,-104.336,6.51,1.4,ml,18.0,59.0,0.1,0.2,tx,tx2024vici,2024-10-30T11:05:30.164Z,"57 km S of Whites City, New Mexico",earthquake,0.96358787018475,0.88945931938159,0.1,17.0,reviewed,tx,tx
