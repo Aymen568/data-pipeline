@@ -2052,3 +2052,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-30T06:14:26.486Z,36.0975,139.7772,74.849,4.7,mb,25.0,128.0,1.342,0.47,us,us7000nnyg,2024-10-30T07:28:48.040Z,"2 km W of Sakai, Japan",earthquake,6.88,9.468,0.183,9.0,reviewed,us,us
 2024-10-29T17:32:38.920Z,53.880666666667,-166.93816666667,5.82,-0.04,ml,7.0,198.0,0.0727,0.11,av,av93336213,2024-10-30T07:27:59.780Z,"26 km W of Dutch Harbor, Alaska",earthquake,0.5,1.18,0.15964826532025,6.0,reviewed,av,av
 2024-10-29T17:29:12.160Z,61.3085,-152.301,-2.3,0.03,ml,9.0,143.0,0.06034,0.29,av,av93336208,2024-10-30T07:22:58.500Z,"68 km WNW of Beluga, Alaska",earthquake,0.58,2.64,0.24246631566265,8.0,reviewed,av,av
+2024-10-30T07:34:47.995Z,62.0369,-146.6381,39.7,2.1,ml,,,,0.63,ak,ak024dyvqxen,2024-10-30T07:36:25.367Z,"8 km NE of Nelchina, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-10-29T17:52:16.090Z,61.294,-152.29816666667,2.74,-0.33,ml,6.0,190.0,0.05006,0.12,av,av93336238,2024-10-30T07:32:15.790Z,"67 km WNW of Tyonek, Alaska",earthquake,0.59,1.31,0.2208846966998,6.0,reviewed,av,av
