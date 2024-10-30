@@ -1056,4 +1056,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 2.3 and occurred in/near 40 km SSW of Cantwell, Alaska on 10/30/2024 at 04:31 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 2010 recorded earthquakes.
 The most recent earthquake had a magnitude of 2.1 and occurred in/near 43 km NE of Susitna North, Alaska on 10/30/2024 at 04:37 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 2014 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.1 and occurred in/near 24 km NW of Furnace Creek, California on 10/30/2024 at 04:48 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n
