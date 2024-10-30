@@ -2074,3 +2074,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-30T09:01:45.250Z,38.784832000732,-122.74583435059,2.1199998855591,0.8,md,8.0,102.0,0.007295,0.02,nc,nc75080806,2024-10-30T09:17:18.732Z,"1 km ENE of The Geysers, CA",earthquake,0.46,0.75999999,0.08,2.0,automatic,nc,nc
 2024-10-30T08:59:09.119Z,-25.2279,-178.7697,387.282,4.9,mb,41.0,114.0,4.071,1.27,us,us7000nnyz,2024-10-30T09:16:42.040Z,south of the Fiji Islands,earthquake,13.21,10.078,0.096,34.0,reviewed,us,us
 2024-10-30T09:32:38.730Z,32.7913322,-116.104332,10.79,1.76,ml,55.0,64.0,0.006045,0.27,ci,ci40966680,2024-10-30T09:34:59.355Z,"12 km WNW of Ocotillo, CA",earthquake,0.31,0.52,0.275,19.0,automatic,ci,ci
+2024-10-30T09:41:14.386Z,37.0587,-117.5012,0.0,0.4,ml,9.0,206.43,0.125,0.4963,nn,nn00886994,2024-10-30T09:43:42.833Z,"68 km WNW of Beatty, Nevada",earthquake,,14.2,0.09,3.0,automatic,nn,nn
