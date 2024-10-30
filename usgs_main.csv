@@ -2128,3 +2128,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-30T15:10:19.420Z,38.834167480469,-122.81583404541,1.710000038147,1.08,md,16.0,58.0,0.01166,0.02,nc,nc75080871,2024-10-30T15:11:57.731Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.519999981,0.21,18.0,automatic,nc,nc
 2024-10-30T14:58:14.070Z,34.413,-119.1365,15.91,2.1,ml,56.0,41.0,0.02388,0.3,ci,ci40966864,2024-10-30T15:19:09.704Z,"10 km NW of Santa Paula, CA",earthquake,0.29,0.64,0.222,27.0,automatic,ci,ci
 2024-10-30T14:43:51.154Z,31.662,-104.446,5.0232,2.0,ml,17.0,71.0,0.0,0.1,tx,tx2024visw,2024-10-30T15:07:46.872Z,"57 km S of Whites City, New Mexico",earthquake,0.66813787229535,0.7708560325965,0.1,37.0,reviewed,tx,tx
+2024-10-30T15:30:43.247Z,36.6113,-117.0484,16.0,0.7,ml,8.0,259.87,0.369,0.0885,nn,nn00887004,2024-10-30T15:32:43.987Z,"25 km NW of Furnace Creek, California",earthquake,,4.4,0.38,5.0,automatic,nn,nn
+2024-10-30T11:53:03.622Z,36.9591,-116.2014,4.6,0.0,ml,11.0,70.12,0.04,0.1718,nn,nn00887003,2024-10-30T15:33:42.667Z,"50 km E of Beatty, Nevada",earthquake,,2.2,0.61,3.0,reviewed,nn,nn
