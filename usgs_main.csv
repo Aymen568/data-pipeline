@@ -2142,3 +2142,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-29T19:47:14.860Z,34.6335,-117.1193333,-0.97,1.99,ml,28.0,67.0,0.1881,0.2,ci,ci40966520,2024-10-30T17:05:07.485Z,"16 km NNE of Apple Valley, CA",quarry blast,0.32,31.61,0.175,88.0,reviewed,ci,ci
 2024-10-30T17:32:11.550Z,38.796333312988,-122.73300170898,1.6200000047684,1.91,md,27.0,54.0,0.0134,0.05,nc,nc75080936,2024-10-30T17:35:24.990Z,"3 km NE of The Geysers, CA",earthquake,0.23,0.370000005,0.16,29.0,automatic,nc,nc
 2024-10-29T23:22:06.070Z,35.0375,-117.6785,-0.82,1.73,ml,9.0,144.0,0.1039,0.1,ci,ci37687332,2024-10-30T17:38:17.638Z,"5 km NNW of Boron, CA",quarry blast,0.39,31.61,0.122,4.0,reviewed,ci,ci
+2024-10-30T17:49:20.519Z,36.8713,-116.0559,13.5,0.0,ml,8.0,140.83,0.061,0.0571,nn,nn00887007,2024-10-30T17:51:24.813Z,"48 km NW of Indian Springs, Nevada",earthquake,,1.5,0.28,5.0,automatic,nn,nn
+2024-10-30T13:55:47.170Z,-0.5175,-79.7599,54.492,3.0,ml,8.0,254.0,1.213,0.26,us,us7000np0b,2024-10-30T17:52:04.040Z,"42 km ENE of Chone, Ecuador",earthquake,7.26,31.56,0.085,18.0,reviewed,us,us
