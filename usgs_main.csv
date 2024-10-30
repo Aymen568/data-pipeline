@@ -2202,3 +2202,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-30T22:04:39.820Z,33.8493347,-117.62883,9.71,1.07,ml,20.0,106.0,0.05635,0.12,ci,ci40783151,2024-10-30T22:09:04.654Z,"6 km WSW of Corona, CA",earthquake,0.37,0.85,0.202,6.0,automatic,ci,ci
 2024-10-30T21:54:39.159Z,59.0943,-152.6677,65.4,2.2,ml,,,,0.26,ak,ak024dz479ij,2024-10-30T21:56:51.809Z,"51 km SW of Nanwalek, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-10-30T21:39:07.062Z,19.0488,121.2583,10.0,4.7,mb,74.0,114.0,3.754,0.62,us,us7000np3w,2024-10-30T21:59:11.040Z,"49 km NNE of Namuac, Philippines",earthquake,9.56,1.777,0.064,73.0,reviewed,us,us
+2024-10-30T22:23:09.474Z,61.8074,-150.1033,29.2,2.0,ml,,,,0.31,ak,ak024dz4lzmr,2024-10-30T22:24:55.439Z,"7 km NNW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-30T22:22:19.550Z,35.9031667,-117.7388333,8.61,1.28,ml,22.0,54.0,0.07889,0.1,ci,ci40783319,2024-10-30T22:28:54.482Z,"16 km ESE of Little Lake, CA",earthquake,0.13,0.42,0.139,5.0,automatic,ci,ci
+2024-10-30T22:21:18.390Z,36.0315,-117.8226667,1.41,2.53,ml,35.0,47.0,0.04696,0.16,ci,ci40783311,2024-10-30T22:32:24.040Z,"11 km E of Coso Junction, CA",earthquake,0.15,0.23,0.177,25.0,automatic,ci,ci
+2024-10-30T22:07:13.635Z,24.4554,122.6894,92.406,4.2,mb,36.0,65.0,0.293,0.82,us,us7000np3z,2024-10-30T22:26:28.040Z,"31 km W of Yonakuni, Japan",earthquake,6.69,4.703,0.118,20.0,reviewed,us,us
+2024-10-30T08:38:48.550Z,34.5556667,-120.527,-0.13,1.61,ml,18.0,243.0,0.1501,0.25,ci,ci37687340,2024-10-30T22:20:43.372Z,"11 km SW of Lompoc, CA",earthquake,1.08,0.74,0.165,14.0,reviewed,ci,ci
