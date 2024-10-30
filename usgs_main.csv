@@ -2123,3 +2123,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-30T14:38:26.594Z,67.9951,-149.2955,1.2,1.9,ml,,,,1.21,ak,ak024dyzxrvb,2024-10-30T14:40:47.367Z,"73 km NNE of Wiseman, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-10-30T14:37:09.750Z,38.82483291626,-122.85749816894,2.0099999904633,1.07,md,12.0,142.0,0.002752,0.07,nc,nc75080856,2024-10-30T14:38:46.464Z,"10 km NW of The Geysers, CA",earthquake,0.38,0.49000001,0.14,13.0,automatic,nc,nc
 2024-10-29T23:50:39.500Z,47.822833333333,-113.4455,2.39,0.66,ml,8.0,144.0,0.2149,0.04,mb,mb90064913,2024-10-30T14:41:50.130Z,"32 km ESE of Swan Lake, Montana",earthquake,0.54,1.18,0.18532817535949,4.0,reviewed,mb,mb
+2024-10-30T00:48:53.360Z,44.302666666667,-114.87033333333,1.59,1.43,ml,9.0,96.0,0.1972,0.06,mb,mb90064918,2024-10-30T14:55:03.670Z,"10 km NNE of Stanley, Idaho",earthquake,0.28,1.01,0.14551571730135,11.0,reviewed,mb,mb
