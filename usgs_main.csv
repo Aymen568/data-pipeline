@@ -2130,3 +2130,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-30T14:43:51.154Z,31.662,-104.446,5.0232,2.0,ml,17.0,71.0,0.0,0.1,tx,tx2024visw,2024-10-30T15:07:46.872Z,"57 km S of Whites City, New Mexico",earthquake,0.66813787229535,0.7708560325965,0.1,37.0,reviewed,tx,tx
 2024-10-30T15:30:43.247Z,36.6113,-117.0484,16.0,0.7,ml,8.0,259.87,0.369,0.0885,nn,nn00887004,2024-10-30T15:32:43.987Z,"25 km NW of Furnace Creek, California",earthquake,,4.4,0.38,5.0,automatic,nn,nn
 2024-10-30T11:53:03.622Z,36.9591,-116.2014,4.6,0.0,ml,11.0,70.12,0.04,0.1718,nn,nn00887003,2024-10-30T15:33:42.667Z,"50 km E of Beatty, Nevada",earthquake,,2.2,0.61,3.0,reviewed,nn,nn
+2024-10-30T15:45:23.449Z,36.7002,-116.3007,9.2,-0.1,ml,9.0,116.65,0.032,0.0949,nn,nn00887006,2024-10-30T15:47:24.551Z,"47 km ESE of Beatty, Nevada",earthquake,,1.4,0.09,3.0,automatic,nn,nn
