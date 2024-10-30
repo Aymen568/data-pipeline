@@ -2005,3 +2005,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-30T03:42:55.788Z,60.08,-141.3948,14.0,2.1,ml,,,,0.96,ak,ak024dytexbe,2024-10-30T03:45:02.375Z,"110 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-29T04:32:21.080Z,52.071,-176.1305,-1.78,-0.13,ml,6.0,113.0,0.01749,0.31,av,av93025624,2024-10-30T03:56:30.730Z,"40 km ENE of Adak, Alaska",earthquake,0.71,1.27,0.22590405450391,6.0,reviewed,av,av
 2024-10-29T04:11:39.600Z,61.305333333333,-152.24533333333,0.1,-0.1,ml,9.0,119.0,0.05917,0.06,av,av93335498,2024-10-30T03:57:25.200Z,"65 km WNW of Beluga, Alaska",earthquake,0.22,1.83,0.22768317894152,10.0,reviewed,av,av
+2024-10-30T04:31:04.103Z,63.0685,-149.3125,77.0,2.3,ml,,,,0.41,ak,ak024dytxw22,2024-10-30T04:32:57.993Z,"40 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-10-30T04:30:42.580Z,37.959167480469,-122.06800079346,10.109999656677,1.35,md,13.0,79.0,0.07788,0.07,nc,nc75080726,2024-10-30T04:32:21.256Z,"1 km NNW of Pleasant Hill, CA",earthquake,0.3,0.99000001,0.24,9.0,automatic,nc,nc
