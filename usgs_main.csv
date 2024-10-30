@@ -2002,3 +2002,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-30T02:57:29.465Z,61.5693,-148.0144,17.3,1.7,ml,,,,0.36,ak,ak024dyswnf6,2024-10-30T02:59:01.057Z,"32 km SW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-30T02:51:18.150Z,34.0876667,-118.1841667,10.85,1.55,ml,47.0,75.0,0.05077,0.21,ci,ci40966624,2024-10-30T02:57:57.962Z,"4 km SSE of Highland Park, CA",earthquake,0.24,0.38,0.195,32.0,automatic,ci,ci
 2024-10-30T02:45:13.020Z,19.0725,-66.3785,39.86,3.17,md,25.0,247.0,0.6093,0.26,pr,pr71464203,2024-10-30T03:13:36.880Z,"67 km N of Brenas, Puerto Rico",earthquake,0.98,3.91,0.14179779164692,12.0,reviewed,pr,pr
+2024-10-30T03:42:55.788Z,60.08,-141.3948,14.0,2.1,ml,,,,0.96,ak,ak024dytexbe,2024-10-30T03:45:02.375Z,"110 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
