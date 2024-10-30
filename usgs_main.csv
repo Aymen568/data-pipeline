@@ -2207,3 +2207,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-30T22:21:18.390Z,36.0315,-117.8226667,1.41,2.53,ml,35.0,47.0,0.04696,0.16,ci,ci40783311,2024-10-30T22:32:24.040Z,"11 km E of Coso Junction, CA",earthquake,0.15,0.23,0.177,25.0,automatic,ci,ci
 2024-10-30T22:07:13.635Z,24.4554,122.6894,92.406,4.2,mb,36.0,65.0,0.293,0.82,us,us7000np3z,2024-10-30T22:26:28.040Z,"31 km W of Yonakuni, Japan",earthquake,6.69,4.703,0.118,20.0,reviewed,us,us
 2024-10-30T08:38:48.550Z,34.5556667,-120.527,-0.13,1.61,ml,18.0,243.0,0.1501,0.25,ci,ci37687340,2024-10-30T22:20:43.372Z,"11 km SW of Lompoc, CA",earthquake,1.08,0.74,0.165,14.0,reviewed,ci,ci
+2024-10-30T22:49:25.700Z,19.136499404907,-155.47067260742,32.040000915527,1.84000003,md,29.0,184.0,0.02048,0.170000002,hv,hv74518057,2024-10-30T22:51:08.950Z,"7 km S of Pāhala, Hawaii",earthquake,0.75,0.699999988,0.159999996,3.0,automatic,hv,hv
+2024-10-30T20:24:19.685Z,53.1617,-169.8864,180.5,3.5,ml,,,,0.48,ak,ak024dz3fdui,2024-10-30T22:49:21.053Z,"73 km WNW of Nikolski, Alaska",earthquake,,0.7,,,reviewed,ak,ak
