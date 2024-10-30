@@ -1168,4 +1168,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 0.86 and occurred in/near 3 km SW of Anderson Springs, CA on 10/30/2024 at 09:09 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 2194 recorded earthquakes.
 The most recent earthquake had a magnitude of 2.26999998 and occurred in/near 13 km NNE of Pāhala, Hawaii on 10/30/2024 at 09:26 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 2198 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.9 and occurred in/near 15 km NE of Nikolaevsk, Alaska on 10/30/2024 at 09:36 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n
