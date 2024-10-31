@@ -1210,4 +1210,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.5 and occurred in/near 28 km WSW of Furnace Creek, California on 10/31/2024 at 05:26 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 2262 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.07 and occurred in/near 5 km NW of The Geysers, CA on 10/31/2024 at 05:40 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 2269 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.62 and occurred in/near 5 km E of Yucaipa, CA on 10/31/2024 at 05:48 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n
