@@ -2249,3 +2249,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-30T10:36:28.096Z,51.4587,-178.1402,10.0,3.9,ml,40.0,196.0,0.333,0.51,us,us7000np2l,2024-10-31T04:31:22.040Z,"113 km WSW of Adak, Alaska",earthquake,1.55,1.874,0.081,20.0,reviewed,us,us
 2024-10-31T04:43:37.198Z,62.019,-144.1207,68.5,1.9,ml,,,,0.77,ak,ak024e0hjvp3,2024-10-31T04:46:21.236Z,"54 km NE of Kenny Lake, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-10-30T15:46:40.190Z,61.354166666667,-152.30666666667,1.64,0.39,ml,9.0,143.0,0.1005,0.19,av,av93337473,2024-10-31T04:44:36.770Z,"69 km WNW of Beluga, Alaska",earthquake,0.44,1.31,0.25500474300494,9.0,reviewed,av,av
+2024-10-31T05:01:35.530Z,32.7383333,-117.0808333,12.23,0.87,ml,14.0,206.0,0.1167,0.12,ci,ci40784111,2024-10-31T05:07:47.579Z,"5 km W of Lemon Grove, CA",earthquake,0.43,0.71,0.11,9.0,automatic,ci,ci
+2024-10-31T04:46:04.882Z,31.631,-104.462,5.9386,1.5,ml,8.0,110.0,0.0,0.3,tx,tx2024vjuh,2024-10-31T05:05:39.977Z,"60 km S of Whites City, New Mexico",earthquake,0.0,5.470326423645,0.1,6.0,automatic,tx,tx
+2024-10-31T04:42:56.651Z,31.624,-104.122,4.5794,1.6,ml,16.0,56.0,0.0,0.1,tx,tx2024vjug,2024-10-31T04:54:00.303Z,"46 km NW of Toyah, Texas",earthquake,0.0,1.4232758283615,0.3,12.0,automatic,tx,tx
+2024-10-31T04:35:09.862Z,28.9395,34.2265,10.0,4.3,mb,22.0,251.0,2.626,1.16,us,us7000np55,2024-10-31T05:01:53.040Z,"44 km WSW of Nuwaybi‘a, Egypt",earthquake,13.27,2.018,0.137,15.0,reviewed,us,us
+2024-10-30T17:31:13.980Z,53.911,-166.78,4.24,-0.53,ml,6.0,96.0,0.00604,0.11,av,av93025709,2024-10-31T05:04:33.680Z,"15 km W of Dutch Harbor, Alaska",earthquake,0.39,0.9,0.21328915679398,6.0,reviewed,av,av
+2024-10-30T16:38:36.670Z,51.987666666667,178.4735,4.4,1.03,ml,4.0,328.0,0.03148,0.19,av,av93025704,2024-10-31T04:59:37.450Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.08,1.11,0.45281039377978,4.0,reviewed,av,av
