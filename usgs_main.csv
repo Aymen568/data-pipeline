@@ -2284,3 +2284,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-31T07:25:08.292Z,59.897,-152.8373,102.2,1.9,ml,,,,0.16,ak,ak024e0j89e5,2024-10-31T07:27:17.047Z,"57 km WNW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-10-31T08:12:01.102Z,63.5538,-147.3237,6.2,1.8,ml,,,,0.39,ak,ak024e0jqw4u,2024-10-31T08:14:32.022Z,"81 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-31T07:56:11.000Z,38.82833480835,-122.81500244141,1.7300000190735,0.5,md,11.0,83.0,0.006257,0.01,nc,nc75081211,2024-10-31T08:17:18.660Z,"8 km NNW of The Geysers, CA",earthquake,0.34,0.629999995,0.27,11.0,automatic,nc,nc
+2024-10-31T08:39:51.400Z,38.82816696167,-122.81549835205,1.8300000429153,1.08,md,13.0,61.0,0.006376,0.01,nc,nc75081231,2024-10-31T08:41:29.795Z,"8 km NNW of The Geysers, CA",earthquake,0.26,0.75,0.09,15.0,automatic,nc,nc
+2024-10-31T08:28:45.862Z,36.6474,-117.087,10.6,1.0,ml,12.0,260.79,0.329,0.2573,nn,nn00887036,2024-10-31T08:30:48.899Z,"30 km NW of Furnace Creek, California",earthquake,,1.4,0.45,9.0,automatic,nn,nn
+2024-10-31T08:26:32.824Z,36.57,-117.1018,7.3,0.5,ml,8.0,267.71,0.414,0.1405,nn,nn00887035,2024-10-31T08:29:57.623Z,"26 km WNW of Furnace Creek, California",earthquake,,185.7,0.51,4.0,automatic,nn,nn
