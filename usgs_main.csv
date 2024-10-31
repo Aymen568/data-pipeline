@@ -2304,3 +2304,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-31T11:43:01.150Z,36.0288333,-117.82,1.16,0.83,ml,22.0,57.0,0.04452,0.17,ci,ci40784639,2024-10-31T11:48:44.017Z,"12 km E of Coso Junction, CA",earthquake,0.18,0.26,0.138,13.0,automatic,ci,ci
 2024-10-31T11:32:52.510Z,34.1908333,-116.8271667,7.03,0.91,ml,42.0,58.0,0.1053,0.15,ci,ci40784631,2024-10-31T11:39:08.516Z,"8 km SSE of Big Bear City, CA",earthquake,0.17,0.6,0.122,20.0,automatic,ci,ci
 2024-10-31T08:35:10.040Z,18.071666666667,-65.714,13.16,2.37,md,7.0,175.0,0.1461,0.18,pr,pr71464288,2024-10-31T11:47:47.870Z,"11 km SSE of Punta Santiago, Puerto Rico",earthquake,1.15,0.74,0.17306654268346,7.0,reviewed,pr,pr
+2024-10-31T12:43:16.220Z,34.5401649,-118.8761673,4.18,1.42,ml,21.0,56.0,0.06936,0.21,ci,ci40784647,2024-10-31T12:45:18.652Z,"16 km NNW of Piru, CA",earthquake,0.41,1.04,0.245,8.0,automatic,ci,ci
+2024-10-31T12:25:55.889Z,36.6259,-117.1121,2.2,1.2,ml,21.0,188.19,0.344,0.2335,nn,nn00887038,2024-10-31T12:28:11.159Z,"30 km NW of Furnace Creek, California",earthquake,,5.7,0.26,12.0,automatic,nn,nn
