@@ -2255,3 +2255,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-31T04:35:09.862Z,28.9395,34.2265,10.0,4.3,mb,22.0,251.0,2.626,1.16,us,us7000np55,2024-10-31T05:01:53.040Z,"44 km WSW of Nuwaybi‘a, Egypt",earthquake,13.27,2.018,0.137,15.0,reviewed,us,us
 2024-10-30T17:31:13.980Z,53.911,-166.78,4.24,-0.53,ml,6.0,96.0,0.00604,0.11,av,av93025709,2024-10-31T05:04:33.680Z,"15 km W of Dutch Harbor, Alaska",earthquake,0.39,0.9,0.21328915679398,6.0,reviewed,av,av
 2024-10-30T16:38:36.670Z,51.987666666667,178.4735,4.4,1.03,ml,4.0,328.0,0.03148,0.19,av,av93025704,2024-10-31T04:59:37.450Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.08,1.11,0.45281039377978,4.0,reviewed,av,av
+2024-10-31T05:26:04.810Z,36.3743,-117.157,2.1,1.5,ml,23.0,212.21,0.42,0.2713,nn,nn00887032,2024-10-31T05:28:19.535Z,"28 km WSW of Furnace Creek, California",earthquake,,12.9,0.12,13.0,automatic,nn,nn
+2024-10-31T05:19:44.210Z,40.507831573486,-120.63766479492,3.2300000190735,3.1,ml,22.0,95.0,,0.17,nc,nc75081151,2024-10-31T05:30:46.411Z,"10 km NNE of Susanville, CA",earthquake,0.5,2.55999994,0.27,11.0,automatic,nc,nc
+2024-10-31T05:11:54.120Z,33.2353333,-116.6488333,11.76,0.6,ml,38.0,53.0,0.03611,0.16,ci,ci40784119,2024-10-31T05:17:37.813Z,"5 km SSW of Warner Springs, CA",earthquake,0.19,0.42,0.153,13.0,automatic,ci,ci
+2024-10-30T19:06:01.850Z,52.071,-176.09866666667,-1.77,1.08,ml,5.0,111.0,0.03224,0.26,av,av93337583,2024-10-31T05:29:34.740Z,"42 km ENE of Adak, Alaska",earthquake,0.98,2.05,0.21910774910152,5.0,reviewed,av,av
