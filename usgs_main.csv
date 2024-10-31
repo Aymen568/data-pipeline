@@ -2377,3 +2377,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-31T18:25:26.139Z,63.155,-151.3152,0.1,1.6,ml,,,,0.86,ak,ak024e0ps2f9,2024-10-31T18:27:43.129Z,"47 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-31T18:20:28.650Z,34.0195,-117.4668333,1.0,1.04,ml,47.0,45.0,0.01514,0.23,ci,ci40784927,2024-10-31T18:26:48.359Z,"2 km ENE of Glen Avon, CA",earthquake,0.22,0.33,0.173,30.0,automatic,ci,ci
 2024-10-31T18:19:18.520Z,36.238498687744,-120.80699920654,9.2299995422363,2.16,md,39.0,73.0,,0.11,nc,nc75081466,2024-10-31T18:37:33.233Z,"23 km ENE of San Lucas, CA",earthquake,0.26,0.519999981,0.21,31.0,automatic,nc,nc
+2024-10-31T18:39:57.440Z,38.848834991455,-122.78033447266,1.3500000238419,1.06,md,13.0,153.0,0.006942,0.02,nc,nc75081486,2024-10-31T18:42:41.896Z,"6 km NW of Cobb, CA",earthquake,0.33,0.439999998,0.18,13.0,automatic,nc,nc
+2024-10-31T18:14:13.974Z,-3.0489,-79.6937,10.0,3.5,ml,9.0,333.0,0.725,0.23,us,us7000np8h,2024-10-31T18:41:00.040Z,"20 km SE of Baláo, Ecuador",earthquake,6.99,2.004,0.085,18.0,reviewed,us,us
