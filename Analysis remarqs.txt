@@ -1318,4 +1318,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.87 and occurred in/near 11 km ENE of Pāhala, Hawaii on 10/31/2024 at 09:04 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 2404 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.33 and occurred in/near 4 km NW of San Luis Obispo, CA on 10/31/2024 at 09:20 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 2408 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.25 and occurred in/near 4 km ENE of Rancho San Diego, CA on 10/31/2024 at 09:31 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n
