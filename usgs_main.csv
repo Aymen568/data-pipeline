@@ -2373,3 +2373,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-31T17:46:28.610Z,-6.937,155.4395,50.582,5.3,mww,79.0,34.0,4.251,0.6,us,us7000np8b,2024-10-31T18:05:18.040Z,"68 km S of Panguna, Papua New Guinea",earthquake,8.13,5.207,0.075,17.0,reviewed,us,us
 2024-10-31T10:49:37.710Z,34.5285,-118.89,7.16,0.73,ml,10.0,62.0,0.05383,0.19,ci,ci37687556,2024-10-31T18:08:50.573Z,"15 km N of Fillmore, CA",earthquake,0.41,0.98,0.118,6.0,reviewed,ci,ci
 2024-10-31T10:48:38.060Z,34.51,-118.881,9.61,1.67,ml,16.0,87.0,0.04255,0.21,ci,ci37687540,2024-10-31T17:52:53.166Z,"13 km NNE of Fillmore, CA",earthquake,0.42,0.79,0.105,8.0,reviewed,ci,ci
+2024-10-31T18:34:46.030Z,38.838333129883,-122.77816772461,0.76999998092651,1.19,md,11.0,89.0,0.004481,0.02,nc,nc75081471,2024-10-31T18:37:36.850Z,"5 km WNW of Cobb, CA",earthquake,0.28,0.430000007,0.21,11.0,automatic,nc,nc
+2024-10-31T18:25:26.139Z,63.155,-151.3152,0.1,1.6,ml,,,,0.86,ak,ak024e0ps2f9,2024-10-31T18:27:43.129Z,"47 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-31T18:20:28.650Z,34.0195,-117.4668333,1.0,1.04,ml,47.0,45.0,0.01514,0.23,ci,ci40784927,2024-10-31T18:26:48.359Z,"2 km ENE of Glen Avon, CA",earthquake,0.22,0.33,0.173,30.0,automatic,ci,ci
+2024-10-31T18:19:18.520Z,36.238498687744,-120.80699920654,9.2299995422363,2.16,md,39.0,73.0,,0.11,nc,nc75081466,2024-10-31T18:37:33.233Z,"23 km ENE of San Lucas, CA",earthquake,0.26,0.519999981,0.21,31.0,automatic,nc,nc
