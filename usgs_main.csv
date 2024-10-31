@@ -2243,3 +2243,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-31T02:56:40.767Z,-22.962,-179.8161,567.499,4.5,mb,28.0,126.0,5.562,0.81,us,us7000np4w,2024-10-31T03:15:52.040Z,south of the Fiji Islands,earthquake,15.37,10.518,0.1,29.0,reviewed,us,us
 2024-10-31T03:56:35.069Z,65.4472,-148.2359,1.1,1.7,ml,,,,0.5,ak,ak024e0h188i,2024-10-31T03:59:52.141Z,"16 km ESE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-30T14:24:07.990Z,57.034833333333,-135.65783333333,6.68,0.97,ml,5.0,183.0,0.02948,0.15,av,av93337448,2024-10-31T04:07:06.820Z,"19 km W of Sitka, Alaska",earthquake,1.23,0.96,0.31566857118067,5.0,reviewed,av,av
+2024-10-31T04:33:34.604Z,62.8788,-150.5457,80.9,3.6,ml,,,,0.46,ak,ak024e0hhqaj,2024-10-31T04:35:41.706Z,"44 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-10-31T04:21:28.402Z,60.1964,-151.2551,36.1,2.2,ml,,,,0.38,ak,ak024e0hf59k,2024-10-31T04:22:49.688Z,"8 km ESE of Clam Gulch, Alaska",earthquake,,5.2,,,automatic,ak,ak
+2024-10-31T04:12:52.120Z,34.277,-116.9011667,6.2,0.73,ml,35.0,59.0,0.02186,0.15,ci,ci40783951,2024-10-31T04:18:57.144Z,"4 km NNE of Big Bear Lake, CA",earthquake,0.18,0.34,0.152,8.0,automatic,ci,ci
+2024-10-30T10:36:28.096Z,51.4587,-178.1402,10.0,3.9,ml,40.0,196.0,0.333,0.51,us,us7000np2l,2024-10-31T04:31:22.040Z,"113 km WSW of Adak, Alaska",earthquake,1.55,1.874,0.081,20.0,reviewed,us,us
