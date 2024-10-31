@@ -2332,3 +2332,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-31T13:12:53.977Z,42.9556,145.4577,93.417,4.5,mb,22.0,142.0,1.944,1.04,us,us7000np6i,2024-10-31T14:22:24.040Z,"41 km SSW of Nemuro, Japan",earthquake,10.06,8.116,0.125,19.0,reviewed,us,us
 2024-10-31T10:32:53.530Z,46.291833333333,-113.038,5.0,1.04,ml,10.0,70.0,0.441,0.1,mb,mb90064988,2024-10-31T14:21:47.260Z,"19 km NNW of Anaconda, Montana",earthquake,0.34,8.72,0.074469317156498,7.0,reviewed,mb,mb
 2024-10-31T09:19:25.930Z,45.746833333333,-111.9095,8.23,0.3,ml,5.0,114.0,0.09381,0.07,mb,mb90064983,2024-10-31T14:13:10.060Z,"9 km N of Pony, Montana",earthquake,0.38,1.53,0.25176686618631,4.0,reviewed,mb,mb
+2024-10-31T14:37:32.592Z,62.0014,-150.6453,25.7,1.4,ml,,,,0.78,ak,ak024e0ngx3f,2024-10-31T14:39:37.825Z,"39 km E of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-31T12:00:12.570Z,44.859,-111.39383333333,7.5,1.29,ml,22.0,62.0,0.03827,0.13,mb,mb90064993,2024-10-31T14:39:31.650Z,"18 km WNW of Hebgen Lake Estates, Montana",earthquake,0.21,0.39,0.20449844613908,28.0,reviewed,mb,mb
