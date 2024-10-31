@@ -2230,3 +2230,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-30T23:47:24.357Z,4.6878,127.4965,120.687,4.6,mb,51.0,107.0,3.039,0.69,us,us7000np45,2024-10-31T00:03:03.040Z,"235 km SE of Pondaguitan, Philippines",earthquake,9.35,5.902,0.078,49.0,reviewed,us,us
 2024-10-30T18:10:46.294Z,36.8665,-116.0604,11.9,0.2,ml,26.0,44.98,0.062,0.1306,nn,nn00887008,2024-10-31T00:02:07.829Z,"47 km NW of Indian Springs, Nevada",earthquake,,0.8,0.33,9.0,reviewed,nn,nn
 2024-10-30T02:18:42.114Z,38.263,74.1587,131.447,4.5,mb,54.0,206.0,3.805,0.6,us,us7000nnxq,2024-10-31T01:42:52.040Z,"19 km ENE of Murghob, Tajikistan",earthquake,10.14,10.271,0.085,40.0,reviewed,us,us
+2024-10-31T02:37:59.177Z,62.1549,-149.626,46.6,1.8,ml,,,,0.79,ak,ak024e0gbrvx,2024-10-31T02:39:49.445Z,"11 km E of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-10-31T02:29:29.450Z,33.2216667,-115.5725,2.68,1.2,ml,29.0,47.0,0.05692,0.21,ci,ci40783831,2024-10-31T02:41:24.153Z,"5 km WSW of Niland, CA",earthquake,0.24,0.27,0.323,27.0,automatic,ci,ci
+2024-10-31T02:14:29.098Z,65.736,-145.0637,13.1,1.9,ml,,,,0.95,ak,ak024e0g6s3h,2024-10-31T02:17:06.292Z,"21 km NNW of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-31T02:14:18.640Z,19.379499435425,-155.23699951172,2.1199998855591,1.8,ml,25.0,75.0,0.006813,0.170000002,hv,hv74518187,2024-10-31T02:17:12.740Z,"7 km S of Volcano, Hawaii",earthquake,0.23,0.209999993,0.43,12.0,automatic,hv,hv
+2024-10-31T01:32:40.503Z,29.8573,92.247,10.0,4.4,mb,35.0,89.0,6.447,0.82,us,us7000np4h,2024-10-31T01:54:50.040Z,"113 km ENE of Lhasa, China",earthquake,7.45,1.882,0.114,22.0,reviewed,us,us
