@@ -2409,3 +2409,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-31T07:47:25.510Z,61.313833333333,-152.2565,1.62,-0.23,ml,8.0,146.0,0.06896,0.08,av,av93338103,2024-10-31T21:36:14.060Z,"65 km WNW of Beluga, Alaska",earthquake,0.27,1.35,0.22740816333204,9.0,reviewed,av,av
 2024-10-31T09:19:41.650Z,57.048666666667,-135.64933333333,7.97,0.36,ml,5.0,168.0,0.03307,0.1,av,av93338168,2024-10-31T21:50:53.540Z,"19 km W of Sitka, Alaska",earthquake,1.17,0.7,0.40957438301619,5.0,reviewed,av,av
 2024-10-31T08:54:44.100Z,58.262166666667,-155.1025,3.79,-0.14,ml,9.0,95.0,0.04004,0.19,av,av93338158,2024-10-31T21:47:46.760Z,"86 km NNW of Karluk, Alaska",earthquake,0.33,0.74,0.17397743457159,9.0,reviewed,av,av
+2024-10-31T21:57:52.332Z,60.7071,-152.8443,138.5,1.6,ml,,,,0.36,ak,ak024e0rr94p,2024-10-31T22:00:36.858Z,"84 km W of Salamatof, Alaska",earthquake,,0.5,,,automatic,ak,ak
