@@ -2457,3 +2457,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T03:17:41.650Z,19.628499984741,-155.62449645996,10.539999961853,2.03999996,md,32.0,75.0,0.0888,0.150000006,hv,hv74518877,2024-11-01T03:19:24.400Z,"31 km NE of Honaunau-Napoopoo, Hawaii",earthquake,0.4,0.270000011,0.25,6.0,automatic,hv,hv
 2024-11-01T02:54:04.300Z,18.040666666667,-66.676166666667,17.06,2.21,md,7.0,161.0,0.06657,0.09,pr,pr71464358,2024-11-01T03:27:26.490Z,"2 km ESE of Tallaboa Alta, Puerto Rico",earthquake,0.43,0.51,0.13392239597372,5.0,reviewed,pr,pr
 2024-11-01T02:49:22.482Z,16.9753,-101.1874,10.0,4.3,mb,34.0,227.0,2.571,1.04,us,us7000npaf,2024-11-01T03:24:55.040Z,"41 km SSW of Papanoa, Mexico",earthquake,11.15,1.999,0.081,44.0,reviewed,us,us
+2024-11-01T01:41:17.617Z,-21.0367,-68.6702,138.782,4.1,mb,14.0,141.0,0.925,0.28,us,us7000npa9,2024-11-01T03:47:13.040Z,"48 km WNW of Ollagüe, Chile",earthquake,6.89,7.333,0.213,6.0,reviewed,us,us
