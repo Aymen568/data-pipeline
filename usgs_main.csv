@@ -2579,3 +2579,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T16:30:50.374Z,36.8156,-116.2155,3.8,0.5,ml,18.0,67.69,0.088,0.1193,nn,nn00887084,2024-11-01T16:32:37.339Z,"49 km ESE of Beatty, Nevada",earthquake,,0.6,0.25,11.0,automatic,nn,nn
 2024-11-01T15:57:46.880Z,18.1988,-68.1981,101.0,3.6,md,12.0,197.0,1.1054,0.36,pr,pr2024306000,2024-11-01T16:27:03.104Z,"47 km SSE of Punta Cana, Dominican Republic",earthquake,3.82,2.34,0.06,7.0,reviewed,pr,pr
 2024-11-01T16:44:00.392Z,62.0708,-149.3923,35.1,2.1,ml,,,,0.35,ak,ak024e2c8kbr,2024-11-01T16:45:29.254Z,"25 km ESE of Susitna North, Alaska",earthquake,,5.9,,,automatic,ak,ak
+2024-11-01T17:00:46.910Z,38.778667449951,-122.75783538818,1.4700000286102,0.8,md,9.0,102.0,0.01006,0.02,nc,nc75081866,2024-11-01T17:17:18.976Z,"0 km NNW of The Geysers, CA",earthquake,0.41,0.689999998,0.15,7.0,automatic,nc,nc
+2024-11-01T16:41:55.280Z,31.624,-104.459,3.5102,2.5,ml,18.0,113.0,0.0,0.4,tx,tx2024vmns,2024-11-01T17:12:04.011Z,"61 km S of Whites City, New Mexico",earthquake,0.0,1.7195972204208,0.1,14.0,automatic,tx,tx
