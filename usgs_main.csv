@@ -2581,3 +2581,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T16:44:00.392Z,62.0708,-149.3923,35.1,2.1,ml,,,,0.35,ak,ak024e2c8kbr,2024-11-01T16:45:29.254Z,"25 km ESE of Susitna North, Alaska",earthquake,,5.9,,,automatic,ak,ak
 2024-11-01T17:00:46.910Z,38.778667449951,-122.75783538818,1.4700000286102,0.8,md,9.0,102.0,0.01006,0.02,nc,nc75081866,2024-11-01T17:17:18.976Z,"0 km NNW of The Geysers, CA",earthquake,0.41,0.689999998,0.15,7.0,automatic,nc,nc
 2024-11-01T16:41:55.280Z,31.624,-104.459,3.5102,2.5,ml,18.0,113.0,0.0,0.4,tx,tx2024vmns,2024-11-01T17:12:04.011Z,"61 km S of Whites City, New Mexico",earthquake,0.0,1.7195972204208,0.1,14.0,automatic,tx,tx
+2024-11-01T17:25:15.386Z,34.99716949,-97.8345108,5.0,1.92,ml,15.0,66.81797791,0.05808335915,0.8012144406,ok,ok2024vmox,2024-11-01T17:34:45.208Z,"9 km NE of Ninnekah, Oklahoma",earthquake,3.302022761,,0.33,7.0,automatic,ok,ok
