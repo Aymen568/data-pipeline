@@ -2556,3 +2556,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T13:05:33.610Z,44.823666666667,-111.474,10.68,-0.03,ml,9.0,122.0,0.03208,0.11,mb,mb90065073,2024-11-01T14:35:01.210Z,"23 km WNW of Hebgen Lake Estates, Montana",earthquake,0.38,0.75,0.2238535348224,5.0,reviewed,mb,mb
 2024-11-01T12:53:01.160Z,44.847,-111.487,12.74,-0.4,ml,6.0,136.0,0.04372,0.09,mb,mb90065068,2024-11-01T14:30:45.020Z,"25 km WNW of Hebgen Lake Estates, Montana",earthquake,1.29,0.89,0.22139585313551,2.0,reviewed,mb,mb
 2024-10-31T17:35:45.628Z,32.409,-102.072,8.4229,1.1,ml,34.0,78.0,0.0,0.1,tx,tx2024vktu,2024-11-01T14:30:28.303Z,"35 km WSW of Ackerly, Texas",earthquake,0.57127129750638,0.74754588833327,0.2,25.0,reviewed,tx,tx
+2024-11-01T15:09:49.081Z,58.0024,-154.1847,40.9,1.4,ml,,,,0.55,ak,ak024e2bfqf0,2024-11-01T15:11:41.873Z,"50 km NNE of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-11-01T14:16:51.139Z,35.8463,140.81,43.395,4.6,mwr,72.0,121.0,2.215,0.69,us,us7000npc6,2024-11-01T14:59:25.040Z,"12 km N of Hasaki, Japan",earthquake,7.45,5.024,0.071,19.0,reviewed,us,us
+2024-11-01T11:07:38.320Z,38.996166666667,-111.416,-1.16,1.33,ml,11.0,71.0,0.04451,0.11,uu,uu80085791,2024-11-01T15:04:42.080Z,"16 km WNW of Emery, Utah",earthquake,0.46,0.5,0.29039833943302,3.0,reviewed,uu,uu
