@@ -2599,3 +2599,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T19:05:40.890Z,38.849166870117,-122.81700134277,1.5599999427795,0.76,md,12.0,84.0,0.007393,0.03,nc,nc75081911,2024-11-01T19:07:16.365Z,"9 km WNW of Cobb, CA",earthquake,0.29,0.769999981,0.27,12.0,automatic,nc,nc
 2024-11-01T18:55:29.788Z,8.9765,40.0902,12.193,4.6,mb,106.0,63.0,10.427,0.51,us,us7000npfn,2024-11-01T19:18:27.131Z,"8 km W of Āwash, Ethiopia",earthquake,10.2,4.361,0.056,97.0,reviewed,us,us
 2024-11-01T19:24:46.980Z,33.956501,-117.5755005,3.72,1.5,ml,17.0,65.0,0.04744,0.3,ci,ci40785751,2024-11-01T19:27:08.507Z,"4 km NW of Norco, CA",earthquake,0.56,0.67,0.304,5.0,automatic,ci,ci
+2024-11-01T19:29:47.501Z,59.7651,-151.9575,34.8,1.7,ml,,,,0.37,ak,ak024e2dxr1a,2024-11-01T19:31:28.816Z,"7 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
