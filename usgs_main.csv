@@ -2517,3 +2517,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T07:29:37.248Z,32.011,-101.39,8.4229,1.0,ml,17.0,74.0,0.2,0.1,tx,tx2024vlvg,2024-11-01T10:59:50.013Z,"11 km SSW of Forsan, Texas",earthquake,0.62102493625754,2.3202660899645,0.2,11.0,reviewed,tx,tx
 2024-11-01T04:47:12.196Z,32.354,-102.102,7.3486,0.9,ml,24.0,62.0,0.0,0.1,tx,tx2024vlqm,2024-11-01T11:11:57.087Z,"38 km NW of Stanton, Texas",earthquake,0.53200005823991,0.5612372223752,0.2,18.0,reviewed,tx,tx
 2024-10-31T23:10:07.441Z,31.609,-104.257,7.4841,1.4,ml,18.0,61.0,0.1,0.2,tx,tx2024vlew,2024-11-01T10:59:41.016Z,"54 km NW of Toyah, Texas",earthquake,1.0652954469505,1.1457935188125,0.1,14.0,reviewed,tx,tx
+2024-11-01T11:19:07.876Z,60.8876,-149.9128,36.3,1.7,ml,,,,0.53,ak,ak024e2941z7,2024-11-01T11:21:03.195Z,"15 km WSW of Hope, Alaska",earthquake,,0.6,,,automatic,ak,ak
