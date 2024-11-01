@@ -2465,3 +2465,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T04:22:40.631Z,62.8191,-149.6451,77.7,1.6,ml,,,,0.44,ak,ak024e24yqf3,2024-11-01T04:25:02.534Z,"47 km NNE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-11-01T04:18:06.040Z,38.834499359131,-122.81533050537,1.7999999523163,0.76,md,12.0,58.0,0.01182,0.01,nc,nc75081641,2024-11-01T04:19:43.826Z,"8 km WNW of Cobb, CA",earthquake,0.28,0.920000017,0.15,14.0,automatic,nc,nc
 2024-11-01T01:05:29.721Z,-31.5855,-69.1861,153.843,4.3,mb,24.0,143.0,1.487,1.68,us,us7000npa5,2024-11-01T04:25:55.040Z,"35 km SE of Calingasta, Argentina",earthquake,9.89,9.348,0.177,9.0,reviewed,us,us
+2024-11-01T04:39:11.579Z,62.9528,-150.2615,60.9,1.8,ml,,,,1.08,ak,ak024e252bcl,2024-11-01T04:41:16.465Z,"56 km N of Chase, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-11-01T04:18:52.796Z,29.2769,130.3249,41.042,4.7,mb,39.0,121.0,2.228,0.72,us,us7000npax,2024-11-01T04:48:01.040Z,"107 km S of Yudomari, Japan",earthquake,9.62,8.114,0.085,42.0,reviewed,us,us
+2024-10-31T08:22:36.648Z,-0.0975,-77.1942,10.0,2.6,ml,9.0,247.0,1.002,0.29,us,us7000np5t,2024-11-01T04:45:26.040Z,"38 km WSW of Nueva Loja, Ecuador",earthquake,4.42,1.983,0.085,18.0,reviewed,us,us
+2024-10-31T07:54:08.351Z,51.3226,179.6092,64.396,3.3,ml,26.0,210.0,0.201,0.24,us,us7000np81,2024-11-01T04:47:01.040Z,"267 km WSW of Adak, Alaska",earthquake,7.03,16.138,0.085,18.0,reviewed,us,us
