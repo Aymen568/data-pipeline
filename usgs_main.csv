@@ -2610,3 +2610,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T00:17:36.940Z,58.256833333333,-154.96416666667,11.99,-0.23,ml,6.0,235.0,0.06561,0.1,av,av93025789,2024-11-01T20:08:26.190Z,"82 km NNW of Karluk, Alaska",earthquake,1.02,0.69,0.34893468974329,6.0,reviewed,av,av
 2024-11-01T20:23:28.421Z,56.8413,-155.859,34.7,2.7,ml,,,,0.74,ak,ak024e2ehuve,2024-11-01T20:25:27.624Z,"103 km W of Akhiok, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2024-11-01T02:56:59.490Z,57.068666666667,-135.702,7.32,-0.36,ml,4.0,178.0,0.003091,0.08,av,av93338848,2024-11-01T20:31:57.160Z,"22 km W of Sitka, Alaska",earthquake,1.03,0.69,0.18322983419303,4.0,reviewed,av,av
+2024-11-01T20:35:33.905Z,59.216,-154.6738,13.7,1.7,ml,,,,0.37,ak,ak024e2ekfvy,2024-11-01T20:36:51.944Z,"25 km SSE of Kokhanok, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-11-01T20:31:37.870Z,38.791831970215,-122.7705001831,3.8499999046326,0.78,md,13.0,91.0,0.01217,0.02,nc,nc75081941,2024-11-01T20:33:15.829Z,"2 km NNW of The Geysers, CA",earthquake,0.39,0.899999976,0.21,13.0,automatic,nc,nc

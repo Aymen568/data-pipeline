@@ -1460,4 +1460,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.95 and occurred in/near 5 km N of Kenefic, Oklahoma on 11/01/2024 at 08:14 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 2611 recorded earthquakes.
 The most recent earthquake had a magnitude of 2.7 and occurred in/near 103 km W of Akhiok, Alaska on 11/01/2024 at 08:23 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 2613 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.7 and occurred in/near 25 km SSE of Kokhanok, Alaska on 11/01/2024 at 08:35 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n
