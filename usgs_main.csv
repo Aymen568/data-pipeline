@@ -2535,3 +2535,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-31T23:07:32.202Z,28.678,-99.128,9.8633,2.6,ml,18.0,61.0,0.2,0.4,tx,tx2024vlet,2024-11-01T13:11:50.654Z,"4 km ENE of Dilley, Texas",earthquake,1.6032148860176,2.7344037812614,0.1,18.0,reviewed,tx,tx
 2024-10-31T20:20:40.540Z,-10.04,151.7835,10.0,4.7,mb,33.0,91.0,4.602,0.69,us,us7000np90,2024-11-01T12:58:18.040Z,"138 km ENE of Samarai, Papua New Guinea",earthquake,7.59,1.892,0.111,25.0,reviewed,us,us
 2024-10-31T19:42:20.647Z,-9.4679,117.4608,59.981,4.3,mb,25.0,53.0,3.416,0.37,us,us7000np8v,2024-11-01T13:17:23.040Z,"104 km SE of Taliwang, Indonesia",earthquake,9.08,7.532,0.122,19.0,reviewed,us,us
+2024-11-01T13:29:32.783Z,61.4284,-149.8938,33.6,1.9,ml,,,,0.29,ak,ak024e2ad49q,2024-11-01T13:31:01.065Z,"8 km NNE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-11-01T13:26:31.910Z,38.839332580566,-122.80950164795,1.9700000286102,1.25,md,22.0,51.0,0.01499,0.02,nc,nc75081816,2024-11-01T13:28:07.082Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.409999996,0.1,23.0,automatic,nc,nc
+2024-11-01T12:53:58.931Z,31.63,-104.499,7.2791,1.5,ml,22.0,74.0,0.0,0.1,tx,tx2024vmgb,2024-11-01T13:22:48.728Z,"61 km S of Whites City, New Mexico",earthquake,0.86871341785064,0.6103323277469,0.1,17.0,reviewed,tx,tx
+2024-11-01T12:29:57.259Z,32.155,-101.115,7.373,1.9,ml,40.0,65.0,0.2,0.1,tx,tx2024vmfk,2024-11-01T13:35:59.825Z,"23 km SE of Coahoma, Texas",earthquake,0.52759455796202,1.1652588308312,0.1,60.0,reviewed,tx,tx
+2024-10-31T22:39:23.898Z,32.469,-101.165,5.5908,1.1,ml,19.0,64.0,0.1,0.1,tx,tx2024vldv,2024-11-01T13:35:43.805Z,"19 km NW of Westbrook, Texas",earthquake,0.77099887742326,0.97155311107401,0.1,12.0,reviewed,tx,tx
