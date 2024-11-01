@@ -2612,3 +2612,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T02:56:59.490Z,57.068666666667,-135.702,7.32,-0.36,ml,4.0,178.0,0.003091,0.08,av,av93338848,2024-11-01T20:31:57.160Z,"22 km W of Sitka, Alaska",earthquake,1.03,0.69,0.18322983419303,4.0,reviewed,av,av
 2024-11-01T20:35:33.905Z,59.216,-154.6738,13.7,1.7,ml,,,,0.37,ak,ak024e2ekfvy,2024-11-01T20:36:51.944Z,"25 km SSE of Kokhanok, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-01T20:31:37.870Z,38.791831970215,-122.7705001831,3.8499999046326,0.78,md,13.0,91.0,0.01217,0.02,nc,nc75081941,2024-11-01T20:33:15.829Z,"2 km NNW of The Geysers, CA",earthquake,0.39,0.899999976,0.21,13.0,automatic,nc,nc
+2024-11-01T20:42:49.790Z,38.822666168213,-122.8424987793,2.210000038147,0.74,md,8.0,126.0,0.005851,0.01,nc,nc75081946,2024-11-01T20:44:25.722Z,"9 km NW of The Geysers, CA",earthquake,0.65,1.21000004,0.3,9.0,automatic,nc,nc
+2024-11-01T20:01:14.782Z,36.1945,70.5539,119.328,4.7,mb,169.0,34.0,2.247,0.67,us,us7000npg1,2024-11-01T20:54:19.040Z,"75 km SE of Farkhār, Afghanistan",earthquake,8.43,5.219,0.042,171.0,reviewed,us,us
+2024-11-01T02:39:30.832Z,38.3374,73.791,131.214,4.2,mb,27.0,192.0,3.515,0.87,us,us7000npad,2024-11-01T20:48:44.040Z,"24 km NW of Murghob, Tajikistan",earthquake,8.96,11.551,0.152,13.0,reviewed,us,us
