@@ -1432,4 +1432,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 0.72 and occurred in/near 7 km WNW of Cobb, CA on 11/01/2024 at 04:22 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 2579 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.0 and occurred in/near 96 km S of Kokhanok, Alaska on 11/01/2024 at 04:41 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 2580 recorded earthquakes.
+The most recent earthquake had a magnitude of 2.1 and occurred in/near 25 km ESE of Susitna North, Alaska on 11/01/2024 at 04:44 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n
