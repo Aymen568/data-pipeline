@@ -2489,3 +2489,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T08:07:24.218Z,61.6842,-151.4971,81.4,1.8,ml,,,,0.28,ak,ak024e2797tx,2024-11-01T08:09:35.773Z,"34 km S of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-01T08:40:31.090Z,37.098499298096,-121.1754989624,1.9900000095367,1.44,md,11.0,107.0,0.1722,0.13,nc,nc75081701,2024-11-01T08:42:04.853Z,"24 km SW of Gustine, CA",earthquake,0.59,9.96000004,0.11,6.0,automatic,nc,nc
 2024-11-01T08:39:38.840Z,33.8455009,-116.5701675,14.52,1.35,ml,43.0,60.0,0.02716,0.14,ci,ci40785407,2024-11-01T08:41:55.154Z,"4 km WNW of Palm Springs, CA",earthquake,0.29,0.5,0.25,14.0,automatic,ci,ci
+2024-11-01T08:33:54.707Z,-9.3918,108.8482,18.804,4.6,mb,25.0,81.0,2.254,0.93,us,us7000npbg,2024-11-01T08:54:48.040Z,"185 km S of Cilacap, Indonesia",earthquake,7.73,5.162,0.132,17.0,reviewed,us,us
+2024-11-01T08:24:01.601Z,25.2909,142.669,10.0,4.7,mb,44.0,125.0,1.849,0.74,us,us7000npbf,2024-11-01T08:46:48.040Z,"Volcano Islands, Japan region",earthquake,11.1,1.905,0.079,49.0,reviewed,us,us
