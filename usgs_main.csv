@@ -2619,3 +2619,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T19:25:30.240Z,44.787333333333,-110.80583333333,4.89,0.75,md,11.0,204.0,0.03182,0.11,uu,uu80085806,2024-11-01T20:57:51.350Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.81,0.68,0.34355486832728,6.0,reviewed,uu,uu
 2024-11-01T03:00:55.707Z,4.3721,98.1944,10.0,4.5,mb,21.0,55.0,1.506,0.8,us,us7000npai,2024-11-01T21:08:10.040Z,"27 km ESE of Langsa, Indonesia",earthquake,5.71,1.871,0.15,13.0,reviewed,us,us
 2024-11-01T02:42:02.740Z,46.192833333333,-122.1865,6.92,-0.03,ml,7.0,102.0,0.02489,0.06,uw,uw62049617,2024-11-01T21:13:37.800Z,"37 km NNE of Amboy, Washington",earthquake,0.31,0.87,0.10733400012788,4.0,reviewed,uw,uw
+2024-11-01T21:17:41.560Z,34.0535011,-117.2213364,10.94,1.16,ml,19.0,89.0,0.1053,0.26,ci,ci40785799,2024-11-01T21:19:56.063Z,"4 km W of Redlands, CA",earthquake,0.53,1.38,0.29,4.0,automatic,ci,ci
