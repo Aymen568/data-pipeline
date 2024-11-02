@@ -2907,3 +2907,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-02T21:04:13.623Z,9.239,40.1035,10.0,4.7,mb,51.0,116.0,10.682,1.01,us,us7000npla,2024-11-02T21:24:03.148Z,"29 km NNW of Āwash, Ethiopia",earthquake,8.53,1.913,0.087,40.0,reviewed,us,us
 2024-11-02T19:40:04.541Z,18.961,-155.1473,10.0,2.5,ml,13.0,287.0,0.327,0.34,us,us7000npkz,2024-11-02T21:30:50.040Z,"43 km SE of Pāhala, Hawaii",earthquake,1.85,2.017,0.069,28.0,reviewed,us,us
 2024-11-02T18:08:51.452Z,10.4571,-86.2296,10.0,4.6,mb,79.0,183.0,0.903,0.76,us,us7000npkh,2024-11-02T21:32:00.040Z,"45 km WNW of Tamarindo, Costa Rica",earthquake,5.49,1.936,0.061,83.0,reviewed,us,us
+2024-11-02T21:38:12.838Z,61.3592,-152.3079,4.5,0.6,ml,,,,0.05,ak,ak024e42ptib,2024-11-02T21:39:18.521Z,"70 km WNW of Beluga, Alaska",earthquake,,2.9,,,automatic,ak,ak
+2024-11-01T23:27:04.500Z,37.547333333333,-118.83016666667,4.31,0.56,md,14.0,216.0,0.04263,0.03,nc,nc75081986,2024-11-02T21:41:38.063Z,"13 km W of Toms Place, CA",earthquake,0.8,0.94,0.065,10.0,reviewed,nc,nc
