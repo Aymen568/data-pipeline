@@ -1500,4 +1500,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 3.9 and occurred in/near 70 km NNW of Aleneva, Alaska on 11/02/2024 at 03:37 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 2732 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.9 and occurred in/near 22 km SSE of Denali National Park, Alaska on 11/02/2024 at 03:51 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 2734 recorded earthquakes.
+The most recent earthquake had a magnitude of 2.0 and occurred in/near 66 km WNW of Beluga, Alaska on 11/02/2024 at 04:17 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n

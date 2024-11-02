@@ -2731,3 +2731,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-02T03:44:31.626Z,61.3058,-152.2601,8.3,2.6,ml,,,,0.25,ak,ak024e3s1cd6,2024-11-02T03:53:48.040Z,"65 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-01T20:51:51.180Z,61.231833333333,-152.67883333333,10.15,-0.18,ml,6.0,254.0,0.07142,0.18,av,av93025884,2024-11-02T03:47:50.160Z,"85 km WNW of Tyonek, Alaska",earthquake,1.99,1.36,0.19398672759763,6.0,reviewed,av,av
 2024-11-01T20:50:42.560Z,61.252833333333,-152.65933333333,9.85,0.12,ml,7.0,240.0,0.05272,0.1,av,av93340138,2024-11-02T03:42:57.790Z,"84 km WNW of Tyonek, Alaska",earthquake,0.84,0.59,0.20505412838962,7.0,reviewed,av,av
+2024-11-02T04:17:33.846Z,61.3054,-152.2691,1.0,2.0,ml,,,,0.54,ak,ak024e3sgzt4,2024-11-02T04:19:36.761Z,"66 km WNW of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-11-01T22:00:05.040Z,61.263333333333,-152.20383333333,20.83,-0.15,ml,7.0,102.0,0.0237,0.1,av,av93340243,2024-11-02T04:13:16.310Z,"61 km WNW of Tyonek, Alaska",earthquake,0.52,0.9,0.29024945022323,7.0,reviewed,av,av
