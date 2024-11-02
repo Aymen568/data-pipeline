@@ -2733,3 +2733,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T20:50:42.560Z,61.252833333333,-152.65933333333,9.85,0.12,ml,7.0,240.0,0.05272,0.1,av,av93340138,2024-11-02T03:42:57.790Z,"84 km WNW of Tyonek, Alaska",earthquake,0.84,0.59,0.20505412838962,7.0,reviewed,av,av
 2024-11-02T04:17:33.846Z,61.3054,-152.2691,1.0,2.0,ml,,,,0.54,ak,ak024e3sgzt4,2024-11-02T04:19:36.761Z,"66 km WNW of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-11-01T22:00:05.040Z,61.263333333333,-152.20383333333,20.83,-0.15,ml,7.0,102.0,0.0237,0.1,av,av93340243,2024-11-02T04:13:16.310Z,"61 km WNW of Tyonek, Alaska",earthquake,0.52,0.9,0.29024945022323,7.0,reviewed,av,av
+2024-11-02T04:36:02.939Z,60.7137,-150.3387,38.5,1.5,ml,,,,0.29,ak,ak024e3sl011,2024-11-02T04:38:11.300Z,"30 km SE of Point Possession, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2024-11-02T04:25:13.012Z,37.9362,-115.5225,1.9,1.6,ml,8.0,323.57,0.873,0.4127,nn,nn00887106,2024-11-02T04:27:46.940Z,"37 km NNE of Rachel, Nevada",earthquake,,48.6,0.4,5.0,automatic,nn,nn
+2024-11-01T23:25:26.870Z,58.186333333333,-155.35383333333,2.33,0.79,ml,8.0,112.0,0.02737,0.1,av,av93340403,2024-11-02T04:25:48.530Z,"87 km NW of Karluk, Alaska",earthquake,0.23,0.42,0.31762092758494,8.0,reviewed,av,av
