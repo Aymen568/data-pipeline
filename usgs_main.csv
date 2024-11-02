@@ -2875,3 +2875,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-02T17:18:04.504Z,-18.4405,-177.5472,551.23,4.5,mb,37.0,88.0,3.531,0.54,us,us7000npkd,2024-11-02T17:49:40.040Z,Fiji region,earthquake,14.13,9.692,0.096,35.0,reviewed,us,us
 2024-11-02T16:11:15.083Z,-21.3698,-68.9471,132.058,4.2,mb,20.0,58.0,0.505,0.59,us,us7000npk0,2024-11-02T18:14:49.040Z,"73 km WSW of Ollagüe, Chile",earthquake,5.48,3.619,0.186,9.0,reviewed,us,us
 2024-11-02T00:19:24.000Z,35.978,-120.883,9.65,0.88,md,29.0,39.0,0.04704,0.09,nc,nc75081991,2024-11-02T17:59:10.638Z,"5 km SSE of San Ardo, CA",earthquake,0.21,0.37,0.181,15.0,reviewed,nc,nc
+2024-11-02T18:37:18.036Z,63.2264,-151.1227,0.0,2.2,ml,,,,0.91,ak,ak024e40xa0n,2024-11-02T18:39:27.630Z,"46 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-11-02T18:33:39.290Z,33.3574982,-116.364502,10.95,1.62,ml,47.0,41.0,0.0462,0.2,ci,ci40786399,2024-11-02T18:36:07.525Z,"11 km N of Borrego Springs, CA",earthquake,0.27,0.59,0.143,7.0,automatic,ci,ci
+2024-11-02T18:32:25.470Z,33.3553352,-116.3771667,11.33,2.5,ml,106.0,17.0,0.02974,0.22,ci,ci40786391,2024-11-02T18:34:46.389Z,"11 km N of Borrego Springs, CA",earthquake,0.16,0.37,0.243,24.0,automatic,ci,ci
+2024-11-02T17:10:29.646Z,19.3186,-155.0615,16.66,2.6,ml,25.0,221.0,0.089,0.6,us,us7000npk8,2024-11-02T18:37:18.040Z,"18 km SSE of Fern Forest, Hawaii",earthquake,1.78,1.191,0.051,50.0,reviewed,us,us
