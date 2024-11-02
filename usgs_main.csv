@@ -2910,3 +2910,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-02T21:38:12.838Z,61.3592,-152.3079,4.5,0.6,ml,,,,0.05,ak,ak024e42ptib,2024-11-02T21:39:18.521Z,"70 km WNW of Beluga, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2024-11-01T23:27:04.500Z,37.547333333333,-118.83016666667,4.31,0.56,md,14.0,216.0,0.04263,0.03,nc,nc75081986,2024-11-02T21:41:38.063Z,"13 km W of Toms Place, CA",earthquake,0.8,0.94,0.065,10.0,reviewed,nc,nc
 2024-11-02T21:51:07.030Z,61.5843,-146.5785,21.7,1.9,ml,,,,0.56,ak,ak024e42sldb,2024-11-02T21:53:30.094Z,"46 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-02T22:16:29.253Z,62.535,-149.6142,72.9,1.7,ml,,,,0.62,ak,ak024e436kml,2024-11-02T22:18:23.076Z,"26 km ENE of Chase, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-11-02T22:15:33.522Z,64.8665,-148.9461,26.1,1.4,ml,,,,0.64,ak,ak024e436d8o,2024-11-02T22:17:02.001Z,"30 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-02T22:05:12.624Z,18.8019,-155.1296,10.0,4.4,ml,24.0,291.0,0.472,0.39,us,us7000nplm,2024-11-02T22:18:33.454Z,"55 km ESE of Naalehu, Hawaii",earthquake,3.35,1.99,0.053,46.0,reviewed,us,us
+2024-11-02T22:01:44.710Z,38.803333282471,-122.78050231934,1.0099999904633,2.01,md,41.0,59.0,0.009912,0.06,nc,nc75082371,2024-11-02T22:04:47.290Z,"4 km NNW of The Geysers, CA",earthquake,0.17,0.230000004,0.18,44.0,automatic,nc,nc
+2024-11-02T20:28:40.553Z,31.5193,-115.5319,10.0,3.8,ml,18.0,241.0,1.173,0.85,us,us7000npl5,2024-11-02T22:06:31.211Z,"71 km ENE of San Vicente, Mexico",earthquake,8.06,2.013,0.045,64.0,reviewed,us,us
+2024-11-02T10:16:24.140Z,37.4735,-119.391,10.46,1.52,md,30.0,103.0,0.1944,0.2,nc,nc75082171,2024-11-02T22:03:44.591Z,"28 km ENE of Oakhurst, CA",earthquake,0.35,2.1,0.244,17.0,reviewed,nc,nc
