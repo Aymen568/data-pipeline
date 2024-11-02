@@ -2854,3 +2854,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-02T15:09:41.825Z,31.657,-104.37,3.8058,1.6,ml,18.0,70.0,0.1,0.3,tx,tx2024vogl,2024-11-02T15:29:47.311Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.2652453184128,0.1,14.0,automatic,tx,tx
 2024-11-02T15:40:04.412Z,58.2947,-154.8304,2.7,1.0,ml,,,,0.17,ak,ak024e3z5mnt,2024-11-02T15:42:29.516Z,"83 km NNW of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2024-11-02T11:48:38.903Z,51.4071,-178.1418,21.4,4.0,ml,,,,0.53,ak,ak024e3wtoke,2024-11-02T15:45:30.608Z,"116 km WSW of Adak, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2024-11-02T16:05:02.820Z,32.9033318,-116.2551651,8.58,1.14,ml,23.0,91.0,0.06525,0.22,ci,ci40786255,2024-11-02T16:07:07.163Z,"27 km ENE of Pine Valley, CA",earthquake,0.44,0.89,0.114,4.0,automatic,ci,ci
+2024-11-02T16:01:38.220Z,34.0423333,-116.8225,14.2,1.07,ml,46.0,48.0,0.01417,0.18,ci,ci40786247,2024-11-02T16:07:45.603Z,"14 km NNE of Banning, CA",earthquake,0.16,0.34,0.179,27.0,automatic,ci,ci
+2024-11-02T16:00:47.078Z,60.7801,-152.4374,120.2,1.6,ml,,,,0.27,ak,ak024e3zikwz,2024-11-02T16:02:36.452Z,"63 km W of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-11-02T15:58:21.090Z,38.80933380127,-122.82849884033,4.2300000190735,0.75,md,13.0,64.0,0.0007056,0.06,nc,nc75082266,2024-11-02T15:59:57.982Z,"7 km NW of The Geysers, CA",earthquake,0.49,1.39999998,0.14,13.0,automatic,nc,nc
+2024-11-02T15:56:41.813Z,58.4709,-155.1954,128.0,2.1,ml,,,,0.3,ak,ak024e3z9505,2024-11-02T15:58:32.904Z,"88 km ESE of King Salmon, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-11-02T15:33:19.161Z,52.2769,-165.0607,21.2,4.0,ml,,,,0.45,ak,ak024e3z45vl,2024-11-02T15:59:49.181Z,"203 km SSE of Unalaska, Alaska",earthquake,,3.2,,,reviewed,ak,ak
