@@ -2822,3 +2822,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-02T13:06:00.900Z,38.786334991455,-122.82716369629,13.300000190735,1.05,md,9.0,181.0,0.01893,0.07,nc,nc75082231,2024-11-02T13:07:37.748Z,"6 km WNW of The Geysers, CA",earthquake,1.33,5.75,,1.0,automatic,nc,nc
 2024-11-02T12:59:43.450Z,33.8406667,-118.2851667,7.94,1.68,ml,54.0,65.0,0.03308,0.28,ci,ci40786151,2024-11-02T13:06:35.383Z,"1 km NNW of Carson, CA",earthquake,0.25,0.41,0.19,30.0,automatic,ci,ci
 2024-11-02T12:55:35.843Z,62.7898,-150.7227,97.4,1.8,ml,,,,0.36,ak,ak024e3xglz4,2024-11-02T12:57:57.830Z,"32 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-11-02T13:27:42.998Z,58.2979,-154.8392,2.5,2.5,ml,,,,0.59,ak,ak024e3xw24b,2024-11-02T13:29:14.813Z,"84 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-11-01T14:46:04.091Z,35.6757,29.1376,55.475,4.1,mb,31.0,117.0,0.673,0.7,us,us7000npcb,2024-11-02T13:36:45.040Z,"69 km SSW of Kalkan, Turkey",earthquake,6.76,11.38,0.174,9.0,reviewed,us,us
