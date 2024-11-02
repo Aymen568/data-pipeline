@@ -2873,3 +2873,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-02T17:40:58.807Z,63.5797,-149.9542,58.4,1.9,ml,,,,1.02,ak,ak024e40cm2g,2024-11-02T17:43:26.166Z,"54 km WNW of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-11-02T17:53:43.490Z,18.875999450684,-155.18383789062,7.4400000572205,2.45000005,md,29.0,287.0,0.3828,0.200000003,hv,hv74520427,2024-11-02T17:55:25.450Z,"46 km ESE of Naalehu, Hawaii",earthquake,0.8,0.560000002,0.25,3.0,automatic,hv,hv
 2024-11-02T17:18:04.504Z,-18.4405,-177.5472,551.23,4.5,mb,37.0,88.0,3.531,0.54,us,us7000npkd,2024-11-02T17:49:40.040Z,Fiji region,earthquake,14.13,9.692,0.096,35.0,reviewed,us,us
+2024-11-02T16:11:15.083Z,-21.3698,-68.9471,132.058,4.2,mb,20.0,58.0,0.505,0.59,us,us7000npk0,2024-11-02T18:14:49.040Z,"73 km WSW of Ollagüe, Chile",earthquake,5.48,3.619,0.186,9.0,reviewed,us,us
+2024-11-02T00:19:24.000Z,35.978,-120.883,9.65,0.88,md,29.0,39.0,0.04704,0.09,nc,nc75081991,2024-11-02T17:59:10.638Z,"5 km SSE of San Ardo, CA",earthquake,0.21,0.37,0.181,15.0,reviewed,nc,nc
