@@ -2870,3 +2870,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-02T16:58:02.122Z,63.3073,-149.9543,101.1,2.0,ml,,,,0.41,ak,ak024e3zuwz8,2024-11-02T17:00:28.183Z,"51 km W of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-11-02T17:27:12.380Z,38.834999084473,-122.88083648682,1.8999999761581,0.8,md,16.0,125.0,0.003813,0.03,nc,nc75082281,2024-11-02T17:28:46.879Z,"12 km E of Cloverdale, CA",earthquake,0.31,0.409999996,0.12,17.0,automatic,nc,nc
 2024-11-02T17:06:56.245Z,31.558,-104.015,5.8788,1.7,ml,15.0,62.0,0.0,0.2,tx,tx2024vokh,2024-11-02T17:20:40.233Z,"34 km NW of Toyah, Texas",earthquake,0.0,2.3058440685272,0.1,13.0,automatic,tx,tx
+2024-11-02T17:40:58.807Z,63.5797,-149.9542,58.4,1.9,ml,,,,1.02,ak,ak024e40cm2g,2024-11-02T17:43:26.166Z,"54 km WNW of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak
