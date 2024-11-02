@@ -2884,3 +2884,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-02T17:16:29.308Z,41.4666,-111.0255,10.267,2.8,ml,44.0,33.0,0.363,0.72,us,us7000npkc,2024-11-02T19:01:43.040Z,"9 km N of Bear River, Wyoming",earthquake,0.98,7.155,0.027,176.0,reviewed,us,us
 2024-11-02T19:19:54.720Z,36.2046661,-118.0056686,2.53,1.59,ml,19.0,53.0,0.1498,0.17,ci,ci40786407,2024-11-02T19:22:01.802Z,"9 km S of Olancha, CA",earthquake,0.36,1.15,0.256,9.0,automatic,ci,ci
 2024-11-02T19:18:55.441Z,61.523,-150.6396,33.7,2.0,ml,,,,0.69,ak,ak024e41er9k,2024-11-02T19:21:11.260Z,"7 km WSW of Susitna, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2024-11-02T19:30:16.950Z,18.842166900635,-155.18983459473,9.2299995422363,2.85,ml,56.0,260.0,0.4043,0.180000007,hv,hv74520532,2024-11-02T19:33:09.540Z,"48 km ESE of Naalehu, Hawaii",earthquake,0.55,0.589999974,0.31,33.0,automatic,hv,hv
+2024-11-02T19:29:23.720Z,61.5295,-146.5709,37.7,1.8,ml,,,,0.36,ak,ak024e41h1p0,2024-11-02T19:32:00.986Z,"45 km NNW of Valdez, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2024-11-02T19:29:06.300Z,38.79666519165,-122.76533508301,1.5900000333786,0.78,md,15.0,66.0,0.005911,0.02,nc,nc75082316,2024-11-02T19:30:43.095Z,"2 km  of The Geysers, CA",earthquake,0.26,0.5,0.12,16.0,automatic,nc,nc
