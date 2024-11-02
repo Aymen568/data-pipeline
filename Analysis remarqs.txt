@@ -1496,4 +1496,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.9 and occurred in/near 55 km S of Whites City, New Mexico on 11/02/2024 at 02:32 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 2718 recorded earthquakes.
 The most recent earthquake had a magnitude of 2.22 and occurred in/near 10 km WNW of Toms Place, CA on 11/02/2024 at 03:06 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 2727 recorded earthquakes.
+The most recent earthquake had a magnitude of 3.9 and occurred in/near 70 km NNW of Aleneva, Alaska on 11/02/2024 at 03:37 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n
