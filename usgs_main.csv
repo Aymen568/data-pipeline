@@ -2807,3 +2807,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-02T11:27:42.558Z,35.79471588,-97.73116302,5.0,2.43,ml,10.0,151.2826691,0.8764625192,1.098826613,ok,ok2024vnyq,2024-11-02T11:35:51.996Z,"4 km W of Cashion, Oklahoma",earthquake,7.893486071,,0.63,6.0,automatic,ok,ok
 2024-11-02T11:33:26.710Z,38.827167510986,-122.81616973877,14.380000114441,0.78,md,12.0,71.0,0.006071,0.1,nc,nc75082191,2024-11-02T11:35:05.996Z,"8 km NNW of The Geysers, CA",earthquake,1.84,10.1199999,0.49,13.0,automatic,nc,nc
 2024-11-02T11:28:45.533Z,59.4474,-153.0514,101.3,2.1,ml,,,,0.58,ak,ak024e3wpetl,2024-11-02T11:31:00.292Z,"65 km W of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-11-02T11:33:58.440Z,18.274333333333,-66.308666666667,22.69,2.22,md,12.0,126.0,0.06786,0.16,pr,pr71464433,2024-11-02T11:52:18.270Z,"7 km NW of Palomas, Puerto Rico",earthquake,0.5,0.69,0.11532953829188,7.0,reviewed,pr,pr
