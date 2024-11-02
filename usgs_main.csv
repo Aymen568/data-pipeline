@@ -2927,3 +2927,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-02T23:17:19.970Z,38.825164794922,-122.85416412353,2.4100000858307,0.77,md,15.0,113.0,0.003182,0.02,nc,nc75082401,2024-11-02T23:18:57.867Z,"10 km NW of The Geysers, CA",earthquake,0.31,0.479999989,0.29,16.0,automatic,nc,nc
 2024-11-02T23:15:12.660Z,36.94100189209,-121.66149902344,3.6900000572205,1.03,md,6.0,108.0,0.0101,0.1,nc,nc75082396,2024-11-02T23:16:47.856Z,"6 km  of Aromas, CA",earthquake,0.61,1.0,0.14,6.0,automatic,nc,nc
 2024-11-02T20:44:47.410Z,-6.2872,154.7519,35.0,4.2,mb,14.0,119.0,3.313,0.43,us,us7000npl7,2024-11-02T23:08:20.040Z,"81 km W of Panguna, Papua New Guinea",earthquake,15.1,1.982,0.152,14.0,reviewed,us,us
+2024-11-02T23:23:11.370Z,34.6090012,-117.8141632,16.63,1.89,ml,11.0,99.0,0.4639,0.34,ci,ci40786551,2024-11-02T23:29:22.596Z,"1 km ESE of Lake Los Angeles, CA",earthquake,2.22,9.74,0.2,14.0,automatic,ci,ci
+2024-11-02T23:01:03.495Z,56.0188,-149.9936,10.0,3.4,ml,58.0,214.0,2.268,0.92,us,us7000nplw,2024-11-02T23:34:05.040Z,"225 km SE of Chiniak, Alaska",earthquake,8.58,2.012,0.057,40.0,reviewed,us,us
+2024-11-02T22:58:32.887Z,38.127,38.6038,10.0,3.9,mwr,41.0,74.0,0.987,1.29,us,us7000nplv,2024-11-02T23:27:20.040Z,"10 km N of Sincik, Turkey",earthquake,2.74,1.928,0.075,17.0,reviewed,us,us
