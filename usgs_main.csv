@@ -2802,3 +2802,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-02T10:28:58.223Z,31.66,-104.349,4.4819,2.2,ml,18.0,69.0,0.1,0.1,tx,tx2024vnww,2024-11-02T10:52:50.438Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.3717921972275,0.2,14.0,automatic,tx,tx
 2024-11-01T12:12:11.036Z,25.4208,142.5134,10.0,4.7,mb,28.0,132.0,1.694,0.64,us,us7000npbu,2024-11-02T10:50:24.040Z,"Volcano Islands, Japan region",earthquake,10.26,1.74,0.121,21.0,reviewed,us,us
 2024-11-01T11:44:39.594Z,-5.3436,152.1098,63.804,4.4,mb,24.0,162.0,1.146,0.62,us,us7000npbt,2024-11-02T10:55:00.040Z,"112 km S of Kokopo, Papua New Guinea",earthquake,10.47,7.828,0.123,19.0,reviewed,us,us
+2024-11-02T11:10:49.201Z,60.3613,-143.4989,0.0,2.2,ml,,,,0.7,ak,ak024e3wlk7s,2024-11-02T11:12:48.701Z,"123 km SSW of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-02T11:07:00.410Z,18.882333755493,-155.19566345215,9.6000003814697,2.44,ml,48.0,262.0,0.3706,0.180000007,hv,hv74520147,2024-11-02T11:09:54.720Z,"45 km ESE of Naalehu, Hawaii",earthquake,0.5,0.469999999,0.13,4.0,automatic,hv,hv
