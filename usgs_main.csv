@@ -2824,3 +2824,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-02T12:55:35.843Z,62.7898,-150.7227,97.4,1.8,ml,,,,0.36,ak,ak024e3xglz4,2024-11-02T12:57:57.830Z,"32 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-02T13:27:42.998Z,58.2979,-154.8392,2.5,2.5,ml,,,,0.59,ak,ak024e3xw24b,2024-11-02T13:29:14.813Z,"84 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-01T14:46:04.091Z,35.6757,29.1376,55.475,4.1,mb,31.0,117.0,0.673,0.7,us,us7000npcb,2024-11-02T13:36:45.040Z,"69 km SSW of Kalkan, Turkey",earthquake,6.76,11.38,0.174,9.0,reviewed,us,us
+2024-11-02T13:34:39.029Z,61.6921,-151.5759,88.9,2.0,ml,,,,0.46,ak,ak024e3xxjtq,2024-11-02T13:38:06.112Z,"34 km SSW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-11-01T15:09:05.146Z,56.2561,-149.6709,10.0,3.0,ml,26.0,269.0,2.209,0.7,us,us7000npdn,2024-11-02T13:40:31.040Z,"219 km SE of Chiniak, Alaska",earthquake,9.52,2.023,0.069,28.0,reviewed,us,us
