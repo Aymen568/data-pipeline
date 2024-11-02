@@ -2804,3 +2804,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T11:44:39.594Z,-5.3436,152.1098,63.804,4.4,mb,24.0,162.0,1.146,0.62,us,us7000npbt,2024-11-02T10:55:00.040Z,"112 km S of Kokopo, Papua New Guinea",earthquake,10.47,7.828,0.123,19.0,reviewed,us,us
 2024-11-02T11:10:49.201Z,60.3613,-143.4989,0.0,2.2,ml,,,,0.7,ak,ak024e3wlk7s,2024-11-02T11:12:48.701Z,"123 km SSW of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-02T11:07:00.410Z,18.882333755493,-155.19566345215,9.6000003814697,2.44,ml,48.0,262.0,0.3706,0.180000007,hv,hv74520147,2024-11-02T11:09:54.720Z,"45 km ESE of Naalehu, Hawaii",earthquake,0.5,0.469999999,0.13,4.0,automatic,hv,hv
+2024-11-02T11:27:42.558Z,35.79471588,-97.73116302,5.0,2.43,ml,10.0,151.2826691,0.8764625192,1.098826613,ok,ok2024vnyq,2024-11-02T11:35:51.996Z,"4 km W of Cashion, Oklahoma",earthquake,7.893486071,,0.63,6.0,automatic,ok,ok
