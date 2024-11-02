@@ -2784,3 +2784,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-02T08:52:03.143Z,31.558,-104.014,6.7338,2.2,ml,16.0,62.0,0.0,0.2,tx,tx2024vntm,2024-11-02T09:05:35.562Z,"34 km NW of Toyah, Texas",earthquake,0.0,2.400954246521,0.1,12.0,automatic,tx,tx
 2024-11-02T09:22:26.750Z,38.834999084473,-122.75250244141,0.56000000238419,1.1,md,17.0,177.0,0.01433,0.03,nc,nc75082151,2024-11-02T09:24:02.385Z,"3 km NW of Cobb, CA",earthquake,0.34,0.460000008,0.15,20.0,automatic,nc,nc
 2024-11-02T09:21:59.121Z,61.4067,-150.0758,35.9,2.1,ml,,,,0.3,ak,ak024e3vh2nc,2024-11-02T09:23:28.339Z,"7 km NW of Point MacKenzie, Alaska",earthquake,,2.7,,,automatic,ak,ak
+2024-11-02T09:39:36.025Z,59.8363,-152.7963,92.4,2.3,ml,,,,0.26,ak,ak024e3vkvr6,2024-11-02T09:41:27.283Z,"54 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-11-02T09:32:38.786Z,64.9043,-148.6256,13.9,1.2,ml,,,,0.48,ak,ak024e3vjdye,2024-11-02T09:34:25.604Z,"29 km WNW of Ester, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-11-02T09:19:09.526Z,31.659,-104.347,4.0018,1.7,ml,18.0,69.0,0.1,0.2,tx,tx2024vnun,2024-11-02T09:41:56.843Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.2475129365921,0.2,14.0,automatic,tx,tx
