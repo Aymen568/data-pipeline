@@ -1524,4 +1524,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 2.57 and occurred in/near 44 km ESE of Naalehu, Hawaii on 11/02/2024 at 07:10 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 2765 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.06 and occurred in/near 14 km WSW of Searles Valley, CA on 11/02/2024 at 07:18 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 2766 recorded earthquakes.
+The most recent earthquake had a magnitude of 2.4 and occurred in/near 25 km NNW of Skwentna, Alaska on 11/02/2024 at 07:34 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n
