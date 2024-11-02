@@ -2895,3 +2895,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-02T19:59:15.189Z,12.545,-87.9507,68.502,5.1,mww,87.0,142.0,0.92,1.11,us,us7000npl2,2024-11-02T20:21:24.243Z,"58 km WSW of Jiquilillo, Nicaragua",earthquake,5.39,5.856,0.049,40.0,reviewed,us,us
 2024-11-02T19:27:31.690Z,18.869166666667,-66.040333333333,29.9,2.99,md,15.0,251.0,0.5586,0.13,pr,pr71464443,2024-11-02T20:10:01.630Z,"45 km N of San Juan, Puerto Rico",earthquake,0.77,4.28,0.18496393718093,5.0,reviewed,pr,pr
 2024-11-02T14:35:03.840Z,36.5045,-120.6125,15.11,1.06,md,17.0,172.0,0.1941,0.09,nc,nc75082256,2024-11-02T20:17:17.696Z,"11 km NE of New Idria, CA",earthquake,0.47,0.39,0.203,7.0,reviewed,nc,nc
+2024-11-02T20:27:55.425Z,40.0571,-117.8481,6.8,3.5,ml,38.0,238.15,0.312,0.2929,nn,nn00887121,2024-11-02T20:31:47.389Z,"55 km ESE of Lovelock, Nevada",earthquake,,1.0,0.32,24.0,automatic,nn,nn
