@@ -2981,3 +2981,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T00:09:47.990Z,51.921,-178.73833333333,12.0,1.56,ml,5.0,249.0,0.1063,0.08,av,av93342078,2024-11-03T04:14:15.000Z,"144 km W of Adak, Alaska",earthquake,1.18,1.88,0.28122414608856,7.0,reviewed,av,av
 2024-11-03T04:28:49.019Z,61.2345,-151.1963,53.0,1.7,ml,,,,0.87,ak,ak024e5g2qcl,2024-11-03T04:30:49.815Z,"12 km NNW of Beluga, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2024-11-03T04:27:12.710Z,33.9063339,-117.958168,22.23,1.4,ml,10.0,89.0,0.07506,0.28,ci,ci40786759,2024-11-03T04:33:39.345Z,"3 km SSW of La Habra, CA",earthquake,1.0,2.65,0.286,18.0,automatic,ci,ci
+2024-11-03T04:50:22.030Z,37.2266,-117.1573,8.2,0.5,ml,9.0,139.31,0.11,0.073,nn,nn00887133,2024-11-03T04:52:31.458Z,"49 km NW of Beatty, Nevada",earthquake,,2.0,0.5,5.0,automatic,nn,nn
+2024-11-03T04:49:45.330Z,59.8742,-149.6443,13.3,2.3,ml,,,,0.77,ak,ak024e5g783p,2024-11-03T04:51:34.747Z,"24 km SSW of Lowell Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
