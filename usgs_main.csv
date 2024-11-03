@@ -3036,3 +3036,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T11:01:21.797Z,51.5024,-175.5326,35.0,4.1,ml,23.0,202.0,0.543,0.62,us,us7000nppu,2024-11-03T11:49:48.040Z,"86 km ESE of Adak, Alaska",earthquake,2.96,1.967,0.077,22.0,reviewed,us,us
 2024-11-03T12:33:32.610Z,33.2423333,-115.9943333,5.73,1.47,ml,64.0,59.0,0.03833,0.2,ci,ci40786855,2024-11-03T12:45:34.153Z,"7 km SSW of Salton City, CA",earthquake,0.16,0.37,0.156,27.0,automatic,ci,ci
 2024-11-03T12:23:01.860Z,34.0216667,-116.7171667,14.49,1.66,ml,93.0,37.0,0.05989,0.18,ci,ci40786847,2024-11-03T12:38:41.509Z,"13 km WSW of Morongo Valley, CA",earthquake,0.12,0.24,0.15,26.0,automatic,ci,ci
+2024-11-03T13:06:28.540Z,34.0128326,-117.1100006,14.16,1.65,ml,67.0,27.0,0.02267,0.18,ci,ci40786863,2024-11-03T13:08:55.298Z,"6 km WNW of Calimesa, CA",earthquake,0.22,0.43,0.226,22.0,automatic,ci,ci
+2024-11-03T13:06:20.545Z,63.0832,-150.444,100.3,2.0,ml,,,,0.32,ak,ak024e5lauue,2024-11-03T13:08:19.721Z,"67 km NNE of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2024-11-03T12:06:47.006Z,25.4573,142.5981,10.0,4.9,mb,69.0,90.0,1.673,1.04,us,us7000npq0,2024-11-03T13:02:39.040Z,"Volcano Islands, Japan region",earthquake,10.87,1.896,0.069,68.0,reviewed,us,us
