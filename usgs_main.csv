@@ -3077,3 +3077,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T17:09:26.013Z,25.4153,142.4937,10.0,4.7,mb,45.0,141.0,1.696,0.48,us,us7000npqy,2024-11-03T17:30:56.040Z,"Volcano Islands, Japan region",earthquake,10.52,1.921,0.096,33.0,reviewed,us,us
 2024-11-03T17:03:52.384Z,40.1196,23.2924,10.0,5.3,mww,104.0,24.0,0.616,0.72,us,us7000npqn,2024-11-03T17:30:34.098Z,"8 km SSW of Néa Poteídaia, Greece",earthquake,4.13,1.829,0.04,60.0,reviewed,us,us
 2024-11-03T17:32:29.730Z,36.598667144775,-121.20300292969,5.25,1.46,md,10.0,144.0,,0.03,nc,nc75082576,2024-11-03T17:35:05.662Z,"9 km NNW of Pinnacles, CA",earthquake,0.38,1.49000001,0.25,9.0,automatic,nc,nc
+2024-11-03T17:58:30.364Z,29.8025,56.3313,10.0,4.2,mb,24.0,94.0,4.84,0.56,us,us7000npr5,2024-11-03T18:18:41.040Z,"26 km WSW of Bardsīr, Iran",earthquake,7.32,1.788,0.136,15.0,reviewed,us,us
+2024-11-03T17:55:36.879Z,61.6327,-148.0045,31.9,1.7,ml,,,,0.31,ak,ak024e5nz4lz,2024-11-03T17:57:32.683Z,"26 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-11-03T17:30:00.790Z,17.8445,-65.671666666667,19.93,2.9,md,9.0,239.0,0.2757,0.1,pr,pr71464533,2024-11-03T18:06:05.250Z,"28 km SE of Emajagua, Puerto Rico",earthquake,0.78,11.55,0.13180832252617,5.0,reviewed,pr,pr
