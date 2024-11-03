@@ -3102,3 +3102,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T21:26:33.633Z,59.8128,-152.8757,105.7,2.2,ml,,,,0.4,ak,ak024e5q6n0r,2024-11-03T21:28:22.958Z,"58 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-03T21:25:45.491Z,31.586,-104.531,4.0164,1.5,ml,8.0,155.0,0.1,0.2,tx,tx2024vqnw,2024-11-03T21:32:47.993Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.7584562301636,0.1,6.0,automatic,tx,tx
 2024-11-03T21:18:40.134Z,-19.0011,-66.918,257.722,4.7,mb,75.0,43.0,2.249,1.07,us,us7000nprz,2024-11-03T21:35:02.040Z,"19 km SW of Challapata, Bolivia",earthquake,7.73,7.159,0.033,273.0,reviewed,us,us
+2024-11-03T22:05:01.439Z,63.3582,-152.6407,1.0,2.0,ml,,,,0.66,ak,ak024e5qni5x,2024-11-03T22:07:19.357Z,"50 km WSW of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
