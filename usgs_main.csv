@@ -3068,3 +3068,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T09:45:53.281Z,39.4399,-120.2938,9.7,0.2,ml,7.0,127.3,0.02,0.14,nn,nn00887145,2024-11-03T16:46:24.281Z,"14 km NNE of Soda Springs, California",earthquake,,1.9,0.3,3.0,reviewed,nn,nn
 2024-11-03T04:39:50.709Z,36.6105,-116.0114,5.0,0.0,ml,15.0,254.97,0.064,0.0307,nn,nn00887144,2024-11-03T16:43:18.693Z,"30 km W of Indian Springs, Nevada",earthquake,,1.9,0.14,6.0,reviewed,nn,nn
 2024-11-03T03:23:35.836Z,36.7495,-116.2817,8.6,-0.2,ml,12.0,111.07,0.013,0.0537,nn,nn00887143,2024-11-03T16:40:11.831Z,"46 km ESE of Beatty, Nevada",earthquake,,1.1,0.22,5.0,reviewed,nn,nn
+2024-11-03T17:19:09.590Z,62.6525,-151.3358,0.0,2.3,ml,,,,0.8,ak,ak024e5nrcq7,2024-11-03T17:20:40.915Z,"34 km WNW of Petersville, Alaska",earthquake,,7.3,,,automatic,ak,ak
+2024-11-03T17:12:32.980Z,40.606834411621,-124.12249755859,19.64999961853,3.62,ml,44.0,131.0,0.1894,0.11,nc,nc75082566,2024-11-03T17:19:22.175Z,"3 km E of Fortuna, CA",earthquake,0.33,0.270000011,0.37,14.0,automatic,nc,nc
+2024-11-03T17:05:47.735Z,63.0629,-150.6856,105.1,1.9,ml,,,,0.45,ak,ak024e5nofn9,2024-11-03T17:08:30.551Z,"63 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-11-03T16:58:56.590Z,35.7693333,-117.5836667,7.77,0.57,ml,17.0,131.0,0.04766,0.14,ci,ci40786911,2024-11-03T17:06:55.822Z,"16 km W of Searles Valley, CA",earthquake,0.26,0.55,0.066,4.0,automatic,ci,ci
