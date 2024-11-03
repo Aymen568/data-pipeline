@@ -3009,3 +3009,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T07:08:04.220Z,18.268166666667,-66.309,22.92,2.0,md,7.0,124.0,0.07178,0.11,pr,pr71464498,2024-11-03T07:27:14.640Z,"6 km NW of Palomas, Puerto Rico",earthquake,0.48,0.92,0.13146332275479,6.0,reviewed,pr,pr
 2024-11-03T07:35:27.727Z,62.2822,-151.0386,67.3,2.3,ml,,,,0.36,ak,ak024e5hwhin,2024-11-03T07:37:16.493Z,"27 km SSW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-03T07:42:06.308Z,64.272,-149.9431,18.1,1.4,ml,,,,0.4,ak,ak024e5hxxwb,2024-11-03T07:45:09.021Z,"36 km W of Clear, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-11-03T08:13:55.840Z,19.267999649048,-155.4015045166,29.680000305176,2.51,ml,62.0,86.0,0.03057,0.170000002,hv,hv74520982,2024-11-03T08:17:03.690Z,"10 km NE of Pāhala, Hawaii",earthquake,0.35,0.460000008,0.43,35.0,automatic,hv,hv
+2024-11-03T07:57:27.764Z,-7.5123,126.7752,249.783,4.8,mb,48.0,51.0,4.302,0.64,us,us7000npp7,2024-11-03T08:15:02.040Z,"112 km NNE of Baukau, Timor Leste",earthquake,8.76,7.51,0.088,40.0,reviewed,us,us
