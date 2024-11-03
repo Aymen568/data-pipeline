@@ -3028,3 +3028,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T10:56:47.000Z,51.396,-175.691,15.0,5.7,Mi,30.0,205.199983584,0.680923,0.63,at,at00smdfqn,2024-11-03T11:02:35.998Z,"84 km SE of Adak, Alaska",earthquake,0.0,0.0,,10.0,reviewed,at,at
 2024-11-03T10:53:07.590Z,32.9775,-116.3205,9.08,0.96,ml,34.0,120.0,0.07598,0.2,ci,ci40786831,2024-11-03T11:04:04.930Z,"26 km SW of Ocotillo Wells, CA",earthquake,0.34,0.62,0.18,15.0,automatic,ci,ci
 2024-11-03T10:56:51.737Z,51.66,-175.6914,66.641,5.8,mww,130.0,36.0,0.358,0.89,us,us7000nppj,2024-11-03T11:22:21.216Z,"69 km ESE of Adak, Alaska",earthquake,5.04,4.02,0.05,38.0,reviewed,us,us
+2024-11-03T11:24:22.730Z,18.872667312622,-155.21383666992,9.8699998855591,2.27999997,md,46.0,261.0,0.3664,0.140000001,hv,hv74521127,2024-11-03T11:26:36.630Z,"44 km ESE of Naalehu, Hawaii",earthquake,0.56,0.610000014,0.230000004,19.0,automatic,hv,hv
+2024-11-03T11:17:45.103Z,-21.5515,-178.8835,573.724,5.0,mb,53.0,97.0,4.762,0.76,us,us7000nppn,2024-11-03T11:33:07.040Z,Fiji region,earthquake,12.47,8.88,0.089,40.0,reviewed,us,us
