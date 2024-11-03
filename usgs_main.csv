@@ -2971,3 +2971,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T03:38:23.983Z,59.8971,-151.5845,65.3,1.9,ml,,,,0.29,ak,ak024e5fjdz2,2024-11-03T03:40:12.453Z,"9 km N of Nikolaevsk, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-11-03T03:38:22.608Z,63.1727,-150.2474,6.8,1.7,ml,,,,0.57,ak,ak024e5fjdv8,2024-11-03T03:40:15.487Z,"69 km WSW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-03T02:59:09.630Z,44.2958,-115.1818,10.0,3.0,ml,25.0,65.0,0.307,0.9,us,us7000npmq,2024-11-03T03:31:24.040Z,"21 km WNW of Stanley, Idaho",earthquake,2.65,2.01,0.035,110.0,reviewed,us,us
+2024-11-03T03:44:03.250Z,36.084167480469,-89.797500610352,11.630000114441,3.6500001,md,41.0,64.0,,0.140000001,nm,nm60593441,2024-11-03T03:57:32.135Z,"2 km E of Steele, Missouri",earthquake,0.28,0.720000029,1.05999994,45.0,reviewed,nm,nm
