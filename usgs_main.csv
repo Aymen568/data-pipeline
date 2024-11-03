@@ -3021,3 +3021,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T09:21:29.400Z,34.1588326,-117.4154968,8.92,1.22,ml,13.0,155.0,0.08513,0.12,ci,ci40786815,2024-11-03T09:23:39.323Z,"7 km W of Muscoy, CA",earthquake,0.61,1.9,0.222,6.0,automatic,ci,ci
 2024-11-03T09:21:28.870Z,34.149334,-117.5521698,12.86,1.2,ml,21.0,91.0,0.02829,0.37,ci,ci40786807,2024-11-03T09:23:35.299Z,"4 km NE of Rancho Cucamonga, CA",earthquake,1.22,1.84,0.498,8.0,automatic,ci,ci
 2024-11-03T09:39:39.250Z,33.8479996,-117.8625031,4.07,1.38,ml,24.0,64.0,0.006658,0.21,ci,ci40786823,2024-11-03T09:41:41.693Z,"3 km SSE of Placentia, CA",earthquake,0.48,0.76,0.239,11.0,automatic,ci,ci
+2024-11-03T10:18:37.990Z,31.739,-104.112,4.4455,1.5,ml,18.0,69.0,0.0,0.3,tx,tx2024vprv,2024-11-03T10:31:09.185Z,"48 km W of Mentone, Texas",earthquake,0.0,1.2022581100464,0.2,14.0,automatic,tx,tx
