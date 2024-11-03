@@ -3064,3 +3064,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T16:06:40.509Z,-3.415,145.8694,19.232,5.0,mb,32.0,73.0,5.236,0.83,us,us7000npqk,2024-11-03T16:21:50.040Z,"199 km N of Madang, Papua New Guinea",earthquake,9.99,4.973,0.094,36.0,reviewed,us,us
 2024-11-03T15:34:55.690Z,25.4158,142.645,22.161,4.8,mb,34.0,121.0,1.723,0.59,us,us7000npqj,2024-11-03T16:24:37.040Z,"Volcano Islands, Japan region",earthquake,10.14,4.959,0.081,47.0,reviewed,us,us
 2024-11-02T19:34:06.600Z,34.2385,-117.4813333,12.26,0.92,ml,34.0,42.0,0.004621,0.15,ci,ci40786415,2024-11-03T16:36:24.839Z,"3 km SE of Lytle Creek, CA",earthquake,0.23,0.32,0.107,9.0,reviewed,ci,ci
+2024-11-03T16:39:27.130Z,19.270833969116,-155.36050415039,29.819999694824,1.97000003,md,33.0,140.0,0.04818,0.140000001,hv,hv74521252,2024-11-03T16:41:00.000Z,"14 km ENE of Pāhala, Hawaii",earthquake,0.71,0.980000019,0.00999999978,3.0,automatic,hv,hv
+2024-11-03T09:45:53.281Z,39.4399,-120.2938,9.7,0.2,ml,7.0,127.3,0.02,0.14,nn,nn00887145,2024-11-03T16:46:24.281Z,"14 km NNE of Soda Springs, California",earthquake,,1.9,0.3,3.0,reviewed,nn,nn
+2024-11-03T04:39:50.709Z,36.6105,-116.0114,5.0,0.0,ml,15.0,254.97,0.064,0.0307,nn,nn00887144,2024-11-03T16:43:18.693Z,"30 km W of Indian Springs, Nevada",earthquake,,1.9,0.14,6.0,reviewed,nn,nn
+2024-11-03T03:23:35.836Z,36.7495,-116.2817,8.6,-0.2,ml,12.0,111.07,0.013,0.0537,nn,nn00887143,2024-11-03T16:40:11.831Z,"46 km ESE of Beatty, Nevada",earthquake,,1.1,0.22,5.0,reviewed,nn,nn
