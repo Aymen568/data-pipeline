@@ -3084,3 +3084,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T18:37:58.850Z,33.3968315,-116.38517,9.94,0.98,ml,13.0,117.0,0.07197,0.08,ci,ci40786967,2024-11-03T18:40:10.858Z,"16 km N of Borrego Springs, CA",earthquake,0.42,1.38,0.141,5.0,automatic,ci,ci
 2024-11-03T18:31:22.982Z,32.3333,-101.831,2.35,3.0,mb_lg,36.0,61.0,0.35,0.41,us,us7000npra,2024-11-03T18:38:14.040Z,"22 km N of Stanton, Texas",earthquake,1.81,7.74,0.07,81.0,reviewed,us,us
 2024-11-03T18:30:14.278Z,61.0728,-151.5028,74.8,1.4,ml,,,,0.98,ak,ak024e5of5kj,2024-11-03T18:32:22.718Z,"19 km W of Tyonek, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-11-03T18:45:24.041Z,61.6579,-150.7573,33.0,1.7,ml,,,,0.77,ak,ak024e5oie2c,2024-11-03T18:47:31.709Z,"18 km NW of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
