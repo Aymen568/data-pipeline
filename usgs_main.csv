@@ -3048,3 +3048,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T14:08:03.191Z,60.0185,-153.0332,112.9,2.4,ml,,,,0.94,ak,ak024e5lwojj,2024-11-03T14:11:30.645Z,"65 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-03T03:06:53.380Z,35.3405,-84.459166666667,12.36,2.02,md,11.0,56.0,0.01486,0.06,se,se60593446,2024-11-03T14:02:09.000Z,"6 km ENE of Etowah, Tennessee",earthquake,0.45,0.39,0.073126894179457,11.0,reviewed,se,se
 2024-11-03T14:15:57.396Z,60.3817,-141.1455,8.3,1.8,ml,,,,0.54,ak,ak024e5lyaqj,2024-11-03T14:17:45.107Z,"122 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-03T14:09:33.812Z,25.4729,142.5714,38.276,4.8,mb,35.0,130.0,1.653,0.57,us,us7000npqd,2024-11-03T14:32:36.040Z,"Volcano Islands, Japan region",earthquake,12.8,6.749,0.105,28.0,reviewed,us,us
+2024-11-03T14:06:27.460Z,17.864833333333,-65.681333333333,6.29,2.91,md,17.0,214.0,0.2616,0.23,pr,pr71464523,2024-11-03T14:37:51.820Z,"26 km SE of Emajagua, Puerto Rico",earthquake,0.62,0.74,0.26140810194997,12.0,reviewed,pr,pr
+2024-11-02T23:56:44.560Z,36.418,-92.752833333333,4.07,2.22,md,11.0,77.0,0.1019,0.23,nm,nm60502688,2024-11-03T14:36:43.710Z,"14 km E of South Lead Hill, Arkansas",earthquake,0.54,1.93,0.038482040650395,7.0,reviewed,nm,nm
