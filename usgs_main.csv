@@ -2972,3 +2972,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T03:38:22.608Z,63.1727,-150.2474,6.8,1.7,ml,,,,0.57,ak,ak024e5fjdv8,2024-11-03T03:40:15.487Z,"69 km WSW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-03T02:59:09.630Z,44.2958,-115.1818,10.0,3.0,ml,25.0,65.0,0.307,0.9,us,us7000npmq,2024-11-03T03:31:24.040Z,"21 km WNW of Stanley, Idaho",earthquake,2.65,2.01,0.035,110.0,reviewed,us,us
 2024-11-03T03:44:03.250Z,36.084167480469,-89.797500610352,11.630000114441,3.6500001,md,41.0,64.0,,0.140000001,nm,nm60593441,2024-11-03T03:57:32.135Z,"2 km E of Steele, Missouri",earthquake,0.28,0.720000029,1.05999994,45.0,reviewed,nm,nm
+2024-11-03T04:20:48.440Z,38.831832885742,-122.81533050537,1.710000038147,0.28,md,9.0,54.0,0.009373,0.01,nc,nc75082461,2024-11-03T04:22:24.048Z,"8 km NNW of The Geysers, CA",earthquake,0.34,1.25999999,0.13,11.0,automatic,nc,nc
+2024-11-03T04:19:32.619Z,61.5588,-150.0168,53.8,1.8,ml,,,,0.29,ak,ak024e5g0rn5,2024-11-03T04:22:29.236Z,"5 km NW of Big Lake, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-11-03T04:06:33.921Z,61.5549,-149.8505,39.0,1.8,ml,,,,0.4,ak,ak024e5fxzfk,2024-11-03T04:08:41.356Z,"6 km NE of Big Lake, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2024-11-03T04:04:04.548Z,-35.7125,-69.4768,186.52,5.5,mww,99.0,39.0,1.408,0.93,us,us7000npn0,2024-11-03T04:25:14.253Z,"129 km NNE of Barrancas, Argentina",earthquake,6.99,5.933,0.056,31.0,reviewed,us,us
+2024-11-03T04:00:21.370Z,62.1216,-148.5355,33.9,1.7,ml,,,,0.35,ak,ak024e5fwo61,2024-11-03T04:01:52.545Z,"36 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-11-03T03:57:54.940Z,36.083833333333,-89.793833333333,8.33,2.14,md,18.0,56.0,0.06241,0.08,nm,nm60502678,2024-11-03T04:24:08.184Z,"3 km E of Steele, Missouri",earthquake,0.36,0.93,0.080182896387894,13.0,reviewed,nm,nm
+2024-11-03T00:09:47.990Z,51.921,-178.73833333333,12.0,1.56,ml,5.0,249.0,0.1063,0.08,av,av93342078,2024-11-03T04:14:15.000Z,"144 km W of Adak, Alaska",earthquake,1.18,1.88,0.28122414608856,7.0,reviewed,av,av
