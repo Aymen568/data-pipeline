@@ -3004,3 +3004,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-02T11:48:40.015Z,51.4712,-178.1574,27.104,4.2,mb,68.0,139.0,0.327,1.0,us,us7000npjy,2024-11-03T06:41:35.040Z,"114 km WSW of Adak, Alaska",earthquake,5.31,6.164,0.066,65.0,reviewed,us,us
 2024-11-03T06:51:56.027Z,63.1344,-151.335,0.0,2.2,ml,,,,0.42,ak,ak024e5hejki,2024-11-03T06:53:56.108Z,"49 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-03T06:44:54.979Z,58.5129,-154.53,55.1,1.5,ml,,,,1.05,ak,ak024e5hd1h5,2024-11-03T06:46:32.459Z,"104 km S of Kokhanok, Alaska",earthquake,,2.4,,,automatic,ak,ak
+2024-11-03T06:56:52.596Z,59.8326,-153.2583,128.8,2.3,ml,,,,0.33,ak,ak024e5hflvv,2024-11-03T06:59:00.967Z,"47 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-11-03T05:59:52.820Z,-5.4518,152.0393,50.122,4.9,mb,37.0,150.0,1.258,1.12,us,us7000npnr,2024-11-03T06:57:49.040Z,"125 km SSW of Kokopo, Papua New Guinea",earthquake,10.33,7.629,0.093,36.0,reviewed,us,us
