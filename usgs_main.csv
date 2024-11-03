@@ -3002,3 +3002,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T06:34:00.756Z,59.7877,-152.5326,86.2,1.8,ml,,,,0.15,ak,ak024e5has4r,2024-11-03T06:36:31.105Z,"39 km W of Anchor Point, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2024-11-03T06:25:06.120Z,39.555999755859,-123.36316680908,5.0199999809265,1.7,md,10.0,116.0,0.08915,0.07,nc,nc75082476,2024-11-03T06:44:27.219Z,"13 km NNE of Brooktrails, CA",earthquake,0.32,1.33000004,0.17,6.0,automatic,nc,nc
 2024-11-02T11:48:40.015Z,51.4712,-178.1574,27.104,4.2,mb,68.0,139.0,0.327,1.0,us,us7000npjy,2024-11-03T06:41:35.040Z,"114 km WSW of Adak, Alaska",earthquake,5.31,6.164,0.066,65.0,reviewed,us,us
+2024-11-03T06:51:56.027Z,63.1344,-151.335,0.0,2.2,ml,,,,0.42,ak,ak024e5hejki,2024-11-03T06:53:56.108Z,"49 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-03T06:44:54.979Z,58.5129,-154.53,55.1,1.5,ml,,,,1.05,ak,ak024e5hd1h5,2024-11-03T06:46:32.459Z,"104 km S of Kokhanok, Alaska",earthquake,,2.4,,,automatic,ak,ak
