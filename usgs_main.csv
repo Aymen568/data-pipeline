@@ -3015,3 +3015,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T08:29:47.372Z,62.1645,-147.3538,37.6,2.1,ml,,,,0.65,ak,ak024e5igocx,2024-11-03T08:32:19.918Z,"26 km NNW of Eureka Roadhouse, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-11-03T08:22:57.330Z,33.7545013,-117.9223328,2.61,1.39,ml,19.0,199.0,0.07338,0.19,ci,ci40786791,2024-11-03T08:24:59.774Z,"4 km WNW of Santa Ana, CA",earthquake,1.14,0.56,0.447,5.0,automatic,ci,ci
 2024-11-03T08:33:43.510Z,17.962166666667,-66.845833333333,17.78,2.37,md,7.0,203.0,0.02369,0.13,pr,pr71464513,2024-11-03T08:42:04.340Z,"4 km SW of Indios, Puerto Rico",earthquake,0.8,0.53,0.027927509767244,5.0,reviewed,pr,pr
+2024-11-03T09:20:42.160Z,32.7260017,-116.0676651,7.75,1.46,ml,23.0,79.0,0.04607,0.3,ci,ci40786799,2024-11-03T09:22:47.573Z,"7 km W of Ocotillo, CA",earthquake,0.47,1.06,0.393,3.0,automatic,ci,ci
+2024-11-03T09:11:50.326Z,64.476,-146.9618,6.2,1.5,ml,,,,0.67,ak,ak024e5iy9aw,2024-11-03T09:14:03.923Z,"6 km SSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
