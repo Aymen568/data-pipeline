@@ -2964,3 +2964,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T01:49:28.179Z,18.8962,-155.1663,10.0,3.7,ml,13.0,296.0,0.38,0.34,us,us7000npmg,2024-11-03T02:01:02.928Z,"47 km SE of Pāhala, Hawaii",earthquake,3.08,2.028,0.062,34.0,reviewed,us,us
 2024-11-03T01:46:11.557Z,35.2471,52.3587,35.0,4.6,mb,56.0,95.0,4.788,0.74,us,us7000npmi,2024-11-03T02:53:26.536Z,"4 km ENE of Īstgāh-e Rāh Āhan-e Garmsār, Iran",earthquake,8.56,1.918,0.068,65.0,reviewed,us,us
 2024-11-03T01:39:55.814Z,31.637,-104.492,3.2631,1.5,ml,21.0,68.0,0.1,0.5,tx,tx2024vpat,2024-11-03T02:02:14.703Z,"60 km S of Whites City, New Mexico",earthquake,0.0,1.4028027057648,0.1,17.0,automatic,tx,tx
+2024-11-03T03:21:23.490Z,35.8615,-117.6705,8.56,0.55,ml,16.0,90.0,0.07485,0.11,ci,ci40786735,2024-11-03T03:26:58.193Z,"23 km ESE of Little Lake, CA",earthquake,0.18,0.47,0.202,3.0,automatic,ci,ci
+2024-11-03T03:14:04.160Z,17.977333333333,-66.824,16.11,2.38,md,7.0,196.0,0.05264,0.1,pr,pr71464468,2024-11-03T03:28:01.350Z,"1 km SSW of Indios, Puerto Rico",earthquake,0.57,0.72,0.074689974331216,5.0,reviewed,pr,pr
+2024-11-03T02:56:49.710Z,33.8586667,-117.8546667,9.17,1.23,ml,37.0,98.0,0.05793,0.22,ci,ci40786727,2024-11-03T03:03:48.350Z,"2 km SE of Placentia, CA",earthquake,0.34,0.58,0.178,30.0,automatic,ci,ci
