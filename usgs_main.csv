@@ -3011,3 +3011,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T07:42:06.308Z,64.272,-149.9431,18.1,1.4,ml,,,,0.4,ak,ak024e5hxxwb,2024-11-03T07:45:09.021Z,"36 km W of Clear, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-03T08:13:55.840Z,19.267999649048,-155.4015045166,29.680000305176,2.51,ml,62.0,86.0,0.03057,0.170000002,hv,hv74520982,2024-11-03T08:17:03.690Z,"10 km NE of Pāhala, Hawaii",earthquake,0.35,0.460000008,0.43,35.0,automatic,hv,hv
 2024-11-03T07:57:27.764Z,-7.5123,126.7752,249.783,4.8,mb,48.0,51.0,4.302,0.64,us,us7000npp7,2024-11-03T08:15:02.040Z,"112 km NNE of Baukau, Timor Leste",earthquake,8.76,7.51,0.088,40.0,reviewed,us,us
+2024-11-03T08:31:57.900Z,19.255332946777,-155.39866638184,31.059999465942,3.24000001,md,61.0,93.0,0.01777,0.150000006,hv,hv74520987,2024-11-03T08:33:49.960Z,"10 km NE of Pāhala, Hawaii",earthquake,0.37,0.419999987,0.419999987,56.0,automatic,hv,hv
+2024-11-03T08:29:47.372Z,62.1645,-147.3538,37.6,2.1,ml,,,,0.65,ak,ak024e5igocx,2024-11-03T08:32:19.918Z,"26 km NNW of Eureka Roadhouse, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-11-03T08:22:57.330Z,33.7545013,-117.9223328,2.61,1.39,ml,19.0,199.0,0.07338,0.19,ci,ci40786791,2024-11-03T08:24:59.774Z,"4 km WNW of Santa Ana, CA",earthquake,1.14,0.56,0.447,5.0,automatic,ci,ci
