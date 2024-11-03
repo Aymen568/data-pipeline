@@ -3060,3 +3060,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T13:47:38.847Z,-28.3604,-69.1718,111.194,4.3,ml,30.0,101.0,1.448,1.26,us,us7000npqa,2024-11-03T15:26:56.040Z,"104 km WNW of Vinchina, Argentina",earthquake,8.44,10.211,,,reviewed,us,guc
 2024-11-03T15:36:05.560Z,18.879167556763,-155.20449829102,10.569999694824,3.01,ml,54.0,258.0,0.3673,0.189999998,hv,hv74521232,2024-11-03T15:38:58.670Z,"44 km ESE of Naalehu, Hawaii",earthquake,0.49,0.5,0.33,39.0,automatic,hv,hv
 2024-11-03T15:48:01.490Z,36.2056656,-117.8479996,4.96,1.68,ml,26.0,71.0,0.08808,0.21,ci,ci40786903,2024-11-03T15:50:17.991Z,"16 km ESE of Olancha, CA",earthquake,0.38,1.89,0.195,11.0,automatic,ci,ci
+2024-11-03T16:03:57.775Z,61.2604,-151.433,76.9,1.8,ml,,,,0.38,ak,ak024e5n2ldt,2024-11-03T16:06:17.341Z,"23 km NW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
