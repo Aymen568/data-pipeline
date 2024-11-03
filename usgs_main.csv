@@ -2992,3 +2992,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T04:46:52.120Z,17.9755,-66.832,15.14,2.14,md,8.0,193.0,0.0347,0.13,pr,pr71464493,2024-11-03T05:20:20.530Z,"2 km SSW of Indios, Puerto Rico",earthquake,0.67,0.59,0.13752673336423,5.0,reviewed,pr,pr
 2024-11-02T07:20:18.163Z,-9.4282,117.4924,74.206,4.2,mb,18.0,53.0,3.435,1.06,us,us7000npia,2024-11-03T05:20:29.040Z,"103 km SE of Taliwang, Indonesia",earthquake,9.84,4.336,0.147,13.0,reviewed,us,us
 2024-11-02T08:33:41.320Z,-16.6769,-173.4622,63.464,4.6,mb,22.0,113.0,3.194,1.6,us,us7000npij,2024-11-03T05:39:59.040Z,"87 km SSE of Hihifo, Tonga",earthquake,10.36,8.071,0.146,14.0,reviewed,us,us
+2024-11-03T05:41:05.452Z,36.5779,-117.0656,0.0,1.2,ml,20.0,223.84,0.302,0.2851,nn,nn00887134,2024-11-03T05:43:13.530Z,"23 km NW of Furnace Creek, California",earthquake,,29.3,0.45,11.0,automatic,nn,nn
+2024-11-03T05:23:05.679Z,25.5322,128.8029,10.0,4.7,mb,39.0,73.0,1.383,0.49,us,us7000npng,2024-11-03T05:45:37.040Z,"128 km SE of Katsuren-haebaru, Japan",earthquake,5.8,1.876,0.112,24.0,reviewed,us,us
