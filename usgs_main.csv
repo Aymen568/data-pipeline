@@ -3047,3 +3047,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T13:28:57.192Z,31.734,-104.115,5.0702,1.9,ml,18.0,63.0,0.0,0.2,tx,tx2024vpyd,2024-11-03T13:44:35.590Z,"48 km W of Mentone, Texas",earthquake,0.0,2.4683520793915,0.2,13.0,automatic,tx,tx
 2024-11-03T14:08:03.191Z,60.0185,-153.0332,112.9,2.4,ml,,,,0.94,ak,ak024e5lwojj,2024-11-03T14:11:30.645Z,"65 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-03T03:06:53.380Z,35.3405,-84.459166666667,12.36,2.02,md,11.0,56.0,0.01486,0.06,se,se60593446,2024-11-03T14:02:09.000Z,"6 km ENE of Etowah, Tennessee",earthquake,0.45,0.39,0.073126894179457,11.0,reviewed,se,se
+2024-11-03T14:15:57.396Z,60.3817,-141.1455,8.3,1.8,ml,,,,0.54,ak,ak024e5lyaqj,2024-11-03T14:17:45.107Z,"122 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
