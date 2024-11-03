@@ -3103,3 +3103,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T21:25:45.491Z,31.586,-104.531,4.0164,1.5,ml,8.0,155.0,0.1,0.2,tx,tx2024vqnw,2024-11-03T21:32:47.993Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.7584562301636,0.1,6.0,automatic,tx,tx
 2024-11-03T21:18:40.134Z,-19.0011,-66.918,257.722,4.7,mb,75.0,43.0,2.249,1.07,us,us7000nprz,2024-11-03T21:35:02.040Z,"19 km SW of Challapata, Bolivia",earthquake,7.73,7.159,0.033,273.0,reviewed,us,us
 2024-11-03T22:05:01.439Z,63.3582,-152.6407,1.0,2.0,ml,,,,0.66,ak,ak024e5qni5x,2024-11-03T22:07:19.357Z,"50 km WSW of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-03T22:26:12.090Z,40.237998962402,-121.1815032959,-0.72000002861023,2.53,md,21.0,64.0,0.1865,0.25,nc,nc75082591,2024-11-03T22:27:50.417Z,"2 km N of Almanor, CA",earthquake,0.69,15.46,0.11,16.0,automatic,nc,nc
+2024-11-03T22:24:29.320Z,19.263833999634,-155.40682983398,31.540000915527,1.78999996,md,37.0,77.0,0.02764,0.140000001,hv,hv74521452,2024-11-03T22:26:05.190Z,"10 km NE of Pāhala, Hawaii",earthquake,0.58,0.769999981,0.0799999982,7.0,automatic,hv,hv
+2024-11-03T20:14:06.020Z,19.5688,-67.117,67.0,3.47,md,4.0,315.0,1.3934,0.17,pr,pr2024308000,2024-11-03T22:20:15.609Z,"118 km N of Isabela, Puerto Rico",earthquake,4.84,14.13,0.0,3.0,reviewed,pr,pr
