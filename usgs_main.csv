@@ -3053,3 +3053,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-02T23:56:44.560Z,36.418,-92.752833333333,4.07,2.22,md,11.0,77.0,0.1019,0.23,nm,nm60502688,2024-11-03T14:36:43.710Z,"14 km E of South Lead Hill, Arkansas",earthquake,0.54,1.93,0.038482040650395,7.0,reviewed,nm,nm
 2024-11-03T14:34:26.520Z,33.8871667,-116.7978333,10.13,0.81,ml,21.0,125.0,0.05344,0.09,ci,ci40786879,2024-11-03T14:46:22.130Z,"4 km SSW of Cabazon, CA",earthquake,0.65,0.39,0.129,23.0,automatic,ci,ci
 2024-11-03T04:29:05.970Z,44.680833333333,-113.06283333333,8.92,1.0,ml,16.0,92.0,0.2117,0.12,mb,mb90065118,2024-11-03T14:46:33.890Z,"23 km E of Leadore, Idaho",earthquake,0.36,1.14,0.14550383642045,15.0,reviewed,mb,mb
+2024-11-03T15:12:34.589Z,62.3739,-151.4606,90.9,1.5,ml,,,,0.19,ak,ak024e5mj1fm,2024-11-03T15:14:37.739Z,"38 km WSW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
