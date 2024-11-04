@@ -3169,3 +3169,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T09:17:02.479Z,61.7072,-150.1358,33.5,1.4,ml,,,,0.37,ak,ak024e76isef,2024-11-04T09:18:24.637Z,"6 km SW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-04T08:32:26.967Z,8.0326,126.3166,10.0,4.9,mb,71.0,87.0,1.204,0.69,us,us7000nptx,2024-11-04T09:01:09.876Z,"10 km W of Lingig, Philippines",earthquake,8.12,1.868,0.052,119.0,reviewed,us,us
 2024-11-04T09:31:01.660Z,18.909000396729,-155.16400146484,2.8699998855591,2.46000004,md,23.0,263.0,0.3736,0.209999993,hv,hv74521872,2024-11-04T09:32:36.560Z,"46 km SE of Pāhala, Hawaii",earthquake,1.6,2.05999994,0.280000001,3.0,automatic,hv,hv
+2024-11-04T09:43:26.947Z,31.654,-104.355,4.0908,1.8,ml,18.0,70.0,0.1,0.3,tx,tx2024vrme,2024-11-04T09:56:31.008Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.282985329628,0.2,14.0,automatic,tx,tx
