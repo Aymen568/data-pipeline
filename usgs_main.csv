@@ -3276,3 +3276,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T22:59:46.067Z,63.0645,-150.9301,119.0,2.9,ml,,,,0.47,ak,ak024e7eiio8,2024-11-04T23:01:35.548Z,"63 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-04T02:31:16.260Z,58.2945,-154.914,5.38,-0.16,ml,6.0,187.0,0.07881,0.19,av,av93343788,2024-11-04T23:12:40.180Z,"85 km NNW of Karluk, Alaska",earthquake,0.79,1.43,0.29108955405139,6.0,reviewed,av,av
 2024-11-04T01:42:39.760Z,61.3215,-152.29016666667,-0.18,-0.83,ml,7.0,183.0,0.0741,0.12,av,av93343718,2024-11-04T22:58:01.560Z,"67 km WNW of Beluga, Alaska",earthquake,0.57,4.88,0.27133044028161,7.0,reviewed,av,av
+2024-11-04T23:27:08.710Z,60.3789,-147.7612,15.2,1.9,ml,,,,0.57,ak,ak024e7ex0if,2024-11-04T23:29:19.976Z,"37 km NNE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-11-04T23:13:20.160Z,36.74517059,-98.06957245,2.151375771,2.03,ml,29.0,156.5233765,0.1063459665,0.6549025667,ok,ok2024vsmx,2024-11-04T23:21:28.355Z,"7 km E of Nescatunga, Oklahoma",earthquake,2.925492897,1.992265306,0.19,14.0,automatic,ok,ok
