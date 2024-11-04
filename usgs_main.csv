@@ -3198,3 +3198,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T00:00:02.708Z,31.638,-104.373,6.0101,2.7,ml,29.0,74.0,0.1,0.1,tx,tx2024vqth,2024-11-04T14:08:39.914Z,"59 km S of Whites City, New Mexico",earthquake,0.56833109344558,0.54670028441248,0.1,24.0,reviewed,tx,tx
 2024-11-04T14:09:45.260Z,17.9595,-66.8435,10.91,2.27,md,9.0,209.0,0.02687,0.1,pr,pr71464628,2024-11-04T14:21:46.480Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.46,0.35,0.099258497678845,6.0,reviewed,pr,pr
 2024-11-04T12:29:50.880Z,38.167166666667,-112.54433333333,5.85,2.22,ml,28.0,52.0,0.3105,0.22,uu,uu80085921,2024-11-04T14:37:24.300Z,"14 km SE of Beaver, Utah",earthquake,0.37,1.19,0.10146681087884,13.0,reviewed,uu,uu
+2024-11-04T14:47:11.920Z,33.2281685,-116.0961685,8.48,1.54,ml,55.0,50.0,0.09403,0.23,ci,ci40787239,2024-11-04T14:49:24.934Z,"10 km NNE of Ocotillo Wells, CA",earthquake,0.26,0.93,0.26,23.0,automatic,ci,ci
