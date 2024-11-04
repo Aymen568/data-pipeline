@@ -1890,4 +1890,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.5 and occurred in/near 80 km ESE of Denali Park, Alaska on 11/04/2024 at 02:14 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 3200 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.54 and occurred in/near 10 km NNE of Ocotillo Wells, CA on 11/04/2024 at 02:47 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 3207 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.3 and occurred in/near 31 km NNE of Paxson, Alaska on 11/04/2024 at 02:57 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n
