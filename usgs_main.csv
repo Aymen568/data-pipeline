@@ -3273,3 +3273,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T05:48:39.566Z,32.894,-100.895,5.7861,1.6,ml,14.0,50.0,0.0,0.1,tx,tx2024vrem,2024-11-04T22:31:16.752Z,"19 km N of Snyder, Texas",earthquake,0.63811865918455,0.74274222749484,0.1,10.0,reviewed,tx,tx
 2024-11-04T22:44:04.378Z,64.639,-148.0348,6.5,1.0,ml,,,,0.8,ak,ak024e7ef7qt,2024-11-04T22:45:55.950Z,"22 km SSW of South Van Horn, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-04T22:43:22.027Z,63.2163,-149.6518,86.3,2.0,ml,,,,0.86,ak,ak024e7ef06w,2024-11-04T22:45:58.676Z,"40 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-11-04T22:59:46.067Z,63.0645,-150.9301,119.0,2.9,ml,,,,0.47,ak,ak024e7eiio8,2024-11-04T23:01:35.548Z,"63 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-11-04T02:31:16.260Z,58.2945,-154.914,5.38,-0.16,ml,6.0,187.0,0.07881,0.19,av,av93343788,2024-11-04T23:12:40.180Z,"85 km NNW of Karluk, Alaska",earthquake,0.79,1.43,0.29108955405139,6.0,reviewed,av,av
+2024-11-04T01:42:39.760Z,61.3215,-152.29016666667,-0.18,-0.83,ml,7.0,183.0,0.0741,0.12,av,av93343718,2024-11-04T22:58:01.560Z,"67 km WNW of Beluga, Alaska",earthquake,0.57,4.88,0.27133044028161,7.0,reviewed,av,av
