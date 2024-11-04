@@ -3271,3 +3271,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T00:39:07.200Z,60.0165,-153.07716666667,0.58,-0.29,ml,4.0,149.0,0.02947,0.11,av,av93343658,2024-11-04T22:28:04.420Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.39,1.88,0.22507808846576,4.0,reviewed,av,av
 2024-11-04T06:57:16.852Z,32.892,-100.891,5.542,1.5,ml,12.0,59.0,0.0,0.1,tx,tx2024vrgs,2024-11-04T22:39:18.815Z,"19 km N of Snyder, Texas",earthquake,0.8118561388831,0.76380449236011,0.2,7.0,reviewed,tx,tx
 2024-11-04T05:48:39.566Z,32.894,-100.895,5.7861,1.6,ml,14.0,50.0,0.0,0.1,tx,tx2024vrem,2024-11-04T22:31:16.752Z,"19 km N of Snyder, Texas",earthquake,0.63811865918455,0.74274222749484,0.1,10.0,reviewed,tx,tx
+2024-11-04T22:44:04.378Z,64.639,-148.0348,6.5,1.0,ml,,,,0.8,ak,ak024e7ef7qt,2024-11-04T22:45:55.950Z,"22 km SSW of South Van Horn, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-11-04T22:43:22.027Z,63.2163,-149.6518,86.3,2.0,ml,,,,0.86,ak,ak024e7ef06w,2024-11-04T22:45:58.676Z,"40 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
