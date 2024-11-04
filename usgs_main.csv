@@ -3165,3 +3165,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T07:54:23.880Z,33.4765,-116.5195,13.55,0.58,ml,34.0,54.0,0.07146,0.12,ci,ci40787135,2024-11-04T08:00:27.358Z,"17 km ESE of Anza, CA",earthquake,0.16,0.34,0.081,13.0,automatic,ci,ci
 2024-11-04T08:33:34.627Z,62.5349,-149.7822,65.4,1.6,ml,,,,0.5,ak,ak024e760uqe,2024-11-04T08:35:38.451Z,"19 km ENE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-04T08:22:55.070Z,18.882333755493,-155.1746673584,11.239999771118,2.5,md,35.0,262.0,0.3844,0.189999998,hv,hv74521842,2024-11-04T08:24:28.880Z,"47 km ESE of Naalehu, Hawaii",earthquake,0.78,1.00999999,0.159999996,7.0,automatic,hv,hv
+2024-11-04T08:42:27.760Z,34.0921667,-118.1913333,10.67,1.69,ml,21.0,81.0,0.05608,0.11,ci,ci40787159,2024-11-04T08:48:51.602Z,"3 km SSE of Highland Park, CA",earthquake,0.57,0.58,0.253,3.0,automatic,ci,ci
