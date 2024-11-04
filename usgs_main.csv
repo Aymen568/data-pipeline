@@ -3143,3 +3143,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T04:38:38.032Z,63.136,-152.0171,5.8,1.6,ml,,,,0.6,ak,ak024e73o75n,2024-11-04T04:40:53.892Z,"47 km SSW of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-04T02:36:03.594Z,12.7261,-86.7874,10.0,4.2,mb,16.0,109.0,0.23,0.52,us,us7000npsr,2024-11-04T04:40:40.040Z,"23 km NNE of Telica, Nicaragua",earthquake,2.64,1.892,0.216,6.0,reviewed,us,us
 2024-11-04T02:58:35.526Z,-41.3027,174.276,35.0,4.3,mwr,28.0,85.0,0.681,0.79,us,us7000npst,2024-11-04T05:12:21.631Z,"19 km ESE of Waikawa, New Zealand",earthquake,2.95,1.966,0.054,33.0,reviewed,us,us
+2024-11-04T06:13:09.280Z,39.492332458496,-122.98616790772,-0.059999998658895,2.29,md,23.0,64.0,,0.14,nc,nc75082646,2024-11-04T06:14:46.591Z,"10 km  of Lake Pillsbury, CA",earthquake,0.28,11.3299999,0.18,20.0,automatic,nc,nc
+2024-11-04T05:57:41.052Z,63.7155,-148.9701,43.0,1.7,ml,,,,1.0,ak,ak024e74dpll,2024-11-04T05:59:57.800Z,"3 km SW of Denali Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
