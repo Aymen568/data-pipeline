@@ -3267,3 +3267,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T21:57:13.932Z,60.0816,-153.1875,133.3,2.6,ml,,,,0.32,ak,ak024e7dwl7i,2024-11-04T21:59:13.630Z,"60 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-04T08:00:49.880Z,45.129166666667,-122.6535,24.17,1.39,ml,9.0,99.0,0.06414,0.13,uw,uw62058346,2024-11-04T22:00:55.990Z,"6 km WSW of Molalla, Oregon",earthquake,0.36,0.68,0.049613613676729,3.0,reviewed,uw,uw
 2024-11-04T06:40:59.490Z,46.209,-122.17833333333,7.43,0.05,ml,13.0,82.0,0.006707,0.09,uw,uw62058341,2024-11-04T21:54:10.320Z,"39 km NNE of Amboy, Washington",earthquake,0.4,0.5,0.042746655367813,3.0,reviewed,uw,uw
+2024-11-04T21:55:22.140Z,47.895666666667,-122.03983333333,26.59,1.47,ml,8.0,212.0,0.0598,0.18,uw,uw62058426,2024-11-04T22:18:33.080Z,"2 km W of Roosevelt, Washington",earthquake,0.91,0.62,0.092578337900635,2.0,reviewed,uw,uw
+2024-11-04T00:39:07.200Z,60.0165,-153.07716666667,0.58,-0.29,ml,4.0,149.0,0.02947,0.11,av,av93343658,2024-11-04T22:28:04.420Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.39,1.88,0.22507808846576,4.0,reviewed,av,av
