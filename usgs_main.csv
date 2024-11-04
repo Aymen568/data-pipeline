@@ -3155,3 +3155,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T07:25:01.060Z,33.5111667,-116.4976667,13.98,0.64,ml,29.0,59.0,0.05395,0.11,ci,ci40787095,2024-11-04T07:31:06.604Z,"17 km ESE of Anza, CA",earthquake,0.16,0.33,0.111,16.0,automatic,ci,ci
 2024-11-04T07:20:24.900Z,33.8211667,-117.6451667,5.23,1.63,ml,22.0,58.0,0.03962,0.17,ci,ci40787087,2024-11-04T07:26:41.137Z,"9 km SW of Corona, CA",earthquake,0.24,0.4,0.357,22.0,automatic,ci,ci
 2024-11-04T07:07:23.040Z,17.9735,-66.734333333333,10.9,2.38,md,11.0,210.0,0.07143,0.11,pr,pr71464608,2024-11-04T07:26:38.550Z,"3 km SW of Tallaboa, Puerto Rico",earthquake,0.48,0.67,0.089147203877892,4.0,reviewed,pr,pr
+2024-11-04T07:36:00.510Z,33.4973333,-116.4195,8.69,0.73,ml,47.0,81.0,0.1108,0.15,ci,ci40787111,2024-11-04T07:42:04.228Z,"21 km SSW of La Quinta, CA",earthquake,0.16,0.46,0.12,20.0,automatic,ci,ci
