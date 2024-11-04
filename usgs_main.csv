@@ -3222,3 +3222,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T15:03:53.104Z,-17.5119,-69.2447,159.209,4.5,mb,71.0,68.0,0.237,0.79,us,us7000npv7,2024-11-04T16:56:05.040Z,"81 km ENE of Palca, Peru",earthquake,7.67,5.566,0.076,50.0,reviewed,us,us
 2024-11-04T04:30:23.940Z,36.7119,-116.0595,5.0,-0.4,ml,7.0,287.33,0.035,0.0323,nn,nn00887153,2024-11-04T17:23:56.280Z,"38 km WNW of Indian Springs, Nevada",earthquake,,4.0,0.0,1.0,reviewed,nn,nn
 2024-11-04T13:45:46.880Z,18.817833333333,-155.17,6.38,2.3,ml,12.0,285.0,0.4349,0.09,hv,hv74521967,2024-11-04T17:46:40.640Z,"51 km ESE of Naalehu, Hawaii",earthquake,0.84,1.33,0.13194531302797,4.0,reviewed,hv,hv
+2024-11-04T18:10:27.735Z,59.9053,-151.6434,68.0,1.6,ml,,,,0.41,ak,ak024e7bu8wm,2024-11-04T18:12:53.853Z,"6 km SE of Happy Valley, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-11-04T17:52:17.630Z,33.2988333,-116.2848333,11.33,2.76,ml,99.0,17.0,0.06667,0.18,ci,ci40787359,2024-11-04T18:04:07.745Z,"10 km ENE of Borrego Springs, CA",earthquake,0.11,0.23,0.179,26.0,automatic,ci,ci
+2024-11-04T17:51:03.866Z,-12.3355,166.7681,248.19,4.5,mb,45.0,68.0,8.508,0.48,us,us7000npwt,2024-11-04T18:07:52.040Z,"190 km NNW of Sola, Vanuatu",earthquake,12.77,8.181,0.076,51.0,reviewed,us,us
