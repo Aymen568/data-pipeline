@@ -3137,3 +3137,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T02:34:23.460Z,33.7733345,-117.1478348,2.03,1.37,ml,13.0,149.0,0.1382,0.31,ci,ci40787055,2024-11-04T02:41:55.050Z,"3 km S of Nuevo, CA",earthquake,1.07,3.01,0.199,30.0,automatic,ci,ci
 2024-11-04T02:34:10.800Z,34.103,-117.2986667,14.42,1.57,ml,94.0,39.0,0.01332,0.17,ci,ci40787047,2024-11-04T02:45:10.960Z,"3 km S of San Bernardino, CA",earthquake,0.11,0.22,0.181,28.0,automatic,ci,ci
 2024-11-04T03:40:47.798Z,61.5176,-148.097,28.1,1.7,ml,,,,0.41,ak,ak024e7337qj,2024-11-04T03:42:22.871Z,"36 km SSE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-11-04T03:26:05.146Z,-8.917,110.2288,103.318,4.5,mb,17.0,133.0,1.868,0.6,us,us7000npsx,2024-11-04T04:13:43.040Z,"107 km S of Bambanglipuro, Indonesia",earthquake,8.24,9.549,0.205,7.0,reviewed,us,us
