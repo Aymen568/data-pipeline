@@ -3180,3 +3180,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T11:19:44.341Z,61.9973,-148.3381,31.0,1.7,ml,,,,0.77,ak,ak024e77q69u,2024-11-04T11:21:35.547Z,"23 km NNE of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-11-04T11:08:16.905Z,31.443,-103.447,8.7633,1.6,ml,8.0,167.0,0.1,0.6,tx,tx2024vrpa,2024-11-04T11:19:20.607Z,"4 km ENE of Pecos, Texas",earthquake,0.0,4.838098526001,0.3,6.0,automatic,tx,tx
 2024-11-04T09:13:52.613Z,-7.4553,128.0633,136.087,4.4,mb,31.0,60.0,3.441,0.87,us,us7000npu0,2024-11-04T11:21:35.040Z,"166 km NE of Lospalos, Timor Leste",earthquake,10.38,8.796,0.115,22.0,reviewed,us,us
+2024-11-04T11:33:51.726Z,64.7635,-149.1894,0.0,1.7,ml,,,,0.84,ak,ak024e77t6v8,2024-11-04T11:36:16.274Z,"18 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
