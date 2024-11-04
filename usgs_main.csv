@@ -3218,3 +3218,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T16:37:28.377Z,57.0694,-154.3594,6.9,2.1,ml,,,,0.24,ak,ak024e7at5yd,2024-11-04T16:39:27.960Z,"17 km NW of Akhiok, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-04T16:29:00.412Z,66.445,-145.9869,0.0,2.0,ml,,,,1.73,ak,ak024e7are2h,2024-11-04T16:31:27.695Z,"22 km NNW of Birch Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-04T16:28:57.830Z,18.895500183106,-155.21383666992,7.5799999237061,2.1400001,md,37.0,259.0,0.3493,0.180000007,hv,hv74522042,2024-11-04T16:30:51.470Z,"42 km ESE of Naalehu, Hawaii",earthquake,0.52,0.610000014,0.0299999993,5.0,automatic,hv,hv
+2024-11-04T15:10:56.088Z,35.5317,140.0284,70.646,4.6,mb,57.0,122.0,1.786,0.74,us,us7000npv8,2024-11-04T17:09:35.040Z,"5 km WNW of Ichihara, Japan",earthquake,6.53,7.003,0.087,39.0,reviewed,us,us
+2024-11-04T15:03:53.104Z,-17.5119,-69.2447,159.209,4.5,mb,71.0,68.0,0.237,0.79,us,us7000npv7,2024-11-04T16:56:05.040Z,"81 km ENE of Palca, Peru",earthquake,7.67,5.566,0.076,50.0,reviewed,us,us
