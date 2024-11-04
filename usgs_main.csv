@@ -3172,3 +3172,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T09:43:26.947Z,31.654,-104.355,4.0908,1.8,ml,18.0,70.0,0.1,0.3,tx,tx2024vrme,2024-11-04T09:56:31.008Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.282985329628,0.2,14.0,automatic,tx,tx
 2024-11-04T10:09:19.100Z,36.840999603271,-121.59449768066,8.0299997329712,1.84,md,39.0,48.0,0.04285,0.16,nc,nc75082666,2024-11-04T10:27:18.129Z,"5 km W of San Juan Bautista, CA",earthquake,0.31,0.629999995,0.23,33.0,automatic,nc,nc
 2024-11-04T06:19:22.002Z,51.4204,-177.7387,46.36,4.1,mb,114.0,182.0,0.455,0.6,us,us7000nptl,2024-11-04T10:20:07.040Z,"91 km SW of Adak, Alaska",earthquake,5.63,8.439,0.057,85.0,reviewed,us,us
+2024-11-04T10:52:30.790Z,36.839500427246,-121.59549713135,4.6900000572205,1.95,md,38.0,48.0,,0.16,nc,nc75082671,2024-11-04T10:55:43.860Z,"5 km W of San Juan Bautista, CA",earthquake,0.25,0.819999993,0.19,35.0,automatic,nc,nc
+2024-11-04T10:43:51.645Z,62.2778,-149.7729,13.7,1.5,ml,,,,0.55,ak,ak024e779wf0,2024-11-04T10:45:48.599Z,"13 km NNE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
