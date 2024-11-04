@@ -3234,3 +3234,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T18:35:42.975Z,13.1837,-90.3624,34.106,4.2,mb,24.0,197.0,0.912,0.98,us,us7000npww,2024-11-04T18:52:36.040Z,"73 km SW of Acajutla, El Salvador",earthquake,6.18,11.058,0.159,11.0,reviewed,us,us
 2024-11-04T14:50:25.470Z,45.7245,-112.82866666667,3.01,0.36,ml,6.0,130.0,0.1691,0.04,mb,mb90065198,2024-11-04T18:51:47.090Z,"38 km SW of Butte, Montana",earthquake,0.29,0.48,0.25445183974581,4.0,reviewed,mb,mb
 2024-11-04T10:41:53.720Z,45.833333333333,-112.385,12.04,-0.04,ml,5.0,130.0,0.04807,0.03,mb,mb90065193,2024-11-04T18:45:05.200Z,"22 km SSE of Butte, Montana",earthquake,0.57,0.44,0.35105842006141,2.0,reviewed,mb,mb
+2024-11-04T19:03:14.484Z,61.7179,-151.7851,94.3,1.7,ml,,,,0.33,ak,ak024e7ce5co,2024-11-04T19:05:03.696Z,"36 km SSW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-11-04T16:45:46.340Z,46.885,-112.52383333333,9.63,1.07,ml,9.0,122.0,0.05262,0.03,mb,mb90065203,2024-11-04T18:58:23.970Z,"14 km ESE of Lincoln, Montana",earthquake,0.45,0.32,0.19372412771818,9.0,reviewed,mb,mb
+2024-11-04T10:45:12.558Z,62.2573,-149.7589,7.8,1.0,ml,,,,0.9,ak,ak024e77a4e7,2024-11-04T18:57:00.124Z,"11 km NNE of Susitna North, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2024-11-03T20:09:10.826Z,31.645,-104.5,6.8689,2.7,ml,33.0,73.0,0.0,0.1,tx,tx2024vqli,2024-11-04T19:07:10.743Z,"59 km S of Whites City, New Mexico",earthquake,0.76389919482191,0.51755893759178,0.2,31.0,reviewed,tx,tx
