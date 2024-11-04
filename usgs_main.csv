@@ -3192,3 +3192,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T13:06:31.783Z,61.8366,-149.4709,36.0,1.6,ml,,,,0.46,ak,ak024e78u87e,2024-11-04T13:08:16.886Z,"16 km NW of Fishhook, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-11-04T07:33:41.000Z,36.308833333333,-89.523,8.61,1.75,md,19.0,46.0,0.0386,0.07,nm,nm60593481,2024-11-04T13:19:10.360Z,"5 km NNW of Ridgely, Tennessee",earthquake,0.44,0.63,0.090272702557071,15.0,reviewed,nm,nm
 2024-11-04T13:00:16.460Z,17.943666666667,-66.870166666667,17.62,2.11,md,7.0,215.0,0.02862,0.08,pr,pr71464623,2024-11-04T13:45:20.760Z,"4 km SSE of Maria Antonia, Puerto Rico",earthquake,0.73,0.39,0.019266578631867,4.0,reviewed,pr,pr
+2024-11-04T13:49:02.050Z,62.0745,-150.9329,65.9,1.7,ml,,,,0.43,ak,ak024e793dp9,2024-11-04T13:51:41.719Z,"26 km ENE of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
