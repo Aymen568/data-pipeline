@@ -3174,3 +3174,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T06:19:22.002Z,51.4204,-177.7387,46.36,4.1,mb,114.0,182.0,0.455,0.6,us,us7000nptl,2024-11-04T10:20:07.040Z,"91 km SW of Adak, Alaska",earthquake,5.63,8.439,0.057,85.0,reviewed,us,us
 2024-11-04T10:52:30.790Z,36.839500427246,-121.59549713135,4.6900000572205,1.95,md,38.0,48.0,,0.16,nc,nc75082671,2024-11-04T10:55:43.860Z,"5 km W of San Juan Bautista, CA",earthquake,0.25,0.819999993,0.19,35.0,automatic,nc,nc
 2024-11-04T10:43:51.645Z,62.2778,-149.7729,13.7,1.5,ml,,,,0.55,ak,ak024e779wf0,2024-11-04T10:45:48.599Z,"13 km NNE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-11-04T11:13:36.340Z,34.0121651,-116.3195038,8.6,1.03,ml,26.0,63.0,0.08166,0.09,ci,ci40787183,2024-11-04T11:15:38.786Z,"14 km S of Joshua Tree, CA",earthquake,0.29,0.73,0.248,7.0,automatic,ci,ci
