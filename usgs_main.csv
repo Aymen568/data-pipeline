@@ -3196,3 +3196,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T14:14:58.126Z,63.5653,-147.3301,8.3,1.5,ml,,,,0.45,ak,ak024e79hfkk,2024-11-04T14:17:10.576Z,"80 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-04T14:04:07.055Z,63.1147,-150.4417,95.7,1.5,ml,,,,0.47,ak,ak024e79f6gx,2024-11-04T14:06:23.903Z,"70 km NNE of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-11-04T00:00:02.708Z,31.638,-104.373,6.0101,2.7,ml,29.0,74.0,0.1,0.1,tx,tx2024vqth,2024-11-04T14:08:39.914Z,"59 km S of Whites City, New Mexico",earthquake,0.56833109344558,0.54670028441248,0.1,24.0,reviewed,tx,tx
+2024-11-04T14:09:45.260Z,17.9595,-66.8435,10.91,2.27,md,9.0,209.0,0.02687,0.1,pr,pr71464628,2024-11-04T14:21:46.480Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.46,0.35,0.099258497678845,6.0,reviewed,pr,pr
+2024-11-04T12:29:50.880Z,38.167166666667,-112.54433333333,5.85,2.22,ml,28.0,52.0,0.3105,0.22,uu,uu80085921,2024-11-04T14:37:24.300Z,"14 km SE of Beaver, Utah",earthquake,0.37,1.19,0.10146681087884,13.0,reviewed,uu,uu
