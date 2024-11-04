@@ -3175,3 +3175,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T10:52:30.790Z,36.839500427246,-121.59549713135,4.6900000572205,1.95,md,38.0,48.0,,0.16,nc,nc75082671,2024-11-04T10:55:43.860Z,"5 km W of San Juan Bautista, CA",earthquake,0.25,0.819999993,0.19,35.0,automatic,nc,nc
 2024-11-04T10:43:51.645Z,62.2778,-149.7729,13.7,1.5,ml,,,,0.55,ak,ak024e779wf0,2024-11-04T10:45:48.599Z,"13 km NNE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-11-04T11:13:36.340Z,34.0121651,-116.3195038,8.6,1.03,ml,26.0,63.0,0.08166,0.09,ci,ci40787183,2024-11-04T11:15:38.786Z,"14 km S of Joshua Tree, CA",earthquake,0.29,0.73,0.248,7.0,automatic,ci,ci
+2024-11-04T11:27:37.680Z,19.173500061035,-155.45616149902,33.080001831055,1.76999998,md,43.0,135.0,0.01885,0.129999995,hv,hv74521912,2024-11-04T11:29:19.780Z,"4 km SE of Pāhala, Hawaii",earthquake,0.53,0.660000026,0.180000007,9.0,automatic,hv,hv
+2024-11-04T11:20:01.620Z,33.4990005,-116.5183334,12.05,3.32,ml,109.0,30.0,0.0593,0.21,ci,ci40787191,2024-11-04T11:26:36.337Z,"16 km ESE of Anza, CA",earthquake,0.2,0.51,0.277,15.0,automatic,ci,ci
+2024-11-04T11:19:44.341Z,61.9973,-148.3381,31.0,1.7,ml,,,,0.77,ak,ak024e77q69u,2024-11-04T11:21:35.547Z,"23 km NNE of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2024-11-04T11:08:16.905Z,31.443,-103.447,8.7633,1.6,ml,8.0,167.0,0.1,0.6,tx,tx2024vrpa,2024-11-04T11:19:20.607Z,"4 km ENE of Pecos, Texas",earthquake,0.0,4.838098526001,0.3,6.0,automatic,tx,tx
+2024-11-04T09:13:52.613Z,-7.4553,128.0633,136.087,4.4,mb,31.0,60.0,3.441,0.87,us,us7000npu0,2024-11-04T11:21:35.040Z,"166 km NE of Lospalos, Timor Leste",earthquake,10.38,8.796,0.115,22.0,reviewed,us,us
