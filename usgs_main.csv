@@ -3159,3 +3159,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T07:51:08.818Z,60.7264,-150.2936,31.5,1.3,ml,,,,0.82,ak,ak024e75j80x,2024-11-04T07:52:53.429Z,"30 km SE of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-04T07:46:24.910Z,33.3396667,-116.9313333,16.97,0.64,ml,45.0,30.0,0.05915,0.16,ci,ci40787127,2024-11-04T07:52:21.970Z,"6 km WSW of Palomar Observatory, CA",earthquake,0.17,0.45,0.227,13.0,automatic,ci,ci
 2024-11-04T07:42:55.740Z,33.4971667,-116.4183333,9.03,0.82,ml,44.0,67.0,0.1117,0.15,ci,ci40787119,2024-11-04T07:48:50.257Z,"21 km SSW of La Quinta, CA",earthquake,0.17,0.48,0.137,19.0,automatic,ci,ci
+2024-11-04T08:11:56.478Z,36.9743,-116.2021,5.6,0.3,ml,9.0,81.63,0.046,0.2308,nn,nn00887149,2024-11-04T08:13:47.132Z,"50 km E of Beatty, Nevada",earthquake,,1.1,0.6,6.0,automatic,nn,nn
+2024-11-04T08:06:06.855Z,63.5333,-152.154,51.9,1.9,ml,,,,1.13,ak,ak024e75v099,2024-11-04T08:18:25.996Z,"21 km W of Denali National Park, Alaska",earthquake,,13.1,,,automatic,ak,ak
+2024-11-04T07:57:21.349Z,56.3918,-34.0674,10.0,4.9,mb,90.0,67.0,8.76,0.5,us,us7000npts,2024-11-04T08:20:05.040Z,Reykjanes Ridge,earthquake,7.89,1.821,0.037,230.0,reviewed,us,us
+2024-11-04T07:54:23.880Z,33.4765,-116.5195,13.55,0.58,ml,34.0,54.0,0.07146,0.12,ci,ci40787135,2024-11-04T08:00:27.358Z,"17 km ESE of Anza, CA",earthquake,0.16,0.34,0.081,13.0,automatic,ci,ci
