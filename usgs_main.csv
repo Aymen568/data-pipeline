@@ -3254,3 +3254,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T20:08:47.793Z,36.7275,-115.9673,2.4,1.9,ml,29.0,67.84,0.015,0.2014,nn,nn00887157,2024-11-04T20:10:43.298Z,"31 km WNW of Indian Springs, Nevada",earthquake,,0.4,0.32,21.0,automatic,nn,nn
 2024-11-04T20:47:50.380Z,36.409168243408,-120.98166656494,8.9700002670288,2.07,md,27.0,120.0,,0.12,nc,nc75082751,2024-11-04T20:50:51.120Z,"20 km SE of Pinnacles, CA",earthquake,0.35,0.790000021,0.19,27.0,automatic,nc,nc
 2024-11-04T20:41:14.140Z,33.5265,-116.7428333,2.22,0.45,ml,18.0,60.0,0.03907,0.11,ci,ci40787535,2024-11-04T20:47:14.597Z,"7 km WSW of Anza, CA",earthquake,0.15,0.18,0.127,7.0,automatic,ci,ci
+2024-11-04T21:06:17.215Z,36.5473,-115.1972,6.3,1.6,ml,11.0,312.29,0.658,0.3105,nn,nn00887163,2024-11-04T21:08:50.429Z,"35 km NNW of Nellis Air Force Base, Nevada",earthquake,,2.8,0.26,8.0,automatic,nn,nn
+2024-11-04T20:47:02.790Z,17.517666666667,-67.045166666667,9.39,2.71,md,11.0,290.0,0.4493,0.28,pr,pr71464658,2024-11-04T21:11:56.820Z,"50 km S of La Parguera, Puerto Rico",earthquake,1.34,0.88,0.064636632077884,7.0,reviewed,pr,pr
+2024-11-04T20:46:24.759Z,25.434,142.5729,10.0,4.7,mb,57.0,120.0,1.691,0.56,us,us7000npxd,2024-11-04T21:10:40.040Z,"Volcano Islands, Japan region",earthquake,10.47,1.89,0.08,48.0,reviewed,us,us
