@@ -3142,3 +3142,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T04:41:29.530Z,33.2324982,-116.0383301,4.74,1.14,ml,17.0,97.0,0.06471,0.13,ci,ci40787071,2024-11-04T04:43:31.955Z,"11 km SW of Salton City, CA",earthquake,0.43,1.16,0.164,4.0,automatic,ci,ci
 2024-11-04T04:38:38.032Z,63.136,-152.0171,5.8,1.6,ml,,,,0.6,ak,ak024e73o75n,2024-11-04T04:40:53.892Z,"47 km SSW of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-04T02:36:03.594Z,12.7261,-86.7874,10.0,4.2,mb,16.0,109.0,0.23,0.52,us,us7000npsr,2024-11-04T04:40:40.040Z,"23 km NNE of Telica, Nicaragua",earthquake,2.64,1.892,0.216,6.0,reviewed,us,us
+2024-11-04T02:58:35.526Z,-41.3027,174.276,35.0,4.3,mwr,28.0,85.0,0.681,0.79,us,us7000npst,2024-11-04T05:12:21.631Z,"19 km ESE of Waikawa, New Zealand",earthquake,2.95,1.966,0.054,33.0,reviewed,us,us
