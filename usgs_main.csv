@@ -3238,3 +3238,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T16:45:46.340Z,46.885,-112.52383333333,9.63,1.07,ml,9.0,122.0,0.05262,0.03,mb,mb90065203,2024-11-04T18:58:23.970Z,"14 km ESE of Lincoln, Montana",earthquake,0.45,0.32,0.19372412771818,9.0,reviewed,mb,mb
 2024-11-04T10:45:12.558Z,62.2573,-149.7589,7.8,1.0,ml,,,,0.9,ak,ak024e77a4e7,2024-11-04T18:57:00.124Z,"11 km NNE of Susitna North, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2024-11-03T20:09:10.826Z,31.645,-104.5,6.8689,2.7,ml,33.0,73.0,0.0,0.1,tx,tx2024vqli,2024-11-04T19:07:10.743Z,"59 km S of Whites City, New Mexico",earthquake,0.76389919482191,0.51755893759178,0.2,31.0,reviewed,tx,tx
+2024-11-04T19:20:18.940Z,33.8549995,-117.1959991,4.9,1.66,ml,28.0,123.0,0.123,0.37,ci,ci40787455,2024-11-04T19:22:22.369Z,"7 km ESE of March Air Reserve Base, CA",earthquake,0.88,2.76,0.329,12.0,automatic,ci,ci
+2024-11-04T19:14:44.790Z,62.7475,-149.631,59.4,1.7,ml,,,,0.57,ak,ak024e7cgkkf,2024-11-04T19:16:49.157Z,"41 km NE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-11-04T19:12:34.090Z,33.4653333,-116.4821667,9.92,1.02,ml,37.0,63.0,0.1006,0.15,ci,ci40787439,2024-11-04T19:23:55.236Z,"20 km ESE of Anza, CA",earthquake,0.2,0.38,0.153,26.0,automatic,ci,ci
+2024-11-04T19:02:25.230Z,33.5405006,-116.3830032,8.41,1.13,ml,10.0,184.0,0.2774,0.37,ci,ci40787431,2024-11-04T19:13:47.965Z,"15 km SSW of La Quinta, CA",earthquake,1.9,9.35,0.298,11.0,automatic,ci,ci
