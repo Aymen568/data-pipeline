@@ -3440,3 +3440,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-05T18:25:02.239Z,31.717,-104.576,3.9442,1.6,ml,12.0,112.0,0.0,0.2,tx,tx2024vtyy,2024-11-05T18:44:46.996Z,"54 km SSW of Whites City, New Mexico",earthquake,0.0,1.6934245824814,0.2,10.0,automatic,tx,tx
 2024-11-05T18:01:46.010Z,46.543666666667,-111.9815,-2.0,1.11,ml,9.0,110.0,0.1969,0.07,mb,mb90065253,2024-11-05T18:34:00.470Z,"1 km SE of South Hills, Montana",quarry blast,0.38,31.61,0.13180297768322,10.0,reviewed,mb,mb
 2024-11-05T01:38:45.590Z,39.4351,-120.3045,10.1,0.6,ml,7.0,203.54,0.011,0.1517,nn,nn00887193,2024-11-05T18:37:47.797Z,"14 km NNE of Soda Springs, California",earthquake,,1.7,0.36,3.0,reviewed,nn,nn
+2024-11-05T09:38:03.906Z,51.4181,-178.8346,25.8,2.2,ml,,,,0.32,ak,ak024e8u6nqj,2024-11-05T18:50:15.717Z,"160 km WSW of Adak, Alaska",earthquake,,1.2,,,reviewed,ak,ak
+2024-11-05T05:38:56.025Z,39.1768,-119.1472,9.0,1.0,ml,8.0,132.69,0.205,0.1866,nn,nn00887194,2024-11-05T18:50:05.981Z,"21 km N of Yerington, Nevada",earthquake,,6.9,0.31,2.0,reviewed,nn,nn
