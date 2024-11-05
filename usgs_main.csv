@@ -3414,3 +3414,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T17:18:29.589Z,32.235,-101.916,6.5186,2.2,ml,37.0,34.0,0.0,0.1,tx,tx2024vsbf,2024-11-05T14:43:46.280Z,"16 km NW of Stanton, Texas",earthquake,0.29101062944747,0.56544044746421,0.2,37.0,reviewed,tx,tx
 2024-11-05T15:23:13.746Z,59.9493,-151.6632,65.3,2.0,ml,,,,0.34,ak,ak024e8xo1ou,2024-11-05T15:25:08.995Z,"3 km E of Happy Valley, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-11-05T15:11:38.375Z,36.7086,-116.1536,0.8,-0.2,ml,9.0,302.89,0.024,0.0291,nn,nn00887186,2024-11-05T15:52:33.082Z,"45 km WNW of Indian Springs, Nevada",earthquake,,7.2,0.0,1.0,reviewed,nn,nn
+2024-11-05T15:46:25.641Z,31.359,-103.735,6.7581,1.9,ml,4.0,131.0,0.1,0.1,tx,tx2024vttr,2024-11-05T16:14:59.061Z,"7 km NE of Toyah, Texas",earthquake,0.0,6.2586002349853,0.1,4.0,automatic,tx,tx
+2024-11-05T15:38:28.690Z,37.010333333333,-112.98416666667,26.11,2.49,ml,26.0,119.0,0.13,0.18,uu,uu80085956,2024-11-05T16:28:33.460Z,"1 km WNW of Hildale, Utah",earthquake,0.4,0.39,0.16550123483048,10.0,reviewed,uu,uu
+2024-11-05T15:28:51.323Z,36.8642,-115.9704,6.1,-0.2,ml,13.0,209.32,0.043,0.1195,nn,nn00887187,2024-11-05T15:58:42.489Z,"42 km NW of Indian Springs, Nevada",earthquake,,1.9,0.11,5.0,reviewed,nn,nn
