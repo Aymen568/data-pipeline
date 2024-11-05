@@ -3452,3 +3452,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-05T12:53:18.224Z,39.3264,-120.1648,8.0,0.0,ml,3.0,186.78,0.105,0.1118,nn,nn00887198,2024-11-05T19:39:07.151Z,"1 km E of Truckee, California",earthquake,,6.1,0.52,3.0,reviewed,nn,nn
 2024-11-05T18:08:27.112Z,24.0815,121.8759,37.306,4.6,mb,30.0,66.0,0.742,0.75,us,us7000nq32,2024-11-05T19:48:09.040Z,"29 km ENE of Hualien City, Taiwan",earthquake,4.01,7.874,0.141,15.0,reviewed,us,us
 2024-11-05T13:59:52.385Z,37.0502,-116.8434,6.9,0.4,ml,5.0,302.64,0.135,0.1218,nn,nn00887199,2024-11-05T19:48:17.854Z,"17 km NNW of Beatty, Nevada",earthquake,,7.3,0.33,3.0,reviewed,nn,nn
+2024-11-05T20:06:34.351Z,64.794,-150.5927,15.0,2.0,ml,,,,0.78,ak,ak024e90jm4r,2024-11-05T20:08:25.364Z,"23 km S of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-11-05T19:39:41.219Z,-12.9349,-75.1973,79.395,5.7,mww,119.0,59.0,1.862,0.85,us,us7000nq3d,2024-11-05T20:07:03.057Z,"14 km NNW of Santa Ana, Peru",earthquake,7.62,6.353,0.049,40.0,reviewed,us,us
+2024-11-05T17:43:00.560Z,47.802666666667,-120.13683333333,5.42,0.96,ml,8.0,87.0,0.06339,0.07,uw,uw62058586,2024-11-05T19:57:01.130Z,"9 km S of Manson, Washington",earthquake,0.24,0.89,0.28444204881933,7.0,reviewed,uw,uw
