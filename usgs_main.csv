@@ -3412,3 +3412,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-05T14:41:54.995Z,37.7616,-117.1228,0.0,1.2,ml,10.0,180.33,0.559,0.2853,nn,nn00887181,2024-11-05T14:44:31.595Z,"11 km ENE of Goldfield, Nevada",earthquake,,69.8,0.39,5.0,automatic,nn,nn
 2024-11-05T13:31:49.927Z,31.843,-101.813,8.1299,1.2,ml,14.0,63.0,0.1,0.1,tx,tx2024vtpj,2024-11-05T14:44:21.298Z,"30 km SE of Midland, Texas",earthquake,0.58769673177631,1.0826044719853,0.0,6.0,reviewed,tx,tx
 2024-11-04T17:18:29.589Z,32.235,-101.916,6.5186,2.2,ml,37.0,34.0,0.0,0.1,tx,tx2024vsbf,2024-11-05T14:43:46.280Z,"16 km NW of Stanton, Texas",earthquake,0.29101062944747,0.56544044746421,0.2,37.0,reviewed,tx,tx
+2024-11-05T15:23:13.746Z,59.9493,-151.6632,65.3,2.0,ml,,,,0.34,ak,ak024e8xo1ou,2024-11-05T15:25:08.995Z,"3 km E of Happy Valley, Alaska",earthquake,,1.3,,,automatic,ak,ak
