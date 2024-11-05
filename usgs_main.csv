@@ -3420,3 +3420,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-05T16:40:28.987Z,61.6077,-150.4526,48.2,2.0,ml,,,,0.6,ak,ak024e8yd5n6,2024-11-05T16:42:27.795Z,"7 km NNE of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-11-05T12:02:14.800Z,33.148,-116.4451667,10.7,0.57,ml,32.0,76.0,0.07075,0.23,ci,ci37687836,2024-11-05T16:41:44.805Z,"14 km SSW of Borrego Springs, CA",earthquake,0.3,0.62,0.233,6.0,reviewed,ci,ci
 2024-11-05T12:02:33.430Z,33.8041667,-116.9591667,14.25,0.5,ml,30.0,41.0,0.008213,0.15,ci,ci37687844,2024-11-05T16:54:42.979Z,"2 km N of San Jacinto, CA",earthquake,0.19,0.5,0.12,10.0,reviewed,ci,ci
+2024-11-05T16:58:41.733Z,37.2455,-114.4046,13.2,1.9,ml,12.0,291.73,0.539,0.3778,nn,nn00887189,2024-11-05T17:01:22.925Z,"42 km SSE of Caliente, Nevada",earthquake,,0.5,0.22,9.0,automatic,nn,nn
+2024-11-05T16:57:12.980Z,19.14066696167,-155.49949645996,35.259998321533,2.02999997,md,28.0,229.0,0.1363,0.119999997,hv,hv74522952,2024-11-05T16:58:43.510Z,"7 km SSW of Pāhala, Hawaii",earthquake,0.85,0.730000019,0.0700000003,3.0,automatic,hv,hv
+2024-11-05T16:56:49.616Z,61.2977,-146.8245,19.2,2.2,ml,,,,0.13,ak,ak024e8ygmox,2024-11-05T16:59:08.363Z,"31 km NW of Valdez, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-11-05T13:01:12.877Z,30.9049,-116.6024,10.0,2.8,ml,30.0,257.0,1.771,0.67,us,us7000nq1y,2024-11-05T16:57:49.040Z,"42 km W of Las Brisas, Mexico",earthquake,7.11,2.021,0.047,60.0,reviewed,us,us
+2024-11-05T12:17:24.770Z,44.1455,-115.1085,2.28,1.61,ml,8.0,105.0,0.1926,0.21,mb,mb90065243,2024-11-05T17:04:32.130Z,"15 km WSW of Stanley, Idaho",earthquake,0.55,1.65,0.30307354717794,12.0,reviewed,mb,mb
+2024-11-05T06:01:32.700Z,36.8707,-117.8346,5.3,0.8,ml,7.0,220.65,0.392,0.153,nn,nn00887176,2024-11-05T17:12:05.210Z,"33 km ENE of Independence, California",earthquake,,5.9,0.03,3.0,reviewed,nn,nn
