@@ -3419,3 +3419,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-05T15:28:51.323Z,36.8642,-115.9704,6.1,-0.2,ml,13.0,209.32,0.043,0.1195,nn,nn00887187,2024-11-05T15:58:42.489Z,"42 km NW of Indian Springs, Nevada",earthquake,,1.9,0.11,5.0,reviewed,nn,nn
 2024-11-05T16:40:28.987Z,61.6077,-150.4526,48.2,2.0,ml,,,,0.6,ak,ak024e8yd5n6,2024-11-05T16:42:27.795Z,"7 km NNE of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-11-05T12:02:14.800Z,33.148,-116.4451667,10.7,0.57,ml,32.0,76.0,0.07075,0.23,ci,ci37687836,2024-11-05T16:41:44.805Z,"14 km SSW of Borrego Springs, CA",earthquake,0.3,0.62,0.233,6.0,reviewed,ci,ci
+2024-11-05T12:02:33.430Z,33.8041667,-116.9591667,14.25,0.5,ml,30.0,41.0,0.008213,0.15,ci,ci37687844,2024-11-05T16:54:42.979Z,"2 km N of San Jacinto, CA",earthquake,0.19,0.5,0.12,10.0,reviewed,ci,ci
