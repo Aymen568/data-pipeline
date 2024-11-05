@@ -3384,3 +3384,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-05T10:32:27.750Z,33.1486667,-116.4456667,9.09,0.55,ml,37.0,64.0,0.07145,0.22,ci,ci40787855,2024-11-05T10:38:20.697Z,"14 km SSW of Borrego Springs, CA",earthquake,0.28,0.78,0.125,7.0,automatic,ci,ci
 2024-11-05T10:56:55.620Z,58.0589,-137.331,14.909,2.5,ml,19.0,168.0,0.593,0.73,us,us7000nq1l,2024-11-05T11:13:37.040Z,"60 km WSW of Elfin Cove, Alaska",earthquake,3.3,6.273,0.059,38.0,reviewed,us,us
 2024-11-05T10:38:56.730Z,18.0175,-66.813833333333,14.27,2.26,md,17.0,136.0,0.04183,0.29,pr,pr71464788,2024-11-05T11:00:36.430Z,"2 km W of Guayanilla, Puerto Rico",earthquake,0.65,1.08,0.080079789953615,6.0,reviewed,pr,pr
+2024-11-05T11:24:02.810Z,62.4892,-151.5933,93.7,1.6,ml,,,,0.3,ak,ak024e8vai55,2024-11-05T11:26:10.911Z,"42 km W of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
