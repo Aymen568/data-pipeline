@@ -3401,3 +3401,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-05T13:43:03.580Z,19.126333236694,-155.49833679199,35.509998321533,1.85000002,md,35.0,169.0,0.146,0.159999996,hv,hv74522817,2024-11-05T13:44:40.490Z,"8 km SSW of Pāhala, Hawaii",earthquake,0.74,0.949999988,0.330000013,4.0,automatic,hv,hv
 2024-11-05T12:43:32.248Z,18.9903,-64.3525,35.0,3.4,ml,21.0,194.0,0.621,0.32,us,us7000nq1w,2024-11-05T13:48:16.040Z,"86 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,4.98,2.014,0.06,36.0,reviewed,us,us
 2024-11-05T11:27:00.400Z,18.3133,-67.9595,7.0,3.46,md,15.0,183.0,0.4672,0.59,pr,pr2024310000,2024-11-05T13:48:37.827Z,"55 km ESE of Punta Cana, Dominican Republic",earthquake,6.23,2.56,0.11,8.0,reviewed,pr,pr
+2024-11-05T13:51:52.650Z,56.9695,-156.3567,25.9,3.2,ml,,,,0.75,ak,ak024e8wn9j5,2024-11-05T13:54:43.525Z,"87 km SE of Ugashik, Alaska",earthquake,,3.8,,,automatic,ak,ak
+2024-11-05T12:43:32.940Z,19.065,-64.3493,21.0,3.84,md,23.0,231.0,0.7036,0.25,pr,pr2024310002,2024-11-05T14:01:27.313Z,"93 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,1.18,19.21,0.14,18.0,reviewed,pr,pr
+2024-11-05T12:15:29.900Z,19.1821,-64.5576,17.0,3.68,md,19.0,295.0,0.7695,0.31,pr,pr2024310001,2024-11-05T13:55:30.722Z,"97 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,5.17,10.32,0.17,16.0,reviewed,pr,pr
+2024-11-05T08:20:52.831Z,32.857,-100.529,4.4678,2.1,ml,22.0,77.0,0.1,0.1,tx,tx2024vtez,2024-11-05T13:53:42.120Z,"5 km W of Rotan, Texas",earthquake,0.84188187118122,0.82698377552283,0.1,35.0,reviewed,tx,tx
+2024-11-05T02:44:56.361Z,28.467,-98.435,4.9316,2.4,ml,22.0,86.0,0.0,0.2,tx,tx2024vstv,2024-11-05T14:08:40.712Z,"11 km E of Tilden, Texas",earthquake,1.458209451038,2.0904799198144,0.1,19.0,reviewed,tx,tx
