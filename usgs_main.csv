@@ -3340,3 +3340,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-05T04:15:50.790Z,17.966,-66.8325,17.56,2.38,md,7.0,202.0,0.04541,0.09,pr,pr71464733,2024-11-05T04:28:03.760Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.47,0.81,0.073138636955346,5.0,reviewed,pr,pr
 2024-11-05T04:44:00.954Z,59.8484,-153.562,135.4,1.9,ml,,,,1.02,ak,ak024e8r8r33,2024-11-05T04:47:30.862Z,"31 km ENE of Pedro Bay, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-11-05T04:41:46.710Z,36.552333831787,-121.07416534424,6.710000038147,1.86,md,21.0,82.0,0.03817,0.19,nc,nc75082881,2024-11-05T04:43:25.457Z,"7 km E of Pinnacles, CA",earthquake,0.4,1.0,0.13,21.0,automatic,nc,nc
+2024-11-04T10:07:44.160Z,61.378666666667,-152.35416666667,2.84,0.18,ml,12.0,158.0,0.1203,0.29,av,av93344323,2024-11-05T04:56:52.440Z,"73 km WNW of Beluga, Alaska",earthquake,0.81,1.54,0.16788019301435,12.0,reviewed,av,av
