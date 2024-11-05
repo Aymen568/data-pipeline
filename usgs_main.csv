@@ -3450,3 +3450,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-05T19:33:52.511Z,62.0634,-151.3537,69.9,1.8,ml,,,,0.19,ak,ak024e90409f,2024-11-05T19:35:16.614Z,"8 km NNE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-05T19:26:11.100Z,35.8761667,-117.6968333,8.18,0.92,ml,25.0,39.0,0.08091,0.12,ci,ci40788023,2024-11-05T19:34:49.272Z,"20 km ESE of Little Lake, CA",earthquake,0.15,0.43,0.151,13.0,automatic,ci,ci
 2024-11-05T12:53:18.224Z,39.3264,-120.1648,8.0,0.0,ml,3.0,186.78,0.105,0.1118,nn,nn00887198,2024-11-05T19:39:07.151Z,"1 km E of Truckee, California",earthquake,,6.1,0.52,3.0,reviewed,nn,nn
+2024-11-05T18:08:27.112Z,24.0815,121.8759,37.306,4.6,mb,30.0,66.0,0.742,0.75,us,us7000nq32,2024-11-05T19:48:09.040Z,"29 km ENE of Hualien City, Taiwan",earthquake,4.01,7.874,0.141,15.0,reviewed,us,us
+2024-11-05T13:59:52.385Z,37.0502,-116.8434,6.9,0.4,ml,5.0,302.64,0.135,0.1218,nn,nn00887199,2024-11-05T19:48:17.854Z,"17 km NNW of Beatty, Nevada",earthquake,,7.3,0.33,3.0,reviewed,nn,nn
