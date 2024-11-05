@@ -3333,3 +3333,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T09:22:21.790Z,61.281833333333,-152.24033333333,2.79,-0.77,ml,8.0,128.0,0.04436,0.05,av,av93344283,2024-11-05T03:43:04.480Z,"63 km WNW of Tyonek, Alaska",earthquake,0.27,0.43,0.29962901480406,9.0,reviewed,av,av
 2024-11-05T04:13:41.750Z,36.538501739502,-121.15350341797,1.1299999952316,2.01,md,18.0,71.0,0.1,0.16,nc,nc75082876,2024-11-05T04:15:20.347Z,"1 km NW of Pinnacles, CA",earthquake,0.46,4.07999992,0.15,18.0,automatic,nc,nc
 2024-11-05T03:14:07.421Z,5.2975,-77.4477,39.391,5.0,mww,57.0,57.0,2.105,0.56,us,us7000npzi,2024-11-05T04:05:12.040Z,"39 km NNW of Pizarro, Colombia",earthquake,8.06,2.535,0.073,18.0,reviewed,us,us
+2024-11-05T04:31:57.007Z,61.4341,-150.0449,32.5,1.7,ml,,,,0.13,ak,ak024e8r637g,2024-11-05T04:33:35.639Z,"9 km NNW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-11-05T04:31:41.022Z,63.2482,-150.5942,129.2,2.7,ml,,,,0.47,ak,ak024e8r61uo,2024-11-05T04:33:55.436Z,"65 km ESE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-11-05T04:26:26.045Z,63.3481,-145.1443,0.0,1.6,ml,,,,0.69,ak,ak024e8r4y4s,2024-11-05T04:28:01.913Z,"37 km NE of Paxson, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-11-05T04:20:37.220Z,33.8088333,-116.9618333,13.39,1.21,ml,61.0,25.0,0.005109,0.17,ci,ci40787815,2024-11-05T04:31:04.780Z,"3 km N of San Jacinto, CA",earthquake,0.15,0.39,0.199,26.0,automatic,ci,ci
+2024-11-05T04:15:50.790Z,17.966,-66.8325,17.56,2.38,md,7.0,202.0,0.04541,0.09,pr,pr71464733,2024-11-05T04:28:03.760Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.47,0.81,0.073138636955346,5.0,reviewed,pr,pr
