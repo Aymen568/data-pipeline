@@ -3428,3 +3428,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-05T06:01:32.700Z,36.8707,-117.8346,5.3,0.8,ml,7.0,220.65,0.392,0.153,nn,nn00887176,2024-11-05T17:12:05.210Z,"33 km ENE of Independence, California",earthquake,,5.9,0.03,3.0,reviewed,nn,nn
 2024-11-05T17:25:36.180Z,38.760833740234,-122.85233306885,3.6800000667572,0.85,md,5.0,191.0,0.009139,0.01,nc,nc75082931,2024-11-05T17:27:10.668Z,"9 km W of The Geysers, CA",earthquake,1.16,0.569999993,0.09,4.0,automatic,nc,nc
 2024-11-05T17:22:10.050Z,34.7241669,-118.9471664,-0.26,2.18,ml,10.0,102.0,0.3551,0.44,ci,ci40787935,2024-11-05T17:28:12.075Z,"11 km S of Frazier Park, CA",earthquake,2.33,15.96,0.142,12.0,automatic,ci,ci
+2024-11-05T17:29:13.002Z,31.617,-104.133,3.8122,1.6,ml,17.0,57.0,0.0,0.4,tx,tx2024vtxc,2024-11-05T17:56:50.921Z,"46 km NW of Toyah, Texas",earthquake,0.0,1.3834502696991,0.2,12.0,automatic,tx,tx
+2024-11-05T16:46:51.800Z,19.164,-64.568166666667,9.39,3.32,md,12.0,293.0,0.7415,0.21,pr,pr71464873,2024-11-05T17:47:07.850Z,"95 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,4.16,5.84,0.06620267679539,10.0,reviewed,pr,pr
