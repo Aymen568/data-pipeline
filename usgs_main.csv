@@ -3426,3 +3426,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-05T13:01:12.877Z,30.9049,-116.6024,10.0,2.8,ml,30.0,257.0,1.771,0.67,us,us7000nq1y,2024-11-05T16:57:49.040Z,"42 km W of Las Brisas, Mexico",earthquake,7.11,2.021,0.047,60.0,reviewed,us,us
 2024-11-05T12:17:24.770Z,44.1455,-115.1085,2.28,1.61,ml,8.0,105.0,0.1926,0.21,mb,mb90065243,2024-11-05T17:04:32.130Z,"15 km WSW of Stanley, Idaho",earthquake,0.55,1.65,0.30307354717794,12.0,reviewed,mb,mb
 2024-11-05T06:01:32.700Z,36.8707,-117.8346,5.3,0.8,ml,7.0,220.65,0.392,0.153,nn,nn00887176,2024-11-05T17:12:05.210Z,"33 km ENE of Independence, California",earthquake,,5.9,0.03,3.0,reviewed,nn,nn
+2024-11-05T17:25:36.180Z,38.760833740234,-122.85233306885,3.6800000667572,0.85,md,5.0,191.0,0.009139,0.01,nc,nc75082931,2024-11-05T17:27:10.668Z,"9 km W of The Geysers, CA",earthquake,1.16,0.569999993,0.09,4.0,automatic,nc,nc
+2024-11-05T17:22:10.050Z,34.7241669,-118.9471664,-0.26,2.18,ml,10.0,102.0,0.3551,0.44,ci,ci40787935,2024-11-05T17:28:12.075Z,"11 km S of Frazier Park, CA",earthquake,2.33,15.96,0.142,12.0,automatic,ci,ci
