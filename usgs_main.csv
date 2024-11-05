@@ -3417,3 +3417,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-05T15:46:25.641Z,31.359,-103.735,6.7581,1.9,ml,4.0,131.0,0.1,0.1,tx,tx2024vttr,2024-11-05T16:14:59.061Z,"7 km NE of Toyah, Texas",earthquake,0.0,6.2586002349853,0.1,4.0,automatic,tx,tx
 2024-11-05T15:38:28.690Z,37.010333333333,-112.98416666667,26.11,2.49,ml,26.0,119.0,0.13,0.18,uu,uu80085956,2024-11-05T16:28:33.460Z,"1 km WNW of Hildale, Utah",earthquake,0.4,0.39,0.16550123483048,10.0,reviewed,uu,uu
 2024-11-05T15:28:51.323Z,36.8642,-115.9704,6.1,-0.2,ml,13.0,209.32,0.043,0.1195,nn,nn00887187,2024-11-05T15:58:42.489Z,"42 km NW of Indian Springs, Nevada",earthquake,,1.9,0.11,5.0,reviewed,nn,nn
+2024-11-05T16:40:28.987Z,61.6077,-150.4526,48.2,2.0,ml,,,,0.6,ak,ak024e8yd5n6,2024-11-05T16:42:27.795Z,"7 km NNE of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-11-05T12:02:14.800Z,33.148,-116.4451667,10.7,0.57,ml,32.0,76.0,0.07075,0.23,ci,ci37687836,2024-11-05T16:41:44.805Z,"14 km SSW of Borrego Springs, CA",earthquake,0.3,0.62,0.233,6.0,reviewed,ci,ci
