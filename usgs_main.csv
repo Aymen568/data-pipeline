@@ -3397,3 +3397,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-05T06:14:38.026Z,29.124,-97.859,2.8076,2.7,ml,31.0,80.0,0.1,0.3,tx,tx2024vtav,2024-11-05T13:24:50.855Z,"15 km SE of Stockdale, Texas",earthquake,1.2292216758476,1.962282111465,0.2,24.0,reviewed,tx,tx
 2024-11-05T13:24:44.533Z,31.636,-104.469,4.1641,2.0,ml,18.0,113.0,0.0,0.3,tx,tx2024vtoz,2024-11-05T13:32:57.922Z,"60 km S of Whites City, New Mexico",earthquake,0.0,1.7804887294769,0.1,14.0,automatic,tx,tx
 2024-11-05T09:27:45.439Z,38.784,70.2761,10.0,4.7,mb,38.0,65.0,0.884,0.62,us,us7000nq0j,2024-11-05T13:29:05.040Z,"27 km SSE of Novobod, Tajikistan",earthquake,4.65,1.921,0.126,19.0,reviewed,us,us
+2024-11-05T13:44:00.334Z,36.596,-117.0823,5.0,0.9,ml,16.0,269.85,0.316,0.1397,nn,nn00887180,2024-11-05T13:46:12.266Z,"26 km NW of Furnace Creek, California",earthquake,,4.3,0.3,7.0,automatic,nn,nn
+2024-11-05T13:43:03.580Z,19.126333236694,-155.49833679199,35.509998321533,1.85000002,md,35.0,169.0,0.146,0.159999996,hv,hv74522817,2024-11-05T13:44:40.490Z,"8 km SSW of Pāhala, Hawaii",earthquake,0.74,0.949999988,0.330000013,4.0,automatic,hv,hv
+2024-11-05T12:43:32.248Z,18.9903,-64.3525,35.0,3.4,ml,21.0,194.0,0.621,0.32,us,us7000nq1w,2024-11-05T13:48:16.040Z,"86 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,4.98,2.014,0.06,36.0,reviewed,us,us
+2024-11-05T11:27:00.400Z,18.3133,-67.9595,7.0,3.46,md,15.0,183.0,0.4672,0.59,pr,pr2024310000,2024-11-05T13:48:37.827Z,"55 km ESE of Punta Cana, Dominican Republic",earthquake,6.23,2.56,0.11,8.0,reviewed,pr,pr
