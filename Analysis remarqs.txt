@@ -1990,4 +1990,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 2.2 and occurred in/near 40 km NNE of Chenega, Alaska on 11/05/2024 at 05:58 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 3354 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.54 and occurred in/near 5 km E of Pinnacles, CA on 11/05/2024 at 06:46 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 3358 recorded earthquakes.
+The most recent earthquake had a magnitude of 2.0 and occurred in/near 2 km ESE of Hennessey, Oklahoma on 11/05/2024 at 06:52 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n
