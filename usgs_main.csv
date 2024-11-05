@@ -3442,3 +3442,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-05T01:38:45.590Z,39.4351,-120.3045,10.1,0.6,ml,7.0,203.54,0.011,0.1517,nn,nn00887193,2024-11-05T18:37:47.797Z,"14 km NNE of Soda Springs, California",earthquake,,1.7,0.36,3.0,reviewed,nn,nn
 2024-11-05T09:38:03.906Z,51.4181,-178.8346,25.8,2.2,ml,,,,0.32,ak,ak024e8u6nqj,2024-11-05T18:50:15.717Z,"160 km WSW of Adak, Alaska",earthquake,,1.2,,,reviewed,ak,ak
 2024-11-05T05:38:56.025Z,39.1768,-119.1472,9.0,1.0,ml,8.0,132.69,0.205,0.1866,nn,nn00887194,2024-11-05T18:50:05.981Z,"21 km N of Yerington, Nevada",earthquake,,6.9,0.31,2.0,reviewed,nn,nn
+2024-11-05T18:55:53.654Z,59.1923,-154.6924,78.0,2.6,ml,,,,0.6,ak,ak024e8znahx,2024-11-05T18:58:13.744Z,"27 km S of Kokhanok, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-11-05T18:55:35.807Z,60.1449,-153.1599,154.6,2.8,ml,,,,0.39,ak,ak024e8zn96w,2024-11-05T18:57:37.090Z,"64 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-11-05T07:05:46.643Z,39.3796,-119.8665,5.9,0.4,ml,4.0,141.8,0.082,0.1548,nn,nn00887195,2024-11-05T19:08:26.587Z,"13 km E of Floriston, California",earthquake,,8.3,0.08,2.0,reviewed,nn,nn
