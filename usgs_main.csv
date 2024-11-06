@@ -3609,3 +3609,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-06T17:54:14.782Z,36.6096,-117.139,10.0,2.7,ml,31.0,137.88,0.363,0.4111,nn,nn00887242,2024-11-06T17:57:03.227Z,"31 km NW of Furnace Creek, California",earthquake,,0.5,0.27,20.0,automatic,nn,nn
 2024-11-06T17:42:33.922Z,31.47,-103.97,4.7806,1.9,ml,9.0,134.0,0.1,0.3,tx,tx2024vvta,2024-11-06T17:54:49.172Z,"24 km NW of Toyah, Texas",earthquake,0.0,1.9904092550278,0.1,7.0,automatic,tx,tx
 2024-11-06T17:25:59.000Z,38.455,-112.7995,4.01,0.32,md,12.0,148.0,0.04881,0.07,uu,uu80086006,2024-11-06T18:14:56.170Z,"19 km ENE of Milford, Utah",earthquake,0.46,0.74,0.13688182003629,3.0,reviewed,uu,uu
+2024-11-06T18:28:28.229Z,61.4043,-150.6651,39.6,2.0,ml,,,,0.25,ak,ak024ean0sp2,2024-11-06T18:30:03.380Z,"17 km SSW of Susitna, Alaska",earthquake,,3.9,,,automatic,ak,ak
+2024-11-06T18:25:53.015Z,36.6085,-117.1299,2.5,1.2,ml,12.0,229.43,0.356,0.3757,nn,nn00887245,2024-11-06T18:28:07.596Z,"30 km NW of Furnace Creek, California",earthquake,,10.4,0.23,11.0,automatic,nn,nn
+2024-11-06T18:20:45.605Z,59.9338,-152.7295,97.8,2.3,ml,,,,0.33,ak,ak024eamz4bb,2024-11-06T18:22:18.027Z,"53 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-11-06T15:27:45.444Z,-11.9223,166.0632,10.0,4.7,mb,30.0,186.0,6.497,0.67,us,us7000nq9s,2024-11-06T18:33:24.040Z,"135 km SSE of Lata, Solomon Islands",earthquake,11.21,1.946,0.115,23.0,reviewed,us,us
