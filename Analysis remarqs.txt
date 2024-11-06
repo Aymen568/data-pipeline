@@ -2228,4 +2228,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 2.0 and occurred in/near 17 km SSW of Susitna, Alaska on 11/06/2024 at 06:28 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 3614 recorded earthquakes.
 The most recent earthquake had a magnitude of 2.0 and occurred in/near 17 km SSW of Susitna, Alaska on 11/06/2024 at 06:28 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 3618 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.8 and occurred in/near 22 km SSE of Dot Lake Village, Alaska on 11/06/2024 at 06:54 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n
