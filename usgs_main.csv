@@ -3565,3 +3565,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-06T13:39:58.390Z,36.6704,-117.06,3.9,1.0,ml,12.0,210.56,0.311,0.454,nn,nn00887227,2024-11-06T13:41:55.840Z,"30 km NW of Furnace Creek, California",earthquake,,9.9,0.17,8.0,automatic,nn,nn
 2024-11-06T13:39:14.310Z,33.7891655,-116.0768356,3.73,1.19,ml,18.0,106.0,0.1579,0.19,ci,ci40788503,2024-11-06T13:41:33.382Z,"15 km ENE of Indio, CA",earthquake,0.51,2.11,0.215,8.0,automatic,ci,ci
 2024-11-05T19:54:57.850Z,34.37966667,-96.859,0.0,1.36,ml,38.0,138.0,0.2681473803,0.53,ok,ok2024vubw,2024-11-06T13:43:22.462Z,"4 km SW of Mill Creek, Oklahoma",quarry blast,,0.8,0.23,17.0,reviewed,ok,ok
+2024-11-06T13:55:57.277Z,36.5738,-117.1498,8.0,2.5,ml,29.0,229.51,0.205,0.2694,nn,nn00887230,2024-11-06T13:58:40.664Z,"30 km WNW of Furnace Creek, California",earthquake,,0.6,0.25,20.0,automatic,nn,nn
+2024-11-06T13:49:44.143Z,31.585,-104.568,3.2531,2.1,ml,8.0,170.0,0.1,0.1,tx,tx2024vvli,2024-11-06T13:56:41.468Z,"65 km NNE of Van Horn, Texas",earthquake,0.0,2.9739615917206,0.1,6.0,automatic,tx,tx
