@@ -3567,3 +3567,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-05T19:54:57.850Z,34.37966667,-96.859,0.0,1.36,ml,38.0,138.0,0.2681473803,0.53,ok,ok2024vubw,2024-11-06T13:43:22.462Z,"4 km SW of Mill Creek, Oklahoma",quarry blast,,0.8,0.23,17.0,reviewed,ok,ok
 2024-11-06T13:55:57.277Z,36.5738,-117.1498,8.0,2.5,ml,29.0,229.51,0.205,0.2694,nn,nn00887230,2024-11-06T13:58:40.664Z,"30 km WNW of Furnace Creek, California",earthquake,,0.6,0.25,20.0,automatic,nn,nn
 2024-11-06T13:49:44.143Z,31.585,-104.568,3.2531,2.1,ml,8.0,170.0,0.1,0.1,tx,tx2024vvli,2024-11-06T13:56:41.468Z,"65 km NNE of Van Horn, Texas",earthquake,0.0,2.9739615917206,0.1,6.0,automatic,tx,tx
+2024-11-06T14:15:52.852Z,31.584,-104.566,3.3758,1.5,ml,8.0,169.0,0.1,0.1,tx,tx2024vvmg,2024-11-06T14:32:44.301Z,"65 km NNE of Van Horn, Texas",earthquake,0.0,2.9617035388947,0.1,6.0,automatic,tx,tx
+2024-11-06T14:11:52.110Z,33.61,-116.8283333,16.68,0.73,ml,5.0,198.0,0.08805,0.04,ci,ci40788519,2024-11-06T14:18:10.469Z,"16 km WNW of Anza, CA",earthquake,0.6,0.66,0.285,9.0,automatic,ci,ci
+2024-11-06T14:04:56.060Z,38.067,-112.7355,5.99,1.36,md,9.0,109.0,0.4036,0.18,uu,uu80085996,2024-11-06T14:22:33.110Z,"20 km N of Paragonah, Utah",earthquake,0.55,31.61,0.23649098394291,8.0,reviewed,uu,uu
