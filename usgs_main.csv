@@ -3548,3 +3548,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-06T10:15:58.940Z,19.141332626343,-155.47866821289,32.0,2.08,ml,54.0,163.0,0.021,0.150000006,hv,hv74523457,2024-11-06T10:18:52.230Z,"6 km S of Pāhala, Hawaii",earthquake,0.49,0.610000014,0.64,8.0,automatic,hv,hv
 2024-11-06T10:12:48.495Z,59.6495,-153.7112,142.0,2.5,ml,,,,0.78,ak,ak024eai5y0l,2024-11-06T10:16:15.601Z,"27 km SE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-06T09:14:52.589Z,-3.3545,139.8406,94.045,4.6,mb,17.0,105.0,1.199,0.45,us,us7000nq8q,2024-11-06T10:10:04.040Z,"121 km SW of Abepura, Indonesia",earthquake,10.17,9.677,0.141,15.0,reviewed,us,us
+2024-11-06T10:23:47.180Z,35.668,-117.4788333,6.25,1.38,ml,33.0,101.0,0.04498,0.14,ci,ci40788455,2024-11-06T10:30:20.289Z,"13 km SSW of Searles Valley, CA",earthquake,0.17,0.44,0.142,18.0,automatic,ci,ci
