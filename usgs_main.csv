@@ -3623,3 +3623,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-06T17:54:15.970Z,36.6171667,-117.13,8.49,2.68,ml,11.0,161.0,0.423,0.17,ci,ci40788711,2024-11-06T19:25:41.163Z,"2 km NE of Stovepipe Wells, CA",earthquake,1.0,31.61,0.193,35.0,reviewed,ci,ci
 2024-11-06T13:56:36.270Z,46.195166666667,-122.18616666667,7.71,0.24,ml,17.0,99.0,0.005056,0.15,uw,uw62058806,2024-11-06T19:41:33.090Z,"37 km NNE of Amboy, Washington",earthquake,0.46,0.63,0.1163828702469,9.0,reviewed,uw,uw
 2024-11-06T01:55:33.580Z,48.4865,-121.70516666667,3.3,0.91,ml,7.0,150.0,0.06641,0.12,uw,uw62058761,2024-11-06T19:40:56.980Z,"6 km SSE of Concrete, Washington",earthquake,0.44,12.75,0.036562263395561,6.0,reviewed,uw,uw
+2024-11-06T19:54:19.197Z,61.2924,-150.0124,39.4,1.9,ml,,,,0.46,ak,ak024eanrs7z,2024-11-06T19:55:44.475Z,"7 km SSW of Point MacKenzie, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-11-06T04:48:23.930Z,46.191333333333,-122.1835,6.62,0.19,ml,9.0,101.0,0.008977,0.1,uw,uw62058776,2024-11-06T19:50:31.830Z,"37 km NNE of Amboy, Washington",earthquake,0.4,0.47,0.090160601698826,3.0,reviewed,uw,uw
