@@ -3583,3 +3583,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-06T14:36:23.490Z,-4.7902,153.302,52.155,5.9,mww,208.0,20.0,1.281,0.57,us,us7000nq9e,2024-11-06T15:18:27.329Z,"124 km ESE of Kokopo, Papua New Guinea",earthquake,6.23,4.471,0.043,51.0,reviewed,us,us
 2024-11-06T05:07:18.530Z,44.339166666667,-115.18633333333,8.88,2.05,ml,15.0,63.0,0.3375,0.28,mb,mb90065273,2024-11-06T15:08:50.490Z,"23 km NW of Stanley, Idaho",earthquake,0.52,1.25,0.12820873130556,26.0,reviewed,mb,mb
 2024-11-06T02:39:51.790Z,34.0633333,-118.9271667,11.36,1.27,ml,13.0,130.0,0.03673,0.29,ci,ci40788295,2024-11-06T15:17:40.926Z,"13 km WNW of Malibu, CA",earthquake,0.74,0.9,0.297,5.0,reviewed,ci,ci
+2024-11-06T15:19:23.854Z,-33.821,-176.5676,10.0,4.6,mb,21.0,199.0,4.689,0.62,us,us7000nq9q,2024-11-06T15:47:26.040Z,south of the Kermadec Islands,earthquake,16.27,2.003,0.126,19.0,reviewed,us,us
+2024-11-06T15:06:38.360Z,17.898,-66.849833333333,16.4,2.22,md,5.0,237.0,0.08159,0.08,pr,pr71464978,2024-11-06T15:45:26.580Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.62,0.71,0.046484142360627,4.0,reviewed,pr,pr
+2024-11-06T13:55:58.430Z,36.6145,-117.0995,0.99,2.43,ml,18.0,188.0,0.3959,0.22,ci,ci40788511,2024-11-06T15:48:19.366Z,"4 km ENE of Stovepipe Wells, CA",earthquake,0.54,1.17,0.138,31.0,reviewed,ci,ci
