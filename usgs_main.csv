@@ -3519,3 +3519,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-06T04:46:41.410Z,19.315999984741,-155.23733520508,3.789999961853,1.87,ml,7.0,164.0,0.03661,0.0900000036,hv,hv74523317,2024-11-06T04:49:32.220Z,"14 km S of Volcano, Hawaii",earthquake,1.76,5.17000008,0.43,13.0,automatic,hv,hv
 2024-11-05T21:14:38.270Z,44.4315,-122.75183333333,-0.42,2.22,ml,10.0,105.0,0.09246,0.17,uw,uw62058666,2024-11-06T04:56:39.120Z,"3 km NNW of Sweet Home, Oregon",explosion,0.56,31.61,0.24045233163977,6.0,reviewed,uw,uw
 2024-11-05T12:41:26.500Z,58.401,-154.70016666667,4.26,0.83,ml,7.0,199.0,0.05624,0.12,av,av93347628,2024-11-06T04:51:14.980Z,"93 km N of Karluk, Alaska",earthquake,0.78,0.5,0.20200569693951,7.0,reviewed,av,av
+2024-11-06T05:20:40.600Z,38.791000366211,-122.7576675415,-0.34000000357628,1.72,md,8.0,84.0,0.03394,0.01,nc,nc75083126,2024-11-06T05:22:19.346Z,"2 km N of The Geysers, CA",earthquake,0.25,0.769999981,0.11,8.0,automatic,nc,nc
+2024-11-06T05:19:47.574Z,63.2062,-151.3103,0.0,2.6,ml,,,,0.87,ak,ak024eaf89vp,2024-11-06T05:22:11.576Z,"42 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-11-06T05:13:35.805Z,61.2935,-152.23,0.1,1.6,ml,,,,0.72,ak,ak024eaf6yoc,2024-11-06T05:17:08.697Z,"63 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak

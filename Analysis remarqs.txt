@@ -2134,4 +2134,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.92 and occurred in/near 5 km SE of Stovepipe Wells, CA on 11/06/2024 at 04:46 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 3520 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.71 and occurred in/near 5 km SW of Volcano, Hawaii on 11/06/2024 at 04:47 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 3523 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.72 and occurred in/near 2 km N of The Geysers, CA on 11/06/2024 at 05:20 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n
