@@ -3545,3 +3545,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-06T09:34:44.600Z,38.787498474121,-122.76850128174,0.73000001907349,1.87,md,9.0,113.0,0.02926,0.03,nc,nc75083161,2024-11-06T09:36:19.134Z,"2 km NNW of The Geysers, CA",earthquake,0.28,0.699999988,0.06,10.0,automatic,nc,nc
 2024-11-06T09:52:30.178Z,62.9291,-150.7384,88.4,2.0,ml,,,,0.46,ak,ak024eaht1l5,2024-11-06T09:55:15.232Z,"48 km N of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-11-05T10:14:24.819Z,-31.4303,-68.8447,114.408,4.4,mb,73.0,101.0,0.179,1.08,us,us7000nq1h,2024-11-06T09:55:04.040Z,"16 km NW of Villa Basilio Nievas, Argentina",earthquake,4.45,6.876,0.08,45.0,reviewed,us,us
+2024-11-06T10:15:58.940Z,19.141332626343,-155.47866821289,32.0,2.08,ml,54.0,163.0,0.021,0.150000006,hv,hv74523457,2024-11-06T10:18:52.230Z,"6 km S of Pāhala, Hawaii",earthquake,0.49,0.610000014,0.64,8.0,automatic,hv,hv
+2024-11-06T10:12:48.495Z,59.6495,-153.7112,142.0,2.5,ml,,,,0.78,ak,ak024eai5y0l,2024-11-06T10:16:15.601Z,"27 km SE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-11-06T09:14:52.589Z,-3.3545,139.8406,94.045,4.6,mb,17.0,105.0,1.199,0.45,us,us7000nq8q,2024-11-06T10:10:04.040Z,"121 km SW of Abepura, Indonesia",earthquake,10.17,9.677,0.141,15.0,reviewed,us,us
