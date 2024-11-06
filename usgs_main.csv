@@ -3523,3 +3523,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-06T05:19:47.574Z,63.2062,-151.3103,0.0,2.6,ml,,,,0.87,ak,ak024eaf89vp,2024-11-06T05:22:11.576Z,"42 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-06T05:13:35.805Z,61.2935,-152.23,0.1,1.6,ml,,,,0.72,ak,ak024eaf6yoc,2024-11-06T05:17:08.697Z,"63 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-06T05:39:21.240Z,33.1513329,-116.4453354,9.1,1.17,ml,32.0,60.0,0.07407,0.19,ci,ci40788391,2024-11-06T05:41:50.923Z,"13 km SSW of Borrego Springs, CA",earthquake,0.32,0.91,0.243,3.0,automatic,ci,ci
+2024-11-06T06:03:01.420Z,35.789,-117.5968333,5.11,1.0,ml,29.0,68.0,0.02669,0.18,ci,ci40788399,2024-11-06T06:08:49.869Z,"18 km W of Searles Valley, CA",earthquake,0.2,0.36,0.151,13.0,automatic,ci,ci
+2024-11-06T06:01:50.420Z,61.2987,-152.2826,8.6,0.9,ml,,,,0.21,ak,ak024eafpute,2024-11-06T06:03:16.480Z,"66 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-06T05:59:58.109Z,62.9229,-151.3026,111.4,1.9,ml,,,,0.2,ak,ak024eafgvc2,2024-11-06T06:04:25.458Z,"54 km NNW of Petersville, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2024-11-05T23:18:06.900Z,48.474,-123.52633333333,-0.21,1.3,ml,6.0,135.0,0.1472,0.07,uw,uw62058736,2024-11-06T06:04:42.740Z,"3 km NNW of Langford, Canada",explosion,0.53,31.61,0.094174932907973,2.0,reviewed,uw,uw
