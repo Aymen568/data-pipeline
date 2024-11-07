@@ -3714,3 +3714,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-07T05:50:38.141Z,63.1691,-151.4989,1.6,1.9,ml,,,,0.93,ak,ak024ec2y8ue,2024-11-07T05:53:17.070Z,"42 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-07T06:23:29.018Z,63.1972,-151.1808,0.1,1.7,ml,,,,1.09,ak,ak024ec3dvet,2024-11-07T06:25:16.782Z,"46 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-06T12:13:54.120Z,60.5425,-152.78266666667,7.06,-0.28,ml,7.0,77.0,0.0495,0.04,av,av93026179,2024-11-07T06:37:13.780Z,"80 km W of Salamatof, Alaska",earthquake,0.25,0.6,0.28183473636437,7.0,reviewed,av,av
+2024-11-07T06:46:21.833Z,61.1202,-148.7414,16.8,1.4,ml,,,,0.65,ak,ak024ec3isbr,2024-11-07T06:48:16.453Z,"30 km NE of Girdwood, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-07T06:31:08.760Z,18.123166666667,-66.736666666667,19.62,2.31,md,10.0,101.0,0.1299,0.24,pr,pr71465048,2024-11-07T06:41:19.890Z,"4 km SSW of Adjuntas, Puerto Rico",earthquake,0.67,0.78,0.20372253279538,7.0,reviewed,pr,pr
+2024-11-07T06:24:38.456Z,-14.757,-75.1545,54.789,5.0,mb,62.0,120.0,3.205,0.8,us,us7000nqcy,2024-11-07T06:50:44.650Z,"12 km SE of Changuillo, Peru",earthquake,8.99,7.342,0.037,236.0,reviewed,us,us
+2024-11-07T06:24:35.660Z,19.3445,-68.7455,39.0,3.83,md,15.0,341.0,1.8547,0.43,pr,pr2024312001,2024-11-07T06:51:04.627Z,"51 km NE of Miches, Dominican Republic",earthquake,4.41,26.17,0.04,11.0,reviewed,pr,pr
+2024-11-06T12:24:05.710Z,53.936333333333,-167.31383333333,16.51,0.66,ml,5.0,326.0,0.2485,0.06,av,av93026184,2024-11-07T06:41:05.870Z,"50 km W of Dutch Harbor, Alaska",earthquake,1.27,3.67,0.30251764315891,6.0,reviewed,av,av
