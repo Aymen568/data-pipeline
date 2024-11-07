@@ -3843,3 +3843,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-07T07:10:33.980Z,44.2765,-115.18583333333,5.06,1.28,ml,14.0,68.0,0.2975,0.12,mb,mb90065378,2024-11-07T18:54:25.520Z,"20 km WNW of Stanley, Idaho",earthquake,0.36,0.87,0.14268909297767,14.0,reviewed,mb,mb
 2024-11-07T19:15:26.646Z,61.8357,-148.1215,33.2,2.2,ml,,,,0.39,ak,ak024ecb2sd4,2024-11-07T19:16:45.405Z,"18 km ENE of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-11-07T19:00:06.600Z,33.489,-116.5256667,13.8,1.82,ml,70.0,44.0,0.06421,0.2,ci,ci40789479,2024-11-07T19:10:37.540Z,"16 km ESE of Anza, CA",earthquake,0.16,0.31,0.193,26.0,automatic,ci,ci
+2024-11-07T19:24:45.530Z,35.6738319,-117.4240036,3.87,1.34,ml,26.0,99.0,0.008706,0.15,ci,ci40789495,2024-11-07T19:27:07.498Z,"11 km S of Searles Valley, CA",earthquake,0.42,0.79,0.129,7.0,automatic,ci,ci
