@@ -2282,4 +2282,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 0.7 and occurred in/near 8 km NNW of The Geysers, CA on 11/07/2024 at 03:27 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 3691 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.9 and occurred in/near 39 km SSW of Glacier View, Alaska on 11/07/2024 at 04:14 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 3697 recorded earthquakes.
+The most recent earthquake had a magnitude of 2.46 and occurred in/near 1 km W of Indios, Puerto Rico on 11/07/2024 at 04:27 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n
