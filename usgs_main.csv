@@ -3856,3 +3856,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-07T20:12:17.057Z,31.715,-104.299,4.4298,1.9,ml,18.0,63.0,0.1,0.2,tx,tx2024vxto,2024-11-07T20:27:06.258Z,"51 km S of Whites City, New Mexico",earthquake,0.0,1.3257281780243,0.2,12.0,automatic,tx,tx
 2024-11-07T20:10:40.890Z,38.819831848145,-122.82216644287,2.1800000667572,1.04,md,19.0,78.0,0.01009,0.01,nc,nc75083666,2024-11-07T20:12:18.577Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.430000007,0.29,20.0,automatic,nc,nc
 2024-11-07T19:53:54.277Z,25.4663,142.6729,10.0,5.2,mww,86.0,116.0,1.681,0.74,us,us7000nqha,2024-11-07T20:14:51.040Z,"Volcano Islands, Japan region",earthquake,9.58,1.872,0.068,21.0,reviewed,us,us
+2024-11-07T20:34:37.853Z,62.4823,-151.6178,97.1,2.2,ml,,,,0.43,ak,ak024ecbsbft,2024-11-07T20:37:01.229Z,"43 km W of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-11-07T09:03:07.380Z,46.1985,-122.18833333333,6.23,0.0,ml,13.0,95.0,0.002171,0.13,uw,uw62059051,2024-11-07T20:36:11.360Z,"37 km NNE of Amboy, Washington",earthquake,0.4,0.62,0.19893606865114,7.0,reviewed,uw,uw
