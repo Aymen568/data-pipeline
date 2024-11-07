@@ -2302,4 +2302,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.4 and occurred in/near 30 km NE of Girdwood, Alaska on 11/07/2024 at 06:46 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 3725 recorded earthquakes.
 The most recent earthquake had a magnitude of 0.8 and occurred in/near 25 km NE of Four Mile Road, Alaska on 11/07/2024 at 07:08 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 3726 recorded earthquakes.
+The most recent earthquake had a magnitude of 0.76 and occurred in/near 13 km N of Borrego Springs, CA on 11/07/2024 at 07:12 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n
