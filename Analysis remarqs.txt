@@ -2410,4 +2410,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.69 and occurred in/near 21 km NW of Desert Center, CA on 11/07/2024 at 09:35 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 3875 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.69 and occurred in/near 21 km NW of Desert Center, CA on 11/07/2024 at 09:35 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 3880 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.05 and occurred in/near 22 km N of Borrego Springs, CA on 11/07/2024 at 10:04 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n
