@@ -2292,4 +2292,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.8 and occurred in/near 28 km W of Manley Hot Springs, Alaska on 11/07/2024 at 05:23 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 3707 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.01 and occurred in/near 12 km ENE of Ridgecrest, CA on 11/07/2024 at 05:38 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 3710 recorded earthquakes.
+The most recent earthquake had a magnitude of 2.01999998 and occurred in/near 3 km S of Pāhala, Hawaii on 11/07/2024 at 05:48 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n
