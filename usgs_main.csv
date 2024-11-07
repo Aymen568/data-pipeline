@@ -3835,3 +3835,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-07T18:09:26.618Z,37.2325,-117.94,2.0,1.4,ml,10.0,326.36,0.234,0.1478,nn,nn00887303,2024-11-07T18:12:12.870Z,"31 km ENE of Big Pine, California",earthquake,,11.6,0.32,7.0,automatic,nn,nn
 2024-11-07T00:58:08.300Z,33.9636667,-116.726,17.11,0.7,ml,14.0,93.0,0.09889,0.09,ci,ci40788919,2024-11-07T18:11:28.053Z,"8 km NE of Cabazon, CA",earthquake,0.21,0.6,0.216,10.0,reviewed,ci,ci
 2024-11-07T00:00:26.360Z,47.498833333333,-122.03533333333,5.94,0.96,ml,11.0,176.0,0.1104,0.17,uw,uw62058981,2024-11-07T18:11:06.620Z,"3 km S of Issaquah, Washington",earthquake,0.73,3.59,0.15487388736386,4.0,reviewed,uw,uw
+2024-11-07T18:39:55.780Z,35.7536667,-117.5693333,10.63,0.89,ml,22.0,133.0,0.06604,0.13,ci,ci40789455,2024-11-07T18:45:45.958Z,"15 km W of Searles Valley, CA",earthquake,0.22,0.5,0.163,10.0,automatic,ci,ci
+2024-11-07T18:38:21.977Z,64.4111,-147.2598,15.3,1.0,ml,,,,0.41,ak,ak024ecam9v9,2024-11-07T18:40:12.648Z,"21 km SW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-07T18:33:35.270Z,31.9768333,-116.85,13.16,2.35,ml,13.0,168.0,0.2576,0.17,ci,ci40789447,2024-11-07T18:40:16.201Z,"18 km WNW of El Sauzal, B.C., MX",earthquake,0.66,1.38,0.119,27.0,automatic,ci,ci
