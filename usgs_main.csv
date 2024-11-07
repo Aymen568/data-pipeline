@@ -3758,3 +3758,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-07T10:14:52.170Z,35.0978333,-119.1063333,13.39,1.4,ml,36.0,55.0,0.04329,0.21,ci,ci40789119,2024-11-07T10:21:30.263Z,"24 km NW of Grapevine, CA",earthquake,0.22,0.52,0.166,30.0,automatic,ci,ci
 2024-11-07T10:04:37.718Z,31.067,-103.696,4.6616,1.9,ml,12.0,78.0,0.1,0.5,tx,tx2024vwzk,2024-11-07T10:23:38.058Z,"10 km NNE of Balmorhea, Texas",earthquake,0.0,1.4254944324493,0.2,10.0,automatic,tx,tx
 2024-11-07T10:28:45.210Z,33.3845,-116.9006667,14.41,0.63,ml,40.0,33.0,0.04429,0.15,ci,ci40789135,2024-11-07T10:34:48.221Z,"5 km NW of Palomar Observatory, CA",earthquake,0.19,0.41,0.161,17.0,automatic,ci,ci
+2024-11-07T10:44:28.380Z,33.4478333,-116.4035,9.46,1.43,ml,71.0,42.0,0.1159,0.2,ci,ci40789143,2024-11-07T10:50:55.493Z,"22 km N of Borrego Springs, CA",earthquake,0.15,0.41,0.15,27.0,automatic,ci,ci
