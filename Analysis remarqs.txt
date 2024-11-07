@@ -2378,4 +2378,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.79 and occurred in/near 9 km NE of Coso Junction, CA on 11/07/2024 at 05:17 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 3826 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.79 and occurred in/near 9 km NE of Coso Junction, CA on 11/07/2024 at 05:17 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 3831 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.15 and occurred in/near 4 km SSE of Home Gardens, CA on 11/07/2024 at 05:55 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n

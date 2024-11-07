@@ -3825,3 +3825,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-07T17:10:19.803Z,31.589,-104.52,3.1292,1.5,ml,16.0,78.0,0.1,0.3,tx,tx2024vxnl,2024-11-07T17:38:39.971Z,"66 km SSW of Whites City, New Mexico",earthquake,0.0,1.7701361179352,0.1,13.0,automatic,tx,tx
 2024-11-07T03:06:21.010Z,35.9241667,-117.6991667,7.01,-0.02,ml,8.0,92.0,0.04614,0.12,ci,ci40788967,2024-11-07T17:27:10.784Z,"19 km E of Little Lake, CA",earthquake,0.33,0.86,0.089,3.0,reviewed,ci,ci
 2024-11-07T17:07:14.271Z,-5.724,154.336,130.942,4.5,mb,30.0,96.0,2.646,0.71,us,us7000nqgq,2024-11-07T17:44:32.040Z,"143 km WNW of Panguna, Papua New Guinea",earthquake,10.79,7.882,0.113,23.0,reviewed,us,us
+2024-11-07T17:55:08.400Z,33.8476667,-117.4973333,-0.35,1.15,ml,32.0,68.0,0.05298,0.23,ci,ci40789415,2024-11-07T18:07:15.446Z,"4 km SSE of Home Gardens, CA",quarry blast,0.38,31.61,0.16,11.0,reviewed,ci,ci
+2024-11-07T17:05:03.610Z,17.921,-66.75,7.57,2.13,md,3.0,234.0,0.2233,0.16,pr,pr71465088,2024-11-07T17:58:06.810Z,"8 km SSW of Tallaboa, Puerto Rico",earthquake,9.36,7.07,0.040460807295418,3.0,reviewed,pr,pr
+2024-11-07T16:07:35.860Z,44.244,-110.7895,5.41,1.82,ml,11.0,66.0,0.02907,0.29,uu,uu80001638,2024-11-07T18:00:59.230Z,"44 km ENE of Warm River, Idaho",earthquake,0.91,1.29,0.35970936692907,3.0,reviewed,uu,uu
+2024-11-07T16:07:28.130Z,44.2245,-110.7765,0.93,1.02,md,11.0,73.0,0.05066,0.24,uu,uu80086076,2024-11-07T17:51:22.340Z,"45 km ENE of Warm River, Idaho",earthquake,0.98,0.63,0.43719666517791,4.0,reviewed,uu,uu
+2024-11-07T05:10:26.380Z,47.0115,-122.14883333333,6.7,1.58,ml,60.0,69.0,0.02237,0.16,uw,uw62059036,2024-11-07T18:06:14.130Z,"6 km ENE of Kapowsin, Washington",earthquake,0.23,0.33,0.20041016835016,37.0,reviewed,uw,uw
