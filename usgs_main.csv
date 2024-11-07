@@ -3686,3 +3686,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-06T15:12:13.832Z,39.5565,-120.3255,11.1,0.2,ml,4.0,129.84,0.044,0.1377,nn,nn00887270,2024-11-07T02:26:36.955Z,"5 km SE of Sierraville, California",earthquake,,3.0,0.19,2.0,reviewed,nn,nn
 2024-11-06T10:59:16.692Z,39.5598,-120.3203,7.2,0.7,ml,6.0,174.36,0.119,0.0479,nn,nn00887269,2024-11-07T02:23:31.909Z,"5 km SE of Sierraville, California",earthquake,,3.5,0.42,4.0,reviewed,nn,nn
 2024-11-07T02:54:23.810Z,18.8383,-64.3936,10.0,3.51,md,5.0,315.0,0.4794,0.2,pr,pr2024312000,2024-11-07T03:21:34.856Z,"70 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,3.21,2.57,0.07,4.0,reviewed,pr,pr
+2024-11-07T03:27:31.590Z,38.833499908447,-122.81683349609,2.0699999332428,0.7,md,13.0,57.0,0.01543,0.04,nc,nc75083381,2024-11-07T03:29:09.272Z,"8 km NNW of The Geysers, CA",earthquake,0.4,0.99000001,0.08,14.0,automatic,nc,nc
+2024-11-07T03:21:25.200Z,33.5726667,-116.6931667,4.47,0.48,ml,19.0,78.0,0.03755,0.09,ci,ci40788975,2024-11-07T03:29:17.853Z,"3 km NW of Anza, CA",earthquake,0.16,0.22,0.121,10.0,automatic,ci,ci
