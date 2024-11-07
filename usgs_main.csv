@@ -3822,3 +3822,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-07T17:08:46.124Z,61.6612,-150.0564,23.8,1.8,ml,,,,0.44,ak,ak024ec9ugnb,2024-11-07T17:10:06.098Z,"9 km S of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-11-07T06:39:18.402Z,32.221,-101.998,8.6426,1.0,ml,21.0,62.0,0.1,0.2,tx,tx2024vwsq,2024-11-07T17:05:53.650Z,"22 km WNW of Stanton, Texas",earthquake,0.67051000065026,1.089043044445,0.1,7.0,reviewed,tx,tx
 2024-11-07T00:44:33.065Z,28.525,-98.48,5.6396,1.5,ml,15.0,67.0,0.3,0.3,tx,tx2024vwha,2024-11-07T17:14:50.723Z,"9 km NE of Tilden, Texas",earthquake,1.3342834484499,4.296298582121,0.1,15.0,reviewed,tx,tx
+2024-11-07T17:10:19.803Z,31.589,-104.52,3.1292,1.5,ml,16.0,78.0,0.1,0.3,tx,tx2024vxnl,2024-11-07T17:38:39.971Z,"66 km SSW of Whites City, New Mexico",earthquake,0.0,1.7701361179352,0.1,13.0,automatic,tx,tx
+2024-11-07T03:06:21.010Z,35.9241667,-117.6991667,7.01,-0.02,ml,8.0,92.0,0.04614,0.12,ci,ci40788967,2024-11-07T17:27:10.784Z,"19 km E of Little Lake, CA",earthquake,0.33,0.86,0.089,3.0,reviewed,ci,ci
