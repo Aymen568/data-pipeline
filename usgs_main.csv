@@ -3748,3 +3748,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-07T09:03:55.160Z,36.869167327881,-121.44916534424,3.3499999046326,1.6,md,10.0,122.0,0.06672,0.06,nc,nc75083441,2024-11-07T09:22:17.763Z,"5 km NW of Hollister, CA",earthquake,0.37,1.11000001,0.1,7.0,automatic,nc,nc
 2024-11-07T09:00:05.104Z,-56.2107,-27.275,102.654,5.1,mb,46.0,67.0,5.612,0.53,us,us7000nqdi,2024-11-07T09:19:45.040Z,South Sandwich Islands region,earthquake,7.93,6.901,0.079,52.0,reviewed,us,us
 2024-11-07T08:35:33.996Z,31.585,-104.539,3.5115,1.9,ml,8.0,158.0,0.1,0.2,tx,tx2024vwwn,2024-11-07T09:11:35.495Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.3128592967987,0.1,6.0,automatic,tx,tx
+2024-11-07T09:44:20.911Z,38.1609,-117.9028,7.5,1.9,ml,11.0,173.26,0.075,0.2294,nn,nn00887273,2024-11-07T09:47:11.290Z,"31 km SE of Mina, Nevada",earthquake,,0.4,0.32,7.0,automatic,nn,nn
+2024-11-07T09:36:48.504Z,31.677,-104.406,6.8315,1.6,ml,17.0,69.0,0.0,0.4,tx,tx2024vwym,2024-11-07T09:47:48.802Z,"55 km S of Whites City, New Mexico",earthquake,0.0,2.3973453044891,0.2,12.0,automatic,tx,tx
+2024-11-07T09:07:51.634Z,29.2849,130.6395,35.0,4.9,mb,48.0,69.0,2.223,0.94,us,us7000nqdq,2024-11-07T09:39:56.040Z,"105 km S of Koshima, Japan",earthquake,7.36,1.919,0.088,41.0,reviewed,us,us
+2024-11-06T23:59:15.250Z,58.4095,-154.76733333333,5.97,0.2,ml,6.0,162.0,0.03204,0.2,av,av93026224,2024-11-07T09:48:46.030Z,"95 km NNW of Karluk, Alaska",earthquake,0.95,0.7,0.2615112047728,6.0,reviewed,av,av
