@@ -3789,3 +3789,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-06T17:22:51.880Z,44.352833333333,-116.12916666667,4.07,1.75,ml,10.0,90.0,0.3355,0.29,mb,mb90065313,2024-11-07T14:45:21.490Z,"6 km NNW of Smiths Ferry, Idaho",earthquake,0.68,3.52,0.14662633883134,12.0,reviewed,mb,mb
 2024-11-07T14:45:59.680Z,63.3096,-150.0113,0.0,1.8,ml,,,,0.91,ak,ak024ec8a4df,2024-11-07T14:48:25.059Z,"53 km W of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-07T14:17:56.183Z,44.3061,-125.705,10.0,2.6,ml,18.0,248.0,1.317,0.81,us,us7000nqe6,2024-11-07T14:51:07.040Z,"127 km W of Yachats, Oregon",earthquake,6.9,2.016,0.055,44.0,reviewed,us,us
+2024-11-07T15:21:13.060Z,38.83466720581,-122.8184967041,2.2300000190735,0.76,md,13.0,65.0,0.01304,0.01,nc,nc75083566,2024-11-07T15:22:47.401Z,"8 km NNW of The Geysers, CA",earthquake,0.32,1.00999999,0.18,14.0,automatic,nc,nc
+2024-11-07T14:56:57.938Z,-24.3071,-67.9645,110.798,4.8,mb,51.0,56.0,1.363,0.9,us,us7000nqea,2024-11-07T15:11:32.040Z,"156 km S of San Pedro de Atacama, Chile",earthquake,3.75,7.351,0.037,222.0,reviewed,us,us
