@@ -3866,3 +3866,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-07T21:04:27.900Z,34.8548333,-118.7798333,0.76,1.51,ml,37.0,51.0,0.07788,0.23,ci,ci40789559,2024-11-07T21:10:51.087Z,"8 km E of Lebec, CA",earthquake,0.23,0.46,0.123,30.0,automatic,ci,ci
 2024-11-07T20:51:14.400Z,36.2151667,-118.0066667,2.16,1.16,ml,24.0,54.0,0.1568,0.2,ci,ci40789551,2024-11-07T20:57:08.498Z,"7 km S of Olancha, CA",earthquake,0.27,1.05,0.194,14.0,automatic,ci,ci
 2024-11-07T05:13:26.130Z,19.1565,-155.46983333333,29.4,1.5,md,21.0,128.0,0.007379,0.11,hv,hv74524292,2024-11-07T21:08:46.690Z,"5 km S of Pāhala, Hawaii",earthquake,0.58,0.98,0.069797392491462,8.0,reviewed,hv,hv
+2024-11-07T21:25:25.520Z,33.866333,-115.5414963,-0.14,2.05,ml,37.0,79.0,0.1781,0.22,ci,ci40789575,2024-11-07T21:27:30.184Z,"21 km NW of Desert Center, CA",earthquake,0.26,0.6,0.192,25.0,automatic,ci,ci
+2024-11-07T20:07:06.214Z,25.2754,142.6811,10.0,4.7,mb,70.0,112.0,1.867,0.78,us,us7000nqhd,2024-11-07T21:15:40.040Z,"Volcano Islands, Japan region",earthquake,10.94,1.901,0.074,55.0,reviewed,us,us
+2024-11-07T20:06:29.105Z,25.2908,142.6431,10.0,4.5,mb,41.0,146.0,1.844,0.49,us,us7000nqhs,2024-11-07T21:24:10.040Z,"Volcano Islands, Japan region",earthquake,12.04,1.93,0.095,32.0,reviewed,us,us
