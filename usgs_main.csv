@@ -3725,3 +3725,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-07T06:55:40.890Z,35.0938333,-119.1068333,12.15,1.54,ml,36.0,42.0,0.03991,0.24,ci,ci40789031,2024-11-07T07:07:19.152Z,"23 km NW of Grapevine, CA",earthquake,0.28,0.68,0.163,26.0,automatic,ci,ci
 2024-11-07T06:53:44.210Z,17.971833333333,-66.835333333333,14.33,1.97,md,6.0,203.0,0.04193,0.06,pr,pr71465053,2024-11-07T07:03:23.810Z,"2 km SW of Indios, Puerto Rico",earthquake,0.58,0.46,0.18719795319674,4.0,reviewed,pr,pr
 2024-11-07T07:12:20.780Z,33.371,-116.401,10.63,0.76,ml,39.0,61.0,0.05247,0.18,ci,ci40789047,2024-11-07T07:18:24.331Z,"13 km N of Borrego Springs, CA",earthquake,0.21,0.38,0.08,17.0,automatic,ci,ci
+2024-11-07T07:30:12.655Z,63.3573,-145.2116,7.6,1.8,ml,,,,0.55,ak,ak024ec40rri,2024-11-07T07:33:15.444Z,"36 km NE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-07T07:27:56.860Z,37.110000610352,-121.53399658203,6.3000001907349,1.07,md,9.0,83.0,0.06889,0.07,nc,nc75083411,2024-11-07T07:29:36.020Z,"7 km E of San Martin, CA",earthquake,0.51,1.13999999,0.05,6.0,automatic,nc,nc
