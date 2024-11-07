@@ -3738,3 +3738,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-07T08:04:05.518Z,31.582,-104.528,3.121,2.1,ml,8.0,153.0,0.1,0.3,tx,tx2024vwvo,2024-11-07T08:23:58.114Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.0990557670593,0.1,6.0,automatic,tx,tx
 2024-11-07T08:02:46.073Z,31.583,-104.54,3.6625,2.4,ml,8.0,158.0,0.1,0.2,tx,tx2024vwvm,2024-11-07T08:23:55.361Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.8119773864746,0.1,6.0,automatic,tx,tx
 2024-11-06T18:00:56.000Z,54.54,-164.698,18.69,0.66,ml,4.0,131.0,0.04996,0.13,av,av93026204,2024-11-07T08:27:21.760Z,"83 km ENE of Akutan, Alaska",earthquake,1.25,0.68,0.13829644233236,3.0,reviewed,av,av
+2024-11-07T08:40:41.750Z,33.4483333,-116.4055,9.47,1.87,ml,89.0,26.0,0.1174,0.19,ci,ci40789087,2024-11-07T08:47:56.705Z,"22 km N of Borrego Springs, CA",earthquake,0.11,0.35,0.168,28.0,automatic,ci,ci
+2024-11-07T08:40:34.840Z,33.4513321,-116.4048309,5.65,1.12,ml,27.0,53.0,0.1192,0.23,ci,ci40789079,2024-11-07T08:42:40.297Z,"22 km N of Borrego Springs, CA",earthquake,0.38,1.67,0.26,12.0,automatic,ci,ci
+2024-11-07T08:40:14.905Z,62.5883,-149.6732,11.5,1.9,ml,,,,0.52,ak,ak024ec4ocpe,2024-11-07T08:41:56.316Z,"26 km NE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-11-07T08:39:06.810Z,33.447834,-116.4078369,9.8,3.46,ml,113.0,20.0,0.1184,0.2,ci,ci40789071,2024-11-07T08:44:39.894Z,"22 km N of Borrego Springs, CA",earthquake,0.18,0.55,0.183,15.0,automatic,ci,ci
