@@ -2506,4 +2506,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.31 and occurred in/near 15 km ESE of Little Lake, CA on 11/08/2024 at 01:22 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./nSince 07:04 AM on 10/22/2024, there have been 4012 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.9 and occurred in/near 4 km N of Anchor Point, Alaska on 11/08/2024 at 01:40 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./nSince 07:04 AM on 10/22/2024, there have been 4013 recorded earthquakes.
+The most recent earthquake had a magnitude of 0.71 and occurred in/near 8 km E of Ridgecrest, CA on 11/08/2024 at 01:41 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./n
