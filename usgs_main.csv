@@ -4088,3 +4088,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-08T20:33:57.420Z,37.965333333333,-112.11233333333,12.61,1.59,md,15.0,74.0,0.09494,0.18,uu,uu80086186,2024-11-08T20:44:06.890Z,"19 km SSW of Antimony, Utah",earthquake,0.44,0.88,0.20901861202369,13.0,reviewed,uu,uu
 2024-11-08T19:58:45.587Z,52.9089,160.4905,47.414,4.6,mb,81.0,131.0,1.119,0.72,us,us7000nqqv,2024-11-08T20:36:54.040Z,"126 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,10.22,5.546,0.06,89.0,reviewed,us,us
 2024-11-08T19:53:55.462Z,42.9713,44.158,17.18,4.2,mb,34.0,74.0,1.055,0.67,us,us7000nqqt,2024-11-08T20:42:21.040Z,"9 km SSW of Alagir, Russia",earthquake,4.01,5.327,0.141,14.0,reviewed,us,us
+2024-11-08T21:17:47.060Z,32.5313339,-115.2409973,9.88,2.08,ml,16.0,197.0,0.2162,0.24,ci,ci40790215,2024-11-08T21:20:23.744Z,"11 km ESE of Puebla, B.C., MX",earthquake,1.09,2.21,0.233,18.0,automatic,ci,ci
+2024-11-08T21:13:18.342Z,58.7422,-152.6926,49.8,2.9,ml,,,,0.27,ak,ak024edzsjyp,2024-11-08T21:14:43.911Z,"77 km N of Aleneva, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-11-08T21:00:46.720Z,34.1801667,-117.9283333,0.05,1.24,ml,21.0,130.0,0.05007,0.17,ci,ci40790199,2024-11-08T21:07:13.055Z,"5 km NE of Bradbury, CA",earthquake,0.36,0.51,0.411,35.0,automatic,ci,ci
+2024-11-08T19:42:03.440Z,35.5901667,-117.504,9.55,-0.21,ml,4.0,318.0,0.03427,0.06,ci,ci40790135,2024-11-08T21:07:30.668Z,"16 km ESE of Ridgecrest, CA",earthquake,0.61,0.53,0.01,1.0,reviewed,ci,ci
+2024-11-08T05:17:09.520Z,47.122,-113.44166666667,9.6,1.17,ml,20.0,60.0,0.125,0.13,mb,mb90065503,2024-11-08T21:13:29.610Z,"7 km SSE of Seeley Lake, Montana",earthquake,0.33,0.96,0.12415656533633,13.0,reviewed,mb,mb
