@@ -4015,3 +4015,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-08T14:02:24.390Z,33.9845,-117.1596667,9.18,0.59,ml,30.0,58.0,0.1283,0.17,ci,ci40789887,2024-11-08T14:08:41.891Z,"8 km SSE of Redlands, CA",earthquake,0.21,1.02,0.066,8.0,automatic,ci,ci
 2024-11-08T13:54:29.325Z,60.824,-149.4635,30.4,2.0,ml,,,,0.37,ak,ak024edv9wd0,2024-11-08T13:56:03.156Z,"7 km SSW of Sunrise, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-11-08T14:04:01.165Z,38.5367,39.701,10.0,4.7,mb,41.0,85.0,1.202,0.78,us,us7000nqls,2024-11-08T14:16:09.040Z,"24 km SW of Kovancılar, Turkey",earthquake,4.17,1.459,0.11,25.0,reviewed,us,us
+2024-11-08T14:36:06.880Z,38.826831817627,-122.88300323486,2.3900001049042,0.34,md,7.0,219.0,0.01138,0.01,nc,nc75083951,2024-11-08T14:37:44.677Z,"12 km E of Cloverdale, CA",earthquake,1.18,0.699999988,0.22,9.0,automatic,nc,nc
+2024-11-08T12:16:35.026Z,32.019,-102.379,5.2979,1.1,ml,11.0,84.0,0.0,0.1,tx,tx2024vyzk,2024-11-08T14:38:34.932Z,"0 km SE of Gardendale, Texas",earthquake,1.5419308220876,1.5157996331453,0.1,7.0,reviewed,tx,tx
