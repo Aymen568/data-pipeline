@@ -3983,3 +3983,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-08T08:05:21.992Z,63.3957,-150.4451,0.0,1.9,ml,,,,0.8,ak,ak024eds07on,2024-11-08T08:07:19.743Z,"65 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-08T07:54:52.649Z,62.0639,-148.1726,0.0,2.1,ml,,,,1.03,ak,ak024edrpcj4,2024-11-08T07:56:45.043Z,"33 km NNE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-08T07:54:51.470Z,33.1388333,-116.3151667,8.72,0.81,ml,48.0,37.0,0.07428,0.19,ci,ci40789783,2024-11-08T08:05:06.941Z,"14 km SSE of Borrego Springs, CA",earthquake,0.18,0.65,0.17,14.0,automatic,ci,ci
+2024-11-08T08:30:07.200Z,33.8641663,-115.5335007,1.05,2.13,ml,52.0,53.0,0.1794,0.17,ci,ci40789807,2024-11-08T08:32:17.071Z,"21 km NW of Desert Center, CA",earthquake,0.23,0.6,0.204,27.0,automatic,ci,ci
+2024-11-08T08:01:20.849Z,-4.6946,128.3521,266.72,4.5,mb,24.0,60.0,1.557,0.27,us,us7000nqkj,2024-11-08T08:25:17.040Z,"112 km S of Ambon, Indonesia",earthquake,6.98,9.305,0.135,16.0,reviewed,us,us
+2024-11-07T23:13:07.720Z,60.046333333333,-153.08416666667,-0.55,-0.27,ml,4.0,121.0,0.01512,0.1,av,av93354808,2024-11-08T08:30:28.100Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.59,1.88,0.47204129790334,4.0,reviewed,av,av
