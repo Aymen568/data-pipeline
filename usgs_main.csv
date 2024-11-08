@@ -3949,3 +3949,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-08T03:39:13.220Z,18.807333333333,-65.036333333333,22.06,3.12,md,16.0,239.0,0.4588,0.12,pr,pr71465123,2024-11-08T04:02:41.190Z,"52 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,0.81,10.18,0.070868931001571,11.0,reviewed,pr,pr
 2024-11-08T03:31:38.500Z,35.906666666667,-90.014166666667,6.91,2.1,md,23.0,110.0,0.05829,0.15,nm,nm60593626,2024-11-08T04:01:26.680Z,"6 km NNE of Dell, Arkansas",earthquake,0.37,0.67,0.16526001062583,12.0,reviewed,nm,nm
 2024-11-07T21:56:16.700Z,43.062833333333,-124.16933333333,-0.5,1.43,ml,10.0,173.0,0.2002,0.64,uw,uw62059191,2024-11-08T04:11:06.120Z,"2 km W of Myrtle Point, Oregon",explosion,1.95,31.61,0.09938748397653,3.0,reviewed,uw,uw
+2024-11-08T04:26:10.969Z,36.401,-117.1305,0.0,1.0,ml,9.0,173.97,0.525,0.311,nn,nn00887313,2024-11-08T04:29:34.188Z,"25 km WSW of Furnace Creek, California",earthquake,,58.4,0.46,7.0,automatic,nn,nn
+2024-11-08T04:21:30.540Z,33.395,-116.4203333,11.13,1.06,ml,62.0,29.0,0.08135,0.2,ci,ci40789743,2024-11-08T04:32:15.810Z,"16 km NNW of Borrego Springs, CA",earthquake,0.17,0.3,0.138,28.0,automatic,ci,ci
