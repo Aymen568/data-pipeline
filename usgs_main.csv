@@ -4052,3 +4052,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-08T17:29:46.770Z,38.841499328613,-122.82483673096,1.7000000476837,0.4,md,8.0,112.0,0.00881,0.01,nc,nc75084021,2024-11-08T17:31:25.421Z,"9 km WNW of Cobb, CA",earthquake,0.41,0.959999979,0.28,8.0,automatic,nc,nc
 2024-11-08T16:31:01.912Z,1.0959,94.396,42.881,4.6,mb,18.0,217.0,4.831,0.28,us,us7000nqn9,2024-11-08T17:17:57.040Z,"268 km SW of Sinabang, Indonesia",earthquake,10.14,6.968,0.157,13.0,reviewed,us,us
 2024-11-08T15:40:32.196Z,53.1928,159.4657,75.156,4.4,mb,43.0,163.0,0.52,0.7,us,us7000nqm2,2024-11-08T17:22:00.040Z,"57 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.35,5.273,0.085,40.0,reviewed,us,us
+2024-11-08T17:30:23.870Z,33.4528333,-116.3931667,7.77,0.69,ml,25.0,67.0,0.1141,0.13,ci,ci40789999,2024-11-08T17:39:40.081Z,"22 km N of Borrego Springs, CA",earthquake,0.19,0.87,0.138,18.0,automatic,ci,ci
