@@ -4040,3 +4040,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-08T07:23:29.070Z,40.552833333333,-111.6275,-3.47,0.38,md,15.0,159.0,0.03817,0.23,uu,uu80086141,2024-11-08T16:18:14.880Z,"4 km SE of Snowbird, Utah",earthquake,0.61,0.77,0.29716211668078,5.0,reviewed,uu,uu
 2024-11-08T05:19:00.590Z,38.8685,-111.28,2.03,0.84,ml,5.0,165.0,0.09777,0.13,uu,uu80086136,2024-11-08T16:09:14.180Z,"6 km SSW of Emery, Utah",earthquake,0.78,31.61,0.0044142582655944,2.0,reviewed,uu,uu
 2024-11-08T01:54:38.900Z,37.427,-113.11566666667,9.55,1.14,ml,6.0,139.0,0.0712,0.07,uu,uu80086126,2024-11-08T16:05:01.320Z,"13 km SSE of Kanarraville, Utah",earthquake,0.44,0.74,0.22097390050272,4.0,reviewed,uu,uu
+2024-11-08T16:23:58.155Z,-25.192,179.9105,512.241,4.5,mb,36.0,96.0,4.472,0.9,us,us7000nqmb,2024-11-08T16:37:44.040Z,south of the Fiji Islands,earthquake,11.55,8.463,0.069,62.0,reviewed,us,us
+2024-11-08T16:17:24.936Z,-25.1464,178.6394,577.205,4.6,mb,31.0,118.0,5.099,0.58,us,us7000nqm9,2024-11-08T16:41:21.040Z,south of the Fiji Islands,earthquake,14.98,12.832,0.103,28.0,reviewed,us,us
+2024-11-08T11:46:49.298Z,51.1127,-178.1648,15.5,4.0,ml,,,,1.0,ak,ak024edu1d44,2024-11-08T16:36:39.641Z,"135 km SW of Adak, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2024-11-08T03:41:11.334Z,32.277,-101.298,7.6904,1.6,ml,36.0,57.0,0.1,0.1,tx,tx2024vyig,2024-11-08T16:40:16.113Z,"2 km SSE of Coahoma, Texas",earthquake,0.50318376005996,0.74967865956067,0.1,22.0,reviewed,tx,tx
