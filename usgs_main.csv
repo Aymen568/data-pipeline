@@ -3979,3 +3979,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-08T07:44:01.884Z,39.5527,-120.3194,0.0,1.4,ml,13.0,174.13,0.125,0.1615,nn,nn00887321,2024-11-08T07:46:06.158Z,"5 km SE of Sierraville, California",earthquake,,4.6,0.09,7.0,automatic,nn,nn
 2024-11-08T07:25:16.355Z,51.3018,-178.4836,45.599,4.7,mb,49.0,138.0,0.326,0.85,us,us7000nqkc,2024-11-08T07:43:25.040Z,"143 km WSW of Adak, Alaska",earthquake,4.27,6.675,0.037,226.0,reviewed,us,us
 2024-11-07T18:39:51.390Z,58.248666666667,-155.131,5.27,0.59,ml,8.0,137.0,0.04709,0.21,av,av93354313,2024-11-08T07:43:19.820Z,"85 km NNW of Karluk, Alaska",earthquake,0.52,0.96,0.3442266899183,8.0,reviewed,av,av
+2024-11-08T08:08:46.700Z,33.3598328,-116.43367,24.95,1.46,ml,19.0,83.0,0.09243,0.15,ci,ci40789791,2024-11-08T08:10:54.533Z,"13 km NNW of Borrego Springs, CA",earthquake,1.18,0.56,0.383,10.0,automatic,ci,ci
+2024-11-08T08:05:21.992Z,63.3957,-150.4451,0.0,1.9,ml,,,,0.8,ak,ak024eds07on,2024-11-08T08:07:19.743Z,"65 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-08T07:54:52.649Z,62.0639,-148.1726,0.0,2.1,ml,,,,1.03,ak,ak024edrpcj4,2024-11-08T07:56:45.043Z,"33 km NNE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-08T07:54:51.470Z,33.1388333,-116.3151667,8.72,0.81,ml,48.0,37.0,0.07428,0.19,ci,ci40789783,2024-11-08T08:05:06.941Z,"14 km SSE of Borrego Springs, CA",earthquake,0.18,0.65,0.17,14.0,automatic,ci,ci
