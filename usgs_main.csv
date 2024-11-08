@@ -4012,3 +4012,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-08T13:38:51.185Z,60.2064,-151.846,54.5,1.6,ml,,,,0.36,ak,ak024edv6ila,2024-11-08T13:40:25.946Z,"19 km NNW of Ninilchik, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-11-08T12:09:13.745Z,32.143,-101.06,7.5928,2.0,ml,19.0,78.0,0.2,0.1,tx,tx2024vyzb,2024-11-08T13:39:42.221Z,"23 km S of Westbrook, Texas",earthquake,1.0907148818951,2.1620803028941,0.1,7.0,reviewed,tx,tx
 2024-11-08T13:41:15.430Z,35.6081667,-117.587,4.09,0.71,ml,27.0,86.0,0.07338,0.16,ci,ci40789879,2024-11-08T13:47:02.346Z,"8 km E of Ridgecrest, CA",earthquake,0.18,0.59,0.252,8.0,automatic,ci,ci
+2024-11-08T14:02:24.390Z,33.9845,-117.1596667,9.18,0.59,ml,30.0,58.0,0.1283,0.17,ci,ci40789887,2024-11-08T14:08:41.891Z,"8 km SSE of Redlands, CA",earthquake,0.21,1.02,0.066,8.0,automatic,ci,ci
+2024-11-08T13:54:29.325Z,60.824,-149.4635,30.4,2.0,ml,,,,0.37,ak,ak024edv9wd0,2024-11-08T13:56:03.156Z,"7 km SSW of Sunrise, Alaska",earthquake,,0.2,,,automatic,ak,ak
