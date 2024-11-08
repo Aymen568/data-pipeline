@@ -4116,3 +4116,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-08T22:33:39.058Z,60.0641,-153.0885,12.7,3.0,ml,,,,0.43,ak,ak024ee0ibht,2024-11-08T22:34:51.468Z,"64 km ENE of Pedro Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-08T10:48:59.190Z,46.802166666667,-112.28966666667,12.07,1.07,ml,9.0,105.0,0.0606,0.12,mb,mb90065513,2024-11-08T22:40:20.010Z,"5 km N of Marysville, Montana",earthquake,0.45,0.91,0.116359808227,11.0,reviewed,mb,mb
 2024-11-08T04:01:11.820Z,51.7185,-178.64383333333,21.56,3.12,ml,12.0,128.0,0.09105,0.09,av,av93355608,2024-11-08T22:42:55.550Z,"139 km W of Adak, Alaska",earthquake,0.84,1.23,0.28578768071274,20.0,reviewed,av,av
+2024-11-08T22:20:11.493Z,54.3105,-159.6851,10.0,3.8,mb,14.0,210.0,1.137,0.44,us,us7000nqsq,2024-11-08T22:53:34.040Z,"125 km SSE of Sand Point, Alaska",earthquake,6.75,2.009,0.293,3.0,reviewed,us,us
+2024-11-08T04:05:05.430Z,51.719833333333,-178.6385,20.13,1.92,ml,10.0,129.0,0.09255,0.13,av,av93355613,2024-11-08T22:48:04.080Z,"139 km W of Adak, Alaska",earthquake,0.91,1.46,0.34612250500612,10.0,reviewed,av,av
