@@ -2428,4 +2428,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.42 and occurred in/near 22 km N of Borrego Springs, CA on 11/07/2024 at 11:42 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 3923 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.5 and occurred in/near 45 km SSW of Glacier View, Alaska on 11/08/2024 at 12:37 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./nSince 07:04 AM on 10/22/2024, there have been 3935 recorded earthquakes.
+The most recent earthquake had a magnitude of 0.9 and occurred in/near 4 km SSE of Sierraville, California on 11/08/2024 at 02:01 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.2 and occurred in/near 145 km SSW of Severo-Kuril’sk, Russia on 10/23/2024 at 02:38 PM./n
