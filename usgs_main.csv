@@ -4079,3 +4079,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-08T20:13:25.978Z,31.576,-104.017,6.1419,2.0,ml,15.0,52.0,0.0,0.2,tx,tx2024vzox,2024-11-08T20:20:32.807Z,"35 km NW of Toyah, Texas",earthquake,0.0,2.5955898761749,0.2,13.0,automatic,tx,tx
 2024-11-08T20:13:01.950Z,33.4483333,-116.4026667,8.29,1.43,ml,66.0,18.0,0.1158,0.2,ci,ci40790159,2024-11-08T20:23:41.860Z,"22 km N of Borrego Springs, CA",earthquake,0.14,0.59,0.149,28.0,automatic,ci,ci
 2024-11-08T20:05:11.796Z,60.4358,-152.4629,101.7,2.0,ml,,,,0.3,ak,ak024edz5e4z,2024-11-08T20:06:37.806Z,"61 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-11-08T20:06:05.772Z,65.382,-134.6205,12.839,4.9,mww,184.0,18.0,1.544,0.6,us,us7000nqqx,2024-11-08T20:27:55.253Z,"272 km ENE of Dawson City, Canada",earthquake,2.32,4.275,0.083,14.0,reviewed,us,us
+2024-11-08T19:47:44.600Z,46.8545,-123.2375,-0.38,1.49,ml,11.0,115.0,0.03036,0.23,uw,uw62059371,2024-11-08T20:34:18.800Z,"1 km NNW of Oakville, Washington",explosion,0.81,31.61,0.25382329259765,9.0,reviewed,uw,uw
+2024-11-08T18:37:12.900Z,46.981666666667,-121.96583333333,12.2,0.38,ml,14.0,103.0,0.007245,0.09,uw,uw62059356,2024-11-08T20:32:12.640Z,"12 km SSE of Carbonado, Washington",earthquake,0.44,0.53,0.10356801681103,7.0,reviewed,uw,uw
+2024-11-07T22:03:43.160Z,33.307,-116.3226667,12.17,0.21,ml,8.0,228.0,0.05629,0.13,ci,ci37688060,2024-11-08T20:31:13.305Z,"8 km NE of Borrego Springs, CA",earthquake,0.63,0.76,0.139,4.0,reviewed,ci,ci
