@@ -2544,4 +2544,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 0.68 and occurred in/near 7 km WNW of Cobb, CA on 11/08/2024 at 06:40 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./nSince 07:04 AM on 10/22/2024, there have been 4066 recorded earthquakes.
 The most recent earthquake had a magnitude of 2.2 and occurred in/near 30 km SE of Mina, Nevada on 11/08/2024 at 06:49 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./nSince 07:04 AM on 10/22/2024, there have been 4072 recorded earthquakes.
+The most recent earthquake had a magnitude of 2.63 and occurred in/near 25 km NE of Redway, CA on 11/08/2024 at 07:05 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./n
