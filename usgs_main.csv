@@ -3990,3 +3990,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-08T08:32:48.896Z,62.4163,-151.2119,72.1,2.1,ml,,,,0.91,ak,ak024eds623d,2024-11-08T08:35:23.721Z,"24 km WSW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-07T23:59:17.540Z,60.069833333333,-153.0595,2.54,-0.91,ml,4.0,195.0,0.01269,0.24,av,av93354948,2024-11-08T08:38:16.300Z,"66 km ENE of Pedro Bay, Alaska",earthquake,1.89,2.84,0.12776282722539,4.0,reviewed,av,av
 2024-11-07T23:08:50.710Z,52.020666666667,178.57183333333,9.51,1.04,ml,4.0,326.0,0.06236,0.09,av,av93026344,2024-11-08T08:46:43.800Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.0,1.72,0.46754440370339,4.0,reviewed,av,av
+2024-11-08T08:58:17.690Z,36.6288,-117.1242,4.9,1.1,ml,22.0,135.63,0.354,0.2283,nn,nn00887325,2024-11-08T09:00:27.384Z,"31 km NW of Furnace Creek, California",earthquake,,2.2,0.24,13.0,automatic,nn,nn
+2024-11-07T18:40:14.510Z,58.244166666667,-155.1415,4.41,1.07,ml,11.0,134.0,0.04548,0.16,av,av93026339,2024-11-08T08:57:47.060Z,"85 km NNW of Karluk, Alaska",earthquake,0.35,0.6,0.28221247774013,11.0,reviewed,av,av
