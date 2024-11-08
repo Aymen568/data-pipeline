@@ -3999,3 +3999,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-08T10:30:17.821Z,35.68357849,-97.41711426,3.955454826,1.91,ml,25.0,84.59622192,0.1318251193,0.3961494259,ok,ok2024vyvt,2024-11-08T10:40:04.440Z,"6 km ENE of Edmond, Oklahoma",earthquake,2.486317188,1.898966731,0.24,15.0,automatic,ok,ok
 2024-11-08T10:37:42.503Z,-1.4882,-77.4947,195.917,5.1,mww,60.0,64.0,0.53,1.12,us,us7000nqkx,2024-11-08T10:53:15.040Z,"56 km E of Puyo, Ecuador",earthquake,8.01,7.399,0.065,23.0,reviewed,us,us
 2024-11-08T11:19:31.320Z,63.283,-150.4687,95.9,2.3,ml,,,,0.67,ak,ak024edtvj8s,2024-11-08T11:21:54.887Z,"68 km ESE of Denali National Park, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-11-08T11:24:43.760Z,33.4756667,-116.4445,11.31,0.64,ml,40.0,73.0,0.109,0.18,ci,ci40789847,2024-11-08T11:35:51.880Z,"23 km ESE of Anza, CA",earthquake,0.19,0.53,0.19,17.0,automatic,ci,ci
