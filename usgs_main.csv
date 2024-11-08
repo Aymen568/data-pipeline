@@ -4000,3 +4000,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-08T10:37:42.503Z,-1.4882,-77.4947,195.917,5.1,mww,60.0,64.0,0.53,1.12,us,us7000nqkx,2024-11-08T10:53:15.040Z,"56 km E of Puyo, Ecuador",earthquake,8.01,7.399,0.065,23.0,reviewed,us,us
 2024-11-08T11:19:31.320Z,63.283,-150.4687,95.9,2.3,ml,,,,0.67,ak,ak024edtvj8s,2024-11-08T11:21:54.887Z,"68 km ESE of Denali National Park, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-11-08T11:24:43.760Z,33.4756667,-116.4445,11.31,0.64,ml,40.0,73.0,0.109,0.18,ci,ci40789847,2024-11-08T11:35:51.880Z,"23 km ESE of Anza, CA",earthquake,0.19,0.53,0.19,17.0,automatic,ci,ci
+2024-11-08T11:46:12.830Z,19.172166824341,-155.48500061035,27.059999465942,2.25,md,17.0,157.0,0.1052,0.140000001,hv,hv74525382,2024-11-08T11:47:52.090Z,"3 km S of Pāhala, Hawaii",earthquake,0.83,1.00999999,0.449999988,4.0,automatic,hv,hv
+2024-11-08T11:38:11.660Z,37.54016494751,-118.87183380127,7.0700001716614,0.56,md,9.0,175.0,0.06025,0.02,nc,nc75083921,2024-11-08T11:39:49.458Z,"14 km SSE of Mammoth Lakes, CA",earthquake,0.73,2.5,0.09,8.0,automatic,nc,nc
