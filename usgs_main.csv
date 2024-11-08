@@ -3976,3 +3976,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-08T07:28:41.037Z,36.6426,-117.0958,1.5,1.1,ml,18.0,185.4,0.335,0.364,nn,nn00887318,2024-11-08T07:30:56.939Z,"30 km NW of Furnace Creek, California",earthquake,,16.7,0.17,13.0,automatic,nn,nn
 2024-11-08T07:25:52.618Z,61.0251,-150.1493,39.3,1.8,ml,,,,0.53,ak,ak024edrj4rh,2024-11-08T07:27:26.606Z,"25 km SSW of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-08T07:00:36.500Z,17.947333333333,-66.793666666667,8.76,2.92,md,23.0,199.0,0.0723,0.21,pr,pr71465128,2024-11-08T07:30:38.700Z,"5 km SSE of Indios, Puerto Rico",earthquake,0.58,0.78,0.14754779378939,10.0,reviewed,pr,pr
+2024-11-08T07:44:01.884Z,39.5527,-120.3194,0.0,1.4,ml,13.0,174.13,0.125,0.1615,nn,nn00887321,2024-11-08T07:46:06.158Z,"5 km SE of Sierraville, California",earthquake,,4.6,0.09,7.0,automatic,nn,nn
+2024-11-08T07:25:16.355Z,51.3018,-178.4836,45.599,4.7,mb,49.0,138.0,0.326,0.85,us,us7000nqkc,2024-11-08T07:43:25.040Z,"143 km WSW of Adak, Alaska",earthquake,4.27,6.675,0.037,226.0,reviewed,us,us
+2024-11-07T18:39:51.390Z,58.248666666667,-155.131,5.27,0.59,ml,8.0,137.0,0.04709,0.21,av,av93354313,2024-11-08T07:43:19.820Z,"85 km NNW of Karluk, Alaska",earthquake,0.52,0.96,0.3442266899183,8.0,reviewed,av,av
