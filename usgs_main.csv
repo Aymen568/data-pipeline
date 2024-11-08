@@ -4063,3 +4063,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-08T18:27:36.160Z,36.529666900635,-121.14167022705,0.15999999642372,1.04,md,6.0,82.0,0.09557,0.18,nc,nc75084041,2024-11-08T18:29:15.366Z,"0 km SSE of Pinnacles, CA",earthquake,0.84,15.1700001,0.33,5.0,automatic,nc,nc
 2024-11-08T18:23:41.726Z,62.4659,-149.0991,48.4,1.8,ml,,,,0.66,ak,ak024edy2g58,2024-11-08T18:26:03.690Z,"51 km NE of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-08T18:18:23.960Z,44.6095,-111.12433333333,5.31,1.07,ml,18.0,102.0,0.01718,0.2,uu,uu80086171,2024-11-08T18:42:46.950Z,"6 km SSW of West Yellowstone, Montana",earthquake,0.38,0.66,0.27783237670497,3.0,reviewed,uu,uu
+2024-11-08T18:49:21.181Z,38.1698,-117.8947,8.5,2.2,ml,13.0,129.08,0.077,0.374,nn,nn00887343,2024-11-08T18:52:20.333Z,"30 km SE of Mina, Nevada",earthquake,,0.5,0.38,9.0,automatic,nn,nn
+2024-11-08T17:39:14.640Z,44.6665,-114.364,5.38,1.67,ml,12.0,118.0,0.3667,0.14,mb,mb90065458,2024-11-08T18:44:42.340Z,"20 km NNW of Challis, Idaho",earthquake,0.61,2.37,0.19281885040636,24.0,reviewed,mb,mb
