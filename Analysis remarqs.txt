@@ -2686,4 +2686,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 2.68 and occurred in/near 17 km W of Petrolia, CA on 11/09/2024 at 02:51 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./nSince 07:04 AM on 10/22/2024, there have been 4297 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.08 and occurred in/near 6 km NW of The Geysers, CA on 11/09/2024 at 03:24 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./nSince 07:04 AM on 10/22/2024, there have been 4298 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.7 and occurred in/near 38 km NNE of Petersville, Alaska on 11/09/2024 at 03:37 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./n
