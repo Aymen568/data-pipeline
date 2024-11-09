@@ -2644,4 +2644,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.05 and occurred in/near 10 km NW of The Geysers, CA on 11/09/2024 at 09:33 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./nSince 07:04 AM on 10/22/2024, there have been 4252 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.07 and occurred in/near 5 km S of Idyllwild, CA on 11/09/2024 at 09:40 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./nSince 07:04 AM on 10/22/2024, there have been 4254 recorded earthquakes.
+The most recent earthquake had a magnitude of 0.27 and occurred in/near 7 km NNW of The Geysers, CA on 11/09/2024 at 10:04 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./n
