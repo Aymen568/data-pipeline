@@ -2736,4 +2736,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.5 and occurred in/near 45 km W of Ninilchik, Alaska on 11/09/2024 at 09:24 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./nSince 07:04 AM on 10/22/2024, there have been 4346 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.77999997 and occurred in/near 10 km E of Pāhala, Hawaii on 11/09/2024 at 09:39 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./nSince 07:04 AM on 10/22/2024, there have been 4348 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.13 and occurred in/near 3 km NNW of The Geysers, CA on 11/09/2024 at 09:47 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./n
