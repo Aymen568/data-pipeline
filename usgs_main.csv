@@ -4175,3 +4175,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-09T02:47:29.120Z,65.6834,-145.2761,7.0,1.6,ml,,,,0.97,ak,ak024efc7z68,2024-11-09T02:49:19.364Z,"25 km WNW of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-09T02:44:01.292Z,65.0757,-154.3065,7.3,2.3,ml,,,,0.67,ak,ak024efc79vl,2024-11-09T02:46:23.414Z,"67 km ENE of Ruby, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-09T02:21:11.452Z,37.4189,141.5411,68.885,4.4,mb,31.0,135.0,2.808,0.48,us,us7000nqtu,2024-11-09T02:48:54.040Z,"47 km ENE of Tomioka, Japan",earthquake,11.03,7.976,0.123,19.0,reviewed,us,us
+2024-11-09T03:14:00.108Z,61.7394,-151.3798,60.4,1.7,ml,,,,0.36,ak,ak024efcm9wq,2024-11-09T03:16:06.990Z,"27 km S of Skwentna, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-11-09T03:12:22.550Z,33.0408333,-117.0575,3.58,1.26,ml,13.0,92.0,0.09269,0.27,ci,ci40790431,2024-11-09T03:19:03.504Z,"9 km NNW of Poway, CA",earthquake,0.83,5.99,0.369,26.0,automatic,ci,ci
+2024-11-09T02:53:37.947Z,1.0803,121.1367,53.481,4.9,mb,59.0,63.0,0.356,1.34,us,us7000nqtx,2024-11-09T03:12:39.040Z,"222 km WNW of Gorontalo, Indonesia",earthquake,4.84,5.936,0.076,57.0,reviewed,us,us
+2024-11-08T14:10:00.040Z,61.34,-152.2845,4.2,-0.5,ml,8.0,135.0,0.09157,0.1,av,av93356983,2024-11-09T03:15:56.000Z,"68 km WNW of Beluga, Alaska",earthquake,0.37,4.09,0.16761687420495,8.0,reviewed,av,av
