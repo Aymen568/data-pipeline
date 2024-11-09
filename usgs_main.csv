@@ -4295,3 +4295,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-09T14:48:05.694Z,38.1375,-117.8935,3.5,1.4,ml,11.0,162.02,0.095,0.3022,nn,nn00887365,2024-11-09T14:50:52.702Z,"33 km SE of Mina, Nevada",earthquake,,1.2,0.26,7.0,automatic,nn,nn
 2024-11-09T14:47:24.211Z,25.2691,142.7583,52.863,4.7,mb,33.0,123.0,1.891,0.82,us,us7000nqw9,2024-11-09T15:08:22.040Z,"Volcano Islands, Japan region",earthquake,13.36,7.259,0.063,75.0,reviewed,us,us
 2024-11-09T14:44:53.001Z,-2.2585,-80.1519,51.868,3.8,ml,10.0,293.0,0.917,0.56,us,us7000nqw6,2024-11-09T15:13:44.040Z,"18 km WSW of Santa Lucía, Ecuador",earthquake,5.27,31.581,0.085,18.0,reviewed,us,us
+2024-11-09T15:24:16.640Z,38.799667358398,-122.81900024414,3.0099999904633,1.08,md,28.0,65.0,0.01215,0.02,nc,nc75084461,2024-11-09T15:27:17.920Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.430000007,0.09,28.0,automatic,nc,nc
