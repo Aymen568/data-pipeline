@@ -4184,3 +4184,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-09T03:25:04.380Z,33.9996681,-118.3741684,4.5,1.33,ml,12.0,168.0,0.1503,0.33,ci,ci40790439,2024-11-09T03:31:30.352Z,"0 km SSW of Baldwin Hills, CA",earthquake,1.17,2.68,0.446,23.0,automatic,ci,ci
 2024-11-09T03:15:30.415Z,31.589,-104.552,4.2235,1.7,ml,8.0,164.0,0.1,0.1,tx,tx2024wacy,2024-11-09T03:37:31.611Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.2713129520416,0.1,6.0,automatic,tx,tx
 2024-11-09T00:31:04.739Z,52.6128,-172.801,154.804,3.5,mb,22.0,161.0,0.864,0.61,us,us7000nqtb,2024-11-09T03:49:19.040Z,"105 km ENE of Atka, Alaska",earthquake,14.77,13.516,0.157,10.0,reviewed,us,us
+2024-11-09T04:04:18.794Z,62.1125,-150.772,59.9,2.0,ml,,,,0.54,ak,ak024efd5lsz,2024-11-09T04:07:04.470Z,"35 km ENE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-11-09T03:53:43.310Z,38.788833618164,-122.72250366211,2.0999999046326,1.29,md,17.0,88.0,0.01244,0.03,nc,nc75084291,2024-11-09T03:55:21.673Z,"3 km NW of Anderson Springs, CA",earthquake,0.29,0.50999999,0.2,16.0,automatic,nc,nc
