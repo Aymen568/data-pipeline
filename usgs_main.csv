@@ -4249,3 +4249,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-09T08:18:42.986Z,31.663,-104.195,4.472,1.6,ml,26.0,59.0,0.1,0.3,tx,tx2024wamx,2024-11-09T08:44:46.661Z,"54 km NW of Toyah, Texas",earthquake,0.0,0.99557155370712,0.2,19.0,automatic,tx,tx
 2024-11-09T09:33:53.570Z,38.840831756592,-122.84133148193,1.9400000572205,1.05,md,17.0,87.0,0.005084,0.01,nc,nc75084376,2024-11-09T09:35:30.418Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.439999998,0.17,20.0,automatic,nc,nc
 2024-11-09T09:26:29.989Z,37.3442,-117.5827,2.0,0.8,ml,9.0,252.07,0.122,0.2575,nn,nn00887358,2024-11-09T09:29:11.111Z,"45 km S of Silver Peak, Nevada",earthquake,,26.4,0.98,6.0,automatic,nn,nn
+2024-11-09T09:40:02.670Z,33.6965,-116.725,16.78,1.07,ml,67.0,20.0,0.01719,0.16,ci,ci40790543,2024-11-09T09:50:42.500Z,"5 km S of Idyllwild, CA",earthquake,0.13,0.24,0.209,27.0,automatic,ci,ci
+2024-11-09T09:35:54.850Z,33.5491667,-117.225,5.99,0.65,ml,31.0,65.0,0.05638,0.19,ci,ci40790535,2024-11-09T09:41:57.547Z,"1 km WSW of Murrieta, CA",earthquake,0.2,0.6,0.152,13.0,automatic,ci,ci
