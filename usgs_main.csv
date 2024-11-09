@@ -4317,3 +4317,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-09T17:29:41.420Z,34.4415,-119.2528333,9.0,0.79,ml,12.0,93.0,0.05843,0.21,ci,ci40790735,2024-11-09T17:35:56.852Z,"1 km SW of Ojai, CA",earthquake,0.62,0.69,0.25,10.0,automatic,ci,ci
 2024-11-09T17:28:06.953Z,60.8866,-152.4563,250.0,0.2,ml,,,,0.86,ak,ak024efl1cxj,2024-11-09T17:31:20.171Z,"67 km WNW of Nikiski, Alaska",earthquake,,5.7,,,automatic,ak,ak
 2024-11-09T17:26:41.150Z,38.840667724609,-122.82499694824,1.4400000572205,0.72,md,12.0,96.0,0.008451,0.02,nc,nc75084501,2024-11-09T17:28:20.676Z,"9 km WNW of Cobb, CA",earthquake,0.32,0.449999988,0.39,11.0,automatic,nc,nc
+2024-11-09T17:56:52.300Z,31.498,-103.972,4.8569,1.7,ml,14.0,82.0,0.0,0.5,tx,tx2024wbga,2024-11-09T18:11:33.111Z,"26 km NW of Toyah, Texas",earthquake,0.0,1.6467777490616,0.2,12.0,automatic,tx,tx
+2024-11-09T17:55:51.662Z,62.7844,-149.8655,66.4,1.7,ml,,,,0.42,ak,ak024efl78pq,2024-11-09T17:57:55.309Z,"39 km NNE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-11-09T17:55:47.015Z,31.672,-104.475,7.4948,1.5,ml,7.0,78.0,0.0,0.3,tx,tx2024wbfz,2024-11-09T18:02:13.220Z,"56 km S of Whites City, New Mexico",earthquake,0.0,3.4638922214508,0.1,7.0,automatic,tx,tx
+2024-11-09T17:54:38.480Z,38.793998718262,-122.7799987793,3.5699999332428,0.43,md,10.0,99.0,0.006242,0.03,nc,nc75084506,2024-11-09T17:56:16.003Z,"3 km NW of The Geysers, CA",earthquake,0.46,1.23000002,0.2,11.0,automatic,nc,nc
