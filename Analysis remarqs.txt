@@ -2694,4 +2694,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.09 and occurred in/near 13 km E of Cloverdale, CA on 11/09/2024 at 04:23 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./nSince 07:04 AM on 10/22/2024, there have been 4311 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.09 and occurred in/near 13 km E of Cloverdale, CA on 11/09/2024 at 04:23 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./nSince 07:04 AM on 10/22/2024, there have been 4311 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.09 and occurred in/near 13 km E of Cloverdale, CA on 11/09/2024 at 04:23 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./n
