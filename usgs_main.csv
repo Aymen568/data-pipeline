@@ -4258,3 +4258,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-09T10:13:09.251Z,39.3891,-120.4748,0.0,1.4,ml,9.0,238.57,0.125,0.1304,nn,nn00887363,2024-11-09T10:15:21.636Z,"8 km NNW of Kingvale, California",earthquake,,11.4,0.36,4.0,automatic,nn,nn
 2024-11-09T10:03:40.677Z,7.4811,-82.4229,10.0,5.6,mww,71.0,144.0,1.948,0.76,us,us7000nqv1,2024-11-09T10:23:23.286Z,"78 km SE of Burica, Panama",earthquake,7.79,1.882,0.044,49.0,reviewed,us,us
 2024-11-09T10:02:01.399Z,31.661,-104.195,5.1147,1.7,ml,18.0,66.0,0.1,0.2,tx,tx2024waqi,2024-11-09T10:11:51.337Z,"54 km NW of Toyah, Texas",earthquake,0.0,2.5656838417053,0.3,14.0,automatic,tx,tx
+2024-11-09T10:24:20.728Z,32.6584,-104.3953,9.036,3.2,ml,37.0,100.0,0.497,0.38,us,us7000nqv6,2024-11-09T10:38:58.040Z,"12 km S of Atoka, New Mexico",earthquake,2.9,8.313,0.091,16.0,reviewed,us,us
+2024-11-09T10:15:45.582Z,19.4697,-65.3948,10.0,5.0,mb,73.0,53.0,1.186,0.7,us,us7000nqv3,2024-11-09T10:35:49.284Z,"124 km NNE of Vieques, Puerto Rico",earthquake,4.63,1.462,0.033,295.0,reviewed,us,us
