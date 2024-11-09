@@ -4310,3 +4310,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-09T04:01:58.872Z,39.5589,-120.3114,9.7,0.7,ml,11.0,105.42,0.051,0.1241,nn,nn00887373,2024-11-09T16:17:51.775Z,"5 km SE of Sierraville, California",earthquake,,1.6,0.41,6.0,reviewed,nn,nn
 2024-11-09T16:12:23.409Z,31.673,-104.344,5.9958,1.7,ml,17.0,68.0,0.1,0.3,tx,tx2024wbco,2024-11-09T16:26:30.150Z,"55 km S of Whites City, New Mexico",earthquake,0.0,3.6448578834534,0.2,13.0,automatic,tx,tx
 2024-11-09T11:25:13.038Z,39.5595,-120.3103,9.3,0.7,ml,11.0,115.87,0.052,0.1443,nn,nn00887375,2024-11-09T16:27:06.877Z,"5 km SE of Sierraville, California",earthquake,,1.5,0.29,6.0,reviewed,nn,nn
+2024-11-09T17:03:44.710Z,34.161,-116.82,9.81,0.76,ml,23.0,97.0,0.1173,0.15,ci,ci40790719,2024-11-09T17:09:59.945Z,"11 km SSE of Big Bear City, CA",earthquake,0.21,0.44,0.125,13.0,automatic,ci,ci
+2024-11-09T16:59:50.470Z,35.3626667,-118.1183333,2.51,1.17,ml,36.0,62.0,0.1055,0.14,ci,ci40790711,2024-11-09T17:06:24.317Z,"29 km NNW of California City, CA",earthquake,0.14,0.35,0.283,25.0,automatic,ci,ci
+2024-11-09T16:57:46.020Z,38.805500030518,-122.82550048828,3.25,0.75,md,7.0,133.0,0.004423,0.02,nc,nc75084491,2024-11-09T16:59:20.678Z,"7 km NW of The Geysers, CA",earthquake,0.69,1.45000005,0.12,7.0,automatic,nc,nc
+2024-11-09T16:55:09.810Z,33.6593333,-116.9398333,13.67,0.66,ml,9.0,164.0,0.03073,0.12,ci,ci40790703,2024-11-09T17:01:35.084Z,"10 km SSE of Hemet, CA",earthquake,1.02,0.6,0.109,15.0,automatic,ci,ci
