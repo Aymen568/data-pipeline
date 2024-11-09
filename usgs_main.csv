@@ -4333,3 +4333,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-09T19:57:45.936Z,62.7723,-150.4595,74.9,2.0,ml,,,,0.41,ak,ak024efmeiwx,2024-11-09T19:59:30.677Z,"34 km NNE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-09T19:46:56.590Z,33.3523333,-116.242,9.78,0.79,ml,32.0,69.0,0.05746,0.19,ci,ci40790815,2024-11-09T19:53:02.068Z,"16 km NE of Borrego Springs, CA",earthquake,0.28,0.51,0.161,18.0,automatic,ci,ci
 2024-11-09T19:44:41.191Z,63.3793,-153.6818,91.9,1.7,ml,,,,1.04,ak,ak024efmbq5l,2024-11-09T19:56:55.605Z,"53 km NE of Nikolai, Alaska",earthquake,,2.8,,,automatic,ak,ak
+2024-11-09T20:17:51.440Z,33.159668,-116.4358368,8.95,1.44,ml,59.0,35.0,0.1094,0.2,ci,ci40790839,2024-11-09T20:20:01.713Z,"12 km SSW of Borrego Springs, CA",earthquake,0.22,0.95,0.281,9.0,automatic,ci,ci
