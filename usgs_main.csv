@@ -4308,3 +4308,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-09T09:06:34.313Z,36.8436,-115.9591,7.7,-0.3,ml,13.0,200.57,0.065,0.0724,nn,nn00887371,2024-11-09T16:05:25.457Z,"39 km NW of Indian Springs, Nevada",earthquake,,1.9,0.24,4.0,reviewed,nn,nn
 2024-11-09T08:56:33.116Z,36.8542,-115.9831,8.6,-0.3,ml,8.0,212.28,0.061,0.0397,nn,nn00887370,2024-11-09T15:59:14.368Z,"42 km NW of Indian Springs, Nevada",earthquake,,2.2,0.04,3.0,reviewed,nn,nn
 2024-11-09T04:01:58.872Z,39.5589,-120.3114,9.7,0.7,ml,11.0,105.42,0.051,0.1241,nn,nn00887373,2024-11-09T16:17:51.775Z,"5 km SE of Sierraville, California",earthquake,,1.6,0.41,6.0,reviewed,nn,nn
+2024-11-09T16:12:23.409Z,31.673,-104.344,5.9958,1.7,ml,17.0,68.0,0.1,0.3,tx,tx2024wbco,2024-11-09T16:26:30.150Z,"55 km S of Whites City, New Mexico",earthquake,0.0,3.6448578834534,0.2,13.0,automatic,tx,tx
+2024-11-09T11:25:13.038Z,39.5595,-120.3103,9.3,0.7,ml,11.0,115.87,0.052,0.1443,nn,nn00887375,2024-11-09T16:27:06.877Z,"5 km SE of Sierraville, California",earthquake,,1.5,0.29,6.0,reviewed,nn,nn
