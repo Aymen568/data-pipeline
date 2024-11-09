@@ -4264,3 +4264,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-09T11:17:54.410Z,34.0099983,-116.3215027,7.24,2.51,ml,111.0,24.0,0.08203,0.16,ci,ci40790567,2024-11-09T11:20:30.104Z,"14 km S of Joshua Tree, CA",earthquake,0.14,0.58,0.334,22.0,automatic,ci,ci
 2024-11-09T11:03:52.650Z,36.0976667,-117.9865,4.33,0.62,ml,21.0,48.0,0.1084,0.14,ci,ci40790559,2024-11-09T11:12:06.733Z,"7 km NNW of Coso Junction, CA",earthquake,0.21,0.62,0.114,5.0,automatic,ci,ci
 2024-11-09T10:15:46.730Z,19.6238,-65.3376,74.0,4.68,md,29.0,223.0,1.3247,0.36,pr,pr2024314000,2024-11-09T11:17:28.427Z,"142 km NNE of Vieques, Puerto Rico",earthquake,3.01,8.109,0.08,26.0,reviewed,pr,pr
+2024-11-09T11:26:14.590Z,34.2728333,-116.949,5.68,0.78,ml,39.0,107.0,0.02565,0.15,ci,ci40790575,2024-11-09T11:32:04.208Z,"5 km NW of Big Bear Lake, CA",earthquake,0.22,0.3,0.308,14.0,automatic,ci,ci
+2024-11-09T11:24:41.308Z,61.3361,-151.049,65.2,1.4,ml,,,,0.17,ak,ak024efhfz36,2024-11-09T11:26:09.716Z,"21 km N of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-11-09T09:43:23.160Z,-24.177,-67.6982,162.569,4.0,mb,26.0,43.0,1.297,0.66,us,us7000nquz,2024-11-09T11:28:21.040Z,"140 km W of San Antonio de los Cobres, Argentina",earthquake,8.81,7.974,0.157,11.0,reviewed,us,us
