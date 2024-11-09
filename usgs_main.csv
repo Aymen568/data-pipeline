@@ -4354,3 +4354,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-09T20:27:55.882Z,-23.6803,-179.847,526.186,4.4,mb,31.0,102.0,4.969,0.66,us,us7000nqx4,2024-11-09T22:11:37.040Z,south of the Fiji Islands,earthquake,14.48,9.912,0.115,25.0,reviewed,us,us
 2024-11-09T22:26:33.252Z,59.3584,-152.5899,80.7,2.0,ml,,,,0.24,ak,ak024efo05jx,2024-11-09T22:28:34.138Z,"38 km W of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-11-09T23:00:02.970Z,38.820667266846,-122.81050109863,2.7400000095367,1.04,md,19.0,43.0,0.002744,0.02,nc,nc75084636,2024-11-09T23:01:41.053Z,"7 km NNW of The Geysers, CA",earthquake,0.23,0.579999983,0.26,20.0,automatic,nc,nc
+2024-11-09T23:24:49.710Z,33.9816667,-116.8636667,20.48,0.65,ml,13.0,130.0,0.07072,0.09,ci,ci40790967,2024-11-09T23:36:28.557Z,"6 km N of Banning, CA",earthquake,0.88,1.49,0.299,8.0,automatic,ci,ci
