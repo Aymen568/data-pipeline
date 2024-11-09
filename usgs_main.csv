@@ -4253,3 +4253,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-09T09:35:54.850Z,33.5491667,-117.225,5.99,0.65,ml,31.0,65.0,0.05638,0.19,ci,ci40790535,2024-11-09T09:41:57.547Z,"1 km WSW of Murrieta, CA",earthquake,0.2,0.6,0.152,13.0,automatic,ci,ci
 2024-11-09T10:04:16.720Z,38.827331542969,-122.80316925049,1.7400000095367,0.27,md,7.0,107.0,0.006674,0.01,nc,nc75084396,2024-11-09T10:05:55.738Z,"7 km NNW of The Geysers, CA",earthquake,0.86,1.12,0.16,8.0,automatic,nc,nc
 2024-11-09T10:00:13.740Z,33.9781667,-117.2248333,12.23,0.6,ml,42.0,54.0,0.05305,0.2,ci,ci40790551,2024-11-09T10:06:25.696Z,"6 km N of Moreno Valley, CA",earthquake,0.21,0.58,0.201,14.0,automatic,ci,ci
+2024-11-09T10:26:41.330Z,38.773998260498,-122.71166992188,1.0299999713898,1.05,md,8.0,99.0,0.0113,0.02,nc,nc75084406,2024-11-09T10:28:20.071Z,"2 km W of Anderson Springs, CA",earthquake,0.41,0.709999979,0.09,8.0,automatic,nc,nc
+2024-11-09T10:15:48.000Z,19.567,-65.421,10.0,4.6,Ml,20.0,,,,pt,pt24314001,2024-11-09T10:23:31.867Z,"133 km NNE of Vieques, Puerto Rico",earthquake,,,,24.0,reviewed,pt,pt
+2024-11-09T10:13:09.251Z,39.3891,-120.4748,0.0,1.4,ml,9.0,238.57,0.125,0.1304,nn,nn00887363,2024-11-09T10:15:21.636Z,"8 km NNW of Kingvale, California",earthquake,,11.4,0.36,4.0,automatic,nn,nn
+2024-11-09T10:03:40.677Z,7.4811,-82.4229,10.0,5.6,mww,71.0,144.0,1.948,0.76,us,us7000nqv1,2024-11-09T10:23:23.286Z,"78 km SE of Burica, Panama",earthquake,7.79,1.882,0.044,49.0,reviewed,us,us
+2024-11-09T10:02:01.399Z,31.661,-104.195,5.1147,1.7,ml,18.0,66.0,0.1,0.2,tx,tx2024waqi,2024-11-09T10:11:51.337Z,"54 km NW of Toyah, Texas",earthquake,0.0,2.5656838417053,0.3,14.0,automatic,tx,tx
