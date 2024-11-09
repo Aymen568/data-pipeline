@@ -4330,3 +4330,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-09T19:35:39.380Z,34.0704994,-118.7926636,9.59,2.47,ml,86.0,107.0,0.02924,0.27,ci,ci40790799,2024-11-09T19:48:23.340Z,"8 km NNE of Malibu, CA",earthquake,0.29,0.52,0.264,26.0,automatic,ci,ci
 2024-11-09T19:30:18.910Z,7.4844,-82.3225,10.0,5.8,mww,80.0,135.0,1.988,1.02,us,us7000nqwx,2024-11-09T19:47:14.040Z,"82 km S of Boca Chica, Panama",earthquake,6.48,1.854,0.043,52.0,reviewed,us,us
 2024-11-09T18:48:57.404Z,56.3628,-34.0215,10.0,4.7,mb,127.0,67.0,8.798,0.67,us,us7000nqwr,2024-11-09T19:43:48.040Z,Reykjanes Ridge,earthquake,8.9,1.839,0.04,193.0,reviewed,us,us
+2024-11-09T19:57:45.936Z,62.7723,-150.4595,74.9,2.0,ml,,,,0.41,ak,ak024efmeiwx,2024-11-09T19:59:30.677Z,"34 km NNE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-11-09T19:46:56.590Z,33.3523333,-116.242,9.78,0.79,ml,32.0,69.0,0.05746,0.19,ci,ci40790815,2024-11-09T19:53:02.068Z,"16 km NE of Borrego Springs, CA",earthquake,0.28,0.51,0.161,18.0,automatic,ci,ci
+2024-11-09T19:44:41.191Z,63.3793,-153.6818,91.9,1.7,ml,,,,1.04,ak,ak024efmbq5l,2024-11-09T19:56:55.605Z,"53 km NE of Nikolai, Alaska",earthquake,,2.8,,,automatic,ak,ak
