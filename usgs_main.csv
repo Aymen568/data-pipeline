@@ -4300,3 +4300,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-09T15:42:19.601Z,60.2568,-151.9213,76.6,1.2,ml,,,,0.3,ak,ak024efjxire,2024-11-09T15:51:13.897Z,"26 km NNW of Ninilchik, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-11-09T15:17:53.819Z,25.6202,142.3968,58.273,4.9,mb,102.0,101.0,1.482,0.71,us,us7000nqwb,2024-11-09T15:54:28.040Z,"Volcano Islands, Japan region",earthquake,10.06,6.801,0.054,109.0,reviewed,us,us
 2024-11-09T03:41:35.115Z,36.7283,-116.2318,6.3,-0.4,ml,12.0,143.33,0.016,0.0488,nn,nn00887368,2024-11-09T15:53:05.582Z,"51 km ESE of Beatty, Nevada",earthquake,,1.2,0.16,4.0,reviewed,nn,nn
+2024-11-09T16:23:55.790Z,38.842334747315,-122.87950134277,2.460000038147,1.09,md,19.0,96.0,0.005136,0.02,nc,nc75084481,2024-11-09T16:25:30.158Z,"13 km E of Cloverdale, CA",earthquake,0.29,0.460000008,0.19,22.0,automatic,nc,nc
+2024-11-09T16:14:05.610Z,34.2186667,-117.577,6.09,1.39,ml,54.0,49.0,0.06501,0.18,ci,ci40790679,2024-11-09T16:25:07.450Z,"8 km WSW of Lytle Creek, CA",earthquake,0.17,0.36,0.188,27.0,automatic,ci,ci
+2024-11-09T16:07:28.305Z,62.131,-149.7916,57.5,1.4,ml,,,,0.68,ak,ak024efkbgxq,2024-11-09T16:09:53.516Z,"4 km SE of Susitna North, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-11-09T15:52:15.204Z,31.081,131.3899,44.434,4.5,mb,80.0,104.0,0.909,1.07,us,us7000nqwe,2024-11-09T16:21:14.040Z,"47 km SSE of Kushima, Japan",earthquake,5.55,5.404,0.073,61.0,reviewed,us,us
+2024-11-09T10:18:14.144Z,39.3809,-120.4472,4.8,0.1,ml,7.0,273.32,0.08,0.1081,nn,nn00887374,2024-11-09T16:24:00.367Z,"6 km NNW of Kingvale, California",earthquake,,3.4,0.45,4.0,reviewed,nn,nn
+2024-11-09T09:06:34.313Z,36.8436,-115.9591,7.7,-0.3,ml,13.0,200.57,0.065,0.0724,nn,nn00887371,2024-11-09T16:05:25.457Z,"39 km NW of Indian Springs, Nevada",earthquake,,1.9,0.24,4.0,reviewed,nn,nn
+2024-11-09T08:56:33.116Z,36.8542,-115.9831,8.6,-0.3,ml,8.0,212.28,0.061,0.0397,nn,nn00887370,2024-11-09T15:59:14.368Z,"42 km NW of Indian Springs, Nevada",earthquake,,2.2,0.04,3.0,reviewed,nn,nn
+2024-11-09T04:01:58.872Z,39.5589,-120.3114,9.7,0.7,ml,11.0,105.42,0.051,0.1241,nn,nn00887373,2024-11-09T16:17:51.775Z,"5 km SE of Sierraville, California",earthquake,,1.6,0.41,6.0,reviewed,nn,nn
