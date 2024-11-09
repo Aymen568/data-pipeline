@@ -4203,3 +4203,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-08T18:49:44.530Z,61.273666666667,-152.242,3.54,-0.65,ml,9.0,125.0,0.04283,0.09,av,av93357543,2024-11-09T05:32:34.760Z,"63 km WNW of Tyonek, Alaska",earthquake,0.33,0.36,0.25017461160582,9.0,reviewed,av,av
 2024-11-08T18:13:08.120Z,61.317833333333,-152.2625,1.72,-0.53,ml,9.0,124.0,0.07384,0.09,av,av93357498,2024-11-09T05:28:58.680Z,"66 km WNW of Beluga, Alaska",earthquake,0.29,1.07,0.17144277790564,10.0,reviewed,av,av
 2024-11-08T18:58:33.770Z,58.393833333333,-154.746,6.04,-0.05,ml,11.0,159.0,0.03109,0.22,av,av93357548,2024-11-09T05:35:50.770Z,"93 km N of Karluk, Alaska",earthquake,0.86,0.73,0.29745505051264,11.0,reviewed,av,av
+2024-11-09T05:43:42.132Z,64.4698,-146.9041,7.3,1.0,ml,,,,0.6,ak,ak024efdzg4l,2024-11-09T05:45:25.782Z,"6 km S of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
