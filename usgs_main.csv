@@ -4243,3 +4243,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-09T08:22:20.177Z,-19.786,-175.3375,219.192,4.7,mb,27.0,101.0,5.154,0.99,us,us7000nquv,2024-11-09T08:38:15.040Z,"103 km W of Pangai, Tonga",earthquake,14.66,13.688,0.117,22.0,reviewed,us,us
 2024-11-09T08:21:36.262Z,31.499,-103.972,4.7718,1.6,ml,15.0,82.0,0.0,0.4,tx,tx2024wanb,2024-11-09T08:33:06.547Z,"26 km NW of Toyah, Texas",earthquake,0.0,1.3686701059341,0.2,13.0,automatic,tx,tx
 2024-11-08T23:34:28.290Z,54.614333333333,-163.49366666667,5.17,1.82,ml,8.0,257.0,0.148,0.17,av,av93357768,2024-11-09T08:40:40.810Z,"27 km S of False Pass, Alaska",earthquake,0.93,0.81,0.32729230657694,9.0,reviewed,av,av
+2024-11-09T08:50:47.090Z,35.786499,-117.6213303,6.75,1.24,ml,22.0,92.0,0.03502,0.11,ci,ci40790527,2024-11-09T08:52:49.560Z,"19 km NNE of Ridgecrest, CA",earthquake,0.28,0.69,0.213,8.0,automatic,ci,ci
+2024-11-09T08:45:03.220Z,63.5967,-149.9729,25.5,1.9,ml,,,,1.07,ak,ak024effs3de,2024-11-09T08:46:58.493Z,"54 km WSW of Denali Park, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-11-09T08:37:48.870Z,18.516,-66.7295,14.78,2.6,md,9.0,273.0,0.17,0.15,pr,pr71465203,2024-11-09T08:46:40.490Z,"5 km NNW of Arecibo, Puerto Rico",earthquake,0.76,0.62,0.055033404084026,3.0,reviewed,pr,pr
+2024-11-09T08:18:42.986Z,31.663,-104.195,4.472,1.6,ml,26.0,59.0,0.1,0.3,tx,tx2024wamx,2024-11-09T08:44:46.661Z,"54 km NW of Toyah, Texas",earthquake,0.0,0.99557155370712,0.2,19.0,automatic,tx,tx
