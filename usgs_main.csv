@@ -4339,3 +4339,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-09T20:49:09.940Z,33.2246667,-116.0868333,10.36,0.8,ml,36.0,55.0,0.1011,0.22,ci,ci40790855,2024-11-09T20:55:10.849Z,"10 km NNE of Ocotillo Wells, CA",earthquake,0.23,0.63,0.167,14.0,automatic,ci,ci
 2024-11-09T20:37:51.040Z,45.3885,98.7827,10.0,5.0,mb,65.0,46.0,5.786,0.57,us,us7000nqx5,2024-11-09T20:55:02.040Z,"175 km WSW of Bayanhongor, Mongolia",earthquake,9.57,1.873,0.046,152.0,reviewed,us,us
 2024-11-09T20:36:02.669Z,31.966,-104.044,4.0882,1.5,ml,6.0,205.0,0.0,0.3,tx,tx2024wblg,2024-11-09T20:47:58.474Z,"28 km S of Malaga, New Mexico",earthquake,0.0,2.4215478897095,0.2,6.0,automatic,tx,tx
+2024-11-09T20:59:00.800Z,36.64066696167,-121.28316497803,5.6799998283386,1.96,md,28.0,64.0,0.03907,0.21,nc,nc75084551,2024-11-09T21:17:16.345Z,"17 km S of Tres Pinos, CA",earthquake,0.39,1.17999995,0.16,27.0,automatic,nc,nc
