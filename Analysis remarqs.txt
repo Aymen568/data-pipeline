@@ -2652,4 +2652,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.05 and occurred in/near 2 km W of Anderson Springs, CA on 11/09/2024 at 10:26 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./nSince 07:04 AM on 10/22/2024, there have been 4262 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.5 and occurred in/near 8 km SE of Point Possession, Alaska on 11/09/2024 at 10:41 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./nSince 07:04 AM on 10/22/2024, there have been 4262 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.5 and occurred in/near 8 km SE of Point Possession, Alaska on 11/09/2024 at 10:41 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./n
