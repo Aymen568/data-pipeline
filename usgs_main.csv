@@ -4518,3 +4518,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-10T22:10:04.756Z,-29.779,-69.4465,109.285,4.9,mb,70.0,40.0,0.596,0.99,us,us7000nr2d,2024-11-10T22:26:00.040Z,"84 km NW of San José de Jáchal, Argentina",earthquake,5.7,6.2,0.053,115.0,reviewed,us,us
 2024-11-10T21:29:00.257Z,-4.9391,132.0305,10.0,4.9,mb,62.0,63.0,2.018,0.63,us,us7000nr2a,2024-11-10T22:15:47.040Z,"110 km NW of Tual, Indonesia",earthquake,6.79,1.813,0.071,62.0,reviewed,us,us
 2024-11-10T04:21:56.860Z,46.842833333333,-121.7435,-0.74,0.58,ml,22.0,57.0,0.0102,0.07,uw,uw62051242,2024-11-10T22:13:19.130Z,"23 km ENE of Ashford, Washington",earthquake,0.18,0.51,0.27770499567538,8.0,reviewed,uw,uw
+2024-11-10T22:35:57.518Z,63.2679,-150.3363,59.6,2.0,ml,,,,1.21,ak,ak024ehblhd3,2024-11-10T22:38:21.833Z,"70 km WSW of Cantwell, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-11-10T22:35:42.130Z,38.803165435791,-122.73516845703,0.46999999880791,1.01,md,15.0,113.0,0.01934,0.06,nc,nc75085031,2024-11-10T22:37:19.497Z,"2 km SW of Cobb, CA",earthquake,0.28,0.670000017,0.24,15.0,automatic,nc,nc
+2024-11-10T22:29:05.584Z,61.5078,-149.9746,37.2,3.8,ml,,,,0.26,ak,ak024ehbk326,2024-11-10T22:38:34.142Z,"1 km SW of Big Lake, Alaska",earthquake,,1.7,,,automatic,ak,ak
