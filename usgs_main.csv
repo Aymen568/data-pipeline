@@ -4461,3 +4461,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-10T14:57:45.963Z,25.7293,143.1985,43.975,4.7,mb,27.0,196.0,1.637,0.86,us,us7000nr0g,2024-11-10T15:17:19.040Z,"Volcano Islands, Japan region",earthquake,14.33,6.858,0.101,30.0,reviewed,us,us
 2024-11-10T07:30:09.810Z,43.540833333333,-110.537,4.24,1.53,ml,11.0,232.0,0.08646,0.11,mb,mb90065598,2024-11-10T15:13:12.220Z,"11 km SE of Kelly, Wyoming",earthquake,0.95,0.76,0.21221356753445,16.0,reviewed,mb,mb
 2024-11-10T06:01:34.490Z,43.540833333333,-110.53533333333,4.04,1.53,ml,10.0,233.0,0.08714,0.13,mb,mb90065593,2024-11-10T15:03:09.430Z,"11 km SE of Kelly, Wyoming",earthquake,0.78,1.17,0.19052017774037,16.0,reviewed,mb,mb
+2024-11-10T15:37:32.950Z,61.2698,-150.6474,49.5,1.9,ml,,,,0.78,ak,ak024eh7ftnz,2024-11-10T15:39:38.986Z,"27 km ENE of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
