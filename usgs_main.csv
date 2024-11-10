@@ -4504,3 +4504,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-10T20:13:35.980Z,64.9528,-147.2896,0.0,1.7,ml,,,,0.66,ak,ak024eha9uqm,2024-11-10T20:15:25.448Z,"14 km NW of Two Rivers, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-10T19:14:19.900Z,18.3368,-68.8358,75.0,4.22,md,27.0,177.0,0.4877,0.55,pr,pr2024315003,2024-11-10T20:22:40.309Z,"17 km SE of La Romana, Dominican Republic",earthquake,3.88,2.21,0.13,23.0,reviewed,pr,pr
 2024-11-10T18:36:43.250Z,19.743,-77.0907,16.081,4.2,mb,32.0,83.0,0.677,0.9,us,us7000nr1f,2024-11-10T20:01:40.040Z,"49 km SSW of Bartolomé Masó, Cuba",earthquake,4.07,4.48,0.087,37.0,reviewed,us,us
+2024-11-10T20:35:21.490Z,33.8023333,-116.9595,12.55,0.87,ml,33.0,40.0,0.1003,0.17,ci,ci40791415,2024-11-10T20:41:24.220Z,"2 km N of San Jacinto, CA",earthquake,0.22,0.58,0.191,6.0,automatic,ci,ci
+2024-11-10T20:13:16.630Z,19.123666666667,-64.632833333333,19.39,3.27,md,6.0,303.0,0.6999,0.3,pr,pr71465408,2024-11-10T20:38:43.440Z,"89 km N of Cruz Bay, U.S. Virgin Islands",earthquake,8.22,16.02,0.067526132453588,4.0,reviewed,pr,pr
