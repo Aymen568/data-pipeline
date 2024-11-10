@@ -4512,3 +4512,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-10T21:00:02.070Z,35.4781667,-118.44,2.84,1.38,ml,34.0,41.0,0.1863,0.18,ci,ci40791423,2024-11-10T21:06:36.711Z,"13 km SSE of Bodfish, CA",earthquake,0.22,0.74,0.228,26.0,automatic,ci,ci
 2024-11-10T20:55:16.326Z,48.9638,153.4229,151.442,4.5,mb,73.0,137.0,4.949,0.59,us,us7000nr26,2024-11-10T21:12:55.040Z,"272 km SW of Severo-Kuril’sk, Russia",earthquake,10.64,7.538,0.057,89.0,reviewed,us,us
 2024-11-10T01:46:30.780Z,33.9838333,-116.6036667,14.18,1.01,ml,38.0,44.0,0.05231,0.13,ci,ci40791055,2024-11-10T21:12:21.890Z,"7 km SSW of Morongo Valley, CA",earthquake,0.14,0.38,0.162,33.0,reviewed,ci,ci
+2024-11-10T21:35:04.090Z,40.30583190918,-123.65966796875,23.069999694824,1.87,md,13.0,97.0,0.0987,0.1,nc,nc75085021,2024-11-10T21:36:39.766Z,"25 km NE of Redway, CA",earthquake,0.61,0.829999983,0.15,9.0,automatic,nc,nc
