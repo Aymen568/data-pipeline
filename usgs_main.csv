@@ -4495,3 +4495,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-10T15:49:09.280Z,19.5765,-65.388,82.0,3.75,md,11.0,262.0,1.2734,0.35,pr,pr2024315002,2024-11-10T18:05:30.361Z,"135 km NNE of Vieques, Puerto Rico",earthquake,4.67,10.45,0.05,4.0,reviewed,pr,pr
 2024-11-10T18:47:03.340Z,34.538,-118.7783333,9.3,0.99,ml,26.0,44.0,0.08872,0.24,ci,ci40791375,2024-11-10T18:53:28.614Z,"14 km N of Piru, CA",earthquake,0.32,0.77,0.159,25.0,automatic,ci,ci
 2024-11-10T18:45:37.901Z,19.7783,-77.1332,15.315,4.6,mb,49.0,83.0,0.704,0.75,us,us7000nr1g,2024-11-10T19:06:42.909Z,"47 km SSW of Bartolomé Masó, Cuba",earthquake,4.49,4.681,0.066,69.0,reviewed,us,us
+2024-11-10T19:16:11.690Z,35.7155,-117.5486667,2.11,0.7,ml,23.0,66.0,0.1076,0.14,ci,ci40791391,2024-11-10T19:22:00.999Z,"14 km WSW of Searles Valley, CA",earthquake,0.18,0.32,0.12,6.0,automatic,ci,ci
+2024-11-10T19:15:27.384Z,62.6155,-149.7227,17.9,1.5,ml,,,,0.33,ak,ak024eh9otwi,2024-11-10T19:17:24.912Z,"26 km NE of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
