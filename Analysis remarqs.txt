@@ -2784,4 +2784,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 2.25 and occurred in/near 1 km SSW of Pāhala, Hawaii on 11/10/2024 at 05:42 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./nSince 07:04 AM on 10/22/2024, there have been 4399 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.88999999 and occurred in/near 7 km S of Pāhala, Hawaii on 11/10/2024 at 06:25 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./nSince 07:04 AM on 10/22/2024, there have been 4402 recorded earthquakes.
+The most recent earthquake had a magnitude of 2.1 and occurred in/near 64 km WNW of Petersville, Alaska on 11/10/2024 at 06:40 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./n
