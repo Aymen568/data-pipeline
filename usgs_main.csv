@@ -4416,3 +4416,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-10T08:33:07.346Z,64.775,-150.8397,18.3,1.5,ml,,,,0.52,ak,ak024eh38vla,2024-11-10T08:34:36.365Z,"27 km SSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-10T08:30:21.347Z,60.8349,-149.7837,19.8,1.8,ml,,,,0.72,ak,ak024eh389lf,2024-11-10T08:33:17.268Z,"12 km SW of Hope, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2024-11-10T08:49:51.670Z,33.4508324,-116.4088364,9.02,1.57,ml,73.0,40.0,0.1211,0.21,ci,ci40791183,2024-11-10T08:51:56.532Z,"22 km N of Borrego Springs, CA",earthquake,0.22,0.7,0.226,28.0,automatic,ci,ci
+2024-11-10T09:12:19.110Z,38.825500488281,-122.79250335693,1.25,0.85,md,10.0,94.0,0.013,0.01,nc,nc75084826,2024-11-10T09:13:57.070Z,"6 km WNW of Cobb, CA",earthquake,0.34,0.5,0.23,11.0,automatic,nc,nc
+2024-11-10T08:53:24.630Z,33.4506667,-116.4026667,7.31,0.92,ml,62.0,42.0,0.1175,0.18,ci,ci40791191,2024-11-10T08:59:33.136Z,"22 km N of Borrego Springs, CA",earthquake,0.15,0.78,0.169,27.0,automatic,ci,ci
+2024-11-10T08:52:20.196Z,62.149,-144.931,20.7,1.5,ml,,,,0.67,ak,ak024eh3cz6r,2024-11-10T08:54:06.188Z,"25 km SE of Gakona, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-11-10T08:27:01.372Z,-16.0484,-172.1996,10.0,4.9,mb,35.0,89.0,2.165,1.18,us,us7000nqz1,2024-11-10T09:10:57.040Z,"171 km E of Hihifo, Tonga",earthquake,8.93,1.856,0.114,24.0,reviewed,us,us
