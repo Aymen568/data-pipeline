@@ -4484,3 +4484,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-10T16:38:27.138Z,36.6272,-115.6343,1.5,0.5,ml,18.0,282.76,0.265,0.2363,nn,nn00887411,2024-11-10T16:40:39.981Z,"7 km NNE of Indian Springs, Nevada",earthquake,,22.1,0.37,11.0,automatic,nn,nn
 2024-11-10T16:28:29.547Z,-19.5596,-175.5929,217.958,4.6,mb,32.0,102.0,5.372,1.17,us,us7000nr0q,2024-11-10T16:42:56.040Z,"132 km WNW of Pangai, Tonga",earthquake,12.5,9.026,0.092,35.0,reviewed,us,us
 2024-11-10T16:50:01.000Z,19.8,-77.0,13.0,6.8,Mi,104.0,32.399997408,0.0,1.87,at,at00smqurd,2024-11-10T17:00:07.489Z,"40 km S of Bartolomé Masó, Cuba",earthquake,0.0,0.0,,61.0,reviewed,at,at
+2024-11-10T17:12:06.919Z,31.662,-104.333,3.791,1.6,ml,6.0,186.0,0.1,0.3,tx,tx2024wdaa,2024-11-10T17:20:48.957Z,"57 km S of Whites City, New Mexico",earthquake,0.0,2.114846944809,0.3,6.0,automatic,tx,tx
+2024-11-10T16:49:51.346Z,19.8068,-76.9551,23.486,6.8,mww,50.0,82.0,0.535,0.48,us,us7000nr0v,2024-11-10T17:22:37.822Z,"39 km S of Bartolomé Masó, Cuba",earthquake,4.11,3.387,0.032,94.0,reviewed,us,us
