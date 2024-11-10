@@ -4489,3 +4489,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-10T17:17:25.117Z,38.4167,-110.9817,7.993,3.0,ml,34.0,60.0,0.328,0.39,us,us7000nr0w,2024-11-10T17:27:28.265Z,"23 km WNW of Hanksville, Utah",earthquake,1.13,5.432,0.074,24.0,reviewed,us,us
 2024-11-10T17:23:31.685Z,-24.3444,-69.3494,95.902,4.5,mb,28.0,94.0,0.843,1.17,us,us7000nr0y,2024-11-10T17:43:22.040Z,"131 km SE of Antofagasta, Chile",earthquake,4.67,6.51,0.14,15.0,reviewed,us,us
 2024-11-10T17:17:25.190Z,38.420333333333,-110.97216666667,3.62,2.9,ml,18.0,133.0,0.3366,0.18,uu,uu80086301,2024-11-10T17:40:07.962Z,"23 km WNW of Hanksville, Utah",earthquake,0.5,31.61,0.033234018078145,2.0,reviewed,uu,uu
+2024-11-10T17:51:05.750Z,35.6213341,-117.5878296,8.4,1.48,ml,23.0,81.0,0.06636,0.1,ci,ci40791367,2024-11-10T17:53:10.203Z,"8 km E of Ridgecrest, CA",earthquake,0.31,0.92,0.249,6.0,automatic,ci,ci
