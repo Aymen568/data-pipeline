@@ -4521,3 +4521,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-10T22:35:57.518Z,63.2679,-150.3363,59.6,2.0,ml,,,,1.21,ak,ak024ehblhd3,2024-11-10T22:38:21.833Z,"70 km WSW of Cantwell, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-11-10T22:35:42.130Z,38.803165435791,-122.73516845703,0.46999999880791,1.01,md,15.0,113.0,0.01934,0.06,nc,nc75085031,2024-11-10T22:37:19.497Z,"2 km SW of Cobb, CA",earthquake,0.28,0.670000017,0.24,15.0,automatic,nc,nc
 2024-11-10T22:29:05.584Z,61.5078,-149.9746,37.2,3.8,ml,,,,0.26,ak,ak024ehbk326,2024-11-10T22:38:34.142Z,"1 km SW of Big Lake, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2024-11-10T22:49:47.580Z,35.5600014,-119.8669968,6.25,1.42,ml,12.0,159.0,0.1445,0.29,ci,ci40791463,2024-11-10T22:51:53.726Z,"26 km NNE of Simmler, CA",earthquake,1.31,4.53,0.215,8.0,automatic,ci,ci
+2024-11-10T22:41:22.470Z,19.32483291626,-155.19050598144,3.789999961853,2.01,ml,50.0,94.0,0.05405,0.189999998,hv,hv74527492,2024-11-10T22:44:15.700Z,"13 km SSE of Volcano, Hawaii",earthquake,0.36,1.48000002,0.41,7.0,automatic,hv,hv
+2024-11-10T22:35:12.752Z,-4.9359,132.0684,10.0,5.0,mb,32.0,133.0,2.011,1.15,us,us7000nr2k,2024-11-10T22:46:40.040Z,"107 km NW of Tual, Indonesia",earthquake,3.68,1.874,0.115,24.0,reviewed,us,us
+2024-11-10T22:23:47.221Z,31.597,-104.533,3.9252,2.2,ml,18.0,156.0,0.1,0.2,tx,tx2024wdkf,2024-11-10T22:52:08.611Z,"65 km SSW of Whites City, New Mexico",earthquake,0.0,1.9987506866455,0.1,13.0,automatic,tx,tx
