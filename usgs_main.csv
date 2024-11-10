@@ -4392,3 +4392,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-10T05:42:02.070Z,19.187833786011,-155.48783874512,33.540000915527,2.25,md,33.0,196.0,0.06114,0.140000001,hv,hv74526957,2024-11-10T05:43:41.330Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.7,0.769999981,0.219999999,4.0,automatic,hv,hv
 2024-11-10T05:13:22.823Z,25.6555,142.824,10.0,4.9,mb,60.0,121.0,1.545,1.03,us,us7000nqy6,2024-11-10T05:39:45.040Z,"Volcano Islands, Japan region",earthquake,10.29,1.892,0.06,93.0,reviewed,us,us
 2024-11-10T05:03:46.860Z,19.6273,-65.3975,44.0,3.76,md,14.0,249.0,1.3463,0.37,pr,pr2024315000,2024-11-10T05:39:42.379Z,"140 km NNE of Vieques, Puerto Rico",earthquake,3.0,18.23,0.07,10.0,reviewed,pr,pr
+2024-11-09T11:04:02.567Z,7.6037,-82.485,10.0,4.5,mb,50.0,141.0,1.812,0.58,us,us7000nqvb,2024-11-10T05:48:02.040Z,"63 km SE of Burica, Panama",earthquake,7.69,1.92,0.094,33.0,reviewed,us,us
