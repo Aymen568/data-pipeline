@@ -4476,3 +4476,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-10T08:50:29.815Z,39.4069,-119.7164,6.5,0.6,ml,7.0,222.45,0.041,0.0969,nn,nn00887406,2024-11-10T16:13:48.954Z,"12 km NNW of Virginia City, Nevada",earthquake,,1.6,0.29,3.0,reviewed,nn,nn
 2024-11-10T07:47:07.277Z,39.4066,-119.7021,6.2,0.1,ml,3.0,264.14,0.051,0.1171,nn,nn00887405,2024-11-10T16:10:43.589Z,"11 km NNW of Virginia City, Nevada",earthquake,,4.9,0.07,2.0,reviewed,nn,nn
 2024-11-10T03:45:21.519Z,39.4104,-119.733,6.1,0.7,ml,11.0,169.68,0.028,0.1627,nn,nn00887408,2024-11-10T16:16:55.307Z,"13 km NNW of Virginia City, Nevada",earthquake,,1.1,0.24,4.0,reviewed,nn,nn
+2024-11-10T16:26:05.650Z,19.19083404541,-155.49333190918,29.989999771118,1.70000005,md,32.0,79.0,0.04596,0.170000002,hv,hv74527222,2024-11-10T16:27:50.980Z,"2 km SW of Pāhala, Hawaii",earthquake,0.63,0.839999974,0.219999999,3.0,automatic,hv,hv
+2024-11-10T16:22:47.028Z,36.5347,-115.5416,3.3,1.1,ml,9.0,322.42,0.361,0.0809,nn,nn00887409,2024-11-10T16:24:48.043Z,"12 km ESE of Indian Springs, Nevada",earthquake,,13.3,0.07,2.0,automatic,nn,nn
+2024-11-10T16:19:24.691Z,61.7231,-150.745,42.6,2.1,ml,,,,0.38,ak,ak024eh7xdqt,2024-11-10T16:21:15.227Z,"23 km NNW of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
