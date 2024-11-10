@@ -4506,3 +4506,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-10T18:36:43.250Z,19.743,-77.0907,16.081,4.2,mb,32.0,83.0,0.677,0.9,us,us7000nr1f,2024-11-10T20:01:40.040Z,"49 km SSW of Bartolomé Masó, Cuba",earthquake,4.07,4.48,0.087,37.0,reviewed,us,us
 2024-11-10T20:35:21.490Z,33.8023333,-116.9595,12.55,0.87,ml,33.0,40.0,0.1003,0.17,ci,ci40791415,2024-11-10T20:41:24.220Z,"2 km N of San Jacinto, CA",earthquake,0.22,0.58,0.191,6.0,automatic,ci,ci
 2024-11-10T20:13:16.630Z,19.123666666667,-64.632833333333,19.39,3.27,md,6.0,303.0,0.6999,0.3,pr,pr71465408,2024-11-10T20:38:43.440Z,"89 km N of Cruz Bay, U.S. Virgin Islands",earthquake,8.22,16.02,0.067526132453588,4.0,reviewed,pr,pr
+2024-11-10T21:14:17.486Z,60.7436,-146.6512,18.6,2.1,ml,,,,0.63,ak,ak024ehavgms,2024-11-10T21:16:03.667Z,"13 km S of Tatitlek, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2024-11-10T21:10:43.140Z,35.6463333,-117.43,9.92,0.83,ml,26.0,90.0,0.01942,0.14,ci,ci40791439,2024-11-10T21:16:42.050Z,"14 km S of Searles Valley, CA",earthquake,0.24,0.4,0.101,8.0,automatic,ci,ci
+2024-11-10T21:03:52.840Z,35.4808333,-118.444,2.72,1.29,ml,31.0,71.0,0.1832,0.16,ci,ci40791431,2024-11-10T21:10:00.354Z,"13 km SSE of Bodfish, CA",earthquake,0.21,0.77,0.173,16.0,automatic,ci,ci
+2024-11-10T21:00:02.070Z,35.4781667,-118.44,2.84,1.38,ml,34.0,41.0,0.1863,0.18,ci,ci40791423,2024-11-10T21:06:36.711Z,"13 km SSE of Bodfish, CA",earthquake,0.22,0.74,0.228,26.0,automatic,ci,ci
+2024-11-10T20:55:16.326Z,48.9638,153.4229,151.442,4.5,mb,73.0,137.0,4.949,0.59,us,us7000nr26,2024-11-10T21:12:55.040Z,"272 km SW of Severo-Kuril’sk, Russia",earthquake,10.64,7.538,0.057,89.0,reviewed,us,us
+2024-11-10T01:46:30.780Z,33.9838333,-116.6036667,14.18,1.01,ml,38.0,44.0,0.05231,0.13,ci,ci40791055,2024-11-10T21:12:21.890Z,"7 km SSW of Morongo Valley, CA",earthquake,0.14,0.38,0.162,33.0,reviewed,ci,ci
