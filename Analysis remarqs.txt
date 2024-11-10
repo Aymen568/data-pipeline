@@ -2842,4 +2842,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 2.0 and occurred in/near 69 km WNW of Happy Valley, Alaska on 11/10/2024 at 01:32 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./nSince 07:04 AM on 10/22/2024, there have been 4447 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.44 and occurred in/near 17 km WSW of Toms Place, CA on 11/10/2024 at 01:53 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./nSince 07:04 AM on 10/22/2024, there have been 4452 recorded earthquakes.
+The most recent earthquake had a magnitude of -0.2 and occurred in/near 39 km W of Indian Springs, Nevada on 11/10/2024 at 02:10 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./n
