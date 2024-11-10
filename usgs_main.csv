@@ -4420,3 +4420,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-10T08:53:24.630Z,33.4506667,-116.4026667,7.31,0.92,ml,62.0,42.0,0.1175,0.18,ci,ci40791191,2024-11-10T08:59:33.136Z,"22 km N of Borrego Springs, CA",earthquake,0.15,0.78,0.169,27.0,automatic,ci,ci
 2024-11-10T08:52:20.196Z,62.149,-144.931,20.7,1.5,ml,,,,0.67,ak,ak024eh3cz6r,2024-11-10T08:54:06.188Z,"25 km SE of Gakona, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-10T08:27:01.372Z,-16.0484,-172.1996,10.0,4.9,mb,35.0,89.0,2.165,1.18,us,us7000nqz1,2024-11-10T09:10:57.040Z,"171 km E of Hihifo, Tonga",earthquake,8.93,1.856,0.114,24.0,reviewed,us,us
+2024-11-10T09:32:57.500Z,36.2346667,-118.3205,5.68,1.18,ml,24.0,94.0,0.08264,0.24,ci,ci40791207,2024-11-10T09:39:34.216Z,"29 km W of Olancha, CA",earthquake,0.3,0.91,0.262,15.0,automatic,ci,ci
+2024-11-10T09:32:37.550Z,32.9685,-116.284,6.0,0.57,ml,37.0,53.0,0.1065,0.17,ci,ci40791199,2024-11-10T09:38:48.250Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.18,0.82,0.243,9.0,automatic,ci,ci
+2024-11-10T09:31:19.670Z,37.057998657227,-121.8373336792,3.7799999713898,0.93,md,9.0,75.0,0.05383,0.09,nc,nc75084831,2024-11-10T09:32:56.444Z,"3 km NE of Day Valley, CA",earthquake,0.41,1.12,0.18,8.0,automatic,nc,nc
+2024-11-10T07:44:19.761Z,16.0331,-94.9488,58.843,4.4,mb,59.0,135.0,2.713,1.13,us,us7000nqyk,2024-11-10T09:33:07.040Z,"19 km S of San Mateo del Mar, Mexico",earthquake,8.56,7.731,0.044,150.0,reviewed,us,us
