@@ -2792,4 +2792,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.9 and occurred in/near 29 km ENE of Denali Park, Alaska on 11/10/2024 at 07:11 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./nSince 07:04 AM on 10/22/2024, there have been 4405 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.9 and occurred in/near 29 km ENE of Denali Park, Alaska on 11/10/2024 at 07:11 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./nSince 07:04 AM on 10/22/2024, there have been 4405 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.9 and occurred in/near 29 km ENE of Denali Park, Alaska on 11/10/2024 at 07:11 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./n
