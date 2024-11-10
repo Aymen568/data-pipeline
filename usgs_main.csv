@@ -4483,3 +4483,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-10T16:40:43.350Z,33.9976667,-116.6566667,16.9,1.54,ml,70.0,44.0,0.04139,0.17,ci,ci40791343,2024-11-10T16:47:55.869Z,"9 km SW of Morongo Valley, CA",earthquake,0.13,0.35,0.156,26.0,automatic,ci,ci
 2024-11-10T16:38:27.138Z,36.6272,-115.6343,1.5,0.5,ml,18.0,282.76,0.265,0.2363,nn,nn00887411,2024-11-10T16:40:39.981Z,"7 km NNE of Indian Springs, Nevada",earthquake,,22.1,0.37,11.0,automatic,nn,nn
 2024-11-10T16:28:29.547Z,-19.5596,-175.5929,217.958,4.6,mb,32.0,102.0,5.372,1.17,us,us7000nr0q,2024-11-10T16:42:56.040Z,"132 km WNW of Pangai, Tonga",earthquake,12.5,9.026,0.092,35.0,reviewed,us,us
+2024-11-10T16:50:01.000Z,19.8,-77.0,13.0,6.8,Mi,104.0,32.399997408,0.0,1.87,at,at00smqurd,2024-11-10T17:00:07.489Z,"40 km S of Bartolomé Masó, Cuba",earthquake,0.0,0.0,,61.0,reviewed,at,at
