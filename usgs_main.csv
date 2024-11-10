@@ -4500,3 +4500,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-10T19:14:18.599Z,18.1225,-68.8611,62.417,4.5,mb,57.0,52.0,0.6,0.71,us,us7000nr1k,2024-11-10T19:33:16.725Z,"35 km SSE of La Romana, Dominican Republic",earthquake,5.39,9.745,0.051,111.0,reviewed,us,us
 2024-11-10T19:41:28.790Z,35.222168,-118.3320007,1.92,1.66,ml,34.0,40.0,0.1321,0.17,ci,ci40791399,2024-11-10T19:43:41.902Z,"15 km NE of Tehachapi, CA",earthquake,0.24,0.57,0.228,9.0,automatic,ci,ci
 2024-11-10T19:55:39.480Z,36.479831695557,-121.05300140381,7.2800002098083,1.25,md,8.0,172.0,0.02483,0.05,nc,nc75084981,2024-11-10T19:57:17.621Z,"10 km SE of Pinnacles, CA",earthquake,0.5,0.99000001,0.54,4.0,automatic,nc,nc
+2024-11-10T20:19:04.100Z,38.785331726074,-122.76316833496,2.6099998950958,2.38,md,64.0,40.0,0.01473,0.07,nc,nc75085001,2024-11-10T20:22:21.600Z,"1 km NNW of The Geysers, CA",earthquake,0.14,0.25,0.15,69.0,automatic,nc,nc
+2024-11-10T20:13:35.980Z,64.9528,-147.2896,0.0,1.7,ml,,,,0.66,ak,ak024eha9uqm,2024-11-10T20:15:25.448Z,"14 km NW of Two Rivers, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-11-10T19:14:19.900Z,18.3368,-68.8358,75.0,4.22,md,27.0,177.0,0.4877,0.55,pr,pr2024315003,2024-11-10T20:22:40.309Z,"17 km SE of La Romana, Dominican Republic",earthquake,3.88,2.21,0.13,23.0,reviewed,pr,pr
+2024-11-10T18:36:43.250Z,19.743,-77.0907,16.081,4.2,mb,32.0,83.0,0.677,0.9,us,us7000nr1f,2024-11-10T20:01:40.040Z,"49 km SSW of Bartolomé Masó, Cuba",earthquake,4.07,4.48,0.087,37.0,reviewed,us,us
