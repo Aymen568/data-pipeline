@@ -2848,4 +2848,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.6 and occurred in/near 20 km NNE of Four Mile Road, Alaska on 11/10/2024 at 02:28 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./nSince 07:04 AM on 10/22/2024, there have been 4456 recorded earthquakes.
 The most recent earthquake had a magnitude of 2.17000008 and occurred in/near 7 km S of Pāhala, Hawaii on 11/10/2024 at 02:35 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./nSince 07:04 AM on 10/22/2024, there have been 4457 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.96000004 and occurred in/near 11 km NE of Pāhala, Hawaii on 11/10/2024 at 02:50 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.3 and occurred in/near 278 km WNW of Cochrane, Chile on 11/08/2024 at 11:37 AM./n
