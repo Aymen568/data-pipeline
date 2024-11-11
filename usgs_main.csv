@@ -4701,3 +4701,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-11T21:50:52.340Z,34.1408348,-117.4611664,11.15,1.76,ml,62.0,36.0,0.04516,0.17,ci,ci40791783,2024-11-11T21:53:08.060Z,"5 km N of Fontana, CA",earthquake,0.24,0.31,0.228,30.0,automatic,ci,ci
 2024-11-11T21:50:32.310Z,19.372833251953,-155.08016967773,4.6300001144409,2.02,ml,50.0,148.0,0.02308,0.370000005,hv,hv74528247,2024-11-11T21:53:30.240Z,"11 km SSE of Fern Forest, Hawaii",earthquake,0.7,0.75,0.82,9.0,automatic,hv,hv
 2024-11-11T21:43:39.604Z,59.2419,-153.7134,125.3,2.1,ml,,,,0.56,ak,ak024eiyl2lk,2024-11-11T21:46:28.867Z,"56 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-11-11T22:02:58.073Z,61.9748,-148.7222,19.0,1.6,ml,,,,0.55,ak,ak024eiyxr9r,2024-11-11T22:06:32.104Z,"22 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-11-10T22:37:42.530Z,61.327166666667,-152.25616666667,-2.52,-0.15,ml,8.0,153.0,0.07884,0.1,av,av93360368,2024-11-11T22:01:13.380Z,"66 km WNW of Beluga, Alaska",earthquake,0.52,1.46,0.18277339789646,8.0,reviewed,av,av
