@@ -4703,3 +4703,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-11T21:43:39.604Z,59.2419,-153.7134,125.3,2.1,ml,,,,0.56,ak,ak024eiyl2lk,2024-11-11T21:46:28.867Z,"56 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-11T22:02:58.073Z,61.9748,-148.7222,19.0,1.6,ml,,,,0.55,ak,ak024eiyxr9r,2024-11-11T22:06:32.104Z,"22 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-11-10T22:37:42.530Z,61.327166666667,-152.25616666667,-2.52,-0.15,ml,8.0,153.0,0.07884,0.1,av,av93360368,2024-11-11T22:01:13.380Z,"66 km WNW of Beluga, Alaska",earthquake,0.52,1.46,0.18277339789646,8.0,reviewed,av,av
+2024-11-11T22:30:21.670Z,33.2498322,-116.3081665,11.92,1.33,ml,36.0,115.0,0.09314,0.23,ci,ci40791807,2024-11-11T22:32:24.126Z,"6 km E of Borrego Springs, CA",earthquake,0.48,0.72,0.2,5.0,automatic,ci,ci
+2024-11-11T22:10:09.065Z,-20.4843,-177.7471,419.481,4.9,mb,103.0,82.0,4.816,0.76,us,us7000nr9k,2024-11-11T22:28:42.040Z,"265 km WNW of Houma, Tonga",earthquake,10.27,7.932,0.037,228.0,reviewed,us,us
