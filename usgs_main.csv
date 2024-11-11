@@ -4612,3 +4612,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-11T12:00:01.730Z,35.7001667,-117.5056667,6.8,0.36,ml,16.0,91.0,0.1188,0.13,ci,ci40791631,2024-11-11T12:05:47.898Z,"12 km SW of Searles Valley, CA",earthquake,0.37,0.71,0.068,5.0,automatic,ci,ci
 2024-11-11T12:28:04.260Z,35.3651667,-118.1208333,2.36,1.54,ml,51.0,27.0,0.1073,0.14,ci,ci40791647,2024-11-11T12:39:23.870Z,"29 km NNW of California City, CA",earthquake,0.12,0.34,0.237,26.0,automatic,ci,ci
 2024-11-11T11:50:57.399Z,30.8043,139.8547,187.988,4.9,mb,57.0,96.0,2.304,1.08,us,us7000nr5b,2024-11-11T12:32:37.040Z,"Izu Islands, Japan region",earthquake,8.83,7.206,0.059,90.0,reviewed,us,us
+2024-11-11T13:22:19.497Z,31.676,-104.454,8.9065,1.8,ml,8.0,113.0,0.0,0.7,tx,tx2024weog,2024-11-11T13:27:04.924Z,"55 km S of Whites City, New Mexico",earthquake,0.0,3.2272295951843,0.2,6.0,automatic,tx,tx
+2024-11-11T05:41:25.830Z,35.200666666667,-92.231166666667,5.52,1.83,md,9.0,100.0,0.008209,0.11,nm,nm60502708,2024-11-11T13:26:48.270Z,"2 km WNW of Enola, Arkansas",earthquake,0.44,0.47,0.067851055181896,8.0,reviewed,nm,nm
