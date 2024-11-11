@@ -4659,3 +4659,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-11T11:30:16.950Z,35.894,-117.7401667,8.9,0.37,ml,8.0,71.0,0.08375,0.08,ci,ci37688452,2024-11-11T17:08:20.600Z,"16 km ESE of Little Lake, CA",earthquake,0.25,0.83,0.11,3.0,reviewed,ci,ci
 2024-11-11T11:30:09.380Z,35.8896667,-117.7325,3.49,0.26,ml,8.0,75.0,0.0851,0.23,ci,ci37688460,2024-11-11T17:07:17.225Z,"16 km ESE of Little Lake, CA",earthquake,0.51,5.94,0.149,6.0,reviewed,ci,ci
 2024-11-10T17:55:04.500Z,40.723166666667,-112.1085,8.24,0.89,md,10.0,100.0,0.04167,0.17,uu,uu80086306,2024-11-11T17:06:16.050Z,"1 km NNW of Magna, Utah",earthquake,0.6,1.4,0.11408857410915,5.0,reviewed,uu,uu
+2024-11-11T11:45:28.563Z,32.755,-100.647,8.2275,1.6,ml,16.0,50.0,0.1,0.1,tx,tx2024wekv,2024-11-11T17:27:38.219Z,"16 km NE of Hermleigh, Texas",earthquake,0.76828763910245,1.343636194921,0.1,8.0,reviewed,tx,tx
