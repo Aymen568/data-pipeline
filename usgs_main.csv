@@ -4561,3 +4561,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-11T04:23:37.999Z,60.9073,-151.0465,17.4,1.8,ml,,,,0.27,ak,ak024eiocevb,2024-11-11T04:24:52.837Z,"18 km SSE of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-11T04:20:49.240Z,37.464332580566,-118.82683563232,-0.27000001072884,1.32,md,11.0,159.0,0.1255,0.04,nc,nc75085146,2024-11-11T04:37:16.319Z,"17 km WSW of Toms Place, CA",earthquake,0.89,6.53999996,0.13,11.0,automatic,nc,nc
 2024-11-11T04:02:56.625Z,-14.845,-173.2617,10.0,4.9,mb,25.0,166.0,1.709,1.04,us,us7000nr3j,2024-11-11T04:40:49.040Z,"135 km NNE of Hihifo, Tonga",earthquake,13.59,1.924,0.053,112.0,reviewed,us,us
+2024-11-11T05:06:27.145Z,-17.8176,167.9767,35.0,4.6,mb,16.0,201.0,4.422,0.55,us,us7000nr3r,2024-11-11T05:24:51.040Z,"36 km WSW of Port-Vila, Vanuatu",earthquake,13.54,1.924,0.151,13.0,reviewed,us,us
+2024-11-11T04:47:27.270Z,46.852666666667,-121.7595,1.98,0.49,ml,22.0,73.0,0.02303,0.08,uw,uw62051357,2024-11-11T05:15:45.400Z,"23 km ENE of Ashford, Washington",earthquake,0.18,0.43,0.37726228916642,8.0,reviewed,uw,uw
+2024-11-10T20:49:02.957Z,36.6936,-116.3045,4.6,-0.1,ml,12.0,116.7,0.049,0.0875,nn,nn00887427,2024-11-11T05:21:47.459Z,"47 km ESE of Beatty, Nevada",earthquake,,2.4,0.17,3.0,reviewed,nn,nn
+2024-11-10T16:42:51.435Z,36.6267,-116.1123,3.6,-0.2,ml,11.0,249.8,0.024,0.0596,nn,nn00887426,2024-11-11T05:18:41.272Z,"40 km W of Indian Springs, Nevada",earthquake,,1.8,0.18,3.0,reviewed,nn,nn
