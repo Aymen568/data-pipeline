@@ -4553,3 +4553,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-11T02:34:08.522Z,-14.9108,167.2443,125.885,4.7,mb,22.0,146.0,6.277,0.66,us,us7000nr37,2024-11-11T02:53:36.040Z,"23 km NE of Port-Olry, Vanuatu",earthquake,14.39,10.116,0.133,17.0,reviewed,us,us
 2024-11-11T02:28:12.700Z,33.4721667,-116.4646667,5.14,1.0,ml,65.0,42.0,0.1016,0.19,ci,ci40791511,2024-11-11T02:51:36.940Z,"21 km ESE of Anza, CA",earthquake,0.15,0.7,0.171,26.0,reviewed,ci,ci
 2024-11-11T02:09:14.250Z,35.3668333,-118.1215,2.06,2.16,ml,57.0,27.0,0.1078,0.14,ci,ci40791503,2024-11-11T02:51:40.720Z,"30 km NNW of California City, CA",earthquake,0.12,0.37,0.233,26.0,reviewed,ci,ci
+2024-11-11T03:08:43.880Z,33.088,-116.2838333,11.31,0.98,ml,44.0,58.0,0.1074,0.24,ci,ci40791527,2024-11-11T03:14:48.905Z,"15 km WSW of Ocotillo Wells, CA",earthquake,0.28,0.45,0.305,22.0,automatic,ci,ci
