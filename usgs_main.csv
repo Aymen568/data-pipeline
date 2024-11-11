@@ -4668,3 +4668,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-11T17:08:55.086Z,32.312,-101.841,6.4209,1.9,ml,16.0,70.0,0.0,0.1,tx,tx2024wevz,2024-11-11T17:50:36.432Z,"20 km NNW of Stanton, Texas",earthquake,0.64976780339461,0.73582312847433,0.2,32.0,reviewed,tx,tx
 2024-11-11T18:04:16.960Z,33.3333333,-116.3288333,11.02,0.79,ml,31.0,116.0,0.03274,0.16,ci,ci40791719,2024-11-11T18:12:21.546Z,"10 km NNE of Borrego Springs, CA",earthquake,0.23,0.38,0.188,17.0,automatic,ci,ci
 2024-11-11T01:24:22.967Z,32.125,-101.105,8.0811,1.5,ml,18.0,79.0,0.2,0.1,tx,tx2024wdqh,2024-11-11T18:11:56.715Z,"24 km E of Forsan, Texas",earthquake,0.68492002108326,1.8049728693795,0.1,34.0,reviewed,tx,tx
+2024-11-11T18:33:32.144Z,36.6539,-115.7332,8.9,1.7,ml,26.0,132.18,0.184,0.2124,nn,nn00887447,2024-11-11T18:35:47.857Z,"10 km NNW of Indian Springs, Nevada",earthquake,,1.5,0.28,20.0,automatic,nn,nn
+2024-11-11T17:47:51.834Z,31.675,-104.406,6.0999,2.0,ml,29.0,86.0,0.0,0.1,tx,tx2024wexc,2024-11-11T18:38:54.643Z,"55 km S of Whites City, New Mexico",earthquake,0.71473679684655,0.71714839995128,0.1,30.0,reviewed,tx,tx
+2024-11-11T05:26:26.183Z,32.398,-102.016,8.8135,1.1,ml,16.0,55.0,0.1,0.1,tx,tx2024wdyi,2024-11-11T18:26:34.448Z,"31 km WSW of Ackerly, Texas",earthquake,0.71533511353108,1.1920694173591,0.1,7.0,reviewed,tx,tx
+2024-11-10T18:50:49.637Z,32.129,-101.103,7.9834,1.9,ml,27.0,71.0,0.2,0.1,tx,tx2024wddg,2024-11-11T18:26:48.469Z,"24 km E of Forsan, Texas",earthquake,0.89271266437808,1.7234876923681,0.1,35.0,reviewed,tx,tx
