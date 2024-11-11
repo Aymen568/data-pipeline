@@ -4677,3 +4677,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-11T18:43:25.570Z,38.79700088501,-122.76550292969,1.4500000476837,1.14,md,13.0,70.0,0.005794,0.02,nc,nc75085386,2024-11-11T18:45:04.940Z,"2 km  of The Geysers, CA",earthquake,0.27,0.550000012,0.11,12.0,automatic,nc,nc
 2024-11-11T18:13:24.912Z,31.686,-104.433,5.3436,2.4,ml,22.0,75.0,0.0,0.1,tx,tx2024wexu,2024-11-11T18:51:00.865Z,"54 km S of Whites City, New Mexico",earthquake,0.57772925704292,0.45547082811421,0.2,26.0,reviewed,tx,tx
 2024-11-11T14:22:33.880Z,59.364833333333,-153.447,-0.24,0.28,ml,6.0,146.0,0.002531,0.12,av,av93361083,2024-11-11T18:48:35.010Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.23,0.11,0.28383132096994,6.0,reviewed,av,av
+2024-11-11T18:58:02.890Z,36.1473333,-118.0518333,0.38,1.48,ml,30.0,57.0,0.1622,0.16,ci,ci40791751,2024-11-11T19:05:41.052Z,"15 km NW of Coso Junction, CA",earthquake,0.21,0.41,0.243,23.0,automatic,ci,ci
+2024-11-11T18:55:35.817Z,36.6348,-115.7235,10.1,1.0,ml,24.0,142.28,0.194,0.2307,nn,nn00887448,2024-11-11T18:57:38.268Z,"8 km NNW of Indian Springs, Nevada",earthquake,,1.4,0.35,15.0,automatic,nn,nn
