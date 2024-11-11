@@ -4580,3 +4580,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-11T08:24:13.053Z,57.6013,-155.674,91.4,2.0,ml,,,,0.19,ak,ak024eiqqb2x,2024-11-11T08:26:04.682Z,"72 km W of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-11-11T08:07:34.658Z,36.8797,-117.4622,11.3,0.7,ml,17.0,233.26,0.139,0.1552,nn,nn00887428,2024-11-11T08:09:52.724Z,"57 km NE of Keeler, California",earthquake,,0.9,0.57,7.0,automatic,nn,nn
 2024-11-11T07:14:57.929Z,-21.2294,-173.9119,10.0,5.0,mb,63.0,116.0,4.313,0.66,us,us7000nr49,2024-11-11T08:05:11.040Z,"109 km E of ‘Ohonua, Tonga",earthquake,10.01,1.862,0.073,59.0,reviewed,us,us
+2024-11-11T08:33:02.757Z,61.5509,-150.6216,47.9,1.8,ml,,,,0.48,ak,ak024eiqs7qb,2024-11-11T08:35:15.734Z,"5 km W of Susitna, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-11-11T08:27:11.083Z,36.6346,-115.7184,2.9,0.2,ml,11.0,273.07,0.198,0.1453,nn,nn00887430,2024-11-11T08:29:11.727Z,"8 km NNW of Indian Springs, Nevada",earthquake,,0.0,0.12,7.0,automatic,nn,nn
