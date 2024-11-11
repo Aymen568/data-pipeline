@@ -4689,3 +4689,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-11T16:03:26.880Z,44.605833333333,-111.136,5.35,0.78,md,11.0,168.0,0.02512,0.15,uu,uu80086366,2024-11-11T19:46:15.740Z,"6 km SSW of West Yellowstone, Montana",earthquake,0.76,0.84,0.19417492538679,10.0,reviewed,uu,uu
 2024-11-11T14:24:07.340Z,44.679333333333,-110.98383333333,2.69,0.59,md,9.0,101.0,0.01715,0.2,uu,uu80001658,2024-11-11T19:46:46.230Z,"9 km ENE of West Yellowstone, Montana",earthquake,0.57,1.0,0.28346143423291,6.0,reviewed,uu,uu
 2024-11-11T20:08:20.360Z,31.635,-104.486,3.6608,1.6,ml,16.0,130.0,0.1,0.3,tx,tx2024wfbv,2024-11-11T20:18:59.568Z,"60 km S of Whites City, New Mexico",earthquake,0.0,2.1373255252838,0.1,12.0,automatic,tx,tx
+2024-11-11T20:32:44.329Z,37.178,-114.7709,16.0,2.0,ml,16.0,248.96,0.319,0.3723,nn,nn00887452,2024-11-11T20:35:17.088Z,"40 km ESE of Alamo, Nevada",earthquake,,0.6,0.37,13.0,automatic,nn,nn
+2024-11-11T20:10:39.366Z,31.692,-104.4,17.5592,2.0,ml,14.0,68.0,0.0,0.7,tx,tx2024wfbx,2024-11-11T20:38:39.718Z,"53 km S of Whites City, New Mexico",earthquake,0.0,3.011575460434,0.3,9.0,automatic,tx,tx
+2024-11-11T20:10:31.492Z,31.658,-104.468,4.7064,1.6,ml,5.0,198.0,0.0,0.1,tx,tx2024wfbw,2024-11-11T20:38:46.715Z,"58 km S of Whites City, New Mexico",earthquake,0.0,2.3383457660675,0.2,5.0,automatic,tx,tx
