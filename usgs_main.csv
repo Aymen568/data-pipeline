@@ -4584,3 +4584,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-11T08:27:11.083Z,36.6346,-115.7184,2.9,0.2,ml,11.0,273.07,0.198,0.1453,nn,nn00887430,2024-11-11T08:29:11.727Z,"8 km NNW of Indian Springs, Nevada",earthquake,,0.0,0.12,7.0,automatic,nn,nn
 2024-11-11T09:18:54.955Z,58.1508,-155.5991,20.1,1.2,ml,,,,1.09,ak,ak024eirajmf,2024-11-11T09:21:00.044Z,"86 km SE of King Salmon, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-11T09:17:07.770Z,31.667,-104.373,4.3911,2.2,ml,18.0,69.0,0.1,0.2,tx,tx2024wefw,2024-11-11T09:27:10.116Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.2693916559219,0.1,13.0,automatic,tx,tx
+2024-11-11T10:05:39.733Z,36.5304,-115.5571,2.4,0.9,ml,9.0,319.1,0.351,0.0664,nn,nn00887431,2024-11-11T10:07:42.004Z,"11 km ESE of Indian Springs, Nevada",earthquake,,0.1,0.57,4.0,automatic,nn,nn
+2024-11-11T09:55:47.920Z,33.4841667,-116.5876667,6.19,0.58,ml,33.0,73.0,0.01606,0.11,ci,ci40791551,2024-11-11T10:03:08.340Z,"11 km SE of Anza, CA",earthquake,0.14,0.23,0.287,3.0,automatic,ci,ci
+2024-11-11T09:55:40.210Z,37.068000793457,-121.71383666992,2.079999923706,1.82,md,29.0,40.0,0.05759,0.16,nc,nc75085231,2024-11-11T09:57:15.124Z,"9 km SW of Morgan Hill, CA",earthquake,0.25,0.949999988,0.14,28.0,automatic,nc,nc
