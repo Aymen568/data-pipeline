@@ -4638,3 +4638,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-11T08:25:48.721Z,36.7587,-116.1194,4.7,-0.2,ml,14.0,135.64,0.002,0.0444,nn,nn00887444,2024-11-11T15:01:49.616Z,"45 km WNW of Indian Springs, Nevada",earthquake,,1.0,0.13,5.0,reviewed,nn,nn
 2024-11-11T05:58:05.412Z,39.4035,-119.7171,6.6,1.0,ml,10.0,212.41,0.039,0.1336,nn,nn00887443,2024-11-11T14:55:39.943Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.0,0.23,3.0,reviewed,nn,nn
 2024-11-11T04:31:11.075Z,31.143,-103.738,0.1013,1.6,ml,15.0,68.0,0.0,0.2,tx,tx2024wdwk,2024-11-11T14:57:34.751Z,"17 km N of Balmorhea, Texas",earthquake,0.62710157902812,0.73125153693963,0.1,6.0,reviewed,tx,tx
+2024-11-11T15:21:33.233Z,40.149,-119.6603,0.4,1.6,ml,8.0,217.74,0.24,0.1776,nn,nn00887445,2024-11-11T15:24:13.223Z,"22 km NNW of Sutcliffe, Nevada",earthquake,,22.6,0.22,5.0,automatic,nn,nn
