@@ -2968,4 +2968,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.8 and occurred in/near 5 km W of Susitna, Alaska on 11/11/2024 at 08:33 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.8 and occurred in/near 40 km S of Bartolomé Masó, Cuba on 11/10/2024 at 04:50 PM./nSince 07:04 AM on 10/22/2024, there have been 4583 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.8 and occurred in/near 5 km W of Susitna, Alaska on 11/11/2024 at 08:33 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.8 and occurred in/near 40 km S of Bartolomé Masó, Cuba on 11/10/2024 at 04:50 PM./nSince 07:04 AM on 10/22/2024, there have been 4584 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.2 and occurred in/near 86 km SE of King Salmon, Alaska on 11/11/2024 at 09:18 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.8 and occurred in/near 40 km S of Bartolomé Masó, Cuba on 11/10/2024 at 04:50 PM./n
