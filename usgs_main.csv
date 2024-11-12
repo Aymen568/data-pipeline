@@ -4839,3 +4839,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-12T17:54:18.120Z,19.130832672119,-155.39115905762,39.770000457764,2.28999996,md,39.0,233.0,0.07139,0.100000001,hv,hv74528897,2024-11-12T17:56:38.480Z,"12 km SE of Pāhala, Hawaii",earthquake,0.86,0.74000001,0.200000003,10.0,automatic,hv,hv
 2024-11-12T05:24:19.770Z,47.012666666667,-120.90416666667,0.18,1.22,ml,11.0,120.0,0.1375,0.22,uw,uw62051437,2024-11-12T18:09:37.360Z,"14 km ENE of Cliffdell, Washington",earthquake,0.41,31.61,0.12671609212615,7.0,reviewed,uw,uw
 2024-11-12T00:30:48.980Z,47.5945,-122.72533333333,13.73,1.19,ml,5.0,265.0,0.07399,0.08,uw,uw62051422,2024-11-12T18:03:18.260Z,"1 km W of Erlands Point-Kitsap Lake, Washington",earthquake,0.66,0.94,0.062174135838387,3.0,reviewed,uw,uw
+2024-11-12T18:27:27.389Z,59.9673,-152.6213,80.9,1.4,ml,,,,0.46,ak,ak024ekk8nvm,2024-11-12T18:29:11.565Z,"49 km WNW of Anchor Point, Alaska",earthquake,,1.0,,,automatic,ak,ak
