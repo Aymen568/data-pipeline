@@ -4831,3 +4831,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-12T17:50:34.918Z,64.8293,-149.0313,21.9,0.8,ml,,,,0.3,ak,ak024ekjs6bn,2024-11-12T17:52:34.026Z,"25 km N of Four Mile Road, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-11-12T17:49:26.040Z,33.1778336,-116.3356705,11.49,1.64,ml,56.0,35.0,0.07008,0.19,ci,ci40792039,2024-11-12T17:51:54.405Z,"9 km SSE of Borrego Springs, CA",earthquake,0.23,0.47,0.302,27.0,automatic,ci,ci
 2024-11-12T17:42:02.057Z,63.1033,-149.9243,65.3,2.5,ml,,,,1.12,ak,ak024ekjqe25,2024-11-12T17:44:33.788Z,"58 km WSW of Cantwell, Alaska",earthquake,,3.5,,,automatic,ak,ak
+2024-11-12T18:16:39.953Z,61.6658,-150.5619,29.7,1.6,ml,,,,0.58,ak,ak024ekk6byz,2024-11-12T18:18:35.706Z,"13 km N of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-12T18:14:49.783Z,60.1498,-151.3588,58.8,1.6,ml,,,,0.2,ak,ak024ekk5xaq,2024-11-12T18:15:55.124Z,"9 km SSE of Clam Gulch, Alaska",earthquake,,3.4,,,automatic,ak,ak
+2024-11-12T18:13:27.410Z,38.788501739502,-122.74716949463,1.8600000143051,1.53,md,23.0,84.0,0.009709,0.03,nc,nc75085691,2024-11-12T18:15:05.514Z,"1 km NE of The Geysers, CA",earthquake,0.23,0.370000005,0.12,23.0,automatic,nc,nc
+2024-11-12T18:02:43.610Z,36.371334075928,-89.537002563477,8.5299997329712,2.01999998,md,9.0,119.0,0.1075,0.0299999993,nm,nm60593781,2024-11-12T18:10:57.420Z,"5 km W of Tiptonville, Tennessee",earthquake,0.51,2.28999996,0.980000019,7.0,reviewed,nm,nm
+2024-11-12T17:56:34.824Z,59.8857,-148.1295,29.0,2.3,ml,,,,0.62,ak,ak024ekjtgm2,2024-11-12T18:17:37.331Z,"21 km SSW of Chenega, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2024-11-12T17:54:18.120Z,19.130832672119,-155.39115905762,39.770000457764,2.28999996,md,39.0,233.0,0.07139,0.100000001,hv,hv74528897,2024-11-12T17:56:38.480Z,"12 km SE of Pāhala, Hawaii",earthquake,0.86,0.74000001,0.200000003,10.0,automatic,hv,hv
+2024-11-12T05:24:19.770Z,47.012666666667,-120.90416666667,0.18,1.22,ml,11.0,120.0,0.1375,0.22,uw,uw62051437,2024-11-12T18:09:37.360Z,"14 km ENE of Cliffdell, Washington",earthquake,0.41,31.61,0.12671609212615,7.0,reviewed,uw,uw
+2024-11-12T00:30:48.980Z,47.5945,-122.72533333333,13.73,1.19,ml,5.0,265.0,0.07399,0.08,uw,uw62051422,2024-11-12T18:03:18.260Z,"1 km W of Erlands Point-Kitsap Lake, Washington",earthquake,0.66,0.94,0.062174135838387,3.0,reviewed,uw,uw
