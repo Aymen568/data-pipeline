@@ -4793,3 +4793,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-12T13:19:44.051Z,40.3178,-119.7722,15.9,2.0,ml,8.0,267.48,0.376,0.3266,nn,nn00887459,2024-11-12T13:22:07.403Z,"36 km ENE of Herlong, California",earthquake,,0.9,0.19,4.0,automatic,nn,nn
 2024-11-12T13:05:19.830Z,33.2331667,-116.3861667,5.4,0.74,ml,37.0,84.0,0.04353,0.2,ci,ci40791959,2024-11-12T13:14:00.627Z,"3 km SSW of Borrego Springs, CA",earthquake,0.24,0.44,0.099,11.0,automatic,ci,ci
 2024-11-12T13:23:51.760Z,38.785331726074,-122.75700378418,3.4700000286102,0.95,md,14.0,70.0,0.01542,0.02,nc,nc75085641,2024-11-12T13:25:28.826Z,"1 km N of The Geysers, CA",earthquake,0.41,0.829999983,0.16,12.0,automatic,nc,nc
+2024-11-12T13:42:16.632Z,61.8514,-149.5865,41.4,1.6,ml,,,,0.55,ak,ak024ekhcorj,2024-11-12T13:44:06.368Z,"22 km WNW of Fishhook, Alaska",earthquake,,0.6,,,automatic,ak,ak
