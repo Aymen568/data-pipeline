@@ -4824,3 +4824,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-12T17:03:40.010Z,37.547668457031,-119.12750244141,3.4000000953674,1.39,md,10.0,231.0,0.07409,0.03,nc,nc75085686,2024-11-12T17:05:14.976Z,"16 km WSW of Mammoth Lakes, CA",earthquake,1.14,1.25,0.17,11.0,automatic,nc,nc
 2024-11-12T15:51:19.170Z,31.667,-104.193,8.1506,1.6,ml,38.0,62.0,0.1,0.2,tx,tx2024wgop,2024-11-12T17:07:42.091Z,"54 km NW of Toyah, Texas",earthquake,0.58166208842655,0.81183089770666,0.2,31.0,reviewed,tx,tx
 2024-11-12T15:26:12.696Z,52.0623,176.139,107.9,3.9,ml,,,,0.71,ak,ak024ekig5pf,2024-11-12T17:16:17.065Z,"218 km ESE of Attu Station, Alaska",earthquake,,0.9,,,reviewed,ak,ak
+2024-11-12T17:21:44.248Z,35.9707,-116.0419,5.6,1.7,ml,23.0,170.13,0.202,0.3189,nn,nn00887460,2024-11-12T17:24:12.614Z,"20 km E of Shoshone, California",earthquake,,2.5,0.31,16.0,automatic,nn,nn
+2024-11-12T13:48:50.344Z,36.3155,141.2801,38.636,4.5,mb,58.0,137.0,2.487,0.53,us,us7000nrcd,2024-11-12T17:19:14.040Z,"62 km E of Ōarai, Japan",earthquake,9.05,7.721,0.079,50.0,reviewed,us,us
