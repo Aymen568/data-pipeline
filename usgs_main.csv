@@ -4826,3 +4826,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-12T15:26:12.696Z,52.0623,176.139,107.9,3.9,ml,,,,0.71,ak,ak024ekig5pf,2024-11-12T17:16:17.065Z,"218 km ESE of Attu Station, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2024-11-12T17:21:44.248Z,35.9707,-116.0419,5.6,1.7,ml,23.0,170.13,0.202,0.3189,nn,nn00887460,2024-11-12T17:24:12.614Z,"20 km E of Shoshone, California",earthquake,,2.5,0.31,16.0,automatic,nn,nn
 2024-11-12T13:48:50.344Z,36.3155,141.2801,38.636,4.5,mb,58.0,137.0,2.487,0.53,us,us7000nrcd,2024-11-12T17:19:14.040Z,"62 km E of Ōarai, Japan",earthquake,9.05,7.721,0.079,50.0,reviewed,us,us
+2024-11-12T17:31:44.812Z,63.0488,-150.6458,109.6,1.9,ml,,,,0.41,ak,ak024ekjo4hd,2024-11-12T17:34:07.291Z,"61 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-11-12T16:48:14.817Z,32.749,-100.632,7.7881,1.6,ml,15.0,81.0,0.1,0.1,tx,tx2024wgqq,2024-11-12T17:41:51.386Z,"17 km NE of Hermleigh, Texas",earthquake,0.67079544340617,1.0787934723158,0.1,16.0,reviewed,tx,tx
