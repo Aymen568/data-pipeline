@@ -4840,3 +4840,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-12T05:24:19.770Z,47.012666666667,-120.90416666667,0.18,1.22,ml,11.0,120.0,0.1375,0.22,uw,uw62051437,2024-11-12T18:09:37.360Z,"14 km ENE of Cliffdell, Washington",earthquake,0.41,31.61,0.12671609212615,7.0,reviewed,uw,uw
 2024-11-12T00:30:48.980Z,47.5945,-122.72533333333,13.73,1.19,ml,5.0,265.0,0.07399,0.08,uw,uw62051422,2024-11-12T18:03:18.260Z,"1 km W of Erlands Point-Kitsap Lake, Washington",earthquake,0.66,0.94,0.062174135838387,3.0,reviewed,uw,uw
 2024-11-12T18:27:27.389Z,59.9673,-152.6213,80.9,1.4,ml,,,,0.46,ak,ak024ekk8nvm,2024-11-12T18:29:11.565Z,"49 km WNW of Anchor Point, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-11-12T18:36:30.460Z,45.620666666667,-111.81716666667,2.01,1.98,ml,17.0,62.0,0.1337,0.11,mb,mb90065723,2024-11-12T19:10:28.940Z,"7 km SE of Pony, Montana",earthquake,0.29,0.93,0.33184466543989,31.0,reviewed,mb,mb
