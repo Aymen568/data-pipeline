@@ -4850,3 +4850,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-12T15:26:13.083Z,52.3087,176.3873,114.08,4.1,mb,112.0,89.0,1.354,0.75,us,us7000nrck,2024-11-12T19:44:07.040Z,"225 km ESE of Attu Station, Alaska",earthquake,8.14,6.597,0.053,107.0,reviewed,us,us
 2024-11-12T20:00:57.047Z,59.935,-152.9557,118.0,2.2,ml,,,,0.73,ak,ak024ekl9t1k,2024-11-12T20:04:03.551Z,"65 km WNW of Anchor Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-12T18:49:48.760Z,47.129833333333,-123.06833333333,-0.06,0.86,md,4.0,238.0,0.1449,0.21,uw,uw62051492,2024-11-12T20:12:34.490Z,"9 km SSE of Shelton, Washington",explosion,1.24,31.61,0.26097518428624,3.0,reviewed,uw,uw
+2024-11-11T22:10:53.399Z,34.459,-96.8425,0.0,1.45,ml,29.0,129.0,0.248351265,0.34,ok,ok2024wffj,2024-11-12T20:38:10.993Z,"6 km NNW of Mill Creek, Oklahoma",quarry blast,,0.5,0.24,15.0,reviewed,ok,ok
