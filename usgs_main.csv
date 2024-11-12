@@ -4870,3 +4870,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-12T06:46:33.270Z,37.621166666667,-122.31816666667,9.48,1.03,md,24.0,74.0,0.03346,0.07,nc,nc75085581,2024-11-12T22:05:42.824Z,"6 km ENE of Burlingame, CA",earthquake,0.23,0.47,0.365,13.0,reviewed,nc,nc
 2024-11-12T01:25:55.050Z,37.451,-118.8485,1.84,1.0,md,14.0,193.0,0.1396,0.05,nc,nc75085511,2024-11-12T22:16:15.985Z,"19 km WSW of Toms Place, CA",earthquake,0.7,2.15,0.061,8.0,reviewed,nc,nc
 2024-11-12T22:23:00.223Z,60.3487,-141.0448,14.4,1.9,ml,,,,0.79,ak,ak024ekmlhc6,2024-11-12T22:24:45.689Z,"115 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-11-12T22:14:17.600Z,17.9953,-67.0365,5.0,3.36,md,23.0,94.0,0.027,0.12,pr,pr2024317001,2024-11-12T22:53:04.380Z,"2 km NNE of La Parguera, Puerto Rico",earthquake,0.5,0.49,0.14,21.0,reviewed,pr,pr
