@@ -4733,3 +4733,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-12T01:03:42.440Z,17.9805,-66.972166666667,10.74,2.36,md,6.0,168.0,0.06946,0.13,pr,pr71465473,2024-11-12T01:25:34.700Z,"6 km W of Fuig, Puerto Rico",earthquake,0.79,1.12,0.026664109558581,4.0,reviewed,pr,pr
 2024-11-12T01:01:01.080Z,19.6815,-65.274166666667,24.69,3.34,md,13.0,283.0,1.356,0.24,pr,pr71465453,2024-11-12T01:27:47.230Z,"151 km NNE of Vieques, Puerto Rico",earthquake,1.14,20.93,0.09614968283709,8.0,reviewed,pr,pr
 2024-11-12T00:59:35.440Z,17.938666666667,-66.984,9.2,2.82,md,26.0,201.0,0.06498,0.12,pr,pr71465443,2024-11-12T01:26:04.130Z,"7 km ESE of La Parguera, Puerto Rico",earthquake,0.34,0.51,0.15839916045458,12.0,reviewed,pr,pr
+2024-11-12T02:47:29.616Z,58.1743,-156.2666,0.0,2.6,ml,,,,0.73,ak,ak024ekau0ox,2024-11-12T02:49:16.716Z,"61 km SSE of King Salmon, Alaska",earthquake,,0.3,,,automatic,ak,ak
