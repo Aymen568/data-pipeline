@@ -4802,3 +4802,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-12T07:37:49.670Z,44.827,-110.70616666667,4.2,0.47,md,14.0,125.0,0.07222,0.14,uu,uu80086411,2024-11-12T14:24:03.440Z,"16 km S of Mammoth, Wyoming",earthquake,0.36,0.9,0.42419073137058,9.0,reviewed,uu,uu
 2024-11-12T04:28:11.170Z,36.799666666667,-112.91083333333,16.25,1.63,ml,8.0,168.0,0.2279,0.15,uu,uu80086401,2024-11-12T14:17:45.400Z,"16 km S of Cane Beds, Arizona",earthquake,1.02,1.06,0.25510183780458,4.0,reviewed,uu,uu
 2024-11-12T14:41:09.313Z,63.4903,-147.9317,12.1,1.5,ml,,,,0.58,ak,ak024ekhxw37,2024-11-12T14:43:07.303Z,"52 km ENE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-11-12T14:31:59.659Z,-4.5205,152.4422,89.123,5.3,mww,126.0,62.0,0.429,0.76,us,us7000nrci,2024-11-12T14:48:26.040Z,"27 km SE of Kokopo, Papua New Guinea",earthquake,7.91,5.007,0.098,10.0,reviewed,us,us
+2024-11-12T14:27:07.691Z,31.625,-104.502,5.0666,1.8,ml,8.0,140.0,0.0,0.3,tx,tx2024wglu,2024-11-12T14:50:39.330Z,"62 km S of Whites City, New Mexico",earthquake,0.0,6.242190361023,0.1,6.0,automatic,tx,tx
+2024-11-12T03:51:22.784Z,32.005,-102.363,6.7871,1.2,ml,17.0,75.0,0.0,0.2,tx,tx2024wfqz,2024-11-12T14:50:49.529Z,"2 km SE of Gardendale, Texas",earthquake,1.0582648268575,2.5418859633868,0.0,7.0,reviewed,tx,tx
