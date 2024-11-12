@@ -4790,3 +4790,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-12T12:42:03.910Z,38.792331695557,-122.78133392334,1.960000038147,0.57,md,9.0,102.0,0.01745,0.02,nc,nc75085636,2024-11-12T12:43:39.163Z,"3 km NW of The Geysers, CA",earthquake,0.33,0.660000026,0.21,9.0,automatic,nc,nc
 2024-11-12T12:22:30.973Z,62.7642,-151.4096,85.8,1.7,ml,,,,0.6,ak,ak024ekgmzy1,2024-11-12T12:24:39.589Z,"44 km NW of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-11-12T12:17:39.375Z,31.654,-104.37,4.5709,2.2,ml,18.0,70.0,0.1,0.3,tx,tx2024wghj,2024-11-12T12:26:53.789Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.567457318306,0.2,14.0,automatic,tx,tx
+2024-11-12T13:19:44.051Z,40.3178,-119.7722,15.9,2.0,ml,8.0,267.48,0.376,0.3266,nn,nn00887459,2024-11-12T13:22:07.403Z,"36 km ENE of Herlong, California",earthquake,,0.9,0.19,4.0,automatic,nn,nn
+2024-11-12T13:05:19.830Z,33.2331667,-116.3861667,5.4,0.74,ml,37.0,84.0,0.04353,0.2,ci,ci40791959,2024-11-12T13:14:00.627Z,"3 km SSW of Borrego Springs, CA",earthquake,0.24,0.44,0.099,11.0,automatic,ci,ci
