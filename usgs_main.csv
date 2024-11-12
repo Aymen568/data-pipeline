@@ -4783,3 +4783,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-12T11:10:46.526Z,61.2729,-150.4968,35.9,1.6,ml,,,,0.35,ak,ak024ekfz0y4,2024-11-12T11:12:20.342Z,"29 km WSW of Point MacKenzie, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2024-11-12T11:01:32.390Z,38.78466796875,-122.77500152588,4.0199999809265,1.48,md,31.0,86.0,0.0132,0.05,nc,nc75085616,2024-11-12T11:04:33.030Z,"2 km NW of The Geysers, CA",earthquake,0.24,0.430000007,0.12,34.0,automatic,nc,nc
 2024-11-12T10:58:14.111Z,64.5486,-146.9935,15.4,1.1,ml,,,,0.88,ak,ak024ekfnt7n,2024-11-12T11:00:22.789Z,"5 km WNW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-11-12T11:22:13.010Z,33.2328339,-116.6175003,16.33,1.11,ml,35.0,56.0,0.04185,0.18,ci,ci40791943,2024-11-12T11:24:15.466Z,"6 km SSE of Warner Springs, CA",earthquake,0.28,0.63,0.238,4.0,automatic,ci,ci
