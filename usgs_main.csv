@@ -4772,3 +4772,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-12T08:53:40.160Z,38.807334899902,-122.80233001709,2.4300000667572,0.79,md,18.0,40.0,0.005527,0.02,nc,nc75085601,2024-11-12T08:55:18.941Z,"5 km NW of The Geysers, CA",earthquake,0.23,0.600000024,0.17,19.0,automatic,nc,nc
 2024-11-12T08:30:35.144Z,27.3495,88.3392,10.0,4.4,mb,40.0,145.0,2.753,0.83,us,us7000nrbv,2024-11-12T08:52:17.040Z,"10 km NE of Gyalshing, India",earthquake,10.06,1.922,0.098,30.0,reviewed,us,us
 2024-11-12T08:13:20.377Z,37.5859,135.4869,358.97,4.4,mb,97.0,56.0,2.408,0.72,us,us7000nrbt,2024-11-12T08:49:19.040Z,"131 km WNW of Anamizu, Japan",earthquake,7.57,3.966,0.041,172.0,reviewed,us,us
+2024-11-12T09:07:12.531Z,31.225,-103.799,2.8456,1.6,ml,14.0,73.0,0.1,0.8,tx,tx2024wgbb,2024-11-12T09:23:02.508Z,"9 km S of Toyah, Texas",earthquake,0.0,1.4077987670898,0.2,11.0,automatic,tx,tx
+2024-11-12T08:35:28.963Z,-0.2156,-79.266,82.48,2.6,ml,7.0,258.0,0.673,0.86,us,us7000nrbw,2024-11-12T09:03:13.040Z,"10 km WNW of Santo Domingo de los Colorados, Ecuador",earthquake,7.22,12.624,0.091,16.0,reviewed,us,us
