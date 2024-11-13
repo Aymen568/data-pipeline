@@ -4962,3 +4962,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T09:29:33.567Z,60.0378,-153.5652,189.1,1.4,ml,,,,0.94,ak,ak024em2fju4,2024-11-13T09:32:23.087Z,"41 km NE of Pedro Bay, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2024-11-13T10:00:48.990Z,63.2167,-150.7526,122.9,2.6,ml,,,,0.52,ak,ak024em2ust9,2024-11-13T10:13:13.040Z,"60 km SE of Denali National Park, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-11-13T09:23:52.478Z,-23.1531,-69.4005,75.964,3.9,mb,14.0,80.0,0.472,0.71,us,us7000nrih,2024-11-13T10:10:28.040Z,"91 km SSW of Calama, Chile",earthquake,5.94,5.472,0.209,6.0,reviewed,us,us
+2024-11-13T10:31:10.780Z,35.1008339,-119.1228333,12.15,1.68,ml,21.0,55.0,0.05292,0.18,ci,ci40792359,2024-11-13T10:33:17.171Z,"25 km NW of Grapevine, CA",earthquake,0.4,1.05,0.216,16.0,automatic,ci,ci
+2024-11-13T10:26:49.349Z,62.0828,-149.5074,44.8,1.9,ml,,,,0.28,ak,ak024em30die,2024-11-13T10:28:10.869Z,"19 km ESE of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-11-13T10:22:24.170Z,33.4518333,-116.3981667,8.99,0.74,ml,41.0,98.0,0.1274,0.17,ci,ci40792351,2024-11-13T10:30:56.092Z,"22 km N of Borrego Springs, CA",earthquake,0.21,0.62,0.112,17.0,automatic,ci,ci
+2024-11-13T10:09:09.250Z,33.4828333,-116.584,5.95,0.53,ml,27.0,100.0,0.01927,0.11,ci,ci40792343,2024-11-13T10:17:48.727Z,"12 km SE of Anza, CA",earthquake,0.16,0.26,0.146,10.0,automatic,ci,ci
+2024-11-13T10:06:21.861Z,36.5278,71.2041,125.016,4.1,mb,17.0,188.0,2.256,1.03,us,us7000nril,2024-11-13T10:23:40.040Z,"34 km WSW of Ashkāsham, Afghanistan",earthquake,10.62,13.905,0.234,5.0,reviewed,us,us
