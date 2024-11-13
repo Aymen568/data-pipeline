@@ -4960,3 +4960,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T08:58:11.940Z,33.6785,-116.7145,15.14,0.44,ml,19.0,93.0,0.03258,0.08,ci,ci40792335,2024-11-13T09:04:24.707Z,"7 km S of Idyllwild, CA",earthquake,0.45,1.06,0.169,6.0,automatic,ci,ci
 2024-11-13T08:51:33.810Z,38.828834533691,-122.84983062744,2.0599999427795,0.93,md,14.0,85.0,0.005649,0.01,nc,nc75085971,2024-11-13T08:53:12.552Z,"10 km NW of The Geysers, CA",earthquake,0.25,0.540000021,0.18,15.0,automatic,nc,nc
 2024-11-13T09:29:33.567Z,60.0378,-153.5652,189.1,1.4,ml,,,,0.94,ak,ak024em2fju4,2024-11-13T09:32:23.087Z,"41 km NE of Pedro Bay, Alaska",earthquake,,2.3,,,automatic,ak,ak
+2024-11-13T10:00:48.990Z,63.2167,-150.7526,122.9,2.6,ml,,,,0.52,ak,ak024em2ust9,2024-11-13T10:13:13.040Z,"60 km SE of Denali National Park, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-11-13T09:23:52.478Z,-23.1531,-69.4005,75.964,3.9,mb,14.0,80.0,0.472,0.71,us,us7000nrih,2024-11-13T10:10:28.040Z,"91 km SSW of Calama, Chile",earthquake,5.94,5.472,0.209,6.0,reviewed,us,us
