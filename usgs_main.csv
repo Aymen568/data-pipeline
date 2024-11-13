@@ -4943,3 +4943,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T06:57:10.610Z,32.9225,-115.8158333,7.08,1.47,ml,47.0,65.0,0.02621,0.22,ci,ci40792311,2024-11-13T07:08:12.080Z,"22 km SW of Westmorland, CA",earthquake,0.2,0.44,0.207,30.0,automatic,ci,ci
 2024-11-13T06:53:25.557Z,60.0218,-152.8193,102.6,1.7,ml,,,,0.51,ak,ak024em0sdkd,2024-11-13T06:56:49.159Z,"61 km W of Happy Valley, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-11-13T06:38:51.700Z,17.988,-66.8715,10.94,2.91,md,23.0,62.0,0.01484,0.19,pr,pr71465548,2024-11-13T07:00:52.040Z,"2 km ENE of Maria Antonia, Puerto Rico",earthquake,0.4,0.44,0.12551653055367,8.0,reviewed,pr,pr
+2024-11-13T07:36:32.940Z,38.748664855957,-122.72250366211,1.539999961853,0.73,md,7.0,174.0,0.01304,0.01,nc,nc75085926,2024-11-13T07:38:07.416Z,"4 km SW of Anderson Springs, CA",earthquake,0.4,0.860000014,0.1,6.0,automatic,nc,nc
+2024-11-13T07:32:11.150Z,33.1478333,-116.3003333,4.42,0.93,ml,47.0,46.0,0.05926,0.22,ci,ci40792319,2024-11-13T07:38:16.186Z,"14 km SSE of Borrego Springs, CA",earthquake,0.22,0.59,0.167,22.0,automatic,ci,ci
+2024-11-13T07:24:52.960Z,18.961166666667,-66.507666666667,12.18,3.19,md,13.0,277.0,0.6536,0.26,pr,pr71465558,2024-11-13T07:38:26.930Z,"55 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.53,2.31,0.14071418011452,9.0,reviewed,pr,pr
