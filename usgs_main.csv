@@ -4980,3 +4980,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T11:57:06.320Z,35.6495,-117.4298333,9.78,1.01,ml,21.0,91.0,0.01635,0.18,ci,ci40792375,2024-11-13T12:06:10.841Z,"13 km S of Searles Valley, CA",earthquake,0.34,0.62,0.394,7.0,automatic,ci,ci
 2024-11-13T11:54:00.743Z,60.0483,-153.5454,163.5,1.9,ml,,,,0.81,ak,ak024em3rpey,2024-11-13T11:56:31.419Z,"42 km NE of Pedro Bay, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-11-13T11:36:04.385Z,-2.9867,127.8683,64.386,4.2,mb,17.0,88.0,2.541,1.18,us,us7000nriu,2024-11-13T12:02:38.040Z,"85 km NNW of Ambon, Indonesia",earthquake,5.02,9.625,0.175,9.0,reviewed,us,us
+2024-11-13T13:39:21.910Z,38.788166046143,-122.7696685791,2.9500000476837,1.16,md,20.0,81.0,0.01467,0.03,nc,nc75086006,2024-11-13T13:40:57.481Z,"2 km NNW of The Geysers, CA",earthquake,0.28,0.569999993,0.22,21.0,automatic,nc,nc
+2024-11-13T13:36:37.690Z,38.820167541504,-122.80516815185,2.6800000667572,1.26,md,21.0,42.0,0.005007,0.02,nc,nc75086001,2024-11-13T13:38:12.774Z,"6 km NNW of The Geysers, CA",earthquake,0.22,0.479999989,0.17,23.0,automatic,nc,nc
