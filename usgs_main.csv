@@ -4983,3 +4983,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T13:39:21.910Z,38.788166046143,-122.7696685791,2.9500000476837,1.16,md,20.0,81.0,0.01467,0.03,nc,nc75086006,2024-11-13T13:40:57.481Z,"2 km NNW of The Geysers, CA",earthquake,0.28,0.569999993,0.22,21.0,automatic,nc,nc
 2024-11-13T13:36:37.690Z,38.820167541504,-122.80516815185,2.6800000667572,1.26,md,21.0,42.0,0.005007,0.02,nc,nc75086001,2024-11-13T13:38:12.774Z,"6 km NNW of The Geysers, CA",earthquake,0.22,0.479999989,0.17,23.0,automatic,nc,nc
 2024-11-13T12:16:23.746Z,-28.741,-67.7268,159.151,4.3,mb,18.0,145.0,2.406,0.68,us,us7000nriz,2024-11-13T13:52:09.040Z,"46 km E of Vinchina, Argentina",earthquake,11.05,5.607,0.201,7.0,reviewed,us,us
+2024-11-13T11:40:27.127Z,56.048,-149.1221,10.0,3.6,ml,74.0,195.0,2.574,0.81,us,us7000nriv,2024-11-13T13:55:18.040Z,"259 km SE of Chiniak, Alaska",earthquake,9.33,2.007,0.051,50.0,reviewed,us,us
