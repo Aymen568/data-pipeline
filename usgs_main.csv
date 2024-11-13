@@ -5074,3 +5074,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T22:38:31.520Z,19.112666666667,-68.8515,61.99,3.4,md,8.0,170.0,0.3637,0.47,pr,pr71465623,2024-11-13T23:20:24.060Z,"25 km NE of Miches, Dominican Republic",earthquake,3.3,4.52,0.014176862627869,3.0,reviewed,pr,pr
 2024-11-13T23:36:20.423Z,62.059,-148.43,25.5,1.7,ml,,,,0.77,ak,ak024emat36r,2024-11-13T23:37:46.234Z,"29 km N of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-13T23:12:30.100Z,17.888333333333,-66.870833333333,13.18,2.59,md,12.0,239.0,0.08363,0.16,pr,pr71465638,2024-11-13T23:37:29.680Z,"10 km SSE of Guánica, Puerto Rico",earthquake,0.75,0.43,0.34607858826406,8.0,reviewed,pr,pr
+2024-11-13T23:42:11.835Z,58.2571,-154.0888,59.6,1.5,ml,,,,0.99,ak,ak024emaucxr,2024-11-13T23:43:41.711Z,"72 km WNW of Aleneva, Alaska",earthquake,,4.5,,,automatic,ak,ak
+2024-11-13T00:04:01.136Z,38.6871,-119.5543,11.9,1.2,ml,12.0,186.02,0.124,0.1085,nn,nn00887529,2024-11-13T23:49:11.838Z,"1 km SW of Topaz Lake, Nevada",earthquake,,2.4,0.0,1.0,reviewed,nn,nn
