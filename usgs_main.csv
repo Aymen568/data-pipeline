@@ -4935,3 +4935,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T05:53:01.630Z,38.832000732422,-122.81517028809,1.9400000572205,1.06,md,21.0,51.0,0.00947,0.01,nc,nc75085901,2024-11-13T05:54:36.329Z,"8 km NNW of The Geysers, CA",earthquake,0.2,0.409999996,0.1,23.0,automatic,nc,nc
 2024-11-13T05:52:53.270Z,19.014833333333,-66.4895,25.18,3.24,md,10.0,289.0,0.7027,0.14,pr,pr71465543,2024-11-13T06:08:58.090Z,"61 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.86,9.26,0.028157403371061,5.0,reviewed,pr,pr
 2024-11-13T05:21:50.863Z,-22.4052,170.9887,10.0,4.8,mb,28.0,200.0,3.282,0.87,us,us7000nrhs,2024-11-13T05:50:20.040Z,southeast of the Loyalty Islands,earthquake,12.15,1.96,0.118,22.0,reviewed,us,us
+2024-11-13T06:28:18.130Z,38.833168029785,-122.79100036621,1.6799999475479,1.09,md,19.0,48.0,0.005258,0.02,nc,nc75085916,2024-11-13T06:29:57.095Z,"6 km WNW of Cobb, CA",earthquake,0.22,0.409999996,0.11,20.0,automatic,nc,nc
+2024-11-13T06:17:48.314Z,61.9553,-148.9262,15.7,1.1,ml,,,,0.34,ak,ak024em0kpkf,2024-11-13T06:19:21.202Z,"21 km NNW of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
