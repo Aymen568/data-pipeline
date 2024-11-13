@@ -4967,3 +4967,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T10:22:24.170Z,33.4518333,-116.3981667,8.99,0.74,ml,41.0,98.0,0.1274,0.17,ci,ci40792351,2024-11-13T10:30:56.092Z,"22 km N of Borrego Springs, CA",earthquake,0.21,0.62,0.112,17.0,automatic,ci,ci
 2024-11-13T10:09:09.250Z,33.4828333,-116.584,5.95,0.53,ml,27.0,100.0,0.01927,0.11,ci,ci40792343,2024-11-13T10:17:48.727Z,"12 km SE of Anza, CA",earthquake,0.16,0.26,0.146,10.0,automatic,ci,ci
 2024-11-13T10:06:21.861Z,36.5278,71.2041,125.016,4.1,mb,17.0,188.0,2.256,1.03,us,us7000nril,2024-11-13T10:23:40.040Z,"34 km WSW of Ashkāsham, Afghanistan",earthquake,10.62,13.905,0.234,5.0,reviewed,us,us
+2024-11-13T10:36:45.544Z,36.8763,-117.6173,7.7,1.7,ml,28.0,191.71,0.234,0.2553,nn,nn00887495,2024-11-13T10:39:14.763Z,"48 km NNE of Keeler, California",earthquake,,1.1,0.19,20.0,automatic,nn,nn
+2024-11-13T10:32:31.170Z,33.5886667,-116.8063333,6.9,0.44,ml,24.0,72.0,0.05382,0.11,ci,ci40792367,2024-11-13T10:38:16.046Z,"13 km WNW of Anza, CA",earthquake,0.15,0.41,0.22,9.0,automatic,ci,ci
