@@ -5056,3 +5056,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T20:55:09.170Z,17.892,-66.873833333333,12.8,2.63,md,7.0,240.0,0.08013,0.07,pr,pr71465613,2024-11-13T21:05:46.770Z,"9 km SSE of Guánica, Puerto Rico",earthquake,0.76,0.35,0.041236772485204,4.0,reviewed,pr,pr
 2024-11-13T21:32:57.820Z,32.7579994,-115.425499,7.82,1.7,ml,17.0,131.0,0.05048,0.21,ci,ci40792759,2024-11-13T21:35:04.149Z,"7 km SW of Holtville, CA",earthquake,0.9,0.76,0.15,14.0,automatic,ci,ci
 2024-11-13T20:42:35.460Z,44.7995,-111.52283333333,14.02,1.98,ml,19.0,69.0,0.07306,0.18,mb,mb90065943,2024-11-13T21:30:28.330Z,"26 km W of Hebgen Lake Estates, Montana",earthquake,0.38,0.62,0.16633413430042,35.0,reviewed,mb,mb
+2024-11-12T22:24:26.700Z,38.748,-122.72133333333,1.75,0.24,md,12.0,85.0,0.01055,0.01,nc,nc75085776,2024-11-13T21:49:50.946Z,"4 km SW of Anderson Springs, CA",earthquake,0.34,0.54,0.176,7.0,reviewed,nc,nc
