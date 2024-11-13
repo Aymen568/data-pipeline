@@ -5013,3 +5013,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T16:50:28.155Z,60.2264,-152.188,92.5,1.7,ml,,,,0.27,ak,ak024em6q2ov,2024-11-13T16:52:07.180Z,"34 km NW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-13T17:06:17.310Z,35.418,-117.7223333,7.68,1.05,ml,29.0,69.0,0.06963,0.16,ci,ci40792551,2024-11-13T17:12:52.342Z,"9 km WNW of Johannesburg, CA",earthquake,0.2,0.62,0.164,14.0,automatic,ci,ci
 2024-11-13T03:54:35.980Z,36.805166666667,-112.93366666667,17.35,1.65,ml,8.0,169.0,0.2292,0.18,uu,uu80086461,2024-11-13T17:07:49.990Z,"16 km SSW of Cane Beds, Arizona",earthquake,1.0,2.11,0.27274293548061,4.0,reviewed,uu,uu
+2024-11-13T12:37:51.270Z,33.5401667,-116.461,8.33,0.09,ml,16.0,93.0,0.06096,0.13,ci,ci40792383,2024-11-13T17:35:39.739Z,"20 km SW of La Quinta, CA",earthquake,0.24,0.61,0.094,10.0,reviewed,ci,ci
