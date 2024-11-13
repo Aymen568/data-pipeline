@@ -4959,3 +4959,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T09:07:02.133Z,60.9129,-147.3602,18.8,4.6,ml,,,,0.45,ak,ak024em2arnr,2024-11-13T09:08:42.387Z,"37 km W of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-13T08:58:11.940Z,33.6785,-116.7145,15.14,0.44,ml,19.0,93.0,0.03258,0.08,ci,ci40792335,2024-11-13T09:04:24.707Z,"7 km S of Idyllwild, CA",earthquake,0.45,1.06,0.169,6.0,automatic,ci,ci
 2024-11-13T08:51:33.810Z,38.828834533691,-122.84983062744,2.0599999427795,0.93,md,14.0,85.0,0.005649,0.01,nc,nc75085971,2024-11-13T08:53:12.552Z,"10 km NW of The Geysers, CA",earthquake,0.25,0.540000021,0.18,15.0,automatic,nc,nc
+2024-11-13T09:29:33.567Z,60.0378,-153.5652,189.1,1.4,ml,,,,0.94,ak,ak024em2fju4,2024-11-13T09:32:23.087Z,"41 km NE of Pedro Bay, Alaska",earthquake,,2.3,,,automatic,ak,ak
