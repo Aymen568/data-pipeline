@@ -5030,3 +5030,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T09:50:30.280Z,44.8215,-111.55466666667,14.63,-0.02,ml,6.0,114.0,0.08919,0.05,mb,mb90065928,2024-11-13T19:05:40.430Z,"29 km WNW of Hebgen Lake Estates, Montana",earthquake,0.4,0.97,0.12181156029834,4.0,reviewed,mb,mb
 2024-11-13T09:32:42.697Z,51.8323,-178.6652,96.9,2.5,ml,,,,0.35,ak,ak024em2g7nx,2024-11-13T18:57:47.743Z,"140 km W of Adak, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2024-11-13T03:41:43.630Z,54.744166666667,-163.84266666667,37.16,1.56,ml,9.0,100.0,0.0777,0.22,av,av93362953,2024-11-13T18:55:15.690Z,"30 km WSW of False Pass, Alaska",earthquake,1.37,1.04,0.43117674532422,9.0,reviewed,av,av
+2024-11-13T19:18:32.764Z,61.3141,-146.7713,14.3,2.1,ml,,,,0.76,ak,ak024em8biy4,2024-11-13T19:20:42.803Z,"30 km NW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-11-13T19:09:35.270Z,32.9036674,-116.2519989,8.59,1.26,ml,9.0,132.0,0.1497,0.05,ci,ci40792631,2024-11-13T19:11:55.300Z,"28 km ENE of Pine Valley, CA",earthquake,0.42,2.09,0.267,12.0,automatic,ci,ci
