@@ -5212,3 +5212,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-14T14:18:36.220Z,33.0465012,-117.0855026,16.5,0.61,ml,50.0,86.0,0.07287,0.19,ci,ci40793039,2024-11-14T14:22:03.082Z,"9 km S of Escondido, CA",earthquake,0.26,0.5,0.102,8.0,automatic,ci,ci
 2024-11-14T13:31:20.710Z,44.747,-111.18,7.03,-0.03,md,9.0,71.0,0.01215,0.13,uu,uu80086521,2024-11-14T14:22:17.190Z,"2 km SSE of Hebgen Lake Estates, Montana",earthquake,0.38,0.77,0.074532837537095,5.0,reviewed,uu,uu
 2024-11-14T13:07:31.865Z,36.5261,70.8411,189.026,4.2,mb,32.0,112.0,2.077,0.6,us,us7000nrqj,2024-11-14T14:20:06.040Z,"37 km S of Jurm, Afghanistan",earthquake,6.61,10.024,0.16,11.0,reviewed,us,us
+2024-11-14T14:40:05.690Z,38.791332244873,-122.77500152588,1.789999961853,2.29,md,51.0,72.0,0.01026,0.06,nc,nc75086361,2024-11-14T14:43:09.370Z,"2 km NW of The Geysers, CA",earthquake,0.15,0.239999995,0.13,52.0,automatic,nc,nc
