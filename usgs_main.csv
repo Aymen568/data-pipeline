@@ -5227,3 +5227,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-14T12:12:56.935Z,36.7409,-115.923,4.9,0.1,ml,6.0,279.88,0.052,0.108,nn,nn00887557,2024-11-14T15:30:44.265Z,"29 km NW of Indian Springs, Nevada",earthquake,,4.8,0.37,4.0,reviewed,nn,nn
 2024-11-14T10:10:50.879Z,36.7898,-115.947,6.3,-0.1,ml,10.0,165.71,0.009,0.1621,nn,nn00887556,2024-11-14T15:30:42.580Z,"34 km NW of Indian Springs, Nevada",earthquake,,1.8,0.28,4.0,reviewed,nn,nn
 2024-11-14T04:17:11.859Z,35.34733333,-97.97566667,4.39,0.99,ml,35.0,70.0,0.06478728652,0.17,ok,ok2024wjil,2024-11-14T15:46:40.953Z,"4 km NW of Minco, Oklahoma",earthquake,,0.6,0.23,17.0,reviewed,ok,ok
+2024-11-14T15:19:18.366Z,28.952,-98.343,7.4951,1.7,ml,15.0,65.0,0.1,0.2,tx,tx2024wkej,2024-11-14T15:47:43.158Z,"13 km E of Pleasanton, Texas",earthquake,1.5105129141243,2.1739842996917,0.1,7.0,reviewed,tx,tx
+2024-11-14T02:12:14.130Z,43.603666666667,-110.6165,3.22,1.5,ml,8.0,169.0,0.0127,0.06,mb,mb90065968,2024-11-14T15:48:13.460Z,"2 km SSE of Kelly, Wyoming",earthquake,0.47,0.53,0.20814838817855,7.0,reviewed,mb,mb
