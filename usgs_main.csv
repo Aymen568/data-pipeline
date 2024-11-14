@@ -5223,3 +5223,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-14T14:58:15.055Z,31.298,-103.584,12.2437,1.7,ml,5.0,170.0,0.1,0.4,tx,tx2024wkdp,2024-11-14T15:11:03.415Z,"9 km SSW of Lindsay, Texas",earthquake,0.0,6.7248511314392,0.3,5.0,automatic,tx,tx
 2024-11-14T10:49:29.640Z,28.999,-98.348,7.3975,1.7,ml,19.0,70.0,0.1,0.4,tx,tx2024wjvk,2024-11-14T15:23:25.699Z,"13 km ENE of Pleasanton, Texas",earthquake,1.5382205003958,2.7902284981064,0.1,7.0,reviewed,tx,tx
 2024-11-14T07:41:31.368Z,32.414,-102.083,8.374,1.3,ml,22.0,57.0,0.0,0.1,tx,tx2024wjpj,2024-11-14T15:23:17.577Z,"36 km WSW of Ackerly, Texas",earthquake,0.65806505532464,0.94234405519655,0.2,36.0,reviewed,tx,tx
+2024-11-14T15:05:31.198Z,32.297,-101.806,6.4209,1.0,ml,15.0,53.0,0.0,0.1,tx,tx2024wkdv,2024-11-14T15:39:55.070Z,"18 km N of Stanton, Texas",earthquake,0.76436314244908,1.0033959584965,0.2,7.0,reviewed,tx,tx
+2024-11-14T12:12:56.935Z,36.7409,-115.923,4.9,0.1,ml,6.0,279.88,0.052,0.108,nn,nn00887557,2024-11-14T15:30:44.265Z,"29 km NW of Indian Springs, Nevada",earthquake,,4.8,0.37,4.0,reviewed,nn,nn
+2024-11-14T10:10:50.879Z,36.7898,-115.947,6.3,-0.1,ml,10.0,165.71,0.009,0.1621,nn,nn00887556,2024-11-14T15:30:42.580Z,"34 km NW of Indian Springs, Nevada",earthquake,,1.8,0.28,4.0,reviewed,nn,nn
+2024-11-14T04:17:11.859Z,35.34733333,-97.97566667,4.39,0.99,ml,35.0,70.0,0.06478728652,0.17,ok,ok2024wjil,2024-11-14T15:46:40.953Z,"4 km NW of Minco, Oklahoma",earthquake,,0.6,0.23,17.0,reviewed,ok,ok
