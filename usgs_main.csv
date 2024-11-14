@@ -5196,3 +5196,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-14T13:08:16.690Z,38.791667938232,-122.77500152588,1.8400000333786,1.93,md,33.0,77.0,0.01021,0.04,nc,nc75086321,2024-11-14T13:27:16.672Z,"2 km NW of The Geysers, CA",earthquake,0.18,0.300000012,0.1,35.0,automatic,nc,nc
 2024-11-14T13:34:42.040Z,36.140998840332,-119.84300231934,13.210000038147,3.14,ml,62.0,34.0,0.1481,0.33,nc,nc75086336,2024-11-14T13:39:18.110Z,"6 km SSW of Stratford, CA",earthquake,0.56,0.879999995,0.261,28.0,automatic,nc,nc
 2024-11-14T07:05:53.972Z,32.412,-102.081,7.2021,1.8,ml,17.0,53.0,0.0,0.1,tx,tx2024wjob,2024-11-14T13:40:38.941Z,"36 km WSW of Ackerly, Texas",earthquake,0.63909805828448,0.82328190489951,0.1,7.0,reviewed,tx,tx
+2024-11-14T13:52:12.330Z,59.0472,-153.4231,86.7,2.1,ml,,,,0.69,ak,ak024enshikx,2024-11-14T13:54:35.800Z,"83 km SE of Pope-Vannoy Landing, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-11-14T13:51:58.266Z,60.153,-153.3216,136.8,1.9,ml,,,,0.21,ak,ak024enshedi,2024-11-14T13:53:45.327Z,"55 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-11-14T13:51:33.200Z,38.833831787109,-122.81050109863,2.039999961853,1.75,md,35.0,39.0,0.01043,0.02,nc,nc75086341,2024-11-14T13:54:53.930Z,"8 km WNW of Cobb, CA",earthquake,0.17,0.289999992,0.12,35.0,automatic,nc,nc
