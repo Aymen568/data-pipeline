@@ -5439,3 +5439,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-15T13:31:35.980Z,35.6591667,-117.5623333,6.61,0.91,ml,21.0,74.0,0.08169,0.11,ci,ci40793527,2024-11-15T13:35:04.306Z,"11 km ENE of Ridgecrest, CA",earthquake,0.19,0.48,0.139,11.0,automatic,ci,ci
 2024-11-15T10:51:26.058Z,-5.6417,151.4814,54.915,4.5,mb,60.0,45.0,1.593,0.56,us,us7000nryh,2024-11-15T13:28:19.040Z,"149 km E of Kimbe, Papua New Guinea",earthquake,9.44,7.214,0.078,49.0,reviewed,us,us
 2024-11-15T10:22:29.031Z,28.939,-98.308,6.1768,1.9,ml,18.0,65.0,0.1,0.1,tx,tx2024wlqg,2024-11-15T13:26:12.338Z,"16 km E of Pleasanton, Texas",earthquake,0.79415796753349,2.127365563758,0.1,24.0,reviewed,tx,tx
+2024-11-15T10:21:45.879Z,28.944,-98.302,5.4932,1.6,ml,19.0,72.0,0.1,0.1,tx,tx2024wlqf,2024-11-15T13:42:39.455Z,"17 km E of Pleasanton, Texas",earthquake,0.71665424476032,2.5385821234711,0.2,21.0,reviewed,tx,tx
