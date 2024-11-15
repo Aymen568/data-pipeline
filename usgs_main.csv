@@ -5453,3 +5453,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-15T03:05:07.542Z,32.125,-102.192,5.9326,1.2,ml,10.0,81.0,0.0,0.1,tx,tx2024wlbs,2024-11-15T14:42:16.243Z,"17 km NW of Midland, Texas",earthquake,1.2138836676334,0.82396343102505,0.1,13.0,reviewed,tx,tx
 2024-11-15T01:53:03.464Z,32.144,-101.059,6.1035,1.5,ml,16.0,80.0,0.2,0.1,tx,tx2024wkzh,2024-11-15T14:38:01.214Z,"23 km S of Westbrook, Texas",earthquake,0.88482309290559,2.1406879800689,0.1,6.0,reviewed,tx,tx
 2024-11-14T20:48:56.344Z,34.5768,82.8131,10.0,4.4,mb,62.0,78.0,7.077,0.82,us,us7000nruq,2024-11-15T14:42:29.040Z,"223 km SSE of Aqqan, China",earthquake,9.78,1.894,0.08,45.0,reviewed,us,us
+2024-11-15T14:43:48.540Z,34.0163333,-117.0115,17.78,1.14,ml,36.0,55.0,0.09937,0.16,ci,ci40793551,2024-11-15T14:49:03.527Z,"4 km ESE of Yucaipa, CA",earthquake,0.2,0.55,0.228,33.0,automatic,ci,ci
+2024-11-15T11:53:20.891Z,28.952,-98.314,8.3252,1.7,ml,17.0,73.0,0.1,0.2,tx,tx2024wlta,2024-11-15T14:50:07.292Z,"16 km E of Pleasanton, Texas",earthquake,1.2814720664084,2.8780934099455,0.1,7.0,reviewed,tx,tx
+2024-11-14T23:03:56.122Z,32.13,-101.101,4.7119,2.0,ml,33.0,75.0,0.2,0.1,tx,tx2024wkts,2024-11-15T14:50:23.303Z,"25 km E of Forsan, Texas",earthquake,0.49899385765905,1.3692984306767,0.2,42.0,reviewed,tx,tx
