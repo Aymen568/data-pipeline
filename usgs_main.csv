@@ -5467,3 +5467,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-15T10:25:07.020Z,31.9,-101.693,7.1533,1.2,ml,16.0,64.0,0.1,0.1,tx,tx2024wlqk,2024-11-15T15:26:15.508Z,"20 km W of Garden City, Texas",earthquake,1.2130271137813,0.94290186176359,0.2,18.0,reviewed,tx,tx
 2024-11-15T06:53:27.319Z,28.944,-98.31,4.9561,1.5,ml,19.0,66.0,0.1,0.2,tx,tx2024wljd,2024-11-15T15:26:07.506Z,"16 km E of Pleasanton, Texas",earthquake,1.2134743844654,2.3070260735671,0.1,7.0,reviewed,tx,tx
 2024-11-15T15:13:12.679Z,36.1975,-97.29983333,8.02,1.36,ml,48.0,74.0,0.08188393158,0.23,ok,ok2024wlzp,2024-11-15T15:53:36.639Z,"8 km NE of Orlando, Oklahoma",earthquake,,1.4,0.24,22.0,reviewed,ok,ok
+2024-11-15T13:46:24.642Z,28.95,-98.321,5.542,1.7,ml,17.0,73.0,0.1,0.3,tx,tx2024wlwt,2024-11-15T16:02:12.707Z,"15 km E of Pleasanton, Texas",earthquake,1.4927649577836,2.2058585221831,0.1,7.0,reviewed,tx,tx
+2024-11-15T00:27:07.920Z,38.510166666667,-112.88566666667,2.05,0.17,md,9.0,152.0,0.008609,0.07,uu,uu80086571,2024-11-15T16:08:07.080Z,"16 km NE of Milford, Utah",earthquake,0.38,0.43,0.26194959301292,3.0,reviewed,uu,uu
