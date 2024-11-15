@@ -5478,3 +5478,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-15T06:19:04.634Z,36.7636,-116.1203,2.2,0.1,ml,10.0,208.5,0.005,0.0637,nn,nn00887586,2024-11-15T16:19:19.514Z,"45 km WNW of Indian Springs, Nevada",earthquake,,1.3,0.08,3.0,reviewed,nn,nn
 2024-11-15T05:43:32.594Z,28.948,-98.308,7.4463,1.6,ml,16.0,72.0,0.1,0.2,tx,tx2024wlgu,2024-11-15T16:30:24.167Z,"16 km E of Pleasanton, Texas",earthquake,1.1765492821061,3.0722740663514,0.1,6.0,reviewed,tx,tx
 2024-11-14T23:50:27.780Z,41.5945,-112.42733333333,3.82,0.99,md,10.0,122.0,0.07912,0.13,uu,uu80086561,2024-11-15T16:10:29.740Z,"15 km SW of Thatcher, Utah",earthquake,0.45,2.29,0.1079208607289,8.0,reviewed,uu,uu
+2024-11-15T16:36:33.040Z,60.5156,-153.1637,148.3,1.7,ml,,,,0.13,ak,ak024ephps14,2024-11-15T16:37:51.653Z,"72 km ENE of Port Alsworth, Alaska",earthquake,,2.9,,,automatic,ak,ak
+2024-11-15T15:27:42.267Z,4.7235,125.4144,83.755,4.5,mb,21.0,117.0,2.336,0.73,us,us7000nrzu,2024-11-15T16:51:42.040Z,"75 km S of Sarangani, Philippines",earthquake,11.25,9.385,0.127,18.0,reviewed,us,us
