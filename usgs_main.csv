@@ -5537,3 +5537,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-15T21:11:50.702Z,17.788,-61.4744,33.348,4.9,mb,54.0,93.0,1.306,0.83,us,us7000ns2h,2024-11-15T21:26:58.040Z,"40 km ENE of Codrington, Antigua and Barbuda",earthquake,7.12,4.799,0.043,174.0,reviewed,us,us
 2024-11-15T21:39:00.140Z,37.400333404541,-118.60666656494,10.5,3.94,ml,32.0,62.0,0.05842,0.07,nc,nc75086836,2024-11-15T21:41:57.677Z,"2 km SW of Round Valley, CA",earthquake,0.31,1.09000003,0.262,51.0,automatic,nc,nc
 2024-11-15T18:07:17.120Z,-7.1362,129.5672,117.238,4.3,mb,30.0,117.0,2.618,0.89,us,us7000ns1y,2024-11-15T21:51:38.040Z,"Kepulauan Babar, Indonesia",earthquake,9.96,1.362,0.1,31.0,reviewed,us,us
+2024-11-15T21:54:59.830Z,34.5751667,-118.0365,9.38,1.13,ml,19.0,70.0,0.04829,0.15,ci,ci40793767,2024-11-15T21:59:43.737Z,"6 km E of Palmdale, CA",earthquake,0.27,0.57,0.317,27.0,automatic,ci,ci
+2024-11-15T21:39:49.248Z,-0.6274,100.1855,124.35,4.4,mb,37.0,174.0,4.379,0.78,us,us7000ns2q,2024-11-15T22:10:19.040Z,"7 km E of Pariaman, Indonesia",earthquake,7.83,9.372,0.104,27.0,reviewed,us,us
