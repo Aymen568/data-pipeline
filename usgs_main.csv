@@ -5446,3 +5446,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-15T04:06:43.310Z,32.119,-102.188,5.7373,1.2,ml,12.0,79.0,0.0,0.1,tx,tx2024wlds,2024-11-15T14:01:56.586Z,"17 km NW of Midland, Texas",earthquake,0.89490174007494,0.90086113415284,0.2,10.0,reviewed,tx,tx
 2024-11-15T03:02:35.693Z,32.116,-102.162,6.4697,1.3,ml,15.0,83.0,0.0,0.1,tx,tx2024wlbq,2024-11-15T14:02:17.589Z,"15 km NNW of Midland, Texas",earthquake,1.5698627242854,0.85936356061068,0.1,15.0,reviewed,tx,tx
 2024-11-14T20:04:46.842Z,-21.0741,-68.5718,140.752,4.3,mb,26.0,43.0,0.952,0.63,us,us7000nruc,2024-11-15T14:07:38.040Z,"37 km WNW of Ollagüe, Chile",earthquake,5.95,7.185,0.154,12.0,reviewed,us,us
+2024-11-15T08:35:49.367Z,31.841,-101.697,6.2744,1.4,ml,17.0,66.0,0.0,0.1,tx,tx2024wlmm,2024-11-15T14:26:00.144Z,"20 km W of Garden City, Texas",earthquake,0.89599737111809,1.1368537510796,0.1,7.0,reviewed,tx,tx
+2024-11-15T04:51:54.759Z,32.114,-102.136,5.835,1.2,ml,11.0,62.0,0.0,0.1,tx,tx2024wlff,2024-11-15T14:14:12.061Z,"14 km NNW of Midland, Texas",earthquake,2.0167144630051,0.90390453517638,0.1,9.0,reviewed,tx,tx
