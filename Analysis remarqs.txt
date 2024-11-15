@@ -3562,4 +3562,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 2.13 and occurred in/near 3 km SSW of Pāhala, Hawaii on 11/15/2024 at 05:36 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.8 and occurred in/near 40 km S of Bartolomé Masó, Cuba on 11/10/2024 at 04:50 PM./nSince 07:04 AM on 10/22/2024, there have been 5385 recorded earthquakes.
 The most recent earthquake had a magnitude of 2.13 and occurred in/near 3 km SSW of Pāhala, Hawaii on 11/15/2024 at 05:36 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.8 and occurred in/near 40 km S of Bartolomé Masó, Cuba on 11/10/2024 at 04:50 PM./nSince 07:04 AM on 10/22/2024, there have been 5388 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.33 and occurred in/near 7 km NE of Cabazon, CA on 11/15/2024 at 06:27 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.8 and occurred in/near 40 km S of Bartolomé Masó, Cuba on 11/10/2024 at 04:50 PM./n
