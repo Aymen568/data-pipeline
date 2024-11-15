@@ -5433,3 +5433,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-15T12:43:14.438Z,63.1925,-152.737,0.0,2.1,ml,,,,1.35,ak,ak024epfdify,2024-11-15T12:45:59.945Z,"63 km SW of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-15T12:33:23.590Z,33.3526667,-115.7851667,4.27,1.82,ml,56.0,63.0,0.04345,0.2,ci,ci40793511,2024-11-15T12:36:53.828Z,"5 km W of Bombay Beach, CA",earthquake,0.18,0.51,0.133,26.0,automatic,ci,ci
 2024-11-15T12:22:57.420Z,32.9855,-115.9486667,11.56,1.62,ml,46.0,51.0,0.09991,0.19,ci,ci40793503,2024-11-15T12:27:17.783Z,"24 km SE of Ocotillo Wells, CA",earthquake,0.2,0.46,0.142,28.0,automatic,ci,ci
+2024-11-15T13:14:34.385Z,58.9567,-154.4504,121.3,2.5,ml,,,,0.38,ak,ak024epfsrkf,2024-11-15T13:16:20.377Z,"56 km SSE of Kokhanok, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-11-15T11:38:19.511Z,-23.5887,170.239,10.0,5.0,mb,27.0,96.0,2.748,0.75,us,us7000nryk,2024-11-15T13:13:01.040Z,"298 km ESE of Vao, New Caledonia",earthquake,11.57,1.872,0.126,20.0,reviewed,us,us
