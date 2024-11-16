@@ -5718,3 +5718,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T19:36:20.490Z,33.5126648,-116.4558334,18.97,1.15,ml,17.0,221.0,0.07708,0.4,ci,ci40794215,2024-11-16T19:38:24.919Z,"21 km ESE of Anza, CA",earthquake,3.32,3.94,0.266,6.0,automatic,ci,ci
 2024-11-16T19:34:21.840Z,33.6866684,-117.8141632,13.57,1.62,ml,38.0,76.0,0.04424,0.18,ci,ci40794207,2024-11-16T19:38:58.367Z,"2 km W of Irvine, CA",earthquake,0.33,0.72,0.314,10.0,automatic,ci,ci
 2024-11-16T19:12:30.600Z,19.0361,-64.6778,65.0,3.61,md,13.0,282.0,0.6239,0.18,pr,pr2024321001,2024-11-16T19:35:49.850Z,"78 km N of Cruz Bay, U.S. Virgin Islands",earthquake,3.17,5.51,0.16,6.0,reviewed,pr,pr
+2024-11-16T19:40:02.170Z,37.577499389648,-121.83683013916,8.7600002288818,1.23,md,8.0,108.0,0.04601,0.03,nc,nc75087051,2024-11-16T19:41:38.791Z,"6 km SE of Sunol, CA",earthquake,0.44,0.610000014,0.13,6.0,automatic,nc,nc
+2024-11-16T19:38:11.937Z,62.2125,-151.8073,88.1,1.8,ml,,,,0.46,ak,ak024er71t54,2024-11-16T19:41:37.426Z,"32 km NW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
