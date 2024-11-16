@@ -5635,3 +5635,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T09:02:34.844Z,60.9355,-150.6816,41.8,2.0,ml,,,,0.29,ak,ak024er0vt30,2024-11-16T09:04:01.104Z,"1 km NNE of Point Possession, Alaska",earthquake,,2.8,,,automatic,ak,ak
 2024-11-16T08:50:43.260Z,47.43083190918,-122.28649902344,14.210000038147,2.0,md,15.0,77.0,,0.129999995,uw,uw62052067,2024-11-16T08:53:04.080Z,"2 km SSE of SeaTac, Washington",earthquake,0.38,1.19000006,,1.0,automatic,uw,uw
 2024-11-16T08:42:48.970Z,18.0005,-66.838,11.92,2.3,md,10.0,147.0,0.04017,0.12,pr,pr71465828,2024-11-16T08:55:28.750Z,"2 km WNW of Indios, Puerto Rico",earthquake,0.43,0.67,0.034786100748491,4.0,reviewed,pr,pr
+2024-11-16T09:19:48.757Z,31.581,-104.016,6.3465,1.8,ml,14.0,48.0,0.0,0.2,tx,tx2024wnjl,2024-11-16T09:26:03.015Z,"36 km NW of Toyah, Texas",earthquake,0.0,2.4097731113434,0.2,12.0,automatic,tx,tx
+2024-11-16T09:12:42.370Z,33.4136667,-116.5718333,8.48,0.67,ml,36.0,78.0,0.0625,0.14,ci,ci40793983,2024-11-16T09:17:36.116Z,"16 km NNE of Warner Springs, CA",earthquake,0.18,0.42,0.107,13.0,automatic,ci,ci
