@@ -5710,3 +5710,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T18:07:27.870Z,31.681,-104.411,7.4722,1.5,ml,13.0,86.0,0.0,0.4,tx,tx2024woaw,2024-11-16T18:16:48.751Z,"54 km S of Whites City, New Mexico",earthquake,0.0,2.4011545181274,0.1,11.0,automatic,tx,tx
 2024-11-16T18:03:32.060Z,33.3255,-116.2105,11.34,1.19,ml,54.0,24.0,0.1312,0.19,ci,ci40794143,2024-11-16T18:07:44.896Z,"17 km ENE of Borrego Springs, CA",earthquake,0.16,0.41,0.105,25.0,automatic,ci,ci
 2024-11-16T18:25:27.713Z,6.8052,-73.0505,150.171,4.4,mb,39.0,74.0,0.907,0.58,us,us7000ns6u,2024-11-16T18:43:52.040Z,"9 km NNE of Jordán, Colombia",earthquake,7.98,9.206,0.093,33.0,reviewed,us,us
+2024-11-16T18:35:15.986Z,-0.188,99.4138,92.465,4.7,mb,27.0,176.0,4.849,0.34,us,us7000ns6v,2024-11-16T18:53:25.040Z,"91 km WNW of Pariaman, Indonesia",earthquake,4.81,8.854,0.137,17.0,reviewed,us,us
