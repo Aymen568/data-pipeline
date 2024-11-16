@@ -5672,3 +5672,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T13:36:01.870Z,33.7931667,-116.0976667,4.55,0.8,ml,43.0,100.0,0.1032,0.15,ci,ci40794031,2024-11-16T13:39:35.507Z,"14 km NE of Indio, CA",earthquake,0.2,0.7,0.122,15.0,automatic,ci,ci
 2024-11-16T13:45:18.943Z,35.94229889,-97.88421631,3.97554183,2.03,ml,10.0,144.6895142,0.08520998806,0.1628237124,ok,ok2024wnsf,2024-11-16T13:54:49.624Z,"4 km SSE of Dover, Oklahoma",earthquake,5.425862436,5.332815842,0.31,7.0,automatic,ok,ok
 2024-11-16T13:02:09.227Z,28.9747,-98.3235,7.528,3.5,mb_lg,17.0,60.0,0.269,0.83,us,us7000ns5r,2024-11-16T13:57:03.839Z,"15 km E of Pleasanton, Texas",earthquake,1.89,5.378,0.05,104.0,reviewed,us,us
+2024-11-16T13:47:36.626Z,53.208,159.7802,60.216,5.1,mb,88.0,77.0,0.706,0.92,us,us7000ns62,2024-11-16T14:03:47.040Z,"78 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.24,6.26,0.031,334.0,reviewed,us,us
+2024-11-15T19:44:10.970Z,36.017333333333,-91.323166666667,8.59,2.08,md,14.0,138.0,0.1468,0.22,nm,nm60593876,2024-11-16T14:19:20.430Z,"5 km N of Strawberry, Arkansas",earthquake,0.5,1.95,0.05825730669125,11.0,reviewed,nm,nm
