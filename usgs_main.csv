@@ -5637,3 +5637,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T08:42:48.970Z,18.0005,-66.838,11.92,2.3,md,10.0,147.0,0.04017,0.12,pr,pr71465828,2024-11-16T08:55:28.750Z,"2 km WNW of Indios, Puerto Rico",earthquake,0.43,0.67,0.034786100748491,4.0,reviewed,pr,pr
 2024-11-16T09:19:48.757Z,31.581,-104.016,6.3465,1.8,ml,14.0,48.0,0.0,0.2,tx,tx2024wnjl,2024-11-16T09:26:03.015Z,"36 km NW of Toyah, Texas",earthquake,0.0,2.4097731113434,0.2,12.0,automatic,tx,tx
 2024-11-16T09:12:42.370Z,33.4136667,-116.5718333,8.48,0.67,ml,36.0,78.0,0.0625,0.14,ci,ci40793983,2024-11-16T09:17:36.116Z,"16 km NNE of Warner Springs, CA",earthquake,0.18,0.42,0.107,13.0,automatic,ci,ci
+2024-11-16T09:34:46.296Z,60.9444,-150.843,17.3,2.5,ml,,,,0.5,ak,ak024er12ovp,2024-11-16T09:36:25.202Z,"8 km WNW of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-11-16T09:33:31.103Z,64.5503,-147.0902,8.5,0.8,ml,,,,1.43,ak,ak024er12fz9,2024-11-16T09:35:57.349Z,"9 km WNW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-11-16T09:28:31.083Z,36.76447296,-98.05569458,1.246767879,3.36,ml,103.0,88.35085106,0.0897449553,0.5749765895,ok,ok2024wnjt,2024-11-16T09:39:57.456Z,"8 km E of Nescatunga, Oklahoma",earthquake,1.564103083,1.114005358,0.35,55.0,automatic,ok,ok
