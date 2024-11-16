@@ -5722,3 +5722,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T19:38:11.937Z,62.2125,-151.8073,88.1,1.8,ml,,,,0.46,ak,ak024er71t54,2024-11-16T19:41:37.426Z,"32 km NW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-16T20:17:59.420Z,38.768165588379,-122.72666931152,3.9400000572205,0.85,md,9.0,108.0,0.006713,0.1,nc,nc75087066,2024-11-16T20:20:44.139Z,"3 km ESE of The Geysers, CA",earthquake,1.19,1.13999999,0.39,10.0,automatic,nc,nc
 2024-11-16T20:14:44.092Z,58.8738,-153.8734,0.0,2.0,ml,,,,1.15,ak,ak024er7i61l,2024-11-16T20:17:18.242Z,"81 km SE of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-11-16T20:30:10.980Z,19.166666030884,-155.47782897949,30.219999313354,2.18000007,md,38.0,94.0,0.0186,0.119999997,hv,hv74533067,2024-11-16T20:31:46.560Z,"4 km S of Pāhala, Hawaii",earthquake,0.56,0.680000007,0.219999999,13.0,automatic,hv,hv
