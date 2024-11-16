@@ -5653,3 +5653,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-15T17:43:56.519Z,28.961,-98.288,7.9346,1.4,ml,16.0,86.0,0.1,0.2,tx,tx2024wmeq,2024-11-16T11:31:48.766Z,"18 km E of Pleasanton, Texas",earthquake,0.92997632996123,2.6956219611591,0.2,13.0,reviewed,tx,tx
 2024-11-16T11:43:44.106Z,36.7355,-116.4327,9.3,-0.1,ml,11.0,244.08,0.081,0.2148,nn,nn00887627,2024-11-16T11:45:27.432Z,"34 km ESE of Beatty, Nevada",earthquake,,0.9,0.31,4.0,automatic,nn,nn
 2024-11-16T09:38:07.620Z,36.75416667,-98.06716667,7.55,1.38,ml,45.0,89.0,0.1016800469,0.15,ok,ok2024wnkb,2024-11-16T11:49:40.588Z,"7 km E of Nescatunga, Oklahoma",earthquake,,0.4,0.14,18.0,reviewed,ok,ok
+2024-11-16T12:18:22.810Z,19.154333114624,-155.48249816894,30.129999160767,1.84000003,md,22.0,218.0,0.0193,0.159999996,hv,hv74532667,2024-11-16T12:20:03.710Z,"5 km S of Pāhala, Hawaii",earthquake,0.77,0.74000001,0.129999995,4.0,automatic,hv,hv
+2024-11-16T12:15:55.457Z,63.1449,-144.4833,0.0,1.8,ml,,,,1.1,ak,ak024er2qxse,2024-11-16T12:18:38.632Z,"43 km NW of Mentasta Lake, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-11-16T11:58:33.679Z,-5.2916,151.3228,105.108,4.9,mb,42.0,67.0,1.377,0.96,us,us7000ns5m,2024-11-16T12:15:09.040Z,"134 km ENE of Kimbe, Papua New Guinea",earthquake,8.79,7.054,0.095,35.0,reviewed,us,us
+2024-11-16T11:53:39.915Z,60.4593,-151.1194,35.2,2.2,ml,,,,0.61,ak,ak024er2dm7b,2024-11-16T11:55:47.310Z,"4 km SW of Soldotna, Alaska",earthquake,,9.9,,,automatic,ak,ak
+2024-11-16T11:53:13.121Z,68.7669,-146.2067,0.0,1.9,ml,,,,0.93,ak,ak024er2dk7m,2024-11-16T11:55:50.011Z,"76 km NNW of Arctic Village, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-11-16T11:51:01.270Z,37.700164794922,-122.01399993897,7.6199998855591,1.46,md,15.0,81.0,0.08687,0.08,nc,nc75087001,2024-11-16T12:09:29.891Z,"4 km ENE of Fairview, CA",earthquake,0.29,0.660000026,0.18,9.0,automatic,nc,nc
+2024-11-16T11:48:02.230Z,34.1621667,-116.7278333,1.11,0.81,ml,31.0,82.0,0.14,0.15,ci,ci40793999,2024-11-16T11:52:19.940Z,"15 km SE of Big Bear City, CA",earthquake,0.2,0.43,0.174,14.0,automatic,ci,ci
+2024-11-16T11:28:42.100Z,18.677666666667,-67.523,5.01,3.35,md,32.0,185.0,0.4064,0.29,pr,pr71465863,2024-11-16T12:08:58.120Z,"47 km NW of Rincón, Puerto Rico",earthquake,0.65,0.78,0.085501026461027,16.0,reviewed,pr,pr
