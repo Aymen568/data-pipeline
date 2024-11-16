@@ -5677,3 +5677,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T14:30:57.720Z,33.5228333,-116.7371667,3.54,0.82,ml,40.0,40.0,0.04245,0.13,ci,ci40794047,2024-11-16T14:35:44.659Z,"7 km WSW of Anza, CA",earthquake,0.13,0.36,0.178,24.0,automatic,ci,ci
 2024-11-16T14:20:26.310Z,19.166666030884,-155.47517395019,31.0,1.72000003,md,40.0,153.0,0.01667,0.109999999,hv,hv74532772,2024-11-16T14:22:11.240Z,"4 km S of Pāhala, Hawaii",earthquake,0.55,0.589999974,0.0700000003,6.0,automatic,hv,hv
 2024-11-16T07:03:06.784Z,14.2491,-93.0933,10.0,4.9,mww,98.0,152.0,1.599,1.1,us,us7000ns4l,2024-11-16T14:30:58.040Z,"89 km SW of Puerto Madero, Mexico",earthquake,6.69,1.898,0.051,37.0,reviewed,us,us
+2024-11-16T14:46:31.464Z,59.3703,-153.0249,68.4,2.2,ml,,,,0.29,ak,ak024er44ecq,2024-11-16T14:49:01.721Z,"62 km W of Nanwalek, Alaska",earthquake,,1.0,,,automatic,ak,ak
