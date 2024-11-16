@@ -5613,3 +5613,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T05:21:12.060Z,33.5273333,-116.7358333,2.58,0.46,ml,19.0,57.0,0.03799,0.1,ci,ci40793903,2024-11-16T05:25:09.984Z,"6 km WSW of Anza, CA",earthquake,0.16,0.21,0.092,6.0,automatic,ci,ci
 2024-11-16T05:18:13.260Z,33.1938333,-116.1768333,6.39,1.27,ml,50.0,69.0,0.03877,0.2,ci,ci40793895,2024-11-16T05:21:44.618Z,"7 km NW of Ocotillo Wells, CA",earthquake,0.21,0.48,0.151,30.0,automatic,ci,ci
 2024-11-16T05:01:53.230Z,18.192,-67.278666666667,17.48,3.03,md,18.0,223.0,0.1297,0.18,pr,pr71465813,2024-11-16T05:19:43.530Z,"14 km SW of La Playa, Puerto Rico",earthquake,0.67,0.44,0.11735683576554,9.0,reviewed,pr,pr
+2024-11-16T05:45:09.628Z,36.3269,-115.8498,5.8,0.8,ml,12.0,278.78,0.347,0.2099,nn,nn00887625,2024-11-16T05:47:36.518Z,"17 km NE of Pahrump, Nevada",earthquake,,1.5,0.44,6.0,automatic,nn,nn
+2024-11-16T05:23:12.967Z,28.95,-98.31,4.4189,2.8,ml,28.0,67.0,0.1,0.2,tx,tx2024wnbq,2024-11-16T05:46:47.814Z,"16 km E of Pleasanton, Texas",earthquake,0.883675013794,2.2400157325706,0.1,14.0,reviewed,tx,tx
