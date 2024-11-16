@@ -5711,3 +5711,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T18:03:32.060Z,33.3255,-116.2105,11.34,1.19,ml,54.0,24.0,0.1312,0.19,ci,ci40794143,2024-11-16T18:07:44.896Z,"17 km ENE of Borrego Springs, CA",earthquake,0.16,0.41,0.105,25.0,automatic,ci,ci
 2024-11-16T18:25:27.713Z,6.8052,-73.0505,150.171,4.4,mb,39.0,74.0,0.907,0.58,us,us7000ns6u,2024-11-16T18:43:52.040Z,"9 km NNE of Jordán, Colombia",earthquake,7.98,9.206,0.093,33.0,reviewed,us,us
 2024-11-16T18:35:15.986Z,-0.188,99.4138,92.465,4.7,mb,27.0,176.0,4.849,0.34,us,us7000ns6v,2024-11-16T18:53:25.040Z,"91 km WNW of Pariaman, Indonesia",earthquake,4.81,8.854,0.137,17.0,reviewed,us,us
+2024-11-16T19:09:25.523Z,63.4381,-148.6103,0.0,1.8,ml,,,,0.59,ak,ak024er6vmfc,2024-11-16T19:11:21.919Z,"17 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-16T18:59:38.180Z,38.823833465576,-122.80966949463,1.289999961853,0.76,md,12.0,98.0,0.0005399,0.03,nc,nc75087041,2024-11-16T19:01:13.643Z,"7 km NNW of The Geysers, CA",earthquake,0.29,0.649999976,0.49,13.0,automatic,nc,nc
+2024-11-16T18:54:17.790Z,34.0488333,-117.5653333,6.98,1.72,ml,69.0,22.0,0.03818,0.17,ci,ci40794183,2024-11-16T19:05:20.860Z,"6 km E of Ontario, CA",earthquake,0.13,0.28,0.172,27.0,automatic,ci,ci
