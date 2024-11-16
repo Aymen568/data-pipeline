@@ -5691,3 +5691,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T15:49:05.420Z,33.9391667,-116.026,6.26,1.11,ml,31.0,52.0,0.06549,0.14,ci,ci40794079,2024-11-16T15:52:35.363Z,"23 km S of Twentynine Palms, CA",earthquake,0.22,0.51,0.134,24.0,automatic,ci,ci
 2024-11-16T15:44:02.956Z,-14.8942,167.2523,157.75,4.8,mb,37.0,82.0,6.295,0.86,us,us7000ns6f,2024-11-16T15:59:29.040Z,"25 km NE of Port-Olry, Vanuatu",earthquake,4.22,8.179,0.103,29.0,reviewed,us,us
 2024-11-16T15:28:40.149Z,1.4045,98.3457,88.978,4.7,mb,38.0,179.0,4.047,0.84,us,us7000ns6d,2024-11-16T15:52:36.040Z,"61 km SW of Sibolga, Indonesia",earthquake,10.15,8.732,0.079,49.0,reviewed,us,us
+2024-11-16T16:30:33.080Z,34.2386665,-117.2129974,4.1,1.19,ml,19.0,164.0,0.01915,0.17,ci,ci40794103,2024-11-16T16:32:56.604Z,"2 km WSW of Lake Arrowhead, CA",earthquake,0.72,0.43,0.341,9.0,automatic,ci,ci
+2024-11-16T16:27:53.590Z,33.4753342,-116.7811661,3.73,1.31,ml,42.0,34.0,0.03598,0.19,ci,ci40794095,2024-11-16T16:30:01.585Z,"9 km ENE of Aguanga, CA",earthquake,0.25,0.75,0.136,16.0,automatic,ci,ci
+2024-11-16T16:12:12.468Z,58.8422,-153.7588,8.9,2.3,ml,,,,0.37,ak,ak024er53xr2,2024-11-16T16:13:56.766Z,"88 km SE of Kokhanok, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-16T14:51:49.040Z,19.3806,-68.2146,130.0,3.82,md,10.0,213.0,1.651,0.46,pr,pr2024321000,2024-11-16T16:18:23.309Z,"90 km NNE of Punta Cana, Dominican Republic",earthquake,8.02,8.99,0.06,6.0,reviewed,pr,pr
+2024-11-16T06:02:00.980Z,46.041,-111.42316666667,7.18,1.8,ml,21.0,65.0,0.1832,0.12,mb,mb90066118,2024-11-16T16:13:54.080Z,"4 km WNW of Ponderosa Pines, Montana",earthquake,0.26,1.91,0.1977481497486,29.0,reviewed,mb,mb
+2024-11-16T04:59:57.150Z,44.849833333333,-111.39566666667,8.4,0.75,ml,14.0,62.0,0.03105,0.19,mb,mb90066113,2024-11-16T16:24:16.710Z,"18 km WNW of Hebgen Lake Estates, Montana",earthquake,0.38,0.74,0.16674077545157,10.0,reviewed,mb,mb
