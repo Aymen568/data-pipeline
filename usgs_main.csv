@@ -5648,3 +5648,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T10:12:06.530Z,58.865,-153.8879,9.5,1.9,ml,,,,0.56,ak,ak024er1jbnx,2024-11-16T10:14:37.248Z,"81 km SE of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-16T09:50:16.497Z,17.7545,-61.5279,29.485,4.8,mb,62.0,56.0,0.26,0.59,us,us7000ns58,2024-11-16T10:13:06.040Z,"33 km ENE of Codrington, Antigua and Barbuda",earthquake,6.71,5.019,0.051,119.0,reviewed,us,us
 2024-11-16T09:48:47.446Z,17.7965,-61.4635,24.14,4.5,mb,48.0,89.0,0.332,0.45,us,us7000ns57,2024-11-16T11:04:43.040Z,"42 km ENE of Codrington, Antigua and Barbuda",earthquake,5.49,3.823,0.093,34.0,reviewed,us,us
+2024-11-16T11:22:15.796Z,61.6723,-148.1401,17.2,1.1,ml,,,,0.49,ak,ak024er26x57,2024-11-16T11:24:33.759Z,"21 km SE of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
