@@ -5629,3 +5629,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T07:48:30.000Z,33.8035,-116.9028333,8.43,1.11,ml,52.0,28.0,0.05436,0.2,ci,ci40793959,2024-11-16T07:52:46.197Z,"6 km ENE of San Jacinto, CA",earthquake,0.21,0.63,0.238,31.0,automatic,ci,ci
 2024-11-16T08:37:11.700Z,34.0455017,-116.6405029,11.13,1.1,ml,36.0,58.0,0.009313,0.12,ci,ci40793967,2024-11-16T08:39:14.163Z,"6 km W of Morongo Valley, CA",earthquake,0.25,0.5,0.195,11.0,automatic,ci,ci
 2024-11-16T08:34:11.470Z,60.5198,-144.8619,17.2,1.9,ml,,,,1.16,ak,ak024er0h6l7,2024-11-16T08:36:00.569Z,"49 km E of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-11-16T08:45:36.201Z,61.9478,-148.8933,8.2,1.5,ml,,,,0.56,ak,ak024er0jldg,2024-11-16T08:47:25.885Z,"20 km NNW of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-16T08:22:26.677Z,-12.2641,166.617,121.078,5.4,mww,100.0,29.0,7.127,0.98,us,us7000ns4s,2024-11-16T08:50:49.741Z,"192 km SSE of Lata, Solomon Islands",earthquake,9.38,5.009,0.066,22.0,reviewed,us,us
