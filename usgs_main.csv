@@ -5627,3 +5627,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T07:33:59.700Z,19.324167251587,-155.85282897949,-1.1799999475479,2.02999997,md,27.0,167.0,0.06244,0.289999992,hv,hv74532477,2024-11-16T07:37:05.563Z,"14 km S of Honaunau-Napoopoo, Hawaii",earthquake,1.03,0.720000029,0.140000001,4.0,automatic,hv,hv
 2024-11-16T07:48:48.621Z,37.3136,-115.1878,2.2,0.8,ml,11.0,174.32,0.143,0.4226,nn,nn00887626,2024-11-16T07:51:06.719Z,"6 km SSW of Alamo, Nevada",earthquake,,17.6,0.29,5.0,automatic,nn,nn
 2024-11-16T07:48:30.000Z,33.8035,-116.9028333,8.43,1.11,ml,52.0,28.0,0.05436,0.2,ci,ci40793959,2024-11-16T07:52:46.197Z,"6 km ENE of San Jacinto, CA",earthquake,0.21,0.63,0.238,31.0,automatic,ci,ci
+2024-11-16T08:37:11.700Z,34.0455017,-116.6405029,11.13,1.1,ml,36.0,58.0,0.009313,0.12,ci,ci40793967,2024-11-16T08:39:14.163Z,"6 km W of Morongo Valley, CA",earthquake,0.25,0.5,0.195,11.0,automatic,ci,ci
+2024-11-16T08:34:11.470Z,60.5198,-144.8619,17.2,1.9,ml,,,,1.16,ak,ak024er0h6l7,2024-11-16T08:36:00.569Z,"49 km E of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
