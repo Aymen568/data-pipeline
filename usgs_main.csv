@@ -5643,3 +5643,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T09:46:58.605Z,61.0607,-147.5288,2.7,1.1,ml,,,,0.46,ak,ak024er15af8,2024-11-16T09:48:53.210Z,"50 km WNW of Tatitlek, Alaska",earthquake,,8.5,,,automatic,ak,ak
 2024-11-16T10:10:17.122Z,58.8386,-153.7485,9.9,2.1,ml,,,,0.43,ak,ak024er1ix1s,2024-11-16T10:11:59.068Z,"89 km SE of Kokhanok, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-16T09:28:51.260Z,18.341,-65.8175,122.08,3.16,md,18.0,174.0,0.1967,0.2,pr,pr71465833,2024-11-16T10:04:00.030Z,"3 km SE of Bartolo, Puerto Rico",earthquake,2.03,0.68,0.24153185044407,15.0,reviewed,pr,pr
+2024-11-16T10:20:45.080Z,19.154832839966,-155.50582885742,33.729999542236,2.1500001,md,40.0,199.0,0.04133,0.119999997,hv,hv74532582,2024-11-16T10:22:29.060Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.81,0.699999988,0.170000002,10.0,automatic,hv,hv
+2024-11-16T10:13:44.600Z,34.7355,-116.2961667,6.41,1.21,ml,14.0,66.0,0.09898,0.16,ci,ci40793991,2024-11-16T10:17:23.232Z,"12 km W of Ludlow, CA",earthquake,0.27,0.76,0.151,14.0,automatic,ci,ci
+2024-11-16T10:12:06.530Z,58.865,-153.8879,9.5,1.9,ml,,,,0.56,ak,ak024er1jbnx,2024-11-16T10:14:37.248Z,"81 km SE of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-11-16T09:50:16.497Z,17.7545,-61.5279,29.485,4.8,mb,62.0,56.0,0.26,0.59,us,us7000ns58,2024-11-16T10:13:06.040Z,"33 km ENE of Codrington, Antigua and Barbuda",earthquake,6.71,5.019,0.051,119.0,reviewed,us,us
