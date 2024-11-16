@@ -5603,3 +5603,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T04:14:02.312Z,28.9758,-98.3288,5.0,3.2,mb_lg,16.0,60.0,0.267,0.83,us,us7000ns3z,2024-11-16T04:20:08.040Z,"14 km E of Pleasanton, Texas",earthquake,2.39,1.921,0.06,72.0,reviewed,us,us
 2024-11-16T03:53:59.614Z,36.6736,-117.4516,10.1,0.9,ml,12.0,304.47,0.454,0.2547,nn,nn00887623,2024-11-16T03:56:25.864Z,"43 km ENE of Keeler, California",earthquake,,2.2,0.57,6.0,automatic,nn,nn
 2024-11-16T03:51:18.136Z,-19.0652,-177.6121,535.155,4.6,mb,32.0,133.0,3.859,0.76,us,us7000ns3y,2024-11-16T04:15:10.040Z,Fiji region,earthquake,15.74,10.026,0.122,22.0,reviewed,us,us
+2024-11-16T05:11:12.420Z,33.518,-116.7431667,2.75,1.84,ml,87.0,18.0,0.04753,0.2,ci,ci40793887,2024-11-16T05:15:41.941Z,"8 km WSW of Anza, CA",earthquake,0.12,0.29,0.143,27.0,automatic,ci,ci
+2024-11-16T05:01:57.499Z,59.1034,-152.4237,49.4,2.9,ml,,,,0.52,ak,ak024eqyhwnv,2024-11-16T05:03:46.769Z,"40 km SW of Nanwalek, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-11-16T04:55:50.621Z,60.1823,-151.352,60.7,1.7,ml,,,,0.29,ak,ak024eqy8186,2024-11-16T04:57:29.422Z,"5 km SSE of Clam Gulch, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-11-16T04:14:01.454Z,28.987,-98.336,1.416,3.1,ml,28.0,66.0,0.1,0.2,tx,tx2024wmzu,2024-11-16T05:06:07.720Z,"14 km E of Pleasanton, Texas",earthquake,1.2313234850153,1.652607628973,0.1,14.0,reviewed,tx,tx
+2024-11-15T20:58:50.184Z,28.939,-98.304,1.0986,2.0,ml,21.0,71.0,0.1,0.2,tx,tx2024wmla,2024-11-16T05:16:55.406Z,"17 km E of Pleasanton, Texas",earthquake,1.1243784527066,2.0269248716704,0.1,11.0,reviewed,tx,tx
