@@ -5674,3 +5674,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T13:02:09.227Z,28.9747,-98.3235,7.528,3.5,mb_lg,17.0,60.0,0.269,0.83,us,us7000ns5r,2024-11-16T13:57:03.839Z,"15 km E of Pleasanton, Texas",earthquake,1.89,5.378,0.05,104.0,reviewed,us,us
 2024-11-16T13:47:36.626Z,53.208,159.7802,60.216,5.1,mb,88.0,77.0,0.706,0.92,us,us7000ns62,2024-11-16T14:03:47.040Z,"78 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.24,6.26,0.031,334.0,reviewed,us,us
 2024-11-15T19:44:10.970Z,36.017333333333,-91.323166666667,8.59,2.08,md,14.0,138.0,0.1468,0.22,nm,nm60593876,2024-11-16T14:19:20.430Z,"5 km N of Strawberry, Arkansas",earthquake,0.5,1.95,0.05825730669125,11.0,reviewed,nm,nm
+2024-11-16T14:30:57.720Z,33.5228333,-116.7371667,3.54,0.82,ml,40.0,40.0,0.04245,0.13,ci,ci40794047,2024-11-16T14:35:44.659Z,"7 km WSW of Anza, CA",earthquake,0.13,0.36,0.178,24.0,automatic,ci,ci
+2024-11-16T14:20:26.310Z,19.166666030884,-155.47517395019,31.0,1.72000003,md,40.0,153.0,0.01667,0.109999999,hv,hv74532772,2024-11-16T14:22:11.240Z,"4 km S of Pāhala, Hawaii",earthquake,0.55,0.589999974,0.0700000003,6.0,automatic,hv,hv
+2024-11-16T07:03:06.784Z,14.2491,-93.0933,10.0,4.9,mww,98.0,152.0,1.599,1.1,us,us7000ns4l,2024-11-16T14:30:58.040Z,"89 km SW of Puerto Madero, Mexico",earthquake,6.69,1.898,0.051,37.0,reviewed,us,us
