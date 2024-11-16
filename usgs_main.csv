@@ -5615,3 +5615,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T05:01:53.230Z,18.192,-67.278666666667,17.48,3.03,md,18.0,223.0,0.1297,0.18,pr,pr71465813,2024-11-16T05:19:43.530Z,"14 km SW of La Playa, Puerto Rico",earthquake,0.67,0.44,0.11735683576554,9.0,reviewed,pr,pr
 2024-11-16T05:45:09.628Z,36.3269,-115.8498,5.8,0.8,ml,12.0,278.78,0.347,0.2099,nn,nn00887625,2024-11-16T05:47:36.518Z,"17 km NE of Pahrump, Nevada",earthquake,,1.5,0.44,6.0,automatic,nn,nn
 2024-11-16T05:23:12.967Z,28.95,-98.31,4.4189,2.8,ml,28.0,67.0,0.1,0.2,tx,tx2024wnbq,2024-11-16T05:46:47.814Z,"16 km E of Pleasanton, Texas",earthquake,0.883675013794,2.2400157325706,0.1,14.0,reviewed,tx,tx
+2024-11-16T06:10:35.310Z,35.3863333,-117.7528333,6.3,1.22,ml,37.0,40.0,0.1095,0.16,ci,ci40793935,2024-11-16T06:20:54.070Z,"11 km W of Johannesburg, CA",earthquake,0.17,0.64,0.135,25.0,automatic,ci,ci
+2024-11-16T06:00:51.080Z,34.0228333,-117.2055,13.88,1.33,ml,62.0,50.0,0.07833,0.15,ci,ci40793927,2024-11-16T06:11:49.430Z,"4 km SSW of Redlands, CA",earthquake,0.15,0.29,0.232,27.0,automatic,ci,ci
