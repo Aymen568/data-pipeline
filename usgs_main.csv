@@ -5714,3 +5714,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T19:09:25.523Z,63.4381,-148.6103,0.0,1.8,ml,,,,0.59,ak,ak024er6vmfc,2024-11-16T19:11:21.919Z,"17 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-16T18:59:38.180Z,38.823833465576,-122.80966949463,1.289999961853,0.76,md,12.0,98.0,0.0005399,0.03,nc,nc75087041,2024-11-16T19:01:13.643Z,"7 km NNW of The Geysers, CA",earthquake,0.29,0.649999976,0.49,13.0,automatic,nc,nc
 2024-11-16T18:54:17.790Z,34.0488333,-117.5653333,6.98,1.72,ml,69.0,22.0,0.03818,0.17,ci,ci40794183,2024-11-16T19:05:20.860Z,"6 km E of Ontario, CA",earthquake,0.13,0.28,0.172,27.0,automatic,ci,ci
+2024-11-16T19:24:08.080Z,36.042835235596,-121.04083251953,11.829999923706,1.14,md,7.0,181.0,0.11,0.04,nc,nc75087046,2024-11-16T19:25:49.843Z,"10 km SSW of San Lucas, CA",earthquake,0.63,1.13999999,0.21,3.0,automatic,nc,nc
