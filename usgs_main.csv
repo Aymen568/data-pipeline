@@ -5661,3 +5661,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T11:51:01.270Z,37.700164794922,-122.01399993897,7.6199998855591,1.46,md,15.0,81.0,0.08687,0.08,nc,nc75087001,2024-11-16T12:09:29.891Z,"4 km ENE of Fairview, CA",earthquake,0.29,0.660000026,0.18,9.0,automatic,nc,nc
 2024-11-16T11:48:02.230Z,34.1621667,-116.7278333,1.11,0.81,ml,31.0,82.0,0.14,0.15,ci,ci40793999,2024-11-16T11:52:19.940Z,"15 km SE of Big Bear City, CA",earthquake,0.2,0.43,0.174,14.0,automatic,ci,ci
 2024-11-16T11:28:42.100Z,18.677666666667,-67.523,5.01,3.35,md,32.0,185.0,0.4064,0.29,pr,pr71465863,2024-11-16T12:08:58.120Z,"47 km NW of Rincón, Puerto Rico",earthquake,0.65,0.78,0.085501026461027,16.0,reviewed,pr,pr
+2024-11-16T12:22:17.713Z,41.0115,140.9548,11.86,5.0,mb,81.0,101.0,0.237,0.71,us,us7000ns5p,2024-11-16T12:52:35.040Z,"10 km N of Hiranai, Japan",earthquake,7.0,3.622,0.032,308.0,reviewed,us,us
