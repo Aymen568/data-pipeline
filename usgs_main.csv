@@ -5666,3 +5666,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T13:10:10.101Z,64.5102,-151.2845,0.0,1.7,ml,,,,0.99,ak,ak024er3b7b5,2024-11-16T13:13:07.109Z,"62 km SSW of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-16T13:02:07.834Z,28.95,-98.296,6.5186,3.6,ml,33.0,62.0,0.1,0.2,tx,tx2024wnqu,2024-11-16T13:20:40.640Z,"17 km E of Pleasanton, Texas",earthquake,1.0014570608496,2.105614954692,0.1,31.0,reviewed,tx,tx
 2024-11-16T12:49:43.820Z,35.67533493042,-89.674835205078,12.840000152588,2.43000007,md,28.0,104.0,,0.270000011,nm,nm60593916,2024-11-16T13:13:00.476Z,"9 km W of Henning, Tennessee",earthquake,0.81,1.33000004,1.01999998,23.0,reviewed,nm,nm
+2024-11-16T13:32:46.710Z,61.6208,-149.9673,42.5,2.1,ml,,,,0.32,ak,ak024er3fzwf,2024-11-16T13:34:21.962Z,"7 km W of Houston, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-11-16T13:31:31.010Z,38.785999298096,-122.72233581543,2.4800000190735,2.64,md,49.0,66.0,,0.17,nc,nc75087006,2024-11-16T13:35:36.750Z,"3 km NW of Anderson Springs, CA",earthquake,0.23,1.19000006,0.11,55.0,automatic,nc,nc
+2024-11-16T13:20:29.576Z,36.8208,-116.1163,7.0,0.3,ml,18.0,107.43,0.061,0.1388,nn,nn00887628,2024-11-16T13:22:09.182Z,"48 km NW of Indian Springs, Nevada",earthquake,,0.6,0.23,12.0,automatic,nn,nn
