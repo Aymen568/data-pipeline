@@ -5899,3 +5899,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-17T20:26:53.590Z,33.9521667,-117.065,9.05,1.05,ml,44.0,33.0,0.08972,0.16,ci,ci40794967,2024-11-17T20:31:06.496Z,"4 km SSW of Calimesa, CA",earthquake,0.16,0.56,0.138,28.0,automatic,ci,ci
 2024-11-17T20:23:03.230Z,33.6803333,-116.6791667,16.09,0.64,ml,25.0,93.0,0.01225,0.11,ci,ci40794959,2024-11-17T20:27:18.283Z,"8 km SSE of Idyllwild, CA",earthquake,0.23,0.35,0.108,10.0,automatic,ci,ci
 2024-11-17T08:02:14.460Z,59.356,-153.441,0.63,0.62,ml,8.0,120.0,0.006887,0.16,av,av93368698,2024-11-17T20:44:20.210Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.32,0.57,0.16412083917054,7.0,reviewed,av,av
+2024-11-17T20:49:49.420Z,64.9567,-147.5001,0.0,1.4,ml,,,,1.0,ak,ak024esv910e,2024-11-17T20:53:08.791Z,"5 km E of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
