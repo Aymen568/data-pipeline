@@ -5857,3 +5857,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-17T15:42:33.864Z,60.1553,-152.4346,86.4,3.2,ml,,,,0.19,ak,ak024ess8bru,2024-11-17T15:43:46.684Z,"44 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-17T16:17:33.660Z,19.485834121704,-155.43432617188,1.8300000429153,2.28999996,md,22.0,101.0,0.04615,0.140000001,hv,hv74533652,2024-11-17T16:19:09.280Z,"21 km WNW of Volcano, Hawaii",earthquake,0.32,1.39999998,0.140000001,3.0,automatic,hv,hv
 2024-11-17T16:03:29.711Z,38.0722,-115.9998,3.2,1.8,ml,16.0,154.24,0.873,0.2702,nn,nn00887651,2024-11-17T16:06:14.799Z,"52 km NNW of Rachel, Nevada",earthquake,,3.6,0.32,10.0,automatic,nn,nn
+2024-11-17T16:32:20.851Z,37.5567,-117.2536,7.2,1.1,ml,11.0,162.91,0.256,0.2866,nn,nn00887655,2024-11-17T16:34:43.528Z,"16 km S of Goldfield, Nevada",earthquake,,2.4,0.26,7.0,automatic,nn,nn
+2024-11-17T16:29:45.303Z,36.10189438,-97.86964417,1.450751662,2.39,ml,62.0,38.02258301,0.1199565902,0.6780904655,ok,ok2024wptd,2024-11-17T16:39:42.111Z,"2 km ESE of Hennessey, Oklahoma",earthquake,1.4179261,1.241169184,0.31,39.0,automatic,ok,ok
