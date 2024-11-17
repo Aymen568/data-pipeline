@@ -5853,3 +5853,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-17T01:19:46.910Z,44.848666666667,-111.39033333333,6.91,1.27,ml,15.0,165.0,0.03347,0.09,mb,mb90066138,2024-11-17T15:10:35.410Z,"18 km WNW of Hebgen Lake Estates, Montana",earthquake,0.38,0.36,0.24886818003044,15.0,reviewed,mb,mb
 2024-11-17T11:03:18.920Z,44.3405,-115.1475,4.53,0.9,ml,7.0,127.0,0.3188,0.11,mb,mb90066148,2024-11-17T15:20:12.890Z,"21 km NW of Stanley, Idaho",earthquake,0.47,2.77,0.40243965980884,6.0,reviewed,mb,mb
 2024-11-17T09:34:35.360Z,44.334,-115.18866666667,8.07,1.92,ml,15.0,68.0,0.3352,0.15,mb,mb90066143,2024-11-17T15:31:05.750Z,"23 km WNW of Stanley, Idaho",earthquake,0.38,0.84,0.18846158876062,20.0,reviewed,mb,mb
+2024-11-17T15:50:33.610Z,38.823501586914,-122.85333251953,2.4900000095367,0.78,md,13.0,92.0,0.004894,0.02,nc,nc75087366,2024-11-17T15:52:12.032Z,"10 km NW of The Geysers, CA",earthquake,0.3,0.560000002,0.17,14.0,automatic,nc,nc
+2024-11-17T15:42:33.864Z,60.1553,-152.4346,86.4,3.2,ml,,,,0.19,ak,ak024ess8bru,2024-11-17T15:43:46.684Z,"44 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
