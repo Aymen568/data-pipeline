@@ -6098,3 +6098,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-18T19:35:31.310Z,38.773334503174,-122.71450042725,1.0900000333786,1.78,md,21.0,65.0,0.01296,0.07,nc,nc75087881,2024-11-18T19:37:10.251Z,"2 km W of Anderson Springs, CA",earthquake,0.25,0.419999987,0.12,24.0,automatic,nc,nc
 2024-11-18T19:28:30.933Z,32.3088,-101.8215,1.24,3.2,mb_lg,16.0,65.0,0.33,0.45,us,us7000nsh8,2024-11-18T19:46:06.040Z,"20 km N of Stanton, Texas",earthquake,1.48,6.019,0.059,89.0,reviewed,us,us
 2024-11-18T19:28:01.937Z,28.948,-98.302,3.6865,3.9,ml,28.0,73.0,0.1,0.1,tx,tx2024wrun,2024-11-18T19:48:27.390Z,"17 km E of Pleasanton, Texas",earthquake,0.59692825235711,1.4734443142832,0.1,35.0,reviewed,tx,tx
+2024-11-18T19:56:39.215Z,61.3034,-152.2991,4.1,2.1,ml,,,,0.54,ak,ak024eui8f4h,2024-11-18T19:58:21.500Z,"67 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
