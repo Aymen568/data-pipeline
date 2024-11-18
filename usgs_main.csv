@@ -6092,3 +6092,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-17T23:09:59.800Z,19.431666666667,-155.862,9.59,1.89,md,13.0,239.0,0.1667,0.12,hv,hv74533987,2024-11-18T19:10:55.380Z,"2 km S of Honaunau-Napoopoo, Hawaii",earthquake,0.69,1.02,0.16757875327722,7.0,reviewed,hv,hv
 2024-11-18T19:29:14.102Z,65.716,-149.6537,11.2,1.4,ml,,,,0.85,ak,ak024eui2kuq,2024-11-18T19:31:03.611Z,"33 km NE of Rampart, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-18T19:28:02.358Z,29.0047,-98.3033,5.0,3.9,mb_lg,18.0,57.0,0.303,0.64,us,us7000nsh7,2024-11-18T19:36:48.649Z,"17 km ENE of Pleasanton, Texas",earthquake,2.33,2.006,0.052,99.0,reviewed,us,us
+2024-11-18T19:41:38.626Z,61.1104,-152.1367,102.2,1.2,ml,,,,0.17,ak,ak024eui57c6,2024-11-18T19:42:52.015Z,"54 km W of Tyonek, Alaska",earthquake,,2.5,,,automatic,ak,ak
+2024-11-18T19:40:13.330Z,34.0413322,-116.8546677,2.21,1.85,ml,58.0,38.0,0.03942,0.2,ci,ci40795655,2024-11-18T19:42:23.248Z,"13 km N of Banning, CA",earthquake,0.22,0.45,0.214,26.0,automatic,ci,ci
+2024-11-18T19:40:09.720Z,34.1170006,-117.1435013,8.37,1.04,ml,20.0,70.0,0.1162,0.34,ci,ci40795647,2024-11-18T19:42:18.168Z,"5 km N of Mentone, CA",earthquake,0.99,2.5,0.425,6.0,automatic,ci,ci
+2024-11-18T19:35:31.310Z,38.773334503174,-122.71450042725,1.0900000333786,1.78,md,21.0,65.0,0.01296,0.07,nc,nc75087881,2024-11-18T19:37:10.251Z,"2 km W of Anderson Springs, CA",earthquake,0.25,0.419999987,0.12,24.0,automatic,nc,nc
+2024-11-18T19:28:30.933Z,32.3088,-101.8215,1.24,3.2,mb_lg,16.0,65.0,0.33,0.45,us,us7000nsh8,2024-11-18T19:46:06.040Z,"20 km N of Stanton, Texas",earthquake,1.48,6.019,0.059,89.0,reviewed,us,us
+2024-11-18T19:28:01.937Z,28.948,-98.302,3.6865,3.9,ml,28.0,73.0,0.1,0.1,tx,tx2024wrun,2024-11-18T19:48:27.390Z,"17 km E of Pleasanton, Texas",earthquake,0.59692825235711,1.4734443142832,0.1,35.0,reviewed,tx,tx
