@@ -5997,3 +5997,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-18T08:34:51.720Z,34.8473333,-118.9525,11.17,1.11,ml,26.0,77.0,0.07331,0.24,ci,ci40795327,2024-11-18T08:39:57.075Z,"3 km NNW of Frazier Park, CA",earthquake,0.34,0.71,0.183,16.0,automatic,ci,ci
 2024-11-18T08:32:07.440Z,38.78150177002,-122.72483062744,1.6699999570847,1.27,md,8.0,158.0,0.009456,0.01,nc,nc75087726,2024-11-18T08:33:44.101Z,"3 km E of The Geysers, CA",earthquake,0.41,0.730000019,0.5,8.0,automatic,nc,nc
 2024-11-18T08:28:37.470Z,33.8728333,-117.8735,11.42,1.18,ml,28.0,106.0,0.04079,0.21,ci,ci40795319,2024-11-18T08:34:06.092Z,"0 km WNW of Placentia, CA",earthquake,0.72,0.59,0.323,35.0,automatic,ci,ci
+2024-11-18T09:22:32.309Z,37.1046,-115.1954,12.6,1.4,ml,21.0,156.26,0.323,0.3397,nn,nn00887669,2024-11-18T09:25:07.925Z,"29 km S of Alamo, Nevada",earthquake,,1.0,0.12,13.0,automatic,nn,nn
+2024-11-18T09:16:54.240Z,34.3841667,-119.074,24.78,1.56,ml,47.0,37.0,0.07085,0.25,ci,ci40795335,2024-11-18T09:21:50.769Z,"4 km NNW of Santa Paula, CA",earthquake,0.28,0.66,0.155,29.0,automatic,ci,ci
+2024-11-18T05:06:32.753Z,-22.2715,-67.8699,173.974,4.4,mb,30.0,48.0,0.735,0.51,us,us7000nsct,2024-11-18T09:29:58.040Z,"78 km NNE of San Pedro de Atacama, Chile",earthquake,5.78,7.429,0.134,16.0,reviewed,us,us
