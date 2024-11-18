@@ -6062,3 +6062,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-18T00:04:18.900Z,46.483333333333,-112.1045,1.46,0.7,ml,6.0,127.0,0.2242,0.06,mb,mb90066218,2024-11-18T16:31:59.470Z,"9 km WNW of Clancy, Montana",earthquake,0.38,0.95,0.14350569961702,5.0,reviewed,mb,mb
 2024-11-17T23:55:46.510Z,44.6075,-110.32816666667,5.28,0.41,md,5.0,160.0,0.06651,0.31,uu,uu80001668,2024-11-18T16:43:46.840Z,"50 km SE of Mammoth, Wyoming",earthquake,1.72,5.38,0.30489031046761,2.0,reviewed,uu,uu
 2024-11-17T23:55:17.490Z,44.639833333333,-110.33816666667,4.18,0.74,md,10.0,86.0,0.08672,0.15,uu,uu80086746,2024-11-18T16:43:52.110Z,"47 km SE of Mammoth, Wyoming",earthquake,0.63,0.99,0.36187116170442,7.0,reviewed,uu,uu
+2024-11-18T16:50:24.510Z,35.6076667,-117.5858333,4.23,0.91,ml,18.0,85.0,0.07445,0.17,ci,ci40795519,2024-11-18T16:53:57.837Z,"8 km E of Ridgecrest, CA",earthquake,0.31,0.74,0.304,10.0,automatic,ci,ci
+2024-11-18T16:49:52.595Z,61.3077,-152.3121,7.1,1.8,ml,,,,0.34,ak,ak024eugenbv,2024-11-18T16:51:24.879Z,"68 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-18T16:47:16.100Z,64.3583,-149.716,19.9,1.5,ml,,,,0.22,ak,ak024euge52y,2024-11-18T16:49:44.235Z,"25 km W of Anderson, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-11-18T02:16:25.110Z,45.003,-113.0,3.01,1.24,ml,12.0,127.0,0.2056,0.18,mb,mb90066228,2024-11-18T16:49:40.220Z,"37 km SW of Dillon, Montana",earthquake,0.58,1.27,0.20745513218907,19.0,reviewed,mb,mb
+2024-11-17T21:37:30.575Z,28.954,-98.325,6.5674,1.6,ml,12.0,77.0,0.1,0.3,tx,tx2024wqdh,2024-11-18T16:54:13.600Z,"15 km E of Pleasanton, Texas",earthquake,2.1158340424848,3.1412544868576,0.1,6.0,reviewed,tx,tx
