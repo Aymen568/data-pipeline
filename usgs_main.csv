@@ -5952,3 +5952,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-18T02:18:50.212Z,15.039,147.0544,10.0,5.1,mb,42.0,137.0,1.235,0.9,us,us7000nsce,2024-11-18T02:58:56.083Z,"141 km E of Saipan, Northern Mariana Islands",earthquake,7.73,1.899,0.086,44.0,reviewed,us,us
 2024-11-18T03:26:59.260Z,38.838165283203,-122.8261642456,1.6499999761581,0.77,md,13.0,92.0,0.007293,0.01,nc,nc75087626,2024-11-18T03:37:15.200Z,"9 km NNW of The Geysers, CA",earthquake,0.27,0.74000001,0.17,13.0,automatic,nc,nc
 2024-11-18T02:56:59.450Z,19.589,-65.358333333333,72.98,3.36,md,9.0,280.0,1.288,0.28,pr,pr71466048,2024-11-18T03:25:31.700Z,"138 km NNE of Vieques, Puerto Rico",earthquake,4.92,12.12,0.11485284813954,4.0,reviewed,pr,pr
+2024-11-18T03:45:12.475Z,37.4387,-116.5242,6.3,1.2,ml,27.0,146.5,0.275,0.2744,nn,nn00887663,2024-11-18T03:47:27.823Z,"62 km NNE of Beatty, Nevada",earthquake,,1.7,0.31,16.0,automatic,nn,nn
