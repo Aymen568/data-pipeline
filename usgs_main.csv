@@ -6032,3 +6032,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-17T21:49:41.553Z,32.187,-100.998,4.0283,2.0,ml,30.0,75.0,0.3,0.1,tx,tx2024wqdr,2024-11-18T13:54:04.417Z,"18 km S of Westbrook, Texas",earthquake,0.55313629040094,2.0259915080044,0.2,22.0,reviewed,tx,tx
 2024-11-17T20:36:24.330Z,28.948,-98.323,8.2275,2.2,ml,17.0,69.0,0.1,0.1,tx,tx2024wqbg,2024-11-18T14:09:50.519Z,"15 km E of Pleasanton, Texas",earthquake,0.91468369822697,1.791552788137,0.1,23.0,reviewed,tx,tx
 2024-11-17T18:18:00.250Z,35.537,-96.74833333,6.48,0.98,ml,22.0,60.0,0.008998234239,0.16,ok,ok2024wpws,2024-11-18T14:15:12.174Z,"8 km NW of Prague, Oklahoma",earthquake,,0.3,0.19,8.0,reviewed,ok,ok
+2024-11-18T14:27:43.940Z,19.17183303833,-155.47782897949,29.670000076294,2.3599999,md,51.0,82.0,0.02208,0.129999995,hv,hv74534412,2024-11-18T14:29:26.210Z,"3 km S of Pāhala, Hawaii",earthquake,0.44,0.579999983,0.230000004,20.0,automatic,hv,hv
+2024-11-18T14:22:23.840Z,31.4895,-115.6171667,7.41,2.85,ml,8.0,112.0,0.1729,0.17,ci,ci40795431,2024-11-18T14:26:06.328Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.37,1.87,0.252,25.0,automatic,ci,ci
+2024-11-18T14:16:28.187Z,61.3003,-150.5224,27.5,1.8,ml,,,,0.65,ak,ak024euf0nlu,2024-11-18T14:18:54.679Z,"27 km S of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-18T06:06:54.953Z,40.3573,83.3324,10.0,4.7,mb,23.0,135.0,4.131,0.49,us,us7000nsd4,2024-11-18T14:24:44.040Z,"154 km SSE of Kuqa, China",earthquake,10.8,1.935,0.138,16.0,reviewed,us,us
+2024-11-17T18:14:53.840Z,35.53583333,-96.75416667,6.6,1.05,ml,34.0,75.0,0.01349735136,0.15,ok,ok2024wpwp,2024-11-18T14:25:28.183Z,"8 km NW of Prague, Oklahoma",earthquake,,0.3,0.21,14.0,reviewed,ok,ok
