@@ -5980,3 +5980,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-18T06:19:30.360Z,38.773166656494,-122.71900177002,1.2799999713898,2.32,md,45.0,66.0,,0.08,nc,nc75087681,2024-11-18T06:27:18.386Z,"2 km W of Anderson Springs, CA",earthquake,0.22,0.330000013,0.2,45.0,automatic,nc,nc
 2024-11-17T09:32:58.325Z,34.1414,-117.5008,5.856,2.7,ml,68.0,22.0,0.037,0.41,us,us7000ns9c,2024-11-18T06:32:01.040Z,"8 km NW of Fontana, California",earthquake,1.0,1.416,0.037,96.0,reviewed,us,us
 2024-11-17T09:24:23.624Z,-4.2945,153.5084,106.376,4.2,mb,20.0,154.0,1.345,1.05,us,us7000ns9b,2024-11-18T06:41:30.040Z,"137 km E of Kokopo, Papua New Guinea",earthquake,11.71,8.259,0.146,14.0,reviewed,us,us
+2024-11-18T06:44:47.570Z,38.794666290283,-122.78399658203,4.6399998664856,0.75,md,7.0,140.0,0.003405,0.08,nc,nc75087691,2024-11-18T06:46:23.305Z,"3 km NW of The Geysers, CA",earthquake,1.38,1.90999997,0.1,8.0,automatic,nc,nc
