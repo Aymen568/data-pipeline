@@ -6027,3 +6027,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-18T04:52:05.823Z,32.768,-100.674,7.9346,1.9,ml,10.0,74.0,0.1,0.1,tx,tx2024wqrq,2024-11-18T13:20:25.191Z,"16 km NNE of Hermleigh, Texas",earthquake,0.56859146787173,1.2195415601842,0.1,13.0,reviewed,tx,tx
 2024-11-18T03:48:27.392Z,28.952,-98.337,6.5674,1.9,ml,16.0,73.0,0.1,0.1,tx,tx2024wqpo,2024-11-18T13:39:12.323Z,"13 km E of Pleasanton, Texas",earthquake,0.50548008157738,1.331198846356,0.1,30.0,reviewed,tx,tx
 2024-11-17T17:03:02.537Z,31.939,-102.032,9.0332,2.0,ml,13.0,83.0,0.1,0.1,tx,tx2024wpuf,2024-11-18T13:29:09.253Z,"7 km SE of Midland, Texas",earthquake,0.62754675901895,1.1827193251311,0.2,14.0,reviewed,tx,tx
+2024-11-18T13:41:01.480Z,38.439834594727,-122.63566589356,9.4099998474121,2.1,md,52.0,36.0,,0.13,nc,nc75087801,2024-11-18T13:44:00.560Z,"6 km ESE of Santa Rosa, CA",earthquake,0.21,0.589999974,0.14,54.0,automatic,nc,nc
