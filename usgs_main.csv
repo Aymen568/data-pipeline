@@ -5972,3 +5972,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-18T05:32:08.320Z,35.7046667,-117.5456667,5.68,0.85,ml,21.0,63.0,0.1068,0.15,ci,ci40795239,2024-11-18T05:35:48.721Z,"15 km WSW of Searles Valley, CA",earthquake,0.24,1.01,0.138,11.0,automatic,ci,ci
 2024-11-18T05:25:12.100Z,34.5183333,-118.1008333,8.91,2.36,ml,96.0,17.0,0.03727,0.18,ci,ci40795231,2024-11-18T05:37:14.601Z,"2 km NE of Vincent, CA",earthquake,0.11,0.26,0.239,27.0,automatic,ci,ci
 2024-11-18T05:43:54.170Z,19.12166595459,-155.49749755859,33.319999694824,2.61999989,md,36.0,171.0,0.04739,0.170000002,hv,hv74534252,2024-11-18T05:45:34.490Z,"9 km SSW of Pāhala, Hawaii",earthquake,0.6,0.800000012,0.300000012,3.0,automatic,hv,hv
+2024-11-18T05:58:34.796Z,62.3909,-150.0868,22.4,2.5,ml,,,,0.6,ak,ak024eu9wr1r,2024-11-18T06:00:48.198Z,"6 km S of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-18T05:24:16.655Z,-56.5196,147.2637,10.0,4.9,mb,41.0,49.0,13.624,0.83,us,us7000nscz,2024-11-18T05:52:02.040Z,west of Macquarie Island,earthquake,12.69,1.853,0.104,29.0,reviewed,us,us
