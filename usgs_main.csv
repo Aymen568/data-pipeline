@@ -6111,3 +6111,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-18T20:26:51.348Z,62.6007,-150.322,70.9,1.8,ml,,,,0.14,ak,ak024euing6m,2024-11-18T20:28:23.011Z,"20 km NW of Chase, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-11-18T19:27:20.690Z,19.657666666667,-65.275166666667,34.96,3.41,md,5.0,313.0,1.343,0.19,pr,pr71466093,2024-11-18T20:40:42.030Z,"148 km NNE of Vieques, Puerto Rico",earthquake,1.8,16.47,0.027784354804185,4.0,reviewed,pr,pr
 2024-11-18T13:12:37.970Z,34.196,-117.6258333,6.64,0.83,ml,15.0,96.0,0.05059,0.1,ci,ci40795407,2024-11-18T20:35:39.202Z,"9 km NNW of Rancho Cucamonga, CA",earthquake,0.26,0.37,0.169,6.0,reviewed,ci,ci
+2024-11-18T19:28:31.040Z,32.31,-101.836,6.1768,2.6,ml,15.0,66.0,0.0,0.1,tx,tx2024wrup,2024-11-18T20:51:27.089Z,"20 km NNW of Stanton, Texas",earthquake,0.65090725268144,0.75864621307017,0.1,17.0,reviewed,tx,tx
