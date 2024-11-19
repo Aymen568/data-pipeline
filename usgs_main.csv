@@ -6339,3 +6339,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-19T20:56:17.820Z,35.8585,-117.7208333,10.27,0.76,ml,20.0,34.0,0.06135,0.12,ci,ci40796583,2024-11-19T20:59:45.876Z,"19 km ESE of Little Lake, CA",earthquake,0.21,0.41,0.155,8.0,automatic,ci,ci
 2024-11-19T20:50:44.004Z,-8.8596,122.0517,105.558,4.6,mb,50.0,40.0,0.288,1.05,us,us6000p6f9,2024-11-19T21:13:00.040Z,"31 km SSW of Maumere, Indonesia",earthquake,8.17,5.176,0.083,43.0,reviewed,us,us
 2024-11-19T14:28:28.690Z,19.147833333333,-155.483,29.27,1.45,md,20.0,248.0,0.1011,0.14,hv,hv74534992,2024-11-19T21:09:24.430Z,"6 km S of Pāhala, Hawaii",earthquake,0.63,0.76,0.077650132778552,10.0,reviewed,hv,hv
+2024-11-19T21:23:28.124Z,38.1592,-118.7851,9.7,1.7,ml,10.0,106.11,0.531,0.2951,nn,nn00887736,2024-11-19T21:26:32.792Z,"34 km ENE of Mono City, California",earthquake,,0.9,0.52,5.0,automatic,nn,nn
