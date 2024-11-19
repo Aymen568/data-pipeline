@@ -6230,3 +6230,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-19T10:50:27.189Z,31.675,-104.419,6.1954,1.6,ml,17.0,70.0,0.0,0.4,tx,tx2024wsza,2024-11-19T10:57:41.923Z,"55 km S of Whites City, New Mexico",earthquake,0.0,2.5623123645783,0.1,12.0,automatic,tx,tx
 2024-11-19T10:49:26.630Z,38.830501556396,-122.79716491699,1.6100000143051,0.7,md,11.0,76.0,0.009525,0.01,nc,nc75088146,2024-11-19T10:51:03.861Z,"6 km WNW of Cobb, CA",earthquake,0.32,0.560000002,0.24,12.0,automatic,nc,nc
 2024-11-19T10:14:52.264Z,14.8871,-94.1674,10.0,4.3,mb,49.0,189.0,2.206,0.58,us,us7000nslf,2024-11-19T10:56:32.040Z,"119 km SSW of Manuel Ávila Camacho (Ponte Duro), Mexico",earthquake,4.91,1.95,0.058,84.0,reviewed,us,us
+2024-11-19T11:21:12.360Z,38.785831451416,-122.74666595459,2.079999923706,0.72,md,8.0,82.0,0.00819,0.01,nc,nc75088151,2024-11-19T11:22:49.116Z,"1 km NE of The Geysers, CA",earthquake,0.33,0.819999993,0.37,7.0,automatic,nc,nc
