@@ -6356,3 +6356,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-19T21:25:33.175Z,58.9728,-138.0729,22.124,2.8,ml,19.0,156.0,1.402,1.07,us,us6000p6fj,2024-11-19T22:48:37.040Z,"113 km SE of Yakutat, Alaska",earthquake,4.69,8.05,0.064,32.0,reviewed,us,us
 2024-11-19T23:03:28.483Z,61.6791,-150.6783,46.9,1.5,ml,,,,0.47,ak,ak024ew7u49n,2024-11-19T23:06:31.916Z,"17 km NNW of Susitna, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2024-11-19T22:46:44.000Z,31.106,-103.265,2.9852,3.0,ml,23.0,69.0,0.0,0.1,tx,tx2024wtwo,2024-11-19T23:06:01.088Z,"24 km SW of Coyanosa, Texas",earthquake,0.42891969569329,0.71947727767863,0.2,34.0,reviewed,tx,tx
+2024-11-19T23:12:57.990Z,32.7746667,-115.421,9.02,2.02,ml,17.0,206.0,0.0375,0.2,ci,ci40796775,2024-11-19T23:16:58.448Z,"6 km SW of Holtville, CA",earthquake,0.48,0.74,0.181,34.0,automatic,ci,ci
+2024-11-19T23:12:31.530Z,32.7991667,-115.4553333,10.38,1.97,ml,22.0,69.0,0.06458,0.25,ci,ci40796767,2024-11-19T23:16:09.445Z,"7 km W of Holtville, CA",earthquake,0.47,0.74,0.172,28.0,automatic,ci,ci
