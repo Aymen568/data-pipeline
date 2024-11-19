@@ -6184,3 +6184,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-19T02:41:53.877Z,-21.1189,-175.7866,10.0,5.6,mww,53.0,63.0,5.869,1.22,us,us7000nsjt,2024-11-19T03:16:26.040Z,"50 km W of Houma, Tonga",earthquake,8.49,1.477,0.066,22.0,reviewed,us,us
 2024-11-18T23:40:59.973Z,36.6986,-116.1103,4.1,-0.4,ml,11.0,93.06,0.01,0.0555,nn,nn00887706,2024-11-19T02:48:11.213Z,"41 km WNW of Indian Springs, Nevada",earthquake,,1.1,0.17,4.0,reviewed,nn,nn
 2024-11-19T03:21:20.710Z,17.993,-67.317666666667,33.76,2.92,md,10.0,287.0,0.1985,0.1,pr,pr71466113,2024-11-19T03:42:37.860Z,"14 km W of Pole Ojea, Puerto Rico",earthquake,0.61,0.8,0.049593137598398,5.0,reviewed,pr,pr
+2024-11-19T03:51:55.100Z,38.804832458496,-122.80266571045,3.289999961853,1.1,md,15.0,65.0,0.006549,0.02,nc,nc75088006,2024-11-19T03:53:32.077Z,"5 km NW of The Geysers, CA",earthquake,0.34,0.74000001,0.34,16.0,automatic,nc,nc
