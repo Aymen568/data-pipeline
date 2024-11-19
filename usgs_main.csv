@@ -6259,3 +6259,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-19T14:34:27.871Z,36.7113,-116.1041,4.7,0.3,ml,14.0,75.28,0.016,0.1916,nn,nn00887707,2024-11-19T14:36:22.077Z,"41 km WNW of Indian Springs, Nevada",earthquake,,0.6,0.33,9.0,automatic,nn,nn
 2024-11-19T14:34:18.045Z,62.6359,-149.0865,29.2,1.9,ml,,,,0.28,ak,ak024ew2nu7g,2024-11-19T14:35:58.302Z,"56 km ENE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-19T12:28:14.783Z,-8.0346,107.3173,49.612,4.6,mb,38.0,48.0,0.657,0.73,us,us7000nslw,2024-11-19T14:39:31.040Z,"93 km S of Banjar, Indonesia",earthquake,7.03,6.973,0.093,34.0,reviewed,us,us
+2024-11-19T14:52:01.730Z,33.391,-116.4431667,9.78,1.2,ml,59.0,30.0,0.09032,0.19,ci,ci40796215,2024-11-19T14:56:51.838Z,"16 km NNW of Borrego Springs, CA",earthquake,0.18,0.42,0.189,26.0,automatic,ci,ci
