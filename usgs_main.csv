@@ -6358,3 +6358,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-19T22:46:44.000Z,31.106,-103.265,2.9852,3.0,ml,23.0,69.0,0.0,0.1,tx,tx2024wtwo,2024-11-19T23:06:01.088Z,"24 km SW of Coyanosa, Texas",earthquake,0.42891969569329,0.71947727767863,0.2,34.0,reviewed,tx,tx
 2024-11-19T23:12:57.990Z,32.7746667,-115.421,9.02,2.02,ml,17.0,206.0,0.0375,0.2,ci,ci40796775,2024-11-19T23:16:58.448Z,"6 km SW of Holtville, CA",earthquake,0.48,0.74,0.181,34.0,automatic,ci,ci
 2024-11-19T23:12:31.530Z,32.7991667,-115.4553333,10.38,1.97,ml,22.0,69.0,0.06458,0.25,ci,ci40796767,2024-11-19T23:16:09.445Z,"7 km W of Holtville, CA",earthquake,0.47,0.74,0.172,28.0,automatic,ci,ci
+2024-11-19T23:46:21.858Z,64.7513,-147.5912,3.6,0.9,ml,,,,0.54,ak,ak024ew835lr,2024-11-19T23:48:37.196Z,"6 km SSW of Badger, Alaska",earthquake,,2.9,,,automatic,ak,ak
+2024-11-19T23:38:30.476Z,31.057,-103.689,5.177,2.5,ml,22.0,63.0,0.1,0.1,tx,tx2024wtyh,2024-11-19T23:51:49.401Z,"9 km NNE of Balmorhea, Texas",earthquake,0.68910500446065,1.715184199922,0.2,24.0,reviewed,tx,tx
