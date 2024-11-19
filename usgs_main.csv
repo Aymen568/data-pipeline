@@ -6227,3 +6227,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-19T10:45:29.370Z,38.792167663574,-122.77933502197,2.289999961853,0.73,md,9.0,106.0,0.006783,0.01,nc,nc75088141,2024-11-19T10:47:08.836Z,"3 km NW of The Geysers, CA",earthquake,0.46,0.879999995,0.22,10.0,automatic,nc,nc
 2024-11-19T10:37:11.900Z,34.147,-117.5665,13.86,1.81,ml,92.0,28.0,0.03269,0.18,ci,ci40796095,2024-11-19T10:41:50.517Z,"3 km NNE of Rancho Cucamonga, CA",earthquake,0.13,0.23,0.114,25.0,automatic,ci,ci
 2024-11-19T06:27:02.981Z,32.4004,-102.0149,5.0,2.6,mb_lg,35.0,69.0,0.299,0.74,us,us7000nskf,2024-11-19T10:42:51.040Z,"31 km WSW of Ackerly, Texas",earthquake,1.55,1.942,0.104,24.0,reviewed,us,us
+2024-11-19T10:50:27.189Z,31.675,-104.419,6.1954,1.6,ml,17.0,70.0,0.0,0.4,tx,tx2024wsza,2024-11-19T10:57:41.923Z,"55 km S of Whites City, New Mexico",earthquake,0.0,2.5623123645783,0.1,12.0,automatic,tx,tx
+2024-11-19T10:49:26.630Z,38.830501556396,-122.79716491699,1.6100000143051,0.7,md,11.0,76.0,0.009525,0.01,nc,nc75088146,2024-11-19T10:51:03.861Z,"6 km WNW of Cobb, CA",earthquake,0.32,0.560000002,0.24,12.0,automatic,nc,nc
+2024-11-19T10:14:52.264Z,14.8871,-94.1674,10.0,4.3,mb,49.0,189.0,2.206,0.58,us,us7000nslf,2024-11-19T10:56:32.040Z,"119 km SSW of Manuel Ávila Camacho (Ponte Duro), Mexico",earthquake,4.91,1.95,0.058,84.0,reviewed,us,us
