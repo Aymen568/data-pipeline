@@ -6523,3 +6523,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-20T20:53:42.990Z,18.639,-66.797333333333,13.26,2.63,md,7.0,276.0,0.2937,0.2,pr,pr71466223,2024-11-20T21:11:31.180Z,"17 km N of Hatillo, Puerto Rico",earthquake,1.43,3.07,0.09714328095979,4.0,reviewed,pr,pr
 2024-11-20T19:14:47.470Z,46.8475,-121.75683333333,-2.39,0.95,ml,12.0,74.0,0.02022,0.07,uw,uw62060801,2024-11-20T20:55:13.190Z,"23 km ENE of Ashford, Washington",earthquake,0.32,0.59,0.2484547478735,5.0,reviewed,uw,uw
 2024-11-20T06:06:36.010Z,19.265,-154.9995,41.93,2.13,ml,47.0,236.0,0.1242,0.11,hv,hv74535527,2024-11-20T20:55:20.790Z,"24 km SSW of Leilani Estates, Hawaii",earthquake,0.72,0.44,0.19864980789057,9.0,reviewed,hv,hv
+2024-11-20T21:15:34.967Z,31.651,-104.302,4.798,1.7,ml,17.0,68.0,0.0,0.2,tx,tx2024wvpl,2024-11-20T21:20:37.002Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.2227027416229,0.2,13.0,automatic,tx,tx
