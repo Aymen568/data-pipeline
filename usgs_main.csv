@@ -6495,3 +6495,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-20T17:52:26.700Z,45.319166666667,-112.58216666667,7.86,1.65,ml,10.0,99.0,0.04448,0.13,mb,mb90066483,2024-11-20T18:06:31.270Z,"12 km NNE of Dillon, Montana",earthquake,0.45,0.8,0.26243703813404,18.0,reviewed,mb,mb
 2024-11-19T22:21:55.880Z,32.757,-115.4375,4.8,1.56,ml,16.0,98.0,0.04882,0.3,ci,ci37689588,2024-11-20T18:11:40.900Z,"8 km SW of Holtville, CA",earthquake,0.48,1.1,0.178,21.0,reviewed,ci,ci
 2024-11-19T19:02:49.120Z,46.296833333333,-111.39933333333,0.73,0.87,ml,8.0,101.0,0.1966,0.06,mb,mb90066478,2024-11-20T17:50:16.950Z,"9 km ESE of Townsend, Montana",earthquake,0.39,1.34,0.2218290571095,6.0,reviewed,mb,mb
+2024-11-20T18:27:00.413Z,61.4904,-153.9376,35.3,1.6,ml,,,,0.74,ak,ak024exsjdqx,2024-11-20T18:28:47.860Z,"81 km E of Lime Village, Alaska",earthquake,,7.6,,,automatic,ak,ak
+2024-11-20T18:19:51.510Z,34.5171667,-118.1016667,9.52,1.7,ml,38.0,28.0,0.03593,0.12,ci,ci40797127,2024-11-20T18:31:05.730Z,"2 km NE of Vincent, CA",earthquake,0.14,0.27,0.259,30.0,automatic,ci,ci
+2024-11-19T22:35:16.910Z,32.7955,-115.4563333,8.65,1.58,ml,14.0,141.0,0.01267,0.2,ci,ci37689596,2024-11-20T18:34:00.402Z,"7 km WSW of Holtville, CA",earthquake,0.48,0.74,0.226,12.0,reviewed,ci,ci
