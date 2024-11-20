@@ -6406,3 +6406,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-20T07:25:41.542Z,61.5648,-150.8779,53.2,1.7,ml,,,,0.25,ak,ak024exlz9u2,2024-11-20T07:27:13.322Z,"19 km W of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-11-20T06:46:46.200Z,31.67,-104.451,4.5912,1.5,ml,19.0,65.0,0.0,0.4,tx,tx2024wumk,2024-11-20T07:17:35.775Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.3093178272247,0.2,14.0,automatic,tx,tx
 2024-11-20T07:28:46.930Z,33.698,-116.7271667,17.74,1.62,ml,81.0,19.0,0.01703,0.16,ci,ci40796951,2024-11-20T07:39:57.800Z,"5 km S of Idyllwild, CA",earthquake,0.13,0.22,0.258,27.0,automatic,ci,ci
+2024-11-20T08:11:28.250Z,38.035831451416,-122.23183441162,6.7399997711182,1.22,md,13.0,63.0,0.0453,0.09,nc,nc75088516,2024-11-20T08:13:06.642Z,"2 km SW of Crockett, CA",earthquake,0.33,0.689999998,0.09,12.0,automatic,nc,nc
