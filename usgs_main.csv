@@ -6444,3 +6444,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-20T13:14:55.566Z,59.7983,-153.3029,127.3,1.8,ml,,,,0.33,ak,ak024exphjvz,2024-11-20T13:21:49.040Z,"45 km E of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-20T13:12:48.056Z,31.584,-104.561,3.6371,1.9,ml,8.0,167.0,0.1,0.2,tx,tx2024wuzd,2024-11-20T13:22:16.556Z,"65 km NNE of Van Horn, Texas",earthquake,0.0,2.9297759532928,0.1,6.0,automatic,tx,tx
 2024-11-20T13:08:12.480Z,19.360166549683,-155.49000549316,5.0900001525879,1.75,md,51.0,41.0,0.03313,0.300000012,hv,hv74535682,2024-11-20T13:09:53.490Z,"17 km N of Pāhala, Hawaii",earthquake,0.37,1.07000005,0.370000005,21.0,automatic,hv,hv
+2024-11-20T13:32:06.694Z,60.8225,-147.641,18.3,1.5,ml,,,,0.28,ak,ak024explasd,2024-11-20T13:34:17.064Z,"52 km W of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-19T16:03:43.619Z,35.91433333,-95.16833333,0.0,1.45,ml,49.0,105.0,0.278045438,0.41,ok,ok2024wtjh,2024-11-20T13:44:01.940Z,"3 km SW of Hulbert, Oklahoma",quarry blast,,0.5,0.17,15.0,reviewed,ok,ok
