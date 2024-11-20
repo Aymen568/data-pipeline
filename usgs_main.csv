@@ -6384,3 +6384,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-20T04:19:05.080Z,32.802,-115.4585,11.99,2.57,ml,35.0,33.0,0.0626,0.27,ci,ci40796911,2024-11-20T04:23:04.029Z,"7 km W of Holtville, CA",earthquake,0.33,0.58,0.204,28.0,automatic,ci,ci
 2024-11-20T04:11:12.920Z,38.820835113525,-122.79483032227,2.8900001049042,0.78,md,12.0,110.0,0.01218,0.01,nc,nc75088451,2024-11-20T04:12:51.102Z,"6 km NNW of The Geysers, CA",earthquake,0.33,1.04999995,0.13,12.0,automatic,nc,nc
 2024-11-20T04:01:52.630Z,38.830333709717,-122.80899810791,2.7599999904633,0.77,md,12.0,88.0,0.006979,0.03,nc,nc75088446,2024-11-20T04:17:17.225Z,"7 km NNW of The Geysers, CA",earthquake,0.33,0.899999976,0.13,14.0,automatic,nc,nc
+2024-11-20T04:03:44.685Z,-57.438,-7.7534,10.0,5.0,mb,15.0,113.0,14.437,0.62,us,us6000p6h7,2024-11-20T04:37:25.040Z,east of the South Sandwich Islands,earthquake,15.41,1.952,0.118,23.0,reviewed,us,us
