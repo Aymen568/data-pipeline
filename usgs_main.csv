@@ -6461,3 +6461,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-19T23:40:48.641Z,32.378,-102.089,6.958,1.4,ml,19.0,60.0,0.0,0.1,tx,tx2024wtyl,2024-11-20T14:35:41.366Z,"38 km WSW of Ackerly, Texas",earthquake,0.47883059910026,0.6731136659013,0.1,19.0,reviewed,tx,tx
 2024-11-19T21:53:19.539Z,34.37083333,-96.791,0.0,1.22,ml,28.0,149.0,0.2159576217,0.57,ok,ok2024wtuv,2024-11-20T14:45:13.593Z,"4 km SE of Mill Creek, Oklahoma",quarry blast,,1.0,0.25,12.0,reviewed,ok,ok
 2024-11-19T21:30:13.879Z,32.001,-101.381,8.3496,1.5,ml,17.0,72.0,0.2,0.1,tx,tx2024wtub,2024-11-20T14:25:50.325Z,"12 km S of Forsan, Texas",earthquake,0.80193299636157,1.4674427955715,0.2,13.0,reviewed,tx,tx
+2024-11-20T14:43:02.170Z,31.635,-104.472,4.3962,1.7,ml,8.0,116.0,0.0,0.3,tx,tx2024wvch,2024-11-20T14:48:30.438Z,"60 km S of Whites City, New Mexico",earthquake,0.0,2.1039900779724,0.2,6.0,automatic,tx,tx
+2024-11-20T04:53:56.990Z,37.838666666667,-113.09733333333,3.63,1.78,md,6.0,160.0,0.2429,0.26,uu,uu80086836,2024-11-20T14:44:09.700Z,"9 km NW of Enoch, Utah",earthquake,1.28,14.73,0.4178111882352,4.0,reviewed,uu,uu
+2024-11-20T02:05:28.613Z,28.952,-98.333,4.4189,1.5,ml,21.0,78.0,0.1,0.2,tx,tx2024wudd,2024-11-20T14:45:05.422Z,"14 km E of Pleasanton, Texas",earthquake,1.1333484919347,2.5089260183383,0.1,16.0,reviewed,tx,tx
