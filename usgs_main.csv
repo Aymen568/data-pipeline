@@ -6380,3 +6380,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-20T02:43:38.870Z,38.792999267578,-122.76183319092,1.2799999713898,0.79,md,9.0,74.0,0.007793,0.02,nc,nc75088426,2024-11-20T03:09:29.717Z,"2 km  of The Geysers, CA",earthquake,0.31,0.709999979,0.11,12.0,automatic,nc,nc
 2024-11-20T02:35:41.870Z,38.813999176025,-122.81999969482,2.3199999332428,0.76,md,8.0,103.0,0.008813,0.01,nc,nc75088421,2024-11-20T02:52:17.604Z,"7 km NW of The Geysers, CA",earthquake,0.54,1.38,0.1,8.0,automatic,nc,nc
 2024-11-20T00:05:01.222Z,36.7093,-116.2204,2.3,0.1,ml,10.0,183.26,0.02,0.079,nn,nn00887751,2024-11-20T03:03:08.396Z,"51 km WNW of Indian Springs, Nevada",earthquake,,1.5,0.14,4.0,reviewed,nn,nn
+2024-11-20T03:23:44.842Z,57.786,-154.3479,40.7,3.2,ml,,,,0.28,ak,ak024exjl48k,2024-11-20T03:25:33.772Z,"25 km NNE of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
