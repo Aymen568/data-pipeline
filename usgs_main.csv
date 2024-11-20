@@ -6488,3 +6488,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-20T04:19:31.910Z,32.7975,-115.4445,10.86,2.2,ml,36.0,66.0,0.008033,0.3,ci,ci37689564,2024-11-20T15:52:11.569Z,"6 km WSW of Holtville, CA",earthquake,0.35,0.67,0.102,32.0,reviewed,ci,ci
 2024-11-20T10:16:14.150Z,47.7305,-113.78133333333,5.31,1.03,ml,8.0,145.0,0.06012,0.04,mb,mb90066468,2024-11-20T15:58:53.110Z,"21 km E of Finley Point, Montana",earthquake,0.42,1.08,0.31054047636936,4.0,reviewed,mb,mb
 2024-11-20T15:23:35.400Z,17.940833333333,-66.893,12.34,2.12,md,4.0,217.0,0.03646,0.06,pr,pr71466218,2024-11-20T16:41:09.490Z,"3 km SSE of Guánica, Puerto Rico",earthquake,2.06,0.67,0.22510507323569,3.0,reviewed,pr,pr
+2024-11-20T17:08:39.456Z,62.9636,-149.6771,60.1,2.1,ml,,,,0.68,ak,ak024exrtyjt,2024-11-20T17:10:49.859Z,"60 km SW of Cantwell, Alaska",earthquake,,1.3,,,automatic,ak,ak
