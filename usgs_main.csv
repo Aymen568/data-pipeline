@@ -6480,3 +6480,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-20T03:18:04.190Z,47.096666666667,-113.1335,4.54,1.38,ml,9.0,89.0,0.08644,0.04,mb,mb90066443,2024-11-20T15:21:43.230Z,"8 km N of Ovando, Montana",earthquake,0.34,1.69,0.19374647839034,4.0,reviewed,mb,mb
 2024-11-20T01:12:25.269Z,34.93033333,-96.01316667,5.0,1.66,ml,44.0,134.0,0.3581297227,0.25,ok,ok2024wubj,2024-11-20T15:19:18.924Z,"4 km WSW of Arpelar, Oklahoma",earthquake,,0.9,0.3,18.0,reviewed,ok,ok
 2024-11-20T01:02:57.880Z,44.697833333333,-114.21816666667,6.9,1.43,ml,8.0,70.0,0.3399,0.1,mb,mb90066438,2024-11-20T15:13:41.120Z,"21 km N of Challis, Idaho",earthquake,0.43,3.12,0.14715952433444,10.0,reviewed,mb,mb
+2024-11-20T15:26:05.204Z,32.753,-100.644,7.0068,2.2,ml,19.0,70.0,0.1,0.2,tx,tx2024wvdx,2024-11-20T15:33:17.716Z,"16 km NE of Hermleigh, Texas",earthquake,0.75836847423911,1.685703833059,0.1,15.0,reviewed,tx,tx
