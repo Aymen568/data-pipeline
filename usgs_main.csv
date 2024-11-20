@@ -6533,3 +6533,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-20T20:56:30.000Z,16.741,-100.417,10.0,4.3,mb,73.0,182.0,1.949,0.61,us,us6000p6mn,2024-11-20T22:22:05.040Z,"37 km SSW of El Papayo, Mexico",earthquake,11.42,1.945,0.068,61.0,reviewed,us,us
 2024-11-20T20:44:49.750Z,32.7983333,-115.4453333,13.17,1.55,ml,12.0,153.0,0.007074,0.32,ci,ci37689644,2024-11-20T22:40:17.344Z,"6 km WSW of Holtville, CA",earthquake,1.27,0.78,0.132,8.0,reviewed,ci,ci
 2024-11-20T22:39:04.860Z,19.643333333333,-65.2175,24.79,3.37,md,8.0,300.0,1.308,0.25,pr,pr71466228,2024-11-20T22:57:32.810Z,"147 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.4,21.99,0.09702535646584,8.0,reviewed,pr,pr
+2024-11-20T23:18:00.893Z,64.9498,-147.4852,0.0,1.5,ml,,,,0.88,ak,ak024exvgj09,2024-11-20T23:20:19.625Z,"6 km E of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-11-20T22:58:33.210Z,17.979666666667,-67.185666666667,13.75,2.3,md,4.0,291.0,0.07712,0.14,pr,pr71466233,2024-11-20T23:05:50.510Z,"0 km N of Pole Ojea, Puerto Rico",earthquake,1.29,0.6,0.090581010261612,4.0,reviewed,pr,pr
