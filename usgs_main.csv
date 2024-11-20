@@ -6498,3 +6498,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-20T18:27:00.413Z,61.4904,-153.9376,35.3,1.6,ml,,,,0.74,ak,ak024exsjdqx,2024-11-20T18:28:47.860Z,"81 km E of Lime Village, Alaska",earthquake,,7.6,,,automatic,ak,ak
 2024-11-20T18:19:51.510Z,34.5171667,-118.1016667,9.52,1.7,ml,38.0,28.0,0.03593,0.12,ci,ci40797127,2024-11-20T18:31:05.730Z,"2 km NE of Vincent, CA",earthquake,0.14,0.27,0.259,30.0,automatic,ci,ci
 2024-11-19T22:35:16.910Z,32.7955,-115.4563333,8.65,1.58,ml,14.0,141.0,0.01267,0.2,ci,ci37689596,2024-11-20T18:34:00.402Z,"7 km WSW of Holtville, CA",earthquake,0.48,0.74,0.226,12.0,reviewed,ci,ci
+2024-11-20T15:41:46.250Z,19.337833333333,-155.566,16.32,1.04,md,7.0,252.0,0.07595,0.06,hv,hv74535757,2024-11-20T18:45:20.930Z,"17 km NNW of Pāhala, Hawaii",earthquake,2.76,31.61,0.10234810822237,4.0,reviewed,hv,hv
+2024-11-19T23:12:58.300Z,32.7883333,-115.4416667,8.48,1.9,ml,27.0,66.0,0.01748,0.3,ci,ci37689604,2024-11-20T18:52:28.857Z,"6 km WSW of Holtville, CA",earthquake,0.43,0.91,0.153,35.0,reviewed,ci,ci
