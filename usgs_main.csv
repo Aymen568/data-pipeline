@@ -6508,3 +6508,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-20T19:44:04.390Z,33.4821667,-116.4571667,13.65,1.04,ml,39.0,59.0,0.09721,0.13,ci,ci40797183,2024-11-20T19:48:51.059Z,"22 km ESE of Anza, CA",earthquake,0.19,0.35,0.19,27.0,automatic,ci,ci
 2024-11-20T18:13:44.308Z,53.5329,-162.8177,22.0,3.6,ml,,,,0.62,ak,ak024exsghe9,2024-11-20T19:45:02.854Z,"152 km SSE of False Pass, Alaska",earthquake,,1.7,,,reviewed,ak,ak
 2024-11-20T11:35:56.156Z,36.5913,-117.0489,8.4,0.4,ml,5.0,266.24,0.289,0.1199,nn,nn00887768,2024-11-20T19:42:14.571Z,"23 km NW of Furnace Creek, California",earthquake,,10.5,0.1,2.0,reviewed,nn,nn
+2024-11-20T18:13:46.928Z,53.6789,-162.8831,37.242,3.7,mb,33.0,201.0,1.092,0.57,us,us6000p6ls,2024-11-20T19:59:35.040Z,"135 km SSE of False Pass, Alaska",earthquake,6.72,17.872,0.224,5.0,reviewed,us,us
+2024-11-20T16:35:56.790Z,39.3081,-120.0748,6.8,0.7,ml,5.0,160.47,0.034,0.0973,nn,nn00887769,2024-11-20T19:51:26.115Z,"7 km NNW of Tahoe Vista, California",earthquake,,2.2,0.18,3.0,reviewed,nn,nn
