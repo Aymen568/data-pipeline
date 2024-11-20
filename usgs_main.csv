@@ -6425,3 +6425,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-20T10:03:14.865Z,31.595,-104.548,4.0581,1.8,ml,19.0,89.0,0.1,0.2,tx,tx2024wusx,2024-11-20T10:26:39.428Z,"66 km SSW of Whites City, New Mexico",earthquake,0.0,1.6615349054336,0.2,15.0,automatic,tx,tx
 2024-11-20T09:00:24.480Z,18.973666666667,-65.5385,38.77,3.12,md,15.0,255.0,0.7057,0.27,pr,pr71466208,2024-11-20T10:44:57.040Z,"68 km NNE of Vieques, Puerto Rico",earthquake,2.1,8.28,0.059433464288415,11.0,reviewed,pr,pr
 2024-11-20T10:47:08.856Z,60.4148,-151.356,46.1,1.6,ml,,,,0.44,ak,ak024exnw7vp,2024-11-20T10:49:14.933Z,"3 km W of Kalifornsky, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2024-11-20T10:42:55.380Z,-20.7032,-176.2802,203.271,5.6,mww,85.0,54.0,5.888,0.83,us,us6000p6id,2024-11-20T11:04:00.468Z,"114 km WNW of Houma, Tonga",earthquake,11.78,6.572,0.075,17.0,reviewed,us,us
+2024-11-20T10:41:42.865Z,31.599,-104.559,7.724,2.6,ml,19.0,246.0,0.1,0.6,tx,tx2024wuuf,2024-11-20T10:59:53.040Z,"66 km SSW of Whites City, New Mexico",earthquake,0.0,3.8257884979248,0.1,13.0,automatic,tx,tx
+2024-11-20T10:41:34.947Z,31.586,-104.561,3.6964,2.4,ml,7.0,167.0,0.1,0.1,tx,tx2024wuue,2024-11-20T11:06:19.663Z,"65 km NNE of Van Horn, Texas",earthquake,0.0,3.2518634796143,0.2,7.0,automatic,tx,tx
+2024-11-20T10:24:03.222Z,53.0911,159.8394,62.675,4.1,mb,23.0,156.0,0.721,0.68,us,us6000p6ib,2024-11-20T11:01:23.040Z,"81 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,10.43,4.532,0.135,15.0,reviewed,us,us
