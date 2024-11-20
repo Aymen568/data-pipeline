@@ -6394,3 +6394,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-20T05:15:23.292Z,64.9422,-149.1694,0.0,1.9,ml,,,,0.89,ak,ak024exkq821,2024-11-20T05:29:42.101Z,"24 km SSE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-20T05:43:41.480Z,38.841667175293,-122.83567047119,1.5499999523163,0.94,md,7.0,120.0,0.003077,0.02,nc,nc75088476,2024-11-20T05:45:15.473Z,"10 km NNW of The Geysers, CA",earthquake,0.34,0.75,0.28,9.0,automatic,nc,nc
 2024-11-20T05:38:22.366Z,61.1189,-148.8628,20.0,1.7,ml,,,,0.48,ak,ak024exkv5gc,2024-11-20T05:40:19.058Z,"25 km NE of Girdwood, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-20T05:54:00.010Z,35.09,-119.0866667,11.64,2.17,ml,60.0,46.0,0.03142,0.26,ci,ci40796943,2024-11-20T05:57:42.450Z,"22 km NW of Grapevine, CA",earthquake,0.21,0.69,0.201,25.0,automatic,ci,ci
