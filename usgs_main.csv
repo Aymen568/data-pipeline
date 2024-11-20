@@ -6531,3 +6531,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-20T22:26:42.400Z,33.4838333,-116.4556667,10.47,0.69,ml,31.0,81.0,0.09674,0.19,ci,ci40797303,2024-11-20T22:31:07.501Z,"22 km ESE of Anza, CA",earthquake,0.24,0.49,0.129,16.0,automatic,ci,ci
 2024-11-20T21:19:33.217Z,-6.5272,130.4585,148.229,4.1,mb,17.0,142.0,2.067,0.88,us,us6000p6mu,2024-11-20T22:14:24.040Z,"272 km WSW of Tual, Indonesia",earthquake,8.98,5.844,0.166,10.0,reviewed,us,us
 2024-11-20T20:56:30.000Z,16.741,-100.417,10.0,4.3,mb,73.0,182.0,1.949,0.61,us,us6000p6mn,2024-11-20T22:22:05.040Z,"37 km SSW of El Papayo, Mexico",earthquake,11.42,1.945,0.068,61.0,reviewed,us,us
+2024-11-20T20:44:49.750Z,32.7983333,-115.4453333,13.17,1.55,ml,12.0,153.0,0.007074,0.32,ci,ci37689644,2024-11-20T22:40:17.344Z,"6 km WSW of Holtville, CA",earthquake,1.27,0.78,0.132,8.0,reviewed,ci,ci
