@@ -6409,3 +6409,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-20T08:11:28.250Z,38.035831451416,-122.23183441162,6.7399997711182,1.22,md,13.0,63.0,0.0453,0.09,nc,nc75088516,2024-11-20T08:13:06.642Z,"2 km SW of Crockett, CA",earthquake,0.33,0.689999998,0.09,12.0,automatic,nc,nc
 2024-11-20T08:09:50.429Z,38.0297,141.8606,63.243,4.9,mb,66.0,121.0,2.824,0.76,us,us6000p6i0,2024-11-20T08:38:12.040Z,"58 km SE of Onagawa Chō, Japan",earthquake,8.22,2.94,0.045,159.0,reviewed,us,us
 2024-11-19T12:53:07.143Z,28.2679,57.609,10.0,4.3,mb,68.0,84.0,3.54,0.56,us,us7000nsly,2024-11-20T08:31:09.040Z,"118 km SW of Bam, Iran",earthquake,9.78,1.882,0.076,49.0,reviewed,us,us
+2024-11-20T08:48:48.600Z,36.7456,-116.2693,4.6,0.9,ml,27.0,52.23,0.047,0.311,nn,nn00887754,2024-11-20T08:50:46.559Z,"47 km ESE of Beatty, Nevada",earthquake,,0.6,0.42,17.0,automatic,nn,nn
+2024-11-20T08:43:23.840Z,36.702331542969,-121.36199951172,4.4499998092651,2.46,md,39.0,73.0,0.01346,0.18,nc,nc75088526,2024-11-20T08:52:17.098Z,"10 km SSW of Tres Pinos, CA",earthquake,0.31,1.34000003,0.12,38.0,automatic,nc,nc
+2024-11-20T08:43:07.710Z,35.642,-117.4635,5.72,1.86,ml,34.0,55.0,0.03977,0.12,ci,ci40796959,2024-11-20T08:46:46.369Z,"15 km SSW of Searles Valley, CA",earthquake,0.15,0.36,0.237,25.0,automatic,ci,ci
+2024-11-20T08:42:05.729Z,58.7927,-154.1227,99.2,2.7,ml,,,,0.22,ak,ak024exmo9uk,2024-11-20T08:43:38.350Z,"81 km SSE of Kokhanok, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-11-20T08:40:54.983Z,60.4174,-152.7112,121.4,1.7,ml,,,,0.25,ak,ak024exmny7u,2024-11-20T08:42:36.025Z,"70 km NW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-11-20T08:09:00.871Z,-7.2773,120.1749,453.067,4.4,mb,37.0,62.0,2.287,0.64,us,us6000p6i1,2024-11-20T08:48:33.040Z,"138 km NNE of Labuan Bajo, Indonesia",earthquake,11.5,4.859,0.126,18.0,reviewed,us,us
