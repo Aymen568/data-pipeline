@@ -6450,3 +6450,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-20T13:47:59.970Z,38.787998199463,-122.76499938965,1.6200000047684,1.3,md,11.0,108.0,0.01327,0.02,nc,nc75088591,2024-11-20T13:49:38.193Z,"1 km NNW of The Geysers, CA",earthquake,0.29,0.439999998,0.16,13.0,automatic,nc,nc
 2024-11-20T13:45:23.647Z,61.5076,-149.9874,66.5,1.6,ml,,,,0.61,ak,ak024expo4ek,2024-11-20T13:47:28.973Z,"2 km SW of Big Lake, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-11-19T19:31:02.410Z,36.10833333,-97.827,4.4,1.24,ml,44.0,58.0,0.1097784577,0.26,ok,ok2024wtqd,2024-11-20T13:59:56.734Z,"6 km E of Hennessey, Oklahoma",earthquake,,0.7,0.24,19.0,reviewed,ok,ok
+2024-11-20T14:04:48.420Z,61.7788,-151.3027,65.4,1.7,ml,,,,0.7,ak,ak024exq0tka,2024-11-20T14:06:41.734Z,"24 km SSE of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-11-20T13:48:05.954Z,32.129,-101.112,5.7861,1.6,ml,30.0,65.0,0.2,0.1,tx,tx2024wvai,2024-11-20T14:07:42.198Z,"24 km E of Forsan, Texas",earthquake,0.58600551541074,1.2110024457953,0.1,29.0,reviewed,tx,tx
+2024-11-20T00:01:51.560Z,36.02083333,-97.92866667,4.14,1.32,ml,46.0,48.0,0.08188393158,0.26,ok,ok2024wtzb,2024-11-20T14:10:18.933Z,"4 km NNW of Dover, Oklahoma",earthquake,,0.7,0.27,21.0,reviewed,ok,ok
