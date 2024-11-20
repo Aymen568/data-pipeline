@@ -6400,3 +6400,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-20T06:11:44.241Z,63.7883,-147.7315,9.6,1.7,ml,,,,0.63,ak,ak024exlaues,2024-11-20T06:14:18.507Z,"58 km E of Denali Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-20T06:07:36.610Z,17.9525,-66.951666666667,11.95,2.33,md,10.0,207.0,0.0454,0.12,pr,pr71466203,2024-11-20T06:17:00.180Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.51,0.43,0.023719728393874,4.0,reviewed,pr,pr
 2024-11-20T05:58:48.437Z,61.5245,-149.905,34.5,2.3,ml,,,,0.28,ak,ak024exkzhsb,2024-11-20T06:00:07.869Z,"2 km E of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-20T06:33:39.070Z,38.848331451416,-122.82583618164,15.010000228882,0.92,md,7.0,90.0,0.006611,0.06,nc,nc75088491,2024-11-20T06:35:16.056Z,"9 km WNW of Cobb, CA",earthquake,2.19,1.23000002,0.21,3.0,automatic,nc,nc
