@@ -6630,3 +6630,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-21T13:25:19.691Z,59.9054,-151.9258,54.5,1.5,ml,,,,0.36,ak,ak024ezd369t,2024-11-21T13:27:18.625Z,"11 km WSW of Happy Valley, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2024-11-21T13:19:47.279Z,63.4024,-150.1545,117.0,1.9,ml,,,,0.31,ak,ak024ezd1y3u,2024-11-21T13:22:35.462Z,"60 km W of Cantwell, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-11-21T13:09:20.420Z,32.7868333,-115.4526667,7.54,1.57,ml,23.0,93.0,0.01909,0.27,ci,ci40797639,2024-11-21T13:12:54.173Z,"7 km WSW of Holtville, CA",earthquake,0.46,0.67,0.212,19.0,automatic,ci,ci
+2024-11-21T13:49:20.044Z,36.3669,-117.0396,0.6,1.0,ml,13.0,157.91,0.342,0.1936,nn,nn00887796,2024-11-21T13:51:29.067Z,"19 km WSW of Furnace Creek, California",earthquake,,43.5,0.18,8.0,automatic,nn,nn
+2024-11-21T13:29:30.463Z,-24.4369,-67.4734,211.672,4.3,mb,23.0,109.0,2.055,0.53,us,us6000p6re,2024-11-21T13:54:06.040Z,"119 km WSW of San Antonio de los Cobres, Argentina",earthquake,11.59,12.345,0.218,6.0,reviewed,us,us
+2024-11-21T00:35:33.780Z,32.9125,-80.175666666667,6.44,1.04,md,4.0,173.0,0.01981,0.12,se,se60502728,2024-11-21T13:54:47.400Z,"9 km S of Centerville, South Carolina",earthquake,0.76,1.32,0.16165385189967,3.0,reviewed,se,se
