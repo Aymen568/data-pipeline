@@ -6589,3 +6589,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-21T05:26:48.415Z,31.644,-104.306,4.3496,2.1,ml,17.0,69.0,0.0,0.2,tx,tx2024wwfk,2024-11-21T05:33:29.440Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.490549325943,0.2,13.0,automatic,tx,tx
 2024-11-20T10:58:31.697Z,54.4129,-159.7654,35.0,3.0,ml,28.0,233.0,1.024,0.75,us,us6000p6m4,2024-11-21T05:29:34.040Z,"113 km SSE of Sand Point, Alaska",earthquake,6.31,2.02,0.088,17.0,reviewed,us,us
 2024-11-21T05:44:30.468Z,36.6106,-117.0753,0.0,0.9,ml,18.0,220.25,0.313,0.3058,nn,nn00887789,2024-11-21T05:46:39.113Z,"26 km NW of Furnace Creek, California",earthquake,,31.0,0.4,8.0,automatic,nn,nn
+2024-11-21T05:33:17.040Z,17.984833333333,-66.8495,14.67,2.2,md,7.0,177.0,0.02995,0.16,pr,pr71466268,2024-11-21T05:51:05.820Z,"3 km WSW of Indios, Puerto Rico",earthquake,0.84,0.83,0.08763180426986,4.0,reviewed,pr,pr
+2024-11-21T05:27:58.515Z,31.651,-104.304,3.7782,2.2,ml,24.0,69.0,0.0,0.3,tx,tx2024wwfm,2024-11-21T06:05:19.631Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.1397502422333,0.2,18.0,automatic,tx,tx
