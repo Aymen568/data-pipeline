@@ -6591,3 +6591,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-21T05:44:30.468Z,36.6106,-117.0753,0.0,0.9,ml,18.0,220.25,0.313,0.3058,nn,nn00887789,2024-11-21T05:46:39.113Z,"26 km NW of Furnace Creek, California",earthquake,,31.0,0.4,8.0,automatic,nn,nn
 2024-11-21T05:33:17.040Z,17.984833333333,-66.8495,14.67,2.2,md,7.0,177.0,0.02995,0.16,pr,pr71466268,2024-11-21T05:51:05.820Z,"3 km WSW of Indios, Puerto Rico",earthquake,0.84,0.83,0.08763180426986,4.0,reviewed,pr,pr
 2024-11-21T05:27:58.515Z,31.651,-104.304,3.7782,2.2,ml,24.0,69.0,0.0,0.3,tx,tx2024wwfm,2024-11-21T06:05:19.631Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.1397502422333,0.2,18.0,automatic,tx,tx
+2024-11-21T06:32:54.084Z,61.5154,-146.8296,33.1,1.9,ml,,,,0.34,ak,ak024ez8yppc,2024-11-21T06:34:34.137Z,"50 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-21T06:24:10.267Z,31.663,-104.458,7.747,1.8,ml,15.0,72.0,0.0,0.6,tx,tx2024wwhe,2024-11-21T06:31:37.933Z,"57 km S of Whites City, New Mexico",earthquake,0.0,3.5034110546112,0.1,12.0,automatic,tx,tx
+2024-11-21T06:20:48.450Z,33.7013333,-116.7116667,16.65,0.69,ml,34.0,57.0,0.01003,0.13,ci,ci40797551,2024-11-21T06:25:36.712Z,"4 km S of Idyllwild, CA",earthquake,0.19,0.3,0.253,20.0,automatic,ci,ci
