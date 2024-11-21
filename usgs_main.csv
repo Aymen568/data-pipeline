@@ -6716,3 +6716,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-21T20:02:15.208Z,60.7114,-147.5819,0.0,1.6,ml,,,,0.67,ak,ak024ezh49ow,2024-11-21T20:04:08.476Z,"52 km WSW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-21T19:58:53.100Z,34.8503333,-118.781,0.74,1.33,ml,27.0,53.0,0.07348,0.17,ci,ci40797807,2024-11-21T20:02:59.555Z,"8 km E of Lebec, CA",earthquake,0.23,0.4,0.205,32.0,automatic,ci,ci
 2024-11-21T19:53:55.289Z,31.646,-104.3,4.4221,2.1,ml,18.0,69.0,0.0,0.2,tx,tx2024wxhy,2024-11-21T20:04:20.491Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.3348171710968,0.2,14.0,automatic,tx,tx
+2024-11-21T20:24:38.291Z,61.9813,-144.4108,66.5,1.4,ml,,,,0.48,ak,ak024ezh9185,2024-11-21T20:26:39.578Z,"40 km NE of Kenny Lake, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-11-21T20:24:13.730Z,35.9920006,-117.690834,2.75,2.61,ml,40.0,91.0,0.0549,0.17,ci,ci40797823,2024-11-21T20:26:40.389Z,"20 km ENE of Little Lake, CA",earthquake,0.3,0.47,0.214,22.0,automatic,ci,ci
+2024-11-21T20:12:11.693Z,63.1276,-151.1017,35.1,1.8,ml,,,,1.42,ak,ak024ezh6ekx,2024-11-21T20:14:19.052Z,"55 km SE of Denali National Park, Alaska",earthquake,,16.2,,,automatic,ak,ak
