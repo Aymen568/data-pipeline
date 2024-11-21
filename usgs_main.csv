@@ -6756,3 +6756,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-21T16:57:46.432Z,38.8967,-119.6378,0.0,1.5,ml,12.0,74.37,0.023,0.1583,nn,nn00887803,2024-11-21T22:51:57.988Z,"3 km N of Carter Springs, Nevada",earthquake,,0.0,0.39,4.0,reviewed,nn,nn
 2024-11-21T05:07:52.590Z,61.448833333333,-151.81183333333,-2.93,-0.19,ml,4.0,221.0,0.05077,0.19,av,av93373858,2024-11-21T22:50:57.510Z,"51 km NW of Beluga, Alaska",earthquake,2.22,3.96,0.10512711961035,4.0,reviewed,av,av
 2024-11-21T04:06:33.212Z,51.3237,-174.1604,35.0,3.0,ml,12.0,281.0,0.879,0.72,us,us6000p6qc,2024-11-21T22:58:28.040Z,"97 km S of Atka, Alaska",earthquake,2.73,2.027,0.128,8.0,reviewed,us,us
+2024-11-21T23:17:47.769Z,61.1236,-147.3014,34.1,1.4,ml,,,,1.02,ak,ak024ezizulv,2024-11-21T23:19:45.090Z,"44 km NW of Tatitlek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-11-21T05:37:26.890Z,19.61,-65.3956,52.0,3.66,md,17.0,249.0,1.3074,0.32,pr,pr2024326000,2024-11-21T23:01:27.170Z,"139 km NNE of Vieques, Puerto Rico",earthquake,3.59,14.21,0.16,9.0,reviewed,pr,pr
+2024-11-21T05:17:26.850Z,61.306833333333,-152.26483333333,0.61,-0.43,ml,9.0,142.0,0.06734,0.07,av,av93373873,2024-11-21T23:06:57.050Z,"66 km WNW of Beluga, Alaska",earthquake,0.24,2.08,0.21473545614443,8.0,reviewed,av,av
+2024-11-21T01:42:20.342Z,79.5933,1.4612,10.0,4.5,mb,30.0,102.0,2.078,1.05,us,us6000p6p1,2024-11-21T23:22:45.040Z,Greenland Sea,earthquake,11.03,1.922,0.106,26.0,reviewed,us,us
