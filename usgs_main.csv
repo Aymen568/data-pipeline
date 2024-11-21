@@ -6750,3 +6750,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-21T22:41:40.180Z,34.2741667,-116.9481667,7.43,1.03,ml,21.0,80.0,0.02561,0.14,ci,ci40797959,2024-11-21T22:46:56.891Z,"5 km NW of Big Bear Lake, CA",earthquake,0.33,0.52,0.352,20.0,automatic,ci,ci
 2024-11-21T22:07:59.958Z,-58.9352,-25.7844,54.998,4.9,mb,44.0,86.0,19.601,0.77,us,us6000p6vm,2024-11-21T22:42:05.040Z,South Sandwich Islands region,earthquake,13.82,5.604,0.092,37.0,reviewed,us,us
 2024-11-21T04:52:30.200Z,61.040666666667,-152.37033333333,13.36,-0.29,ml,6.0,288.0,0.1562,0.06,av,av93373843,2024-11-21T22:42:20.110Z,"66 km W of Tyonek, Alaska",earthquake,0.72,1.4,0.20312229489323,7.0,reviewed,av,av
+2024-11-21T22:52:14.422Z,61.672,-142.6163,0.1,1.2,ml,,,,0.38,ak,ak024ezilun6,2024-11-21T22:54:50.746Z,"31 km NNE of McCarthy, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2024-11-21T22:39:13.030Z,17.957833333333,-66.878166666667,16.08,2.3,md,5.0,208.0,0.01716,0.14,pr,pr71466348,2024-11-21T22:51:27.380Z,"2 km SSE of Maria Antonia, Puerto Rico",earthquake,0.94,0.7,0.14052926470556,5.0,reviewed,pr,pr
+2024-11-21T21:57:02.630Z,18.4521,-68.56,154.0,4.09,md,23.0,225.0,0.189,0.22,pr,pr2024326002,2024-11-21T22:59:07.153Z,"9 km NNE of Boca de Yuma, Dominican Republic",earthquake,20.07,2.34,0.13,17.0,reviewed,pr,pr
+2024-11-21T16:57:46.432Z,38.8967,-119.6378,0.0,1.5,ml,12.0,74.37,0.023,0.1583,nn,nn00887803,2024-11-21T22:51:57.988Z,"3 km N of Carter Springs, Nevada",earthquake,,0.0,0.39,4.0,reviewed,nn,nn
+2024-11-21T05:07:52.590Z,61.448833333333,-151.81183333333,-2.93,-0.19,ml,4.0,221.0,0.05077,0.19,av,av93373858,2024-11-21T22:50:57.510Z,"51 km NW of Beluga, Alaska",earthquake,2.22,3.96,0.10512711961035,4.0,reviewed,av,av
+2024-11-21T04:06:33.212Z,51.3237,-174.1604,35.0,3.0,ml,12.0,281.0,0.879,0.72,us,us6000p6qc,2024-11-21T22:58:28.040Z,"97 km S of Atka, Alaska",earthquake,2.73,2.027,0.128,8.0,reviewed,us,us
