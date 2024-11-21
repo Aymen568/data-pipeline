@@ -6617,3 +6617,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-21T10:43:19.850Z,38.82500076294,-122.85150146484,1.8700000047684,0.79,md,10.0,104.0,0.004905,0.02,nc,nc75088786,2024-11-21T10:44:53.272Z,"10 km NW of The Geysers, CA",earthquake,0.42,0.720000029,0.18,12.0,automatic,nc,nc
 2024-11-21T10:27:41.932Z,62.0005,-149.8815,25.3,1.6,ml,,,,0.84,ak,ak024ezbbckf,2024-11-21T10:30:01.833Z,"17 km S of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-21T10:48:01.885Z,37.1639,-116.1823,4.0,0.5,ml,9.0,116.79,0.062,0.3239,nn,nn00887791,2024-11-21T10:49:37.772Z,"58 km ENE of Beatty, Nevada",earthquake,,1.2,0.76,5.0,automatic,nn,nn
+2024-11-21T11:12:36.120Z,33.2685,-116.0051667,6.34,0.61,ml,39.0,84.0,0.01989,0.2,ci,ci40797599,2024-11-21T11:15:59.922Z,"6 km SW of Salton City, CA",earthquake,0.23,0.57,0.043,6.0,automatic,ci,ci
