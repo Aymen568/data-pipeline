@@ -6568,3 +6568,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-21T02:59:52.329Z,31.669,-104.302,7.3303,3.4,ml,21.0,60.0,0.0,0.1,tx,tx2024wwan,2024-11-21T03:18:42.768Z,"56 km S of Whites City, New Mexico",earthquake,0.82771104641994,0.86423462746421,0.2,19.0,reviewed,tx,tx
 2024-11-21T02:53:01.356Z,31.646,-104.302,4.4844,1.9,ml,17.0,69.0,0.0,0.2,tx,tx2024wwaf,2024-11-21T03:07:24.513Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.3528543710709,0.2,13.0,automatic,tx,tx
 2024-11-21T02:23:43.515Z,8.0301,-82.8772,10.0,4.8,mww,53.0,87.0,1.277,1.35,us,us6000p6p4,2024-11-21T03:03:24.290Z,"1 km WSW of Burica, Panama",earthquake,6.14,1.905,0.066,22.0,reviewed,us,us
+2024-11-21T03:39:51.196Z,31.645,-104.298,4.4513,1.9,ml,16.0,130.0,0.0,0.2,tx,tx2024wwcb,2024-11-21T03:44:33.764Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.4220705032349,0.2,12.0,automatic,tx,tx
+2024-11-21T03:34:34.345Z,31.646,-104.305,4.3843,2.1,ml,18.0,69.0,0.0,0.2,tx,tx2024wwbu,2024-11-21T03:44:31.757Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.3251092433929,0.1,12.0,automatic,tx,tx
