@@ -6721,3 +6721,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-21T20:12:11.693Z,63.1276,-151.1017,35.1,1.8,ml,,,,1.42,ak,ak024ezh6ekx,2024-11-21T20:14:19.052Z,"55 km SE of Denali National Park, Alaska",earthquake,,16.2,,,automatic,ak,ak
 2024-11-21T20:39:14.840Z,38.791999816895,-122.77983093262,2.1500000953674,1.35,md,20.0,80.0,0.006429,0.02,nc,nc75088916,2024-11-21T20:40:52.907Z,"3 km NW of The Geysers, CA",earthquake,0.22,0.460000008,0.16,19.0,automatic,nc,nc
 2024-11-21T20:37:35.315Z,61.5402,-146.6059,33.1,1.5,ml,,,,1.01,ak,ak024ezhbtaz,2024-11-21T20:39:40.808Z,"47 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-11-21T20:53:03.788Z,62.8924,-150.6087,83.7,2.1,ml,,,,0.52,ak,ak024ezhf6bu,2024-11-21T20:55:09.070Z,"44 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-11-21T20:48:23.710Z,33.8371667,-117.4825,0.8,1.78,ml,24.0,127.0,0.0369,0.14,ci,ci40797847,2024-11-21T20:52:49.830Z,"6 km SE of Home Gardens, CA",earthquake,0.31,0.34,0.179,33.0,automatic,ci,ci
+2024-11-21T20:48:23.620Z,33.8175011,-117.4853363,2.3,1.64,ml,27.0,138.0,0.03358,0.13,ci,ci40797855,2024-11-21T20:50:41.530Z,"8 km SSE of Home Gardens, CA",earthquake,0.63,0.34,0.269,26.0,automatic,ci,ci
+2024-11-21T09:35:12.930Z,51.766666666667,-178.819,8.22,0.61,ml,4.0,195.0,0.02579,0.01,av,av93373993,2024-11-21T20:54:30.940Z,"151 km W of Adak, Alaska",earthquake,1.21,0.66,0.17022255230543,4.0,reviewed,av,av
