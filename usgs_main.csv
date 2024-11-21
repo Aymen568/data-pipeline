@@ -6588,3 +6588,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-21T05:32:38.190Z,38.817001342773,-122.81666564941,2.9300000667572,1.03,md,8.0,89.0,0.008202,0.02,nc,nc75088741,2024-11-21T05:34:13.164Z,"7 km NW of The Geysers, CA",earthquake,0.51,1.28999996,0.31,8.0,automatic,nc,nc
 2024-11-21T05:26:48.415Z,31.644,-104.306,4.3496,2.1,ml,17.0,69.0,0.0,0.2,tx,tx2024wwfk,2024-11-21T05:33:29.440Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.490549325943,0.2,13.0,automatic,tx,tx
 2024-11-20T10:58:31.697Z,54.4129,-159.7654,35.0,3.0,ml,28.0,233.0,1.024,0.75,us,us6000p6m4,2024-11-21T05:29:34.040Z,"113 km SSE of Sand Point, Alaska",earthquake,6.31,2.02,0.088,17.0,reviewed,us,us
+2024-11-21T05:44:30.468Z,36.6106,-117.0753,0.0,0.9,ml,18.0,220.25,0.313,0.3058,nn,nn00887789,2024-11-21T05:46:39.113Z,"26 km NW of Furnace Creek, California",earthquake,,31.0,0.4,8.0,automatic,nn,nn
