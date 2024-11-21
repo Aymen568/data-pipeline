@@ -6747,3 +6747,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-21T22:18:16.795Z,36.3705,-114.9594,1.4,1.6,ml,14.0,224.2,0.208,0.286,nn,nn00887824,2024-11-21T22:22:12.780Z,"16 km NNE of Nellis Air Force Base, Nevada",earthquake,,36.8,0.5,7.0,automatic,nn,nn
 2024-11-21T19:16:29.240Z,19.933,-155.606,10.86,2.05,ml,40.0,120.0,0.0899,0.29,hv,hv74536597,2024-11-21T22:29:00.210Z,"12 km SE of Waimea, Hawaii",earthquake,0.51,0.53,0.12042008932285,12.0,reviewed,hv,hv
 2024-11-21T02:21:26.310Z,58.559333333333,-154.67766666667,11.61,-0.12,ml,7.0,195.0,0.06291,0.22,av,av93027189,2024-11-21T22:26:30.880Z,"98 km S of Kokhanok, Alaska",earthquake,1.52,1.28,0.19800757220637,7.0,reviewed,av,av
+2024-11-21T22:41:40.180Z,34.2741667,-116.9481667,7.43,1.03,ml,21.0,80.0,0.02561,0.14,ci,ci40797959,2024-11-21T22:46:56.891Z,"5 km NW of Big Bear Lake, CA",earthquake,0.33,0.52,0.352,20.0,automatic,ci,ci
+2024-11-21T22:07:59.958Z,-58.9352,-25.7844,54.998,4.9,mb,44.0,86.0,19.601,0.77,us,us6000p6vm,2024-11-21T22:42:05.040Z,South Sandwich Islands region,earthquake,13.82,5.604,0.092,37.0,reviewed,us,us
+2024-11-21T04:52:30.200Z,61.040666666667,-152.37033333333,13.36,-0.29,ml,6.0,288.0,0.1562,0.06,av,av93373843,2024-11-21T22:42:20.110Z,"66 km W of Tyonek, Alaska",earthquake,0.72,1.4,0.20312229489323,7.0,reviewed,av,av
