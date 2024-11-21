@@ -6570,3 +6570,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-21T02:23:43.515Z,8.0301,-82.8772,10.0,4.8,mww,53.0,87.0,1.277,1.35,us,us6000p6p4,2024-11-21T03:03:24.290Z,"1 km WSW of Burica, Panama",earthquake,6.14,1.905,0.066,22.0,reviewed,us,us
 2024-11-21T03:39:51.196Z,31.645,-104.298,4.4513,1.9,ml,16.0,130.0,0.0,0.2,tx,tx2024wwcb,2024-11-21T03:44:33.764Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.4220705032349,0.2,12.0,automatic,tx,tx
 2024-11-21T03:34:34.345Z,31.646,-104.305,4.3843,2.1,ml,18.0,69.0,0.0,0.2,tx,tx2024wwbu,2024-11-21T03:44:31.757Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.3251092433929,0.1,12.0,automatic,tx,tx
+2024-11-21T03:56:52.960Z,33.2063332,-116.0241699,10.16,1.09,ml,17.0,107.0,0.05088,0.18,ci,ci40797495,2024-11-21T03:59:07.258Z,"12 km SSW of Salton City, CA",earthquake,0.71,1.46,0.127,4.0,automatic,ci,ci
+2024-11-21T03:56:08.825Z,61.6179,-142.5506,14.2,1.4,ml,,,,0.42,ak,ak024ez7bgky,2024-11-21T03:58:44.006Z,"28 km NE of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
