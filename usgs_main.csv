@@ -6576,3 +6576,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-21T04:13:28.757Z,61.6482,-148.2866,21.1,1.0,ml,,,,0.28,ak,ak024ez7npxn,2024-11-21T04:14:39.603Z,"18 km SSE of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-21T04:05:32.860Z,33.1928333,-116.0038333,6.96,1.97,ml,75.0,27.0,0.02917,0.21,ci,ci40797511,2024-11-21T04:16:32.690Z,"13 km SSW of Salton City, CA",earthquake,0.15,0.44,0.198,28.0,automatic,ci,ci
 2024-11-21T03:55:52.859Z,31.648,-104.303,4.6381,2.1,ml,26.0,59.0,0.0,0.3,tx,tx2024wwcn,2024-11-21T04:18:48.984Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.1643911600113,0.2,20.0,automatic,tx,tx
+2024-11-21T04:40:51.321Z,61.232,-150.4724,22.3,2.9,ml,,,,0.73,ak,ak024ez7tk26,2024-11-21T04:42:38.408Z,"30 km WSW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
