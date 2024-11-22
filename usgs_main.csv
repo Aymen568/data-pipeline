@@ -6873,3 +6873,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-22T09:56:12.660Z,34.6036667,-119.0383333,2.09,1.25,ml,31.0,40.0,0.14,0.25,ci,ci40798159,2024-11-22T10:00:38.980Z,"25 km NNW of Fillmore, CA",earthquake,0.25,0.55,0.291,30.0,automatic,ci,ci
 2024-11-22T09:56:10.437Z,38.3694,-116.4782,0.0,1.5,ml,9.0,269.19,1.01,0.2889,nn,nn00887833,2024-11-22T09:58:52.149Z,"73 km ENE of Tonopah, Nevada",earthquake,,12.0,0.38,7.0,automatic,nn,nn
 2024-11-22T09:48:44.330Z,34.3931667,-117.6743333,8.85,1.81,ml,20.0,131.0,0.01157,0.15,ci,ci40798151,2024-11-22T09:53:12.835Z,"5 km SSW of Pinon Hills, CA",earthquake,0.27,0.52,0.252,16.0,automatic,ci,ci
+2024-11-22T10:46:00.140Z,33.5118332,-116.4574966,4.97,1.33,ml,38.0,48.0,0.07644,0.21,ci,ci40798183,2024-11-22T10:50:58.136Z,"21 km ESE of Anza, CA",earthquake,0.29,1.27,0.193,9.0,automatic,ci,ci
