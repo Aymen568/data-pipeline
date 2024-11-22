@@ -6867,3 +6867,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-22T09:28:45.243Z,62.1902,-149.8402,15.0,1.4,ml,,,,0.64,ak,ak024f0y9hgs,2024-11-22T09:31:08.713Z,"3 km N of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-22T09:45:38.970Z,33.5105,-116.4598333,4.33,0.73,ml,43.0,75.0,0.0757,0.18,ci,ci40798143,2024-11-22T09:50:15.588Z,"20 km ESE of Anza, CA",earthquake,0.18,0.41,0.162,20.0,automatic,ci,ci
 2024-11-22T09:43:51.607Z,64.5841,-147.7788,21.6,0.6,ml,,,,0.23,ak,ak024f0ycpp4,2024-11-22T09:45:51.474Z,"25 km S of South Van Horn, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-11-22T10:12:09.230Z,33.5138321,-116.4585037,5.68,1.31,ml,29.0,79.0,0.07459,0.14,ci,ci40798175,2024-11-22T10:14:13.644Z,"20 km ESE of Anza, CA",earthquake,0.28,1.2,0.195,9.0,automatic,ci,ci
+2024-11-22T10:02:01.110Z,33.8623333,-115.5258333,1.92,1.31,ml,25.0,71.0,0.181,0.18,ci,ci40798167,2024-11-22T10:05:29.907Z,"20 km NW of Desert Center, CA",earthquake,0.25,1.14,0.173,18.0,automatic,ci,ci
+2024-11-22T10:00:01.491Z,62.3887,-148.5673,32.3,2.6,ml,,,,0.63,ak,ak024f0yotn9,2024-11-22T10:01:45.352Z,"66 km N of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-11-22T09:56:12.660Z,34.6036667,-119.0383333,2.09,1.25,ml,31.0,40.0,0.14,0.25,ci,ci40798159,2024-11-22T10:00:38.980Z,"25 km NNW of Fillmore, CA",earthquake,0.25,0.55,0.291,30.0,automatic,ci,ci
+2024-11-22T09:56:10.437Z,38.3694,-116.4782,0.0,1.5,ml,9.0,269.19,1.01,0.2889,nn,nn00887833,2024-11-22T09:58:52.149Z,"73 km ENE of Tonopah, Nevada",earthquake,,12.0,0.38,7.0,automatic,nn,nn
+2024-11-22T09:48:44.330Z,34.3931667,-117.6743333,8.85,1.81,ml,20.0,131.0,0.01157,0.15,ci,ci40798151,2024-11-22T09:53:12.835Z,"5 km SSW of Pinon Hills, CA",earthquake,0.27,0.52,0.252,16.0,automatic,ci,ci
