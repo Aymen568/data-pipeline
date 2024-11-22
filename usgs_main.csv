@@ -6827,3 +6827,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-22T04:13:33.467Z,31.653,-104.31,4.5102,2.0,ml,17.0,69.0,0.1,0.1,tx,tx2024wxyj,2024-11-22T04:27:03.968Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.4182434082031,0.1,12.0,automatic,tx,tx
 2024-11-21T18:44:20.630Z,54.117166666667,-165.94833333333,6.63,-0.61,ml,7.0,83.0,0.012,0.09,av,av93027224,2024-11-22T04:32:05.100Z,"11 km W of Akutan, Alaska",earthquake,0.32,0.5,0.16427390102098,7.0,reviewed,av,av
 2024-11-22T04:32:56.108Z,31.65,-104.309,4.6673,2.1,ml,18.0,69.0,0.0,0.2,tx,tx2024wxzg,2024-11-22T04:38:46.035Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.3115314245224,0.1,14.0,automatic,tx,tx
+2024-11-22T04:50:47.040Z,35.743,-117.5438333,7.44,0.53,ml,18.0,139.0,0.0847,0.12,ci,ci40798103,2024-11-22T04:54:19.664Z,"13 km WSW of Searles Valley, CA",earthquake,0.27,0.68,0.185,7.0,automatic,ci,ci
+2024-11-22T04:49:47.450Z,38.813499450684,-122.81383514404,2.8199999332428,1.46,md,25.0,54.0,0.01031,0.02,nc,nc75088996,2024-11-22T05:09:29.612Z,"6 km NW of The Geysers, CA",earthquake,0.25,0.389999986,0.15,28.0,automatic,nc,nc
+2024-11-22T04:37:43.350Z,31.645,-104.311,4.511,1.7,ml,18.0,69.0,0.0,0.3,tx,tx2024wxzi,2024-11-22T04:51:29.124Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.3120003938675,0.2,14.0,automatic,tx,tx
