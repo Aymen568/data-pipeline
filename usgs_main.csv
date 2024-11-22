@@ -6970,3 +6970,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-22T16:56:37.810Z,33.512,-116.4596667,7.68,0.62,ml,11.0,145.0,0.0749,0.11,ci,ci40798271,2024-11-22T21:28:15.298Z,"20 km ESE of Anza, CA",earthquake,0.31,0.84,0.111,11.0,reviewed,ci,ci
 2024-11-22T21:38:31.093Z,30.932,-103.217,8.7302,2.2,ml,12.0,115.0,0.1,0.4,tx,tx2024wzgw,2024-11-22T21:42:25.054Z,"32 km W of Fort Stockton, Texas",earthquake,0.0,6.3092112541199,0.2,10.0,automatic,tx,tx
 2024-11-22T21:26:00.100Z,33.6738333,-116.7276667,15.05,0.81,ml,12.0,129.0,0.0389,0.09,ci,ci37689892,2024-11-22T21:41:04.676Z,"7 km S of Idyllwild, CA",earthquake,0.32,0.53,0.162,4.0,reviewed,ci,ci
+2024-11-22T19:14:38.320Z,33.5196667,-116.4615,6.39,0.96,ml,14.0,185.0,0.06923,0.1,ci,ci40798367,2024-11-22T21:53:32.378Z,"20 km E of Anza, CA",earthquake,0.32,0.57,0.143,10.0,reviewed,ci,ci
+2024-11-22T02:03:20.704Z,-33.146,-179.0593,56.572,4.6,mb,21.0,113.0,3.993,0.84,us,us6000p6wz,2024-11-22T21:52:15.040Z,south of the Kermadec Islands,earthquake,10.03,6.464,0.141,15.0,reviewed,us,us
