@@ -6945,3 +6945,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-22T06:59:36.880Z,46.880666666667,-121.9415,8.54,0.26,ml,10.0,126.0,0.01597,0.09,uw,uw62060926,2024-11-22T19:28:57.190Z,"15 km NNE of Ashford, Washington",earthquake,0.73,0.42,0.098608349255261,3.0,reviewed,uw,uw
 2024-11-22T19:34:39.341Z,59.7983,-152.8067,74.9,1.5,ml,,,,0.31,ak,ak024f1493cu,2024-11-22T19:37:10.526Z,"54 km W of Anchor Point, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2024-11-22T19:30:13.410Z,32.5736667,-115.8676667,9.99,1.99,ml,34.0,63.0,0.08688,0.19,ci,ci40798407,2024-11-22T19:34:14.791Z,"22 km SSE of Ocotillo, CA",earthquake,0.21,0.5,0.132,31.0,automatic,ci,ci
+2024-11-22T15:38:07.110Z,47.561166666667,-122.70383333333,21.16,2.25,ml,46.0,39.0,0.03808,0.19,uw,uw62060941,2024-11-22T19:45:44.670Z,"3 km WNW of Navy Yard City, Washington",earthquake,0.28,0.4,0.21758374240702,34.0,reviewed,uw,uw
