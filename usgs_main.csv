@@ -6932,3 +6932,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-22T17:59:03.087Z,63.015,-150.4277,105.4,1.5,ml,,,,0.28,ak,ak024f137i90,2024-11-22T18:01:12.973Z,"60 km NNE of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-11-22T10:36:52.030Z,43.660166666667,-111.0815,2.98,0.85,ml,6.0,202.0,0.04542,0.12,mb,mb90066628,2024-11-22T18:24:08.290Z,"6 km NNE of Victor, Idaho",earthquake,0.68,1.17,0.14430829911353,7.0,reviewed,mb,mb
 2024-11-22T01:16:09.730Z,36.0313333,-117.7686667,2.29,0.55,ml,7.0,164.0,0.006706,0.06,ci,ci37689884,2024-11-22T18:20:59.369Z,"16 km E of Coso Junction, CA",earthquake,0.26,0.15,0.367,2.0,reviewed,ci,ci
+2024-11-22T18:45:28.760Z,38.834167480469,-122.81600189209,1.4900000095367,1.51,md,21.0,58.0,0.01585,0.03,nc,nc75089121,2024-11-22T18:47:03.535Z,"8 km WNW of Cobb, CA",earthquake,0.19,0.550000012,0.17,20.0,automatic,nc,nc
