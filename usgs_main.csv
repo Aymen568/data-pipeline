@@ -6968,3 +6968,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-22T21:14:34.066Z,61.343,-152.2283,0.0,0.5,ml,,,,0.61,ak,ak024f15bntu,2024-11-22T21:21:25.149Z,"65 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-22T20:53:34.220Z,44.841666666667,-111.48066666667,12.67,1.38,ml,22.0,51.0,0.03769,0.16,mb,mb90066638,2024-11-22T21:23:12.940Z,"24 km WNW of Hebgen Lake Estates, Montana",earthquake,0.37,0.54,0.2635363080245,18.0,reviewed,mb,mb
 2024-11-22T16:56:37.810Z,33.512,-116.4596667,7.68,0.62,ml,11.0,145.0,0.0749,0.11,ci,ci40798271,2024-11-22T21:28:15.298Z,"20 km ESE of Anza, CA",earthquake,0.31,0.84,0.111,11.0,reviewed,ci,ci
+2024-11-22T21:38:31.093Z,30.932,-103.217,8.7302,2.2,ml,12.0,115.0,0.1,0.4,tx,tx2024wzgw,2024-11-22T21:42:25.054Z,"32 km W of Fort Stockton, Texas",earthquake,0.0,6.3092112541199,0.2,10.0,automatic,tx,tx
+2024-11-22T21:26:00.100Z,33.6738333,-116.7276667,15.05,0.81,ml,12.0,129.0,0.0389,0.09,ci,ci37689892,2024-11-22T21:41:04.676Z,"7 km S of Idyllwild, CA",earthquake,0.32,0.53,0.162,4.0,reviewed,ci,ci
