@@ -6815,3 +6815,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-22T03:43:06.394Z,61.6993,-142.4922,0.0,1.2,ml,,,,0.23,ak,ak024f0us0k7,2024-11-22T03:46:18.857Z,"37 km NE of McCarthy, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-22T03:26:53.457Z,31.65,-104.31,4.3497,1.8,ml,17.0,69.0,0.0,0.2,tx,tx2024wxwv,2024-11-22T03:38:50.674Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.3329385519028,0.2,12.0,automatic,tx,tx
 2024-11-21T17:30:06.100Z,58.287166666667,-154.922,4.49,0.54,ml,12.0,167.0,0.07514,0.2,av,av93374378,2024-11-22T03:42:30.020Z,"84 km NNW of Karluk, Alaska",earthquake,0.47,0.69,0.20709357841923,12.0,reviewed,av,av
+2024-11-22T04:04:01.490Z,36.248165130615,-120.81833648682,7.039999961853,1.92,md,31.0,74.0,0.03503,0.12,nc,nc75088976,2024-11-22T04:07:06.230Z,"22 km ENE of San Lucas, CA",earthquake,0.3,0.5,0.15,27.0,automatic,nc,nc
+2024-11-22T03:53:19.302Z,62.2283,-149.943,16.7,1.6,ml,,,,0.47,ak,ak024f0uu6qi,2024-11-22T03:55:37.146Z,"8 km NNW of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-11-22T03:44:40.631Z,6.9028,126.5858,106.481,4.6,mb,36.0,117.0,1.013,0.6,us,us6000p6xc,2024-11-22T04:06:17.040Z,"21 km ESE of Lukatan, Philippines",earthquake,10.75,7.202,0.109,27.0,reviewed,us,us
+2024-11-21T18:19:33.880Z,53.6065,-166.98616666667,13.08,1.08,ml,12.0,202.0,0.198,0.21,av,av93374418,2024-11-22T03:57:46.200Z,"42 km SW of Unalaska, Alaska",earthquake,1.22,1.85,0.31885019108529,12.0,reviewed,av,av
+2024-11-21T18:08:20.750Z,60.445833333333,-152.78533333333,5.28,0.29,ml,8.0,157.0,0.02132,0.05,av,av93374408,2024-11-22T04:03:26.920Z,"75 km NW of Ninilchik, Alaska",earthquake,0.29,0.44,0.21531883767697,8.0,reviewed,av,av
+2024-11-21T17:31:29.920Z,58.3135,-155.01416666667,3.49,-0.68,ml,6.0,125.0,0.03111,0.21,av,av93027219,2024-11-22T03:51:27.490Z,"89 km NNW of Karluk, Alaska",earthquake,0.63,1.04,0.29535941287917,6.0,reviewed,av,av
