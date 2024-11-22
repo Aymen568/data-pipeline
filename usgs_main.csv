@@ -6889,3 +6889,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-22T12:16:24.840Z,19.1705,-64.5788,26.0,3.78,md,15.0,294.0,0.7565,0.28,pr,pr2024327001,2024-11-22T12:44:13.431Z,"95 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,2.08,19.94,0.18,8.0,reviewed,pr,pr
 2024-11-21T20:42:49.780Z,34.381,-96.8575,0.0,1.58,ml,25.0,137.0,0.2663477335,0.28,ok,ok2024wxjm,2024-11-22T12:38:01.662Z,"3 km SW of Mill Creek, Oklahoma",quarry blast,,0.5,0.31,12.0,reviewed,ok,ok
 2024-11-21T18:01:55.869Z,36.25333333,-95.82616667,0.0,1.41,ml,38.0,204.0,0.3437325479,0.54,ok,ok2024wxee,2024-11-22T12:33:22.772Z,"3 km SE of Owasso, Oklahoma",quarry blast,,0.9,0.18,20.0,reviewed,ok,ok
+2024-11-22T12:59:14.170Z,33.476,-116.4235,13.1,0.86,ml,47.0,77.0,0.1211,0.15,ci,ci40798207,2024-11-22T13:10:11.360Z,"23 km SSW of La Quinta, CA",earthquake,0.19,0.44,0.125,20.0,automatic,ci,ci
+2024-11-22T12:40:18.788Z,23.0913,120.1859,10.0,5.0,mb,67.0,38.0,0.458,0.64,us,us6000p6ze,2024-11-22T13:27:31.334Z,"10 km NW of Yongkang, Taiwan",earthquake,4.47,0.96,0.063,83.0,reviewed,us,us
