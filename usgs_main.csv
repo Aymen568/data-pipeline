@@ -7077,3 +7077,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-22T22:31:36.680Z,58.297166666667,-154.98866666667,2.48,-0.44,ml,8.0,143.0,0.03937,0.11,av,av93375578,2024-11-23T07:47:12.440Z,"87 km NNW of Karluk, Alaska",earthquake,0.29,0.47,0.29913406865421,9.0,reviewed,av,av
 2024-11-23T07:47:36.924Z,57.6792,-155.939,84.7,1.6,ml,,,,0.17,ak,ak024f2kq0po,2024-11-23T07:49:35.286Z,"89 km ENE of Ugashik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-11-22T23:25:01.600Z,61.2585,-152.196,18.54,-0.51,ml,10.0,100.0,0.02102,0.17,av,av93375618,2024-11-23T07:54:24.620Z,"60 km WNW of Tyonek, Alaska",earthquake,0.56,0.91,0.13434209077563,10.0,reviewed,av,av
+2024-11-23T08:24:31.722Z,61.4115,-149.7867,48.1,1.2,ml,,,,0.25,ak,ak024f2l6ig4,2024-11-23T08:26:21.878Z,"6 km SSW of Knik, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-11-23T08:24:12.223Z,63.1967,-151.3307,0.0,1.3,ml,,,,0.37,ak,ak024f2l6gxy,2024-11-23T08:26:25.632Z,"43 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-11-23T08:17:41.645Z,61.2848,-152.2769,9.0,0.3,ml,,,,0.13,ak,ak024f2l5178,2024-11-23T08:19:29.806Z,"65 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-11-23T08:09:27.236Z,61.2652,-152.2639,4.1,1.7,ml,,,,0.42,ak,ak024f2l3acz,2024-11-23T08:11:08.354Z,"64 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-23T08:01:36.420Z,19.187833786011,-155.37216186523,31.209999084473,2.25999999,md,33.0,211.0,0.0549,0.100000001,hv,hv74538117,2024-11-23T08:03:19.880Z,"11 km E of Pāhala, Hawaii",earthquake,0.89,0.680000007,0.839999974,4.0,automatic,hv,hv
