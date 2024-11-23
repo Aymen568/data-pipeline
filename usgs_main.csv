@@ -7096,3 +7096,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-23T10:39:25.740Z,38.839000701904,-122.80799865723,-0.79000002145767,0.27,md,6.0,137.0,0.01567,0.2,nc,nc75089336,2024-11-23T10:41:00.230Z,"8 km WNW of Cobb, CA",earthquake,0.43,2.31999993,0.14,6.0,automatic,nc,nc
 2024-11-23T10:25:35.435Z,-2.8464,145.6761,10.0,5.1,mb,41.0,42.0,1.867,0.53,us,us6000p78e,2024-11-23T10:42:59.040Z,"198 km WSW of Lorengau, Papua New Guinea",earthquake,4.87,1.84,0.082,48.0,reviewed,us,us
 2024-11-23T10:51:44.450Z,38.835998535156,-122.8073348999,2.079999923706,1.12,md,22.0,52.0,0.01277,0.01,nc,nc75089341,2024-11-23T10:53:20.350Z,"7 km WNW of Cobb, CA",earthquake,0.21,0.460000008,0.15,25.0,automatic,nc,nc
+2024-11-23T11:03:03.930Z,33.2663333,-116.4238333,4.82,0.85,ml,53.0,33.0,0.005893,0.21,ci,ci40798703,2024-11-23T11:07:42.702Z,"5 km WNW of Borrego Springs, CA",earthquake,0.22,0.38,0.135,22.0,automatic,ci,ci
+2024-11-23T10:47:50.871Z,-2.8095,145.7107,10.0,5.2,mb,47.0,41.0,1.821,0.78,us,us6000p78j,2024-11-23T11:04:04.040Z,"193 km WSW of Lorengau, Papua New Guinea",earthquake,6.46,1.648,0.097,35.0,reviewed,us,us
