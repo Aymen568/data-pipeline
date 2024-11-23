@@ -7203,3 +7203,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-23T22:12:18.550Z,19.149333953857,-155.50016784668,34.220001220703,2.1400001,md,35.0,194.0,0.03648,0.170000002,hv,hv74538647,2024-11-23T22:14:06.220Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.75,0.800000012,0.0500000007,3.0,automatic,hv,hv
 2024-11-23T21:48:50.480Z,17.979666666667,-66.827,16.66,2.31,md,6.0,197.0,0.04995,0.09,pr,pr71466463,2024-11-23T22:12:54.470Z,"1 km SSW of Indios, Puerto Rico",earthquake,0.55,0.79,0.032074957627211,5.0,reviewed,pr,pr
 2024-11-23T21:43:02.613Z,-4.3326,128.6214,184.687,4.4,mb,30.0,47.0,1.293,0.48,us,us6000p7bc,2024-11-23T22:18:25.040Z,"85 km SE of Ambon, Indonesia",earthquake,6.32,7.495,0.127,18.0,reviewed,us,us
+2024-11-23T22:38:14.362Z,63.3861,-149.749,31.6,1.5,ml,,,,0.93,ak,ak024f2tljlo,2024-11-23T22:40:07.681Z,"39 km W of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
