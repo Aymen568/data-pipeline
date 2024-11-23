@@ -7120,3 +7120,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-23T14:26:32.360Z,61.4469,-149.8985,32.6,1.4,ml,,,,0.26,ak,ak024f2orjk4,2024-11-23T14:28:19.383Z,"8 km SSE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-11-23T14:36:35.194Z,36.5675,-117.1231,11.5,1.5,ml,18.0,228.62,0.347,0.3509,nn,nn00887885,2024-11-23T14:38:39.680Z,"27 km WNW of Furnace Creek, California",earthquake,,0.8,0.32,13.0,automatic,nn,nn
 2024-11-23T14:13:25.110Z,-28.5718,-176.6536,10.0,4.7,mb,24.0,76.0,1.304,1.16,us,us6000p79b,2024-11-23T14:38:41.040Z,Kermadec Islands region,earthquake,9.96,1.909,0.123,24.0,reviewed,us,us
+2024-11-23T14:39:06.186Z,36.6908,-116.306,8.2,0.6,ml,13.0,128.77,0.039,0.2322,nn,nn00887889,2024-11-23T14:41:07.777Z,"47 km ESE of Beatty, Nevada",earthquake,,0.7,0.34,9.0,automatic,nn,nn
