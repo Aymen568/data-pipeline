@@ -7132,3 +7132,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-23T16:08:36.630Z,62.8291,-150.8842,83.7,1.4,ml,,,,0.68,ak,ak024f2puk7j,2024-11-23T16:10:24.072Z,"37 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-23T15:52:36.920Z,36.583000183105,-121.17566680908,4.1100001335144,2.08,md,20.0,122.0,0.09787,0.07,nc,nc75089401,2024-11-23T16:07:15.174Z,"6 km NNW of Pinnacles, CA",earthquake,0.34,1.66999996,0.15,21.0,automatic,nc,nc
 2024-11-23T15:47:22.905Z,31.608,-103.972,5.2587,2.0,ml,11.0,115.0,0.0,0.2,tx,tx2024xaqv,2024-11-23T16:02:42.190Z,"36 km NNW of Toyah, Texas",earthquake,0.0,3.4825828075409,0.1,9.0,automatic,tx,tx
+2024-11-23T16:31:12.184Z,59.5974,-152.8726,94.8,1.9,ml,,,,0.24,ak,ak024f2pzfsi,2024-11-23T16:33:05.038Z,"60 km WNW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-11-23T16:30:26.299Z,31.642,-104.299,4.5856,2.4,ml,18.0,69.0,0.0,0.2,tx,tx2024xasf,2024-11-23T16:35:33.202Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.3251352310181,0.1,14.0,automatic,tx,tx
+2024-11-23T16:29:57.330Z,33.3975,-116.3771667,2.79,0.73,ml,39.0,63.0,0.07108,0.23,ci,ci40798823,2024-11-23T16:34:31.310Z,"16 km N of Borrego Springs, CA",earthquake,0.26,0.51,0.091,20.0,automatic,ci,ci
+2024-11-23T16:28:28.414Z,61.1359,-145.7187,26.2,1.5,ml,,,,1.07,ak,ak024f2pytw9,2024-11-23T16:30:42.076Z,"33 km E of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-11-23T16:27:48.626Z,62.1367,-146.5979,0.0,1.8,ml,,,,1.42,ak,ak024f2pynrf,2024-11-23T16:32:43.714Z,"11 km NW of Mendeltna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-11-23T16:23:57.410Z,37.483165740967,-118.84483337402,2.8599998950958,1.88,md,16.0,121.0,0.1074,0.05,nc,nc75089406,2024-11-23T16:25:34.619Z,"17 km WSW of Toms Place, CA",earthquake,0.39,1.63999999,0.13,15.0,automatic,nc,nc
+2024-11-23T16:13:45.540Z,41.538166046143,-111.76699829102,-2.4300000667572,2.92,ml,36.0,27.0,0.1636,0.379999995,uu,uu80087026,2024-11-23T16:35:36.843Z,"3 km E of Avon, Utah",earthquake,0.48,6.75,0.32,28.0,automatic,uu,uu
+2024-11-23T16:13:34.121Z,31.654,-104.364,4.0396,2.1,ml,18.0,70.0,0.1,0.3,tx,tx2024xarq,2024-11-23T16:24:22.138Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.3694219589233,0.2,14.0,automatic,tx,tx
+2024-11-23T16:01:50.890Z,18.5375,-66.608666666667,94.21,3.17,md,16.0,198.0,0.0962,0.26,pr,pr71466428,2024-11-23T16:28:00.910Z,"10 km NNW of Garrochales, Puerto Rico",earthquake,1.24,0.86,0.086018446078313,15.0,reviewed,pr,pr
+2024-11-23T15:29:49.400Z,43.5261,-127.5598,14.618,3.5,ml,79.0,243.0,1.839,0.79,us,us6000p79t,2024-11-23T16:24:32.040Z,"259 km W of Bandon, Oregon",earthquake,9.32,9.105,0.034,114.0,reviewed,us,us
