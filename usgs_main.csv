@@ -7211,3 +7211,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-23T18:14:30.260Z,47.9655,-114.48983333333,10.79,1.24,ml,13.0,105.0,0.2303,0.09,mb,mb90066703,2024-11-23T23:25:52.980Z,"7 km WNW of Lake Mary Ronan, Montana",earthquake,0.3,0.86,0.07554268074535,8.0,reviewed,mb,mb
 2024-11-23T16:50:58.780Z,47.974333333333,-114.47916666667,9.51,2.17,ml,20.0,71.0,0.2409,0.18,mb,mb90066693,2024-11-23T23:18:10.910Z,"7 km WNW of Lake Mary Ronan, Montana",earthquake,0.37,1.4,0.28388752129075,22.0,reviewed,mb,mb
 2024-11-23T23:38:10.791Z,61.9246,-150.4668,9.9,1.6,ml,,,,0.6,ak,ak024f2u6yxj,2024-11-23T23:39:45.229Z,"30 km NW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-11-23T23:22:30.344Z,40.194,142.4938,45.666,5.1,mb,107.0,135.0,1.242,0.96,us,us6000p7bu,2024-11-23T23:45:37.782Z,"58 km E of Noda, Japan",earthquake,6.14,6.769,0.037,238.0,reviewed,us,us
