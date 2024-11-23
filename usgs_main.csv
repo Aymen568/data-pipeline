@@ -7146,3 +7146,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-23T16:36:02.680Z,19.183500289917,-155.69383239746,-0.10999999940395,1.70000005,md,20.0,172.0,0.05551,0.370000005,hv,hv74538412,2024-11-23T16:37:45.930Z,"14 km NNE of Hawaiian Ocean View, Hawaii",earthquake,1.1,1.39999998,0.0299999993,3.0,automatic,hv,hv
 2024-11-23T06:44:26.665Z,51.0995,-176.3072,34.6,3.7,ml,,,,0.39,ak,ak024f2k3xen,2024-11-23T17:04:45.715Z,"89 km SSE of Adak, Alaska",earthquake,,1.3,,,reviewed,ak,ak
 2024-11-23T01:00:32.088Z,59.3682,-152.7387,73.8,1.3,ml,,,,0.31,ak,ak024f2gml17,2024-11-23T16:55:30.856Z,"46 km W of Nanwalek, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2024-11-23T17:23:47.620Z,35.0791664,-119.1203308,16.35,1.82,ml,15.0,73.0,0.03632,0.28,ci,ci40798847,2024-11-23T17:27:20.680Z,"23 km NW of Grapevine, CA",earthquake,0.68,1.13,0.263,28.0,automatic,ci,ci
+2024-11-23T17:18:07.020Z,35.8438333,-117.6688333,10.4,1.89,ml,30.0,51.0,0.06438,0.13,ci,ci40798839,2024-11-23T17:21:39.827Z,"24 km ESE of Little Lake, CA",earthquake,0.14,0.31,0.149,26.0,automatic,ci,ci
+2024-11-23T17:17:29.810Z,38.782165527344,-122.7636642456,3.7699999809265,1.14,md,24.0,71.0,0.01154,0.04,nc,nc75089421,2024-11-23T17:19:05.830Z,"1 km NW of The Geysers, CA",earthquake,0.28,0.629999995,0.23,23.0,automatic,nc,nc
+2024-11-23T17:06:39.475Z,60.195,-152.335,90.2,1.5,ml,,,,0.53,ak,ak024f2qfkln,2024-11-23T17:08:40.896Z,"40 km WNW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-11-23T17:00:12.612Z,31.644,-104.302,4.3498,2.1,ml,18.0,69.0,0.0,0.2,tx,tx2024xate,2024-11-23T17:10:12.396Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.3198847770691,0.2,12.0,automatic,tx,tx
