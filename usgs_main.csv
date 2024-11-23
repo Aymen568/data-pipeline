@@ -7117,3 +7117,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-23T12:42:00.488Z,41.1612,-114.764,10.106,2.8,ml,21.0,91.0,0.55,1.04,us,us6000p78z,2024-11-23T12:59:10.040Z,"17 km ENE of Wells, Nevada",earthquake,4.44,8.532,0.046,62.0,reviewed,us,us
 2024-11-23T13:26:07.640Z,39.604499816895,-123.82233428955,-0.34999999403954,2.1,md,13.0,175.0,0.2214,0.19,nc,nc75089381,2024-11-23T13:27:45.347Z,"14 km S of Cape Vizcaino, CA",earthquake,0.94,7.34000015,0.08,4.0,automatic,nc,nc
 2024-11-23T14:05:50.934Z,63.2539,-151.0134,5.2,1.7,ml,,,,0.59,ak,ak024f2on2yd,2024-11-23T14:08:15.329Z,"47 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-11-23T14:26:32.360Z,61.4469,-149.8985,32.6,1.4,ml,,,,0.26,ak,ak024f2orjk4,2024-11-23T14:28:19.383Z,"8 km SSE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
