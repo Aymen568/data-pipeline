@@ -7151,3 +7151,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-23T17:17:29.810Z,38.782165527344,-122.7636642456,3.7699999809265,1.14,md,24.0,71.0,0.01154,0.04,nc,nc75089421,2024-11-23T17:19:05.830Z,"1 km NW of The Geysers, CA",earthquake,0.28,0.629999995,0.23,23.0,automatic,nc,nc
 2024-11-23T17:06:39.475Z,60.195,-152.335,90.2,1.5,ml,,,,0.53,ak,ak024f2qfkln,2024-11-23T17:08:40.896Z,"40 km WNW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-11-23T17:00:12.612Z,31.644,-104.302,4.3498,2.1,ml,18.0,69.0,0.0,0.2,tx,tx2024xate,2024-11-23T17:10:12.396Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.3198847770691,0.2,12.0,automatic,tx,tx
+2024-11-23T17:33:37.848Z,58.4042,-154.6037,99.6,0.3,ml,,,,0.17,ak,ak024f2qlct4,2024-11-23T17:35:21.342Z,"93 km N of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2024-11-23T17:33:34.090Z,37.48416519165,-118.84750366211,0.56000000238419,1.14,md,9.0,217.0,0.1067,0.03,nc,nc75089431,2024-11-23T17:35:10.072Z,"17 km WSW of Toms Place, CA",earthquake,0.84,4.69000006,0.26,9.0,automatic,nc,nc
+2024-11-23T17:28:31.521Z,31.676,-104.397,4.7232,2.3,ml,18.0,69.0,0.0,0.3,tx,tx2024xauc,2024-11-23T17:32:32.539Z,"55 km S of Whites City, New Mexico",earthquake,0.0,1.3387216329575,0.2,13.0,automatic,tx,tx
