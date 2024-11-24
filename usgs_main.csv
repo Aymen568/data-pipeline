@@ -7401,3 +7401,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-24T17:26:09.478Z,31.63,-104.479,3.5642,1.7,ml,16.0,127.0,0.0,0.3,tx,tx2024xcpn,2024-11-24T17:34:38.533Z,"61 km S of Whites City, New Mexico",earthquake,0.0,1.7805458307266,0.1,12.0,automatic,tx,tx
 2024-11-24T17:04:17.451Z,36.7505,-116.1674,4.8,-0.1,ml,5.0,199.41,0.041,0.0639,nn,nn00887909,2024-11-24T17:36:49.770Z,"48 km WNW of Indian Springs, Nevada",earthquake,,2.9,0.0,1.0,reviewed,nn,nn
 2024-11-24T16:10:01.851Z,36.6149,-116.2272,6.3,-0.2,ml,14.0,115.08,0.083,0.0529,nn,nn00887908,2024-11-24T17:33:44.322Z,"50 km W of Indian Springs, Nevada",earthquake,,2.4,0.49,4.0,reviewed,nn,nn
+2024-11-24T17:38:43.250Z,19.052833557129,-155.3621673584,30.059999465942,1.73000002,md,44.0,213.0,0.1391,0.159999996,hv,hv74539517,2024-11-24T17:40:30.260Z,"20 km SE of Pāhala, Hawaii",earthquake,0.67,1.03999996,0.0399999991,4.0,automatic,hv,hv
+2024-11-24T16:43:37.412Z,53.2833,-171.0477,191.5,3.7,ml,,,,0.47,ak,ak024f4dlewu,2024-11-24T17:49:48.515Z,"151 km WNW of Nikolski, Alaska",earthquake,,2.0,,,reviewed,ak,ak
+2024-11-24T16:43:34.981Z,52.2329,-170.4338,231.05,4.1,mb,20.0,208.0,1.215,0.64,us,us6000p7gg,2024-11-24T17:42:18.040Z,"132 km SW of Nikolski, Alaska",earthquake,15.15,11.642,0.08,42.0,reviewed,us,us
