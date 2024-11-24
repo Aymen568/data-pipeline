@@ -7375,3 +7375,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-24T14:59:33.060Z,-17.6991,167.3682,10.0,4.9,mb,17.0,183.0,2.245,0.81,us,us6000p7g0,2024-11-24T15:24:42.040Z,"100 km W of Port-Vila, Vanuatu",earthquake,7.13,1.961,0.14,16.0,reviewed,us,us
 2024-11-24T00:15:36.760Z,47.725666666667,-113.82916666667,3.06,0.02,ml,6.0,159.0,0.07848,0.07,mb,mb90066743,2024-11-24T15:40:12.870Z,"17 km E of Finley Point, Montana",earthquake,0.91,1.92,0.18140117477228,2.0,reviewed,mb,mb
 2024-11-23T22:04:44.150Z,48.298833333333,-114.19316666667,9.35,0.97,ml,12.0,133.0,0.1979,0.11,mb,mb90066738,2024-11-24T15:35:46.630Z,"8 km S of Columbia Falls, Montana",earthquake,0.54,0.91,0.25696818818995,8.0,reviewed,mb,mb
+2024-11-24T15:41:00.551Z,61.138,-150.328,35.8,1.4,ml,,,,0.38,ak,ak024f4czgxz,2024-11-24T15:42:27.304Z,"24 km WSW of Anchorage, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-11-24T14:54:11.043Z,19.2933,-68.5817,97.452,3.1,ml,21.0,187.0,0.908,1.45,us,us6000p7fy,2024-11-24T15:44:11.040Z,"59 km NE of Miches, Dominican Republic",earthquake,10.09,24.647,0.06,36.0,reviewed,us,us
+2024-11-24T14:54:09.850Z,18.2555,-68.8728,137.0,3.99,md,24.0,183.0,1.0645,0.54,pr,pr2024329004,2024-11-24T15:42:42.356Z,"21 km SSE of La Romana, Dominican Republic",earthquake,5.05,2.31,0.09,17.0,reviewed,pr,pr
