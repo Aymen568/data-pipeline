@@ -7285,3 +7285,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-24T06:30:31.600Z,33.6353333,-116.6971667,12.28,0.62,ml,30.0,53.0,0.03874,0.12,ci,ci40799103,2024-11-24T06:34:27.484Z,"9 km NNW of Anza, CA",earthquake,0.18,0.32,0.183,13.0,automatic,ci,ci
 2024-11-24T05:36:01.200Z,17.9805,-66.9695,6.0,3.36,md,20.0,160.0,0.0755,0.15,pr,pr2024329003,2024-11-24T06:14:05.490Z,"5 km W of Fuig, Puerto Rico",earthquake,0.68,0.54,0.11,12.0,reviewed,pr,pr
 2024-11-23T12:15:15.062Z,36.4837,70.2325,214.605,4.0,mb,18.0,88.0,1.878,0.73,us,us6000p78t,2024-11-24T06:32:52.040Z,"34 km ESE of Farkhār, Afghanistan",earthquake,9.16,9.391,0.173,9.0,reviewed,us,us
+2024-11-24T06:46:27.043Z,60.0671,-152.7811,0.0,1.7,ml,,,,0.88,ak,ak024f47np4g,2024-11-24T06:48:26.359Z,"60 km WNW of Happy Valley, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-11-24T06:46:14.890Z,19.326999664307,-155.16716003418,3.0699999332428,1.86,ml,51.0,92.0,0.05221,0.239999995,hv,hv74539047,2024-11-24T06:49:07.210Z,"14 km SSE of Volcano, Hawaii",earthquake,0.38,0.980000019,0.63,13.0,automatic,hv,hv
+2024-11-24T06:44:55.330Z,34.8481667,-118.3695,9.52,1.09,ml,44.0,34.0,0.1198,0.16,ci,ci40799111,2024-11-24T06:50:00.781Z,"19 km W of Rosamond, CA",earthquake,0.16,0.41,0.131,29.0,automatic,ci,ci
