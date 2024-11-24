@@ -7404,3 +7404,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-24T17:38:43.250Z,19.052833557129,-155.3621673584,30.059999465942,1.73000002,md,44.0,213.0,0.1391,0.159999996,hv,hv74539517,2024-11-24T17:40:30.260Z,"20 km SE of Pāhala, Hawaii",earthquake,0.67,1.03999996,0.0399999991,4.0,automatic,hv,hv
 2024-11-24T16:43:37.412Z,53.2833,-171.0477,191.5,3.7,ml,,,,0.47,ak,ak024f4dlewu,2024-11-24T17:49:48.515Z,"151 km WNW of Nikolski, Alaska",earthquake,,2.0,,,reviewed,ak,ak
 2024-11-24T16:43:34.981Z,52.2329,-170.4338,231.05,4.1,mb,20.0,208.0,1.215,0.64,us,us6000p7gg,2024-11-24T17:42:18.040Z,"132 km SW of Nikolski, Alaska",earthquake,15.15,11.642,0.08,42.0,reviewed,us,us
+2024-11-24T18:05:46.613Z,60.1933,-151.8759,52.1,1.6,ml,,,,0.4,ak,ak024f4ek5j9,2024-11-24T18:07:27.004Z,"19 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-11-24T18:03:01.283Z,61.5391,-150.2873,51.7,1.2,ml,,,,0.27,ak,ak024f4ejmls,2024-11-24T18:04:55.895Z,"11 km E of Susitna, Alaska",earthquake,,1.8,,,automatic,ak,ak
