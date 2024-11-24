@@ -7397,3 +7397,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-24T17:05:23.730Z,37.582500457764,-122.38766479492,9.6999998092651,1.64,md,21.0,70.0,0.02574,0.06,nc,nc75089886,2024-11-24T17:07:01.176Z,"1 km NNW of Hillsborough, CA",earthquake,0.27,0.5,0.2,14.0,automatic,nc,nc
 2024-11-24T16:53:40.130Z,33.1881667,-116.0256667,7.55,1.24,ml,48.0,44.0,0.04277,0.21,ci,ci40799271,2024-11-24T16:57:05.961Z,"11 km ENE of Ocotillo Wells, CA",earthquake,0.18,0.45,0.124,28.0,automatic,ci,ci
 2024-11-24T16:51:14.856Z,61.5524,-148.3669,21.8,1.0,ml,,,,0.26,ak,ak024f4dn2t9,2024-11-24T16:53:48.924Z,"27 km S of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-11-24T17:10:50.650Z,19.144332885742,-155.375,30.430000305176,2.13000011,md,37.0,189.0,0.08308,0.129999995,hv,hv74539502,2024-11-24T17:12:18.930Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.51,0.479999989,0.649999976,3.0,automatic,hv,hv
