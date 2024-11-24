@@ -7394,3 +7394,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-24T16:40:58.990Z,19.184833526611,-155.48516845703,34.110000610352,2.13000011,md,44.0,78.0,0.03649,0.140000001,hv,hv74539482,2024-11-24T16:42:36.360Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.56,0.670000017,0.180000007,6.0,automatic,hv,hv
 2024-11-24T16:40:39.476Z,62.0313,-150.6899,62.1,1.3,ml,,,,0.37,ak,ak024f4dkru3,2024-11-24T16:42:13.984Z,"37 km E of Skwentna, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-11-24T16:37:05.860Z,38.824001312256,-122.82833099365,2.0,0.76,md,15.0,55.0,0.005307,0.01,nc,nc75089876,2024-11-24T16:38:41.664Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.50999999,0.17,16.0,automatic,nc,nc
+2024-11-24T17:05:23.730Z,37.582500457764,-122.38766479492,9.6999998092651,1.64,md,21.0,70.0,0.02574,0.06,nc,nc75089886,2024-11-24T17:07:01.176Z,"1 km NNW of Hillsborough, CA",earthquake,0.27,0.5,0.2,14.0,automatic,nc,nc
+2024-11-24T16:53:40.130Z,33.1881667,-116.0256667,7.55,1.24,ml,48.0,44.0,0.04277,0.21,ci,ci40799271,2024-11-24T16:57:05.961Z,"11 km ENE of Ocotillo Wells, CA",earthquake,0.18,0.45,0.124,28.0,automatic,ci,ci
+2024-11-24T16:51:14.856Z,61.5524,-148.3669,21.8,1.0,ml,,,,0.26,ak,ak024f4dn2t9,2024-11-24T16:53:48.924Z,"27 km S of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
