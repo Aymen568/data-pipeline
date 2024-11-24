@@ -7406,3 +7406,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-24T16:43:34.981Z,52.2329,-170.4338,231.05,4.1,mb,20.0,208.0,1.215,0.64,us,us6000p7gg,2024-11-24T17:42:18.040Z,"132 km SW of Nikolski, Alaska",earthquake,15.15,11.642,0.08,42.0,reviewed,us,us
 2024-11-24T18:05:46.613Z,60.1933,-151.8759,52.1,1.6,ml,,,,0.4,ak,ak024f4ek5j9,2024-11-24T18:07:27.004Z,"19 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-11-24T18:03:01.283Z,61.5391,-150.2873,51.7,1.2,ml,,,,0.27,ak,ak024f4ejmls,2024-11-24T18:04:55.895Z,"11 km E of Susitna, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2024-11-24T18:30:32.730Z,38.79349899292,-122.81066894531,3.4400000572205,0.37,md,8.0,99.0,0.007871,0.02,nc,nc75089921,2024-11-24T18:32:10.428Z,"5 km WNW of The Geysers, CA",earthquake,0.5,1.37,0.12,9.0,automatic,nc,nc
+2024-11-24T18:26:41.750Z,38.830333709717,-122.81600189209,1.7200000286102,1.49,md,31.0,48.0,0.008333,0.03,nc,nc75089916,2024-11-24T18:28:16.343Z,"8 km NNW of The Geysers, CA",earthquake,0.16,0.280000001,0.15,32.0,automatic,nc,nc
+2024-11-24T18:23:03.289Z,60.2352,-149.7856,32.0,1.6,ml,,,,0.59,ak,ak024f4enx2d,2024-11-24T18:24:54.558Z,"23 km WNW of Bear Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-11-24T18:17:56.100Z,38.813999176025,-122.82866668701,2.0,1.09,md,12.0,78.0,0.005139,0.02,nc,nc75089906,2024-11-24T18:19:31.167Z,"7 km NW of The Geysers, CA",earthquake,0.36,0.629999995,0.26,13.0,automatic,nc,nc
+2024-11-24T18:16:41.000Z,34.0511667,-116.7636667,13.76,1.1,ml,42.0,63.0,0.03996,0.13,ci,ci40799295,2024-11-24T18:20:45.393Z,"15 km N of Cabazon, CA",earthquake,0.15,0.34,0.113,26.0,automatic,ci,ci
+2024-11-24T18:07:12.547Z,-32.4989,-177.706,10.0,4.7,mb,25.0,121.0,3.232,0.85,us,us6000p7gu,2024-11-24T18:27:48.040Z,south of the Kermadec Islands,earthquake,3.68,1.885,0.12,21.0,reviewed,us,us
