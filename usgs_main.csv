@@ -7292,3 +7292,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-24T06:55:41.620Z,38.831001281738,-122.81983184815,1.9500000476837,0.93,md,16.0,52.0,0.01076,0.01,nc,nc75089706,2024-11-24T06:57:17.158Z,"8 km NNW of The Geysers, CA",earthquake,0.24,0.660000026,0.21,18.0,automatic,nc,nc
 2024-11-24T07:22:35.610Z,32.9161667,-116.2781667,10.55,0.7,ml,26.0,92.0,0.1244,0.17,ci,ci40799127,2024-11-24T07:26:24.968Z,"26 km ENE of Pine Valley, CA",earthquake,0.22,0.71,0.141,9.0,automatic,ci,ci
 2024-11-24T07:14:43.170Z,38.80899810791,-122.81833648682,2.420000076294,0.71,md,11.0,95.0,0.008471,0.02,nc,nc75089716,2024-11-24T07:16:20.514Z,"6 km NW of The Geysers, CA",earthquake,0.38,0.819999993,0.17,12.0,automatic,nc,nc
+2024-11-24T08:04:11.053Z,60.5303,-141.2777,0.2,2.2,ml,,,,0.54,ak,ak024f48lj0x,2024-11-24T08:06:16.234Z,"134 km SE of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
