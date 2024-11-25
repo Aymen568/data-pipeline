@@ -7645,3 +7645,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-25T18:07:45.928Z,61.681,-148.1696,25.5,1.4,ml,,,,0.57,ak,ak024f623xf8,2024-11-25T18:10:17.861Z,"20 km SE of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-25T18:02:54.890Z,19.151832580566,-155.36833190918,29.360000610352,1.95000005,md,38.0,198.0,0.08872,0.119999997,hv,hv74540917,2024-11-25T18:04:30.750Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.58,0.920000017,0.360000014,6.0,automatic,hv,hv
 2024-11-25T17:20:05.329Z,38.1316,37.8078,10.0,4.4,mwr,75.0,61.0,0.508,0.65,us,us7000nu33,2024-11-25T17:59:20.040Z,"7 km NW of Doğanşehir, Turkey",earthquake,3.55,1.866,0.057,30.0,reviewed,us,us
+2024-11-25T18:30:03.970Z,33.015667,-116.0684967,6.32,1.23,ml,10.0,137.0,0.1532,0.17,ci,ci40800151,2024-11-25T18:33:28.795Z,"15 km SSE of Ocotillo Wells, CA",earthquake,0.82,4.61,0.093,24.0,automatic,ci,ci
+2024-11-25T17:46:43.790Z,36.385333333333,-121.88066666667,16.21,1.22,md,11.0,203.0,0.123,0.03,nc,nc75090316,2024-11-25T18:39:56.267Z,"9 km NNE of Point Sur, CA",earthquake,0.88,0.69,0.297,8.0,reviewed,nc,nc
