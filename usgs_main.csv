@@ -7620,3 +7620,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-25T15:37:42.620Z,29.3494,141.1387,115.461,5.2,mb,63.0,150.0,2.427,1.0,us,us6000p7l3,2024-11-25T15:53:16.040Z,"Izu Islands, Japan region",earthquake,9.34,8.794,0.065,78.0,reviewed,us,us
 2024-11-25T00:24:43.200Z,41.231166666667,-110.72066666667,27.88,2.03,ml,27.0,97.0,0.3983,0.21,uu,uu80087191,2024-11-25T16:18:44.000Z,"20 km ESE of Evanston, Wyoming",earthquake,0.52,1.03,0.026878355745278,3.0,reviewed,uu,uu
 2024-11-24T19:25:13.550Z,44.315666666667,-115.52383333333,9.25,1.85,ml,10.0,62.0,0.5301,0.13,mb,mb90066758,2024-11-25T16:00:21.180Z,"26 km NNE of Lowman, Idaho",earthquake,0.46,1.62,0.17261271167622,19.0,reviewed,mb,mb
+2024-11-25T16:32:53.795Z,63.3845,-151.0949,9.8,2.8,ml,,,,0.98,ak,ak024f612fp0,2024-11-25T16:34:56.471Z,"35 km ESE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-11-25T16:30:59.949Z,61.098,-141.3945,19.3,1.7,ml,,,,0.8,ak,ak024f6120qy,2024-11-25T16:32:48.149Z,"90 km ESE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-11-25T16:21:56.720Z,19.1875,-155.36683654785,30.329999923706,1.88999999,md,36.0,180.0,0.05756,0.109999999,hv,hv74540837,2024-11-25T16:23:43.790Z,"11 km E of Pāhala, Hawaii",earthquake,0.62,0.589999974,0.0299999993,3.0,automatic,hv,hv
+2024-11-25T04:04:17.690Z,34.352,-118.3373333,10.91,0.4,ml,8.0,96.0,0.02875,0.17,ci,ci40799591,2024-11-25T16:34:50.863Z,"9 km NNE of Lake View Terrace, CA",earthquake,0.46,0.82,0.163,7.0,reviewed,ci,ci
