@@ -7493,3 +7493,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-25T03:43:22.273Z,62.9944,-150.5561,88.6,1.2,ml,,,,0.43,ak,ak024f5te3ab,2024-11-25T03:44:54.324Z,"56 km N of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-11-25T03:35:18.420Z,19.274333953857,-155.36433410644,30.989999771118,2.01999998,md,46.0,134.0,0.04821,0.150000006,hv,hv74540112,2024-11-25T03:37:10.690Z,"14 km ENE of Pāhala, Hawaii",earthquake,0.55,0.5,0.189999998,11.0,automatic,hv,hv
 2024-11-25T03:20:38.190Z,34.6899986,-118.5441666,4.75,1.75,ml,7.0,218.0,0.202,0.15,ci,ci40799575,2024-11-25T03:24:18.135Z,"9 km W of Lake Hughes, CA",earthquake,1.17,2.8,0.156,16.0,automatic,ci,ci
+2024-11-25T03:52:23.010Z,34.392,-118.4286667,8.08,1.42,ml,54.0,21.0,0.05775,0.23,ci,ci40799583,2024-11-25T03:56:17.129Z,"8 km ESE of Santa Clarita, CA",earthquake,0.19,0.57,0.138,29.0,automatic,ci,ci
