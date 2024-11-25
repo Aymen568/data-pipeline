@@ -7678,3 +7678,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-25T20:34:49.780Z,61.5821,-146.4207,34.8,2.2,ml,,,,0.43,ak,ak024f63gl8y,2024-11-25T20:36:22.140Z,"49 km SSE of Nelchina, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-25T06:24:19.950Z,19.2765,-155.40833333333,2.42,1.01,md,18.0,87.0,0.04012,0.24,hv,hv74540302,2024-11-25T20:23:06.740Z,"10 km NE of Pāhala, Hawaii",earthquake,0.34,0.95,0.14875014370859,6.0,reviewed,hv,hv
 2024-11-25T06:08:42.950Z,34.259,-117.1421667,5.63,0.72,ml,14.0,136.0,0.06359,0.21,ci,ci37690388,2024-11-25T20:34:56.462Z,"4 km ENE of Lake Arrowhead, CA",earthquake,0.5,0.97,0.201,12.0,reviewed,ci,ci
+2024-11-25T21:07:38.140Z,38.787334442139,-122.77283477783,1.0199999809265,1.64,md,15.0,82.0,0.01315,0.03,nc,nc75090366,2024-11-25T21:09:15.732Z,"2 km NW of The Geysers, CA",earthquake,0.23,0.469999999,0.2,13.0,automatic,nc,nc
+2024-11-25T21:04:44.705Z,60.244,-154.6382,14.8,1.5,ml,,,,0.27,ak,ak024f63vkza,2024-11-25T21:06:09.132Z,"18 km WNW of Port Alsworth, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-11-25T21:00:52.704Z,63.2924,-150.924,0.0,1.5,ml,,,,0.91,ak,ak024f63uqr3,2024-11-25T21:03:53.265Z,"48 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-11-25T20:58:12.685Z,62.2512,-142.3408,4.6,1.7,ml,,,,0.4,ak,ak024f63lnkk,2024-11-25T21:00:38.748Z,"37 km ESE of Nabesna, Alaska",earthquake,,0.3,,,automatic,ak,ak
