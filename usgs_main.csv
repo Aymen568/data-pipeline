@@ -7537,3 +7537,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-25T06:49:47.934Z,33.8715,137.2066,339.73,4.4,mb,110.0,36.0,1.482,0.5,us,us6000p7jc,2024-11-25T07:11:46.040Z,"61 km SE of Shima, Japan",earthquake,7.79,6.015,0.038,198.0,reviewed,us,us
 2024-11-25T06:46:48.200Z,19.5623,-65.2665,61.0,3.83,md,21.0,259.0,1.2466,0.39,pr,pr2024330002,2024-11-25T07:08:07.740Z,"139 km NNE of Vieques, Puerto Rico",earthquake,3.36,10.75,0.12,16.0,reviewed,pr,pr
 2024-11-24T17:08:44.420Z,46.3445,-122.40316666667,9.45,1.19,ml,11.0,146.0,0.05746,0.08,uw,uw62061196,2024-11-25T06:57:47.510Z,"21 km SSE of Mossyrock, Washington",earthquake,0.4,0.63,0.050158577900238,7.0,reviewed,uw,uw
+2024-11-25T07:29:00.980Z,33.4691667,-116.9043333,8.45,0.29,ml,29.0,37.0,0.0871,0.15,ci,ci40799751,2024-11-25T07:32:55.401Z,"5 km NW of Aguanga, CA",earthquake,0.18,0.68,0.185,6.0,automatic,ci,ci
+2024-11-25T06:53:32.880Z,19.4683,-65.1243,89.0,3.69,md,14.0,279.0,1.1266,0.52,pr,pr2024330003,2024-11-25T07:29:57.134Z,"126 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,8.2,13.66,0.07,8.0,reviewed,pr,pr
