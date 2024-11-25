@@ -7577,3 +7577,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-25T11:35:55.890Z,38.827667236328,-122.79467010498,2.4100000858307,1.02,md,9.0,75.0,0.01125,0.01,nc,nc75090191,2024-11-25T11:37:34.711Z,"6 km WNW of Cobb, CA",earthquake,0.53,1.16999996,0.1,13.0,automatic,nc,nc
 2024-11-25T11:31:19.690Z,33.865,-117.0496667,14.01,0.81,ml,44.0,31.0,0.08041,0.19,ci,ci40799847,2024-11-25T11:35:33.111Z,"10 km SW of Beaumont, CA",earthquake,0.2,0.57,0.192,24.0,automatic,ci,ci
 2024-11-25T11:44:21.472Z,60.2933,-150.7897,19.8,1.4,ml,,,,1.5,ak,ak024f5y5rs3,2024-11-25T11:46:04.496Z,"23 km S of Funny River, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-11-25T12:25:05.680Z,58.1997,-155.2502,0.0,0.9,ml,,,,0.15,ak,ak024f5yn3k8,2024-11-25T12:26:53.496Z,"84 km NW of Karluk, Alaska",earthquake,,3.8,,,automatic,ak,ak
+2024-11-25T12:24:32.120Z,35.6526667,-117.5076667,4.38,0.49,ml,18.0,58.0,0.06949,0.15,ci,ci40799879,2024-11-25T12:27:58.188Z,"16 km ENE of Ridgecrest, CA",earthquake,0.23,0.59,0.08,7.0,automatic,ci,ci
+2024-11-25T12:16:57.848Z,63.5882,-149.7024,122.0,1.9,ml,,,,0.42,ak,ak024f5yla4b,2024-11-25T12:18:48.906Z,"42 km WSW of Denali Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-11-25T12:10:42.750Z,33.5163333,-116.5478333,12.67,0.44,ml,30.0,79.0,0.05029,0.24,ci,ci40799871,2024-11-25T12:15:57.817Z,"12 km ESE of Anza, CA",earthquake,0.3,0.67,0.169,10.0,automatic,ci,ci
+2024-11-25T12:09:58.815Z,65.8973,-150.0527,3.9,1.5,ml,,,,0.78,ak,ak024f5yjs7d,2024-11-25T12:13:16.967Z,"44 km N of Rampart, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-25T12:08:30.444Z,61.6524,-148.0336,18.1,1.2,ml,,,,0.21,ak,ak024f5yjias,2024-11-25T12:09:51.809Z,"26 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-11-25T12:01:58.560Z,32.5308333,-115.625,8.97,1.62,ml,29.0,49.0,0.0374,0.18,ci,ci40799863,2024-11-25T12:05:32.177Z,"7 km SW of Progreso, B.C., MX",earthquake,0.22,0.52,0.243,21.0,automatic,ci,ci
+2024-11-25T11:50:14.950Z,66.246,-157.367,9.4,2.3,ml,,,,0.26,ak,ak024f5y71kb,2024-11-25T11:57:35.590Z,"72 km S of Shungnak, Alaska",earthquake,,0.2,,,automatic,ak,ak
