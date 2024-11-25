@@ -7526,3 +7526,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-25T06:23:25.820Z,19.297832489014,-155.11749267578,4.2699999809265,1.71000004,md,14.0,198.0,0.01618,0.389999986,hv,hv74540297,2024-11-25T06:24:58.870Z,"18 km S of Fern Forest, Hawaii",earthquake,1.76,3.97000003,0.639999986,3.0,automatic,hv,hv
 2024-11-25T06:19:28.810Z,33.9905,-117.1493333,13.54,0.7,ml,41.0,70.0,0.05434,0.19,ci,ci40799703,2024-11-25T06:22:57.029Z,"8 km SSE of Redlands, CA",earthquake,0.24,0.58,0.148,13.0,automatic,ci,ci
 2024-11-25T06:10:42.215Z,25.8865,128.5103,10.0,5.1,mb,73.0,67.0,0.969,0.63,us,us6000p7j5,2024-11-25T06:29:27.040Z,"80 km SE of Katsuren-haebaru, Japan",earthquake,3.2,1.826,0.077,55.0,reviewed,us,us
+2024-11-25T06:49:16.310Z,34.2646667,-117.1506667,4.68,0.96,ml,52.0,38.0,0.07083,0.16,ci,ci40799727,2024-11-25T06:54:45.473Z,"4 km ENE of Lake Arrowhead, CA",earthquake,0.16,0.46,0.134,20.0,automatic,ci,ci
+2024-11-25T06:48:13.050Z,34.267,-117.1475,4.74,1.68,ml,81.0,38.0,0.08016,0.16,ci,ci40799719,2024-11-25T06:53:00.183Z,"4 km ENE of Lake Arrowhead, CA",earthquake,0.13,0.48,0.181,27.0,automatic,ci,ci
+2024-11-25T06:45:44.090Z,60.2176,-152.3529,70.4,1.0,ml,,,,0.9,ak,ak024f5v6v7t,2024-11-25T06:47:37.802Z,"42 km WNW of Ninilchik, Alaska",earthquake,,2.0,,,automatic,ak,ak
+2024-11-24T17:18:15.780Z,46.121166666667,-122.502,16.88,1.32,ml,15.0,102.0,0.1288,0.09,uw,uw62061201,2024-11-25T06:52:14.590Z,"23 km N of Amboy, Washington",earthquake,0.29,0.95,0.17191312613475,7.0,reviewed,uw,uw
