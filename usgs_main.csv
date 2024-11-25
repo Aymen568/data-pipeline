@@ -7505,3 +7505,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-25T05:07:06.032Z,59.725,-147.4767,123.3,2.2,ml,,,,1.27,ak,ak024f5ud7gr,2024-11-25T05:09:42.268Z,"48 km SE of Chenega, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-11-25T04:58:45.390Z,38.823833465576,-122.78483581543,1.0900000333786,1.02,md,15.0,79.0,0.01105,0.03,nc,nc75090081,2024-11-25T05:19:30.482Z,"5 km WNW of Cobb, CA",earthquake,0.24,0.600000024,0.22,16.0,automatic,nc,nc
 2024-11-25T04:51:31.142Z,6.8092,-73.0816,148.637,4.6,mb,66.0,64.0,0.911,0.91,us,us6000p7iv,2024-11-25T05:23:21.541Z,"8 km N of Jordán, Colombia",earthquake,7.88,7.537,0.037,223.0,reviewed,us,us
+2024-11-25T05:32:39.210Z,35.2786667,-119.0525,19.12,1.69,ml,49.0,30.0,0.07818,0.22,ci,ci40799607,2024-11-25T05:36:34.123Z,"9 km SSW of Bakersfield, CA",earthquake,0.23,0.52,0.19,26.0,automatic,ci,ci
