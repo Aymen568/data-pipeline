@@ -7613,3 +7613,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-25T15:13:28.128Z,-22.1515,-175.5523,164.535,4.7,mb,25.0,166.0,6.092,0.66,us,us6000p7ky,2024-11-25T15:28:59.040Z,"108 km SW of ‘Ohonua, Tonga",earthquake,15.87,12.008,0.108,26.0,reviewed,us,us
 2024-11-25T12:41:06.773Z,39.7274,-119.7842,8.8,1.0,ml,14.0,155.76,0.107,0.1166,nn,nn00887915,2024-11-25T15:38:47.008Z,"10 km NW of Spanish Springs, Nevada",earthquake,,2.1,0.32,6.0,reviewed,nn,nn
 2024-11-25T02:12:23.366Z,36.7404,-116.0329,8.0,-0.4,ml,10.0,246.6,0.021,0.0383,nn,nn00887914,2024-11-25T15:32:35.436Z,"37 km WNW of Indian Springs, Nevada",earthquake,,2.6,0.07,2.0,reviewed,nn,nn
+2024-11-25T15:42:03.640Z,36.506332397461,-121.03949737549,7.789999961853,1.83,md,15.0,130.0,0.05308,0.18,nc,nc75090266,2024-11-25T15:43:50.514Z,"10 km ESE of Pinnacles, CA",earthquake,0.73,1.25,0.16,11.0,automatic,nc,nc
+2024-11-24T17:21:33.840Z,43.2825,-110.72483333333,3.1,1.93,ml,22.0,105.0,0.1786,0.28,mb,mb90066753,2024-11-25T15:51:33.900Z,"4 km E of Hoback, Wyoming",earthquake,0.56,2.93,0.17900423574549,23.0,reviewed,mb,mb
