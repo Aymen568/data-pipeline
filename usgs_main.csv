@@ -7475,3 +7475,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-24T23:59:13.770Z,61.6006,-151.1528,55.3,1.6,ml,,,,0.42,ak,ak024f4hutox,2024-11-25T00:01:08.707Z,"34 km W of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-11-24T23:32:51.734Z,30.9457,141.451,23.985,4.5,mb,32.0,117.0,2.571,0.49,us,us6000p7i6,2024-11-24T23:58:26.040Z,"Izu Islands, Japan region",earthquake,8.61,5.266,0.14,15.0,reviewed,us,us
 2024-11-24T23:16:20.378Z,17.358,-95.0079,125.682,4.1,mb,17.0,150.0,2.951,1.3,us,us6000p7i5,2024-11-25T00:20:55.040Z,"3 km SW of Suchilapan del Río, Mexico",earthquake,11.11,22.697,0.117,20.0,reviewed,us,us
+2024-11-25T02:37:42.957Z,61.9758,-148.4018,30.6,1.5,ml,,,,0.59,ak,ak024f5srezb,2024-11-25T02:39:15.357Z,"20 km N of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2024-11-25T02:36:44.204Z,63.1404,-151.4726,3.1,1.5,ml,,,,0.8,ak,ak024f5sr7d0,2024-11-25T02:38:30.722Z,"46 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-25T02:05:19.858Z,60.259,-151.0963,61.4,1.3,ml,,,,0.62,ak,ak024f5skguk,2024-11-25T02:08:02.805Z,"13 km SE of Kasilof, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-11-25T02:03:37.210Z,19.2156,-64.4951,35.0,3.63,md,10.0,301.0,0.8101,0.29,pr,pr2024330001,2024-11-25T02:29:22.535Z,"102 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,4.58,18.7,0.05,8.0,reviewed,pr,pr
+2024-11-25T01:38:27.430Z,38.788166046143,-122.76149749756,0.68999999761581,1.74,md,29.0,63.0,0.01252,0.04,nc,nc75090041,2024-11-25T02:09:27.183Z,"1 km  of The Geysers, CA",earthquake,0.2,0.310000002,0.12,31.0,automatic,nc,nc
+2024-11-25T01:35:09.960Z,33.8801667,-117.7261667,7.59,1.16,ml,37.0,61.0,0.04674,0.18,ci,ci40799519,2024-11-25T01:45:55.840Z,"8 km E of Yorba Linda, CA",earthquake,0.23,0.35,0.183,30.0,automatic,ci,ci
+2024-11-25T01:31:51.392Z,58.061,-155.5236,0.2,1.1,ml,,,,0.25,ak,ak024f5s4piz,2024-11-25T01:34:17.690Z,"83 km NW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-11-25T00:32:00.210Z,19.1171,-64.464,64.0,3.67,md,17.0,302.0,0.7189,0.26,pr,pr2024330000,2024-11-25T01:25:06.136Z,"93 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,4.12,5.8,0.19,16.0,reviewed,pr,pr
