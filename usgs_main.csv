@@ -7638,3 +7638,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-25T17:23:03.688Z,31.669,-104.455,2.4766,2.1,ml,15.0,147.0,0.0,0.8,tx,tx2024xekx,2024-11-25T17:30:03.544Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.4802857637405,0.2,13.0,automatic,tx,tx
 2024-11-25T17:27:06.329Z,31.559,-104.008,6.647,1.7,ml,15.0,56.0,0.0,0.2,tx,tx2024xelb,2024-11-25T17:38:20.586Z,"33 km NW of Toyah, Texas",earthquake,0.0,2.7170734405518,0.1,12.0,automatic,tx,tx
 2024-11-24T18:31:35.950Z,19.862333333333,-155.09616666667,41.81,2.09,ml,31.0,261.0,0.1508,0.1,hv,hv74539547,2024-11-25T17:40:12.690Z,"2 km ESE of Honomu, Hawaii",earthquake,3.25,5.18,0.15223321759963,9.0,reviewed,hv,hv
+2024-11-24T19:46:17.780Z,19.319333333333,-155.12883333333,5.26,1.87,ml,22.0,136.0,0.0333,0.13,hv,hv74539607,2024-11-25T17:58:18.680Z,"16 km S of Fern Forest, Hawaii",earthquake,0.42,0.97,0.1621640426766,18.0,reviewed,hv,hv
