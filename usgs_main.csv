@@ -7610,3 +7610,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-25T15:13:13.810Z,33.9591667,-117.109,-0.5,0.82,ml,26.0,117.0,0.2259,0.27,ci,ci40799959,2024-11-25T15:19:00.122Z,"6 km WSW of Calimesa, CA",earthquake,0.43,1.21,0.163,18.0,automatic,ci,ci
 2024-11-25T15:07:07.200Z,35.6978333,-117.513,9.83,0.94,ml,26.0,70.0,0.07969,0.17,ci,ci40799951,2024-11-25T15:10:57.696Z,"12 km SW of Searles Valley, CA",earthquake,0.25,0.59,0.069,8.0,automatic,ci,ci
 2024-11-25T14:59:33.177Z,61.7695,-151.686,98.0,2.2,ml,,,,0.43,ak,ak024f601b8p,2024-11-25T15:15:29.040Z,"28 km SSW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-11-25T15:13:28.128Z,-22.1515,-175.5523,164.535,4.7,mb,25.0,166.0,6.092,0.66,us,us6000p7ky,2024-11-25T15:28:59.040Z,"108 km SW of ‘Ohonua, Tonga",earthquake,15.87,12.008,0.108,26.0,reviewed,us,us
+2024-11-25T12:41:06.773Z,39.7274,-119.7842,8.8,1.0,ml,14.0,155.76,0.107,0.1166,nn,nn00887915,2024-11-25T15:38:47.008Z,"10 km NW of Spanish Springs, Nevada",earthquake,,2.1,0.32,6.0,reviewed,nn,nn
+2024-11-25T02:12:23.366Z,36.7404,-116.0329,8.0,-0.4,ml,10.0,246.6,0.021,0.0383,nn,nn00887914,2024-11-25T15:32:35.436Z,"37 km WNW of Indian Springs, Nevada",earthquake,,2.6,0.07,2.0,reviewed,nn,nn
