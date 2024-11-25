@@ -7624,3 +7624,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-25T16:30:59.949Z,61.098,-141.3945,19.3,1.7,ml,,,,0.8,ak,ak024f6120qy,2024-11-25T16:32:48.149Z,"90 km ESE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-11-25T16:21:56.720Z,19.1875,-155.36683654785,30.329999923706,1.88999999,md,36.0,180.0,0.05756,0.109999999,hv,hv74540837,2024-11-25T16:23:43.790Z,"11 km E of Pāhala, Hawaii",earthquake,0.62,0.589999974,0.0299999993,3.0,automatic,hv,hv
 2024-11-25T04:04:17.690Z,34.352,-118.3373333,10.91,0.4,ml,8.0,96.0,0.02875,0.17,ci,ci40799591,2024-11-25T16:34:50.863Z,"9 km NNE of Lake View Terrace, CA",earthquake,0.46,0.82,0.163,7.0,reviewed,ci,ci
+2024-11-25T16:53:44.641Z,60.4732,-151.0424,43.9,1.4,ml,,,,0.22,ak,ak024f616x1c,2024-11-25T16:55:07.439Z,"1 km SSE of Soldotna, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-11-25T16:52:31.590Z,38.842834472656,-122.83083343506,0.99000000953674,0.78,md,9.0,118.0,0.005584,0.01,nc,nc75090276,2024-11-25T16:54:09.679Z,"10 km WNW of Cobb, CA",earthquake,0.36,0.540000021,0.24,11.0,automatic,nc,nc
+2024-11-25T05:36:11.000Z,35.507,-118.3733333,11.0,0.65,ml,12.0,63.0,0.1758,0.1,ci,ci40799615,2024-11-25T16:54:29.478Z,"14 km SE of Bodfish, CA",earthquake,0.2,0.93,0.125,5.0,reviewed,ci,ci
