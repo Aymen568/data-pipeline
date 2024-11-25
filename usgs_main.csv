@@ -7557,3 +7557,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-25T08:41:58.150Z,33.472,-116.783,2.34,0.82,ml,54.0,26.0,0.03773,0.2,ci,ci40799807,2024-11-25T08:46:34.515Z,"8 km ENE of Aguanga, CA",earthquake,0.14,0.28,0.117,25.0,automatic,ci,ci
 2024-11-25T08:40:53.623Z,57.5318,-155.7039,250.0,1.4,ml,,,,0.56,ak,ak024f5wcoky,2024-11-25T08:44:03.266Z,"74 km W of Karluk, Alaska",earthquake,,5.9,,,automatic,ak,ak
 2024-11-25T08:39:15.563Z,62.9377,-149.488,80.4,1.6,ml,,,,0.8,ak,ak024f5wcdxg,2024-11-25T08:41:24.665Z,"57 km SSW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-11-25T08:55:56.617Z,62.9898,-151.0178,121.8,1.4,ml,,,,0.38,ak,ak024f5wfwjx,2024-11-25T08:58:50.359Z,"56 km NNW of Petersville, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2024-11-25T08:24:36.850Z,47.5779,-128.8494,10.0,4.6,mb,172.0,148.0,2.632,0.88,us,us6000p7jr,2024-11-25T09:07:33.016Z,"279 km SW of Tofino, Canada",earthquake,7.65,1.9,0.038,214.0,reviewed,us,us
