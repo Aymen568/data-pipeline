@@ -7530,3 +7530,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-25T06:48:13.050Z,34.267,-117.1475,4.74,1.68,ml,81.0,38.0,0.08016,0.16,ci,ci40799719,2024-11-25T06:53:00.183Z,"4 km ENE of Lake Arrowhead, CA",earthquake,0.13,0.48,0.181,27.0,automatic,ci,ci
 2024-11-25T06:45:44.090Z,60.2176,-152.3529,70.4,1.0,ml,,,,0.9,ak,ak024f5v6v7t,2024-11-25T06:47:37.802Z,"42 km WNW of Ninilchik, Alaska",earthquake,,2.0,,,automatic,ak,ak
 2024-11-24T17:18:15.780Z,46.121166666667,-122.502,16.88,1.32,ml,15.0,102.0,0.1288,0.09,uw,uw62061201,2024-11-25T06:52:14.590Z,"23 km N of Amboy, Washington",earthquake,0.29,0.95,0.17191312613475,7.0,reviewed,uw,uw
+2024-11-25T07:18:07.290Z,33.4723333,-116.9025,8.11,0.29,ml,29.0,47.0,0.08449,0.14,ci,ci40799735,2024-11-25T07:21:58.483Z,"5 km NW of Aguanga, CA",earthquake,0.18,0.58,0.058,8.0,automatic,ci,ci
+2024-11-25T07:13:41.802Z,63.528,-147.3506,13.2,1.6,ml,,,,0.28,ak,ak024f5vlfqc,2024-11-25T07:15:31.752Z,"80 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-25T07:10:03.840Z,38.758499145508,-122.7123336792,0.64999997615814,1.38,md,12.0,100.0,0.01027,0.08,nc,nc75090131,2024-11-25T07:11:40.676Z,"3 km SW of Anderson Springs, CA",earthquake,0.27,0.680000007,0.16,11.0,automatic,nc,nc
+2024-11-25T07:02:00.785Z,56.7132,-155.5722,50.3,2.1,ml,,,,0.23,ak,ak024f5vizou,2024-11-25T07:03:50.433Z,"89 km WSW of Akhiok, Alaska",earthquake,,4.1,,,automatic,ak,ak
+2024-11-25T06:49:47.934Z,33.8715,137.2066,339.73,4.4,mb,110.0,36.0,1.482,0.5,us,us6000p7jc,2024-11-25T07:11:46.040Z,"61 km SE of Shima, Japan",earthquake,7.79,6.015,0.038,198.0,reviewed,us,us
+2024-11-25T06:46:48.200Z,19.5623,-65.2665,61.0,3.83,md,21.0,259.0,1.2466,0.39,pr,pr2024330002,2024-11-25T07:08:07.740Z,"139 km NNE of Vieques, Puerto Rico",earthquake,3.36,10.75,0.12,16.0,reviewed,pr,pr
+2024-11-24T17:08:44.420Z,46.3445,-122.40316666667,9.45,1.19,ml,11.0,146.0,0.05746,0.08,uw,uw62061196,2024-11-25T06:57:47.510Z,"21 km SSE of Mossyrock, Washington",earthquake,0.4,0.63,0.050158577900238,7.0,reviewed,uw,uw
