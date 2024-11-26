@@ -7882,3 +7882,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-26T08:19:50.520Z,44.795166666667,-110.989,8.35,0.54,md,16.0,116.0,0.03786,0.16,uu,uu80087236,2024-11-26T14:31:36.820Z,"16 km E of Hebgen Lake Estates, Montana",earthquake,0.43,0.65,0.240133726798,11.0,reviewed,uu,uu
 2024-11-26T14:34:19.723Z,59.6864,-154.5282,199.7,2.5,ml,,,,0.64,ak,ak024f7nf9sh,2024-11-26T14:38:05.267Z,"14 km N of Pope-Vannoy Landing, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2024-11-26T10:00:34.710Z,44.798666666667,-110.9855,8.18,0.59,md,10.0,165.0,0.042,0.2,uu,uu80087241,2024-11-26T14:42:50.770Z,"16 km ENE of Hebgen Lake Estates, Montana",earthquake,0.57,0.81,0.1660194713722,7.0,reviewed,uu,uu
+2024-11-26T15:03:50.950Z,37.547332763672,-118.87433624268,5.0599999427795,1.06,md,14.0,168.0,0.05575,0.04,nc,nc75090661,2024-11-26T15:05:27.004Z,"14 km SSE of Mammoth Lakes, CA",earthquake,0.52,1.42999995,0.15,14.0,automatic,nc,nc
+2024-11-26T14:59:08.080Z,38.74683380127,-122.71849822998,1.4199999570847,2.74,md,61.0,28.0,0.01555,0.07,nc,nc75090656,2024-11-26T15:07:17.522Z,"4 km SW of Anderson Springs, CA",earthquake,0.15,0.25999999,0.18,70.0,automatic,nc,nc
+2024-11-26T14:46:47.627Z,-39.1308,174.7776,211.559,4.9,mb,60.0,44.0,0.62,0.78,us,us7000nu9b,2024-11-26T15:09:39.358Z,"48 km ENE of Stratford, New Zealand",earthquake,6.46,3.92,0.079,50.0,reviewed,us,us
