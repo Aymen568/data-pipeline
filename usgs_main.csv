@@ -7902,3 +7902,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-26T15:57:56.170Z,35.6635,-117.4698333,8.29,1.06,ml,20.0,96.0,0.03759,0.11,ci,ci40800871,2024-11-26T16:01:22.410Z,"13 km SSW of Searles Valley, CA",earthquake,0.23,0.46,0.181,11.0,automatic,ci,ci
 2024-11-26T12:08:12.850Z,44.3625,-116.08883333333,4.32,1.94,ml,10.0,109.0,0.3593,0.25,mb,mb90066993,2024-11-26T16:02:36.880Z,"6 km N of Smiths Ferry, Idaho",earthquake,0.55,2.73,0.21081278769025,12.0,reviewed,mb,mb
 2024-11-26T16:45:24.980Z,34.2659988,-117.1488342,3.62,1.67,ml,47.0,42.0,0.07169,0.2,ci,ci40987584,2024-11-26T16:47:30.510Z,"4 km ENE of Lake Arrowhead, CA",earthquake,0.27,0.6,0.158,31.0,automatic,ci,ci
+2024-11-26T16:54:18.880Z,44.7965,-110.99366666667,9.57,1.63,ml,22.0,117.0,0.03822,0.17,uu,uu80087261,2024-11-26T17:08:19.370Z,"15 km E of Hebgen Lake Estates, Montana",earthquake,0.35,0.68,0.12325739954652,3.0,reviewed,uu,uu
+2024-11-26T16:52:54.155Z,58.192,-155.3019,2.3,0.7,ml,,,,1.58,ak,ak024f7oq2jw,2024-11-26T16:55:20.662Z,"85 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
