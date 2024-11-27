@@ -8263,3 +8263,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-27T18:04:59.170Z,11.2248,125.7403,35.0,4.6,mb,94.0,111.0,4.132,0.59,us,us7000nujz,2024-11-27T19:19:17.040Z,"11 km NE of Salcedo, Philippines",earthquake,10.63,1.899,0.059,86.0,reviewed,us,us
 2024-11-27T19:31:56.480Z,37.374000549316,-121.72933197022,7.6900000572205,1.21,md,8.0,120.0,0.07631,0.04,nc,nc75091766,2024-11-27T19:33:32.302Z,"9 km E of Alum Rock, CA",earthquake,0.47,1.24000001,0.31,6.0,automatic,nc,nc
 2024-11-27T19:30:18.010Z,36.204,-117.8918333,3.94,1.16,ml,21.0,64.0,0.09128,0.15,ci,ci40988912,2024-11-27T19:34:11.038Z,"13 km SE of Olancha, CA",earthquake,0.26,0.57,0.175,15.0,automatic,ci,ci
+2024-11-27T20:05:29.415Z,60.5803,-158.9239,0.0,2.8,ml,,,,0.87,ak,ak024f9ed0wd,2024-11-27T20:07:57.656Z,"111 km S of Chuathbaluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-11-27T20:05:05.970Z,33.8481667,-117.4986667,2.57,1.84,ml,74.0,43.0,0.05417,0.19,ci,ci40988960,2024-11-27T20:16:30.700Z,"4 km SSE of Home Gardens, CA",earthquake,0.16,0.24,0.173,30.0,automatic,ci,ci
+2024-11-27T20:03:55.230Z,34.6351667,-117.1215,-1.17,1.5,ml,31.0,34.0,0.1871,0.17,ci,ci40988952,2024-11-27T20:13:42.407Z,"16 km NNE of Apple Valley, CA",quarry blast,0.28,31.61,0.146,25.0,reviewed,ci,ci
+2024-11-27T19:51:04.515Z,60.4659,-152.1189,155.0,0.3,ml,,,,0.49,ak,ak024f9e1fwz,2024-11-27T19:53:23.471Z,"45 km W of Kalifornsky, Alaska",earthquake,,2.4,,,automatic,ak,ak
+2024-11-27T16:44:50.007Z,-24.1106,-67.0919,175.353,4.3,mb,26.0,101.0,2.503,0.89,us,us7000nuj2,2024-11-27T20:07:03.040Z,"79 km W of San Antonio de los Cobres, Argentina",earthquake,6.04,13.144,0.189,8.0,reviewed,us,us
