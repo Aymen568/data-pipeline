@@ -8035,3 +8035,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-27T02:53:24.148Z,31.124,-103.704,4.4736,2.0,ml,16.0,53.0,0.1,0.5,tx,tx2024xgzg,2024-11-27T03:05:11.602Z,"15 km NNE of Balmorhea, Texas",earthquake,0.0,1.2989392280579,0.2,13.0,automatic,tx,tx
 2024-11-26T07:01:00.020Z,61.316833333333,-152.25683333333,1.24,-0.07,ml,9.0,123.0,0.07122,0.06,av,av93379413,2024-11-27T03:15:17.140Z,"66 km WNW of Beluga, Alaska",earthquake,0.22,0.86,0.26860843264313,10.0,reviewed,av,av
 2024-11-26T07:00:45.120Z,61.314833333333,-152.2555,1.75,-0.38,ml,9.0,123.0,0.06933,0.06,av,av93379403,2024-11-27T03:09:35.530Z,"65 km WNW of Beluga, Alaska",earthquake,0.24,0.81,0.23267118142487,10.0,reviewed,av,av
+2024-11-27T03:38:14.754Z,61.9457,-150.2714,19.6,1.7,ml,,,,0.18,ak,ak024f94fp43,2024-11-27T03:39:50.801Z,"25 km NNW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-11-27T03:34:54.981Z,60.1795,-152.5026,59.4,1.8,ml,,,,0.87,ak,ak024f94excq,2024-11-27T03:37:09.766Z,"48 km WNW of Ninilchik, Alaska",earthquake,,4.5,,,automatic,ak,ak
+2024-11-27T03:32:16.480Z,35.6485,-117.5621667,4.72,2.2,ml,32.0,45.0,0.08121,0.13,ci,ci40988120,2024-11-27T03:39:53.821Z,"11 km ENE of Ridgecrest, CA",earthquake,0.15,0.38,0.21,27.0,automatic,ci,ci
+2024-11-27T03:30:21.282Z,62.7661,-150.4995,79.1,1.4,ml,,,,0.59,ak,ak024f94dzw0,2024-11-27T03:32:33.259Z,"33 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-11-26T09:33:13.070Z,57.063333333333,-135.65716666667,6.85,0.9,ml,5.0,161.0,0.02527,0.11,av,av93379558,2024-11-27T03:43:54.770Z,"19 km W of Sitka, Alaska",earthquake,1.09,0.73,0.11927816708891,5.0,reviewed,av,av
