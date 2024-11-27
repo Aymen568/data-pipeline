@@ -8311,3 +8311,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-27T22:18:10.100Z,44.6665,-110.01983333333,12.65,1.32,md,10.0,136.0,0.1219,0.14,uu,uu80087366,2024-11-27T22:59:56.350Z,"37 km S of Silver Gate, Montana",earthquake,1.18,1.36,0.54837475919372,4.0,reviewed,uu,uu
 2024-11-27T06:14:51.262Z,37.2325,-117.656,10.8,0.7,ml,3.0,330.46,0.008,0.1122,nn,nn00888041,2024-11-27T23:18:55.917Z,"56 km E of Big Pine, California",earthquake,,4.6,0.01,2.0,reviewed,nn,nn
 2024-11-27T05:42:23.138Z,39.2134,-120.3941,0.0,-0.3,ml,3.0,251.36,0.15,0.0394,nn,nn00888040,2024-11-27T23:15:50.900Z,"12 km S of Soda Springs, California",earthquake,,0.0,0.31,2.0,reviewed,nn,nn
+2024-11-27T18:06:08.359Z,39.3594,-119.8176,3.2,1.0,ml,5.0,231.85,0.039,0.1437,nn,nn00888044,2024-11-27T23:37:16.224Z,"15 km WNW of Virginia City, Nevada",earthquake,,5.2,0.41,2.0,reviewed,nn,nn
+2024-11-27T00:00:43.360Z,56.245333333333,-159.36316666667,6.41,0.31,ml,4.0,283.0,0.08005,0.15,av,av93027504,2024-11-27T23:34:46.880Z,"37 km W of Chignik Lake, Alaska",earthquake,1.04,1.45,0.11025452877361,4.0,reviewed,av,av
