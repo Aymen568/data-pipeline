@@ -8228,3 +8228,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-27T15:46:01.820Z,-14.4419,167.3887,183.737,4.5,mb,38.0,126.0,1.015,0.6,us,us7000nuir,2024-11-27T16:27:52.040Z,"65 km SSW of Sola, Vanuatu",earthquake,13.13,6.442,0.107,26.0,reviewed,us,us
 2024-11-27T15:32:53.599Z,36.9112,136.4369,10.0,4.3,mwr,49.0,53.0,1.466,0.66,us,us7000nuis,2024-11-27T16:22:29.040Z,"31 km W of Hakui, Japan",earthquake,6.48,1.876,0.078,16.0,reviewed,us,us
 2024-11-27T04:05:26.190Z,44.411166666667,-115.20183333333,3.18,1.55,ml,12.0,72.0,0.3976,0.11,mb,mb90067088,2024-11-27T16:00:34.160Z,"30 km NW of Stanley, Idaho",earthquake,0.31,1.86,0.16814878360796,14.0,reviewed,mb,mb
+2024-11-27T16:56:34.200Z,19.187833786011,-155.48066711426,31.75,2.1500001,md,48.0,78.0,0.03671,0.129999995,hv,hv74543632,2024-11-27T16:58:31.690Z,"1 km S of Pāhala, Hawaii",earthquake,0.54,0.689999998,0.340000004,14.0,automatic,hv,hv
+2024-11-27T16:56:21.696Z,61.4709,-147.1338,108.3,1.3,ml,,,,0.97,ak,ak024f9ca7eh,2024-11-27T16:58:20.559Z,"46 km SE of Glacier View, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2024-11-27T14:03:43.970Z,35.9843333,-117.9505,5.78,0.48,ml,13.0,90.0,0.05404,0.07,ci,ci37690604,2024-11-27T17:01:09.406Z,"7 km NW of Little Lake, CA",earthquake,0.17,0.46,0.268,6.0,reviewed,ci,ci
