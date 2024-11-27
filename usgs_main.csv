@@ -8200,3 +8200,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-27T11:49:39.000Z,44.799666666667,-110.99033333333,9.37,0.93,ml,16.0,119.0,0.04188,0.11,uu,uu80087306,2024-11-27T14:33:29.580Z,"16 km ENE of Hebgen Lake Estates, Montana",earthquake,0.4,0.64,0.14703828613698,2.0,reviewed,uu,uu
 2024-11-27T08:19:29.729Z,-23.0384,-68.8795,107.497,4.3,mb,26.0,82.0,0.651,0.89,us,us7000nufp,2024-11-27T14:35:04.040Z,"64 km S of Calama, Chile",earthquake,4.42,3.897,0.168,10.0,reviewed,us,us
 2024-11-27T02:14:42.770Z,44.798333333333,-110.9905,9.12,0.66,md,17.0,118.0,0.04056,0.1,uu,uu80087291,2024-11-27T14:28:51.560Z,"16 km ENE of Hebgen Lake Estates, Montana",earthquake,0.34,0.55,0.12516023908026,11.0,reviewed,uu,uu
+2024-11-27T14:46:40.718Z,60.9274,-152.4815,20.0,1.0,ml,,,,0.12,ak,ak024f9b18hz,2024-11-27T14:47:44.168Z,"70 km WNW of Nikiski, Alaska",earthquake,,0.2,,,automatic,ak,ak
