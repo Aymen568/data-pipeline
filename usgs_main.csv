@@ -8152,3 +8152,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-27T10:20:52.819Z,62.1483,-144.9081,25.2,0.9,ml,,,,0.64,ak,ak024f98hye9,2024-11-27T10:22:24.978Z,"26 km SE of Gakona, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-27T10:14:10.990Z,33.0146667,-116.343,10.47,1.26,ml,59.0,47.0,0.07112,0.21,ci,ci40988344,2024-11-27T10:25:00.850Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.2,0.4,0.256,26.0,automatic,ci,ci
 2024-11-27T10:12:23.960Z,33.6571667,-116.7013333,17.17,0.37,ml,18.0,98.0,0.05491,0.1,ci,ci40988336,2024-11-27T10:16:43.142Z,"9 km S of Idyllwild, CA",earthquake,0.25,0.44,0.159,9.0,automatic,ci,ci
+2024-11-27T10:39:28.370Z,37.639831542969,-119.03749847412,-1.0199999809265,1.49,md,19.0,105.0,0.007322,0.04,nc,nc75091401,2024-11-27T10:41:05.433Z,"5 km WNW of Mammoth Lakes, CA",earthquake,0.23,0.150000006,0.23,19.0,automatic,nc,nc
+2024-11-27T10:38:34.531Z,38.6962,-119.3799,0.0,1.2,ml,9.0,191.51,0.309,0.171,nn,nn00888028,2024-11-27T10:42:04.647Z,"10 km SSW of Smith Valley, Nevada",earthquake,,16.3,0.15,3.0,automatic,nn,nn
