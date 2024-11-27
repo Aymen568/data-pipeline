@@ -5430,4 +5430,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.44 and occurred in/near 5 km WNW of San Juan Bautista, CA on 11/27/2024 at 08:19 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.8 and occurred in/near 40 km S of Bartolomé Masó, Cuba on 11/10/2024 at 04:50 PM./nSince 07:04 AM on 10/22/2024, there have been 8278 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.2 and occurred in/near 51 km S of Denali National Park, Alaska on 11/27/2024 at 08:36 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.8 and occurred in/near 40 km S of Bartolomé Masó, Cuba on 11/10/2024 at 04:50 PM./nSince 07:04 AM on 10/22/2024, there have been 8283 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.19 and occurred in/near 9 km E of Ridgecrest, CA on 11/27/2024 at 08:50 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.8 and occurred in/near 40 km S of Bartolomé Masó, Cuba on 11/10/2024 at 04:50 PM./n
