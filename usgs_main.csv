@@ -8268,3 +8268,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-27T20:03:55.230Z,34.6351667,-117.1215,-1.17,1.5,ml,31.0,34.0,0.1871,0.17,ci,ci40988952,2024-11-27T20:13:42.407Z,"16 km NNE of Apple Valley, CA",quarry blast,0.28,31.61,0.146,25.0,reviewed,ci,ci
 2024-11-27T19:51:04.515Z,60.4659,-152.1189,155.0,0.3,ml,,,,0.49,ak,ak024f9e1fwz,2024-11-27T19:53:23.471Z,"45 km W of Kalifornsky, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2024-11-27T16:44:50.007Z,-24.1106,-67.0919,175.353,4.3,mb,26.0,101.0,2.503,0.89,us,us7000nuj2,2024-11-27T20:07:03.040Z,"79 km W of San Antonio de los Cobres, Argentina",earthquake,6.04,13.144,0.189,8.0,reviewed,us,us
+2024-11-27T20:19:04.630Z,36.854667663574,-121.5898361206,6.6999998092651,1.44,md,15.0,91.0,0.05554,0.1,nc,nc75091776,2024-11-27T20:20:42.559Z,"5 km WNW of San Juan Bautista, CA",earthquake,0.48,0.790000021,0.18,9.0,automatic,nc,nc
+2024-11-27T20:13:39.309Z,63.5115,-149.4961,90.4,1.5,ml,,,,0.63,ak,ak024f9eere2,2024-11-27T20:24:07.222Z,"30 km WNW of Cantwell, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-11-27T20:13:18.190Z,19.084666666667,-64.798666666667,19.89,3.36,md,14.0,276.0,0.6822,0.28,pr,pr71467018,2024-11-27T20:30:57.270Z,"83 km N of Cruz Bay, U.S. Virgin Islands",earthquake,1.34,24.71,0.083591104928417,8.0,reviewed,pr,pr
+2024-11-27T09:22:44.980Z,31.5428333,-115.6981667,10.75,2.8,ml,14.0,82.0,0.1678,0.16,ci,ci40988312,2024-11-27T20:20:36.452Z,"84 km ESE of Maneadero, B.C., MX",earthquake,0.22,0.7,0.142,15.0,reviewed,ci,ci
+2024-11-26T20:45:46.900Z,60.046166666667,-153.0865,-1.19,-0.94,ml,6.0,108.0,0.01606,0.19,av,av93380238,2024-11-27T20:33:54.580Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.31,2.69,0.3177336446537,6.0,reviewed,av,av
+2024-11-26T20:38:32.720Z,57.055666666667,-135.65983333333,6.95,0.16,ml,5.0,158.0,0.02755,0.07,av,av93380218,2024-11-27T20:28:48.080Z,"19 km W of Sitka, Alaska",earthquake,0.93,0.58,0.3348928585461,5.0,reviewed,av,av
