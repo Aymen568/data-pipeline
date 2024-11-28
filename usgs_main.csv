@@ -8557,3 +8557,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-28T22:06:22.840Z,19.224166666667,-64.590833333333,53.41,3.39,md,13.0,295.0,0.8002,0.47,pr,pr71467158,2024-11-28T22:28:05.700Z,"101 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,7.07,15.34,0.16410676961219,4.0,reviewed,pr,pr
 2024-11-28T21:55:24.786Z,-3.834,100.5065,10.0,4.6,mb,34.0,202.0,2.498,0.7,us,us7000nuub,2024-11-28T22:27:24.040Z,"195 km W of Bengkulu, Indonesia",earthquake,11.06,1.933,0.109,25.0,reviewed,us,us
 2024-11-28T22:41:47.040Z,33.8223333,-117.6451667,5.52,1.1,ml,24.0,57.0,0.09392,0.22,ci,ci40989664,2024-11-28T22:46:05.782Z,"9 km SW of Corona, CA",earthquake,0.27,0.69,0.397,20.0,automatic,ci,ci
+2024-11-28T22:50:41.509Z,65.0027,-147.4617,3.1,1.2,ml,,,,0.63,ak,ak024fb3cwra,2024-11-28T22:52:41.413Z,"8 km NE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
