@@ -8549,3 +8549,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-28T21:08:08.430Z,33.4903333,-116.4513333,13.72,1.55,ml,67.0,30.0,0.1212,0.18,ci,ci40989624,2024-11-28T21:12:24.977Z,"22 km ESE of Anza, CA",earthquake,0.16,0.32,0.204,27.0,automatic,ci,ci
 2024-11-28T20:58:33.518Z,57.6016,-155.2971,64.7,2.0,ml,,,,0.34,ak,ak024fb27qnr,2024-11-28T21:01:00.398Z,"50 km W of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-11-28T21:24:56.820Z,38.842498779297,-122.83283233643,0.93000000715256,1.09,md,22.0,89.0,0.00442,0.03,nc,nc75092261,2024-11-28T21:26:34.660Z,"10 km WNW of Cobb, CA",earthquake,0.19,0.349999994,0.15,22.0,automatic,nc,nc
+2024-11-28T21:33:51.230Z,35.765,-117.5743333,8.24,1.0,ml,24.0,68.0,0.05402,0.13,ci,ci40989640,2024-11-28T21:37:23.104Z,"15 km W of Searles Valley, CA",earthquake,0.21,0.51,0.119,12.0,automatic,ci,ci
