@@ -8524,3 +8524,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-28T18:59:48.772Z,60.8747,-146.4375,17.3,1.4,ml,,,,1.08,ak,ak024fb114be,2024-11-28T19:01:58.147Z,"13 km E of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-11-28T18:57:40.008Z,60.1307,-152.0507,47.1,1.9,ml,,,,0.92,ak,ak024fb10mto,2024-11-28T18:59:55.082Z,"23 km WNW of Ninilchik, Alaska",earthquake,,5.9,,,automatic,ak,ak
 2024-11-28T18:41:43.010Z,-28.9522,-176.9137,35.0,4.9,mb,48.0,110.0,0.933,0.89,us,us7000nuta,2024-11-28T19:11:23.040Z,Kermadec Islands region,earthquake,10.48,1.897,0.07,66.0,reviewed,us,us
+2024-11-28T19:24:19.270Z,38.82500076294,-122.79433441162,2.7599999904633,0.79,md,15.0,41.0,0.0124,0.01,nc,nc75092191,2024-11-28T19:25:56.060Z,"6 km WNW of Cobb, CA",earthquake,0.28,0.680000007,0.15,15.0,automatic,nc,nc
+2024-11-28T19:14:39.890Z,37.263168334961,-121.63966369629,4.6199998855591,1.63,md,30.0,64.0,0.02702,0.06,nc,nc75092181,2024-11-28T19:17:44.020Z,"15 km NNE of Morgan Hill, CA",earthquake,0.18,0.589999974,0.11,22.0,automatic,nc,nc
+2024-11-28T18:14:56.840Z,-46.6638,-75.4532,15.596,4.4,mwr,34.0,141.0,2.031,0.81,us,us7000nut1,2024-11-28T19:25:04.040Z,"229 km WNW of Cochrane, Chile",earthquake,7.68,5.057,0.089,12.0,reviewed,us,us
