@@ -8374,3 +8374,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-28T05:01:24.519Z,43.436,-127.3778,10.0,3.5,mb,83.0,212.0,1.783,0.63,us,us7000numu,2024-11-28T05:16:54.040Z,"243 km W of Bandon, Oregon",earthquake,9.63,2.01,0.286,3.0,reviewed,us,us
 2024-11-28T04:39:58.239Z,37.9421,-78.0428,7.843,1.6,ml,8.0,98.0,0.131,1.26,us,us7000numy,2024-11-28T05:23:23.355Z,"9 km SSW of Louisa, Virginia",earthquake,2.14,6.776,0.128,8.0,reviewed,us,us
 2024-11-27T13:55:23.440Z,61.178333333333,-152.2195,7.28,-0.05,ml,12.0,102.0,0.04864,0.14,av,av93381163,2024-11-28T05:28:18.730Z,"59 km WNW of Tyonek, Alaska",earthquake,0.34,0.66,0.22323256915059,13.0,reviewed,av,av
+2024-11-28T05:32:03.930Z,37.2273,-117.3297,1.5,1.0,ml,18.0,153.48,0.233,0.2913,nn,nn00888059,2024-11-28T05:34:18.381Z,"54 km S of Goldfield, Nevada",earthquake,,24.6,0.35,10.0,automatic,nn,nn
+2024-11-28T05:27:23.904Z,31.557,-103.678,10.8021,1.6,ml,7.0,112.0,0.0,0.2,tx,tx2024xizv,2024-11-28T05:34:32.139Z,"18 km SSW of Mentone, Texas",earthquake,0.0,5.1546268463135,0.1,7.0,automatic,tx,tx
