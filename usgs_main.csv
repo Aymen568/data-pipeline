@@ -8513,3 +8513,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-28T17:50:06.270Z,37.494998931885,-118.40149688721,3.6199998855591,1.8,md,14.0,185.0,0.06255,0.09,nc,nc75092146,2024-11-28T17:51:44.578Z,"12 km NNE of Dixon Lane-Meadow Creek, CA",earthquake,0.53,0.75,0.26,13.0,automatic,nc,nc
 2024-11-28T17:23:33.756Z,-5.5559,147.4597,195.059,4.6,mb,37.0,71.0,3.491,0.76,us,us7000nusu,2024-11-28T17:51:52.040Z,"118 km NNW of Finschhafen, Papua New Guinea",earthquake,6.62,7.09,0.096,34.0,reviewed,us,us
 2024-11-28T17:12:10.510Z,18.672833333333,-66.491333333333,29.2,2.98,md,24.0,216.0,0.198,0.22,pr,pr71467118,2024-11-28T17:43:23.730Z,"23 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.76,1.13,0.12059998583925,15.0,reviewed,pr,pr
+2024-11-28T18:13:54.012Z,32.14,-101.083,3.0348,1.9,ml,28.0,106.0,0.2,0.2,tx,tx2024xjzc,2024-11-28T18:20:44.156Z,"24 km SSW of Westbrook, Texas",earthquake,0.0,1.3123378753662,0.2,19.0,automatic,tx,tx
