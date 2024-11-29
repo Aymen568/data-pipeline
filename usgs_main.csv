@@ -8731,3 +8731,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-29T21:24:39.140Z,32.985,-116.3221667,5.32,1.34,ml,42.0,74.0,0.07552,0.18,ci,ci40990200,2024-11-29T21:28:54.221Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.2,0.9,0.174,28.0,automatic,ci,ci
 2024-11-29T21:23:24.183Z,61.9514,-150.2803,34.8,2.6,ml,,,,0.88,ak,ak024fcq4zyq,2024-11-29T21:25:00.336Z,"26 km NNW of Willow, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-29T21:03:25.570Z,19.5913,-65.4338,48.0,3.79,md,18.0,247.0,1.2926,0.4,pr,pr2024334000,2024-11-29T21:38:39.836Z,"135 km NNE of Vieques, Puerto Rico",earthquake,3.44,15.93,0.1,12.0,reviewed,pr,pr
+2024-11-29T21:51:14.750Z,38.837665557861,-122.79350280762,1.9700000286102,0.37,md,7.0,182.0,0.002576,0.01,nc,nc75092646,2024-11-29T21:52:53.110Z,"6 km WNW of Cobb, CA",earthquake,1.32,1.33000004,0.22,7.0,automatic,nc,nc
+2024-11-29T21:48:01.548Z,63.5359,-147.7532,17.4,1.5,ml,,,,0.45,ak,ak024fcqab4q,2024-11-29T21:49:46.915Z,"61 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-29T18:57:04.458Z,-0.2743,124.1524,71.709,4.5,mb,44.0,51.0,1.577,1.14,us,us7000nuzz,2024-11-29T21:52:52.040Z,"86 km SSW of Modisi, Indonesia",earthquake,6.14,7.142,0.092,38.0,reviewed,us,us
