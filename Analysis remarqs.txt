@@ -5688,4 +5688,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 0.64 and occurred in/near 12 km WSW of Searles Valley, CA on 11/29/2024 at 04:53 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.8 and occurred in/near 40 km S of Bartolomé Masó, Cuba on 11/10/2024 at 04:50 PM./nSince 07:04 AM on 10/22/2024, there have been 8699 recorded earthquakes.
 The most recent earthquake had a magnitude of 0.75 and occurred in/near 6 km NNW of The Geysers, CA on 11/29/2024 at 05:10 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.8 and occurred in/near 40 km S of Bartolomé Masó, Cuba on 11/10/2024 at 04:50 PM./nSince 07:04 AM on 10/22/2024, there have been 8701 recorded earthquakes.
+The most recent earthquake had a magnitude of 0.77 and occurred in/near 10 km WNW of Cobb, CA on 11/29/2024 at 05:26 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.8 and occurred in/near 40 km S of Bartolomé Masó, Cuba on 11/10/2024 at 04:50 PM./n
