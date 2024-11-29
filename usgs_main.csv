@@ -8728,3 +8728,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-29T20:44:10.358Z,63.5329,-145.6684,248.2,1.6,ml,,,,0.45,ak,ak024fcpo2ke,2024-11-29T20:50:00.076Z,"43 km SSW of Deltana, Alaska",earthquake,,27.4,,,automatic,ak,ak
 2024-11-29T21:13:01.087Z,38.1321,-118.1791,0.0,1.8,ml,11.0,173.72,0.167,0.26,nn,nn00888119,2024-11-29T21:15:56.990Z,"29 km SSW of Mina, Nevada",earthquake,,7.0,0.33,8.0,automatic,nn,nn
 2024-11-29T20:53:42.920Z,35.9033333,-117.7431667,7.63,0.59,ml,21.0,53.0,0.07597,0.11,ci,ci40990184,2024-11-29T20:57:39.140Z,"15 km ESE of Little Lake, CA",earthquake,0.16,0.47,0.181,8.0,automatic,ci,ci
+2024-11-29T21:24:39.140Z,32.985,-116.3221667,5.32,1.34,ml,42.0,74.0,0.07552,0.18,ci,ci40990200,2024-11-29T21:28:54.221Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.2,0.9,0.174,28.0,automatic,ci,ci
+2024-11-29T21:23:24.183Z,61.9514,-150.2803,34.8,2.6,ml,,,,0.88,ak,ak024fcq4zyq,2024-11-29T21:25:00.336Z,"26 km NNW of Willow, Alaska",earthquake,,0.6,,,automatic,ak,ak
