@@ -8597,3 +8597,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-29T05:24:33.721Z,32.06,-101.441,3.7051,1.5,ml,36.0,92.0,0.2,0.3,tx,tx2024xkvg,2024-11-29T05:36:58.602Z,"8 km SW of Forsan, Texas",earthquake,0.0,1.1531195640564,0.1,21.0,automatic,tx,tx
 2024-11-29T05:22:37.170Z,58.2486,-151.5154,22.2,2.4,ml,,,,0.44,ak,ak024fcglvl1,2024-11-29T05:25:56.840Z,"68 km ENE of Ouzinkie, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-29T05:37:30.850Z,35.6766667,-117.5391667,7.89,1.27,ml,29.0,61.0,0.09471,0.12,ci,ci40989752,2024-11-29T05:41:08.139Z,"14 km ENE of Ridgecrest, CA",earthquake,0.14,0.52,0.214,19.0,automatic,ci,ci
+2024-11-29T06:02:34.750Z,38.798168182373,-122.76116943359,2.0299999713898,0.37,md,8.0,132.0,0.02144,0.01,nc,nc75092336,2024-11-29T06:04:11.056Z,"2 km N of The Geysers, CA",earthquake,0.46,1.82000005,0.15,7.0,automatic,nc,nc
+2024-11-29T05:57:48.318Z,36.7107,-116.2601,4.3,-0.3,ml,14.0,74.97,0.042,0.1258,nn,nn00888098,2024-11-29T05:59:33.085Z,"49 km ESE of Beatty, Nevada",earthquake,,1.0,0.22,9.0,automatic,nn,nn
+2024-11-29T05:55:27.380Z,36.852165222168,-121.60600280762,8.170000076294,1.28,md,8.0,95.0,0.05632,0.16,nc,nc75092331,2024-11-29T05:57:06.093Z,"5 km SSE of Aromas, CA",earthquake,0.77,1.51999998,0.19,5.0,automatic,nc,nc
+2024-11-29T05:49:49.141Z,-8.8608,118.3395,109.208,4.4,mb,26.0,73.0,0.557,0.93,us,us7000nuvk,2024-11-29T06:08:02.040Z,"38 km SSW of Dompu, Indonesia",earthquake,8.34,4.004,0.123,19.0,reviewed,us,us
