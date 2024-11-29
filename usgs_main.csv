@@ -8561,3 +8561,17 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-28T23:21:15.650Z,38.807334899902,-122.81416320801,3.1900000572205,1.06,md,17.0,104.0,0.01183,0.02,nc,nc75092271,2024-11-28T23:22:50.710Z,"6 km NW of The Geysers, CA",earthquake,0.32,0.839999974,0.1,17.0,automatic,nc,nc
 2024-11-28T23:01:40.456Z,62.9898,-149.9356,74.7,1.3,ml,,,,0.9,ak,ak024fb3nu71,2024-11-28T23:03:42.963Z,"60 km N of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-11-28T23:10:14.630Z,17.926833333333,-66.752,8.23,1.95,md,5.0,242.0,0.1196,0.04,pr,pr71467168,2024-11-28T23:28:01.430Z,"8 km SSW of Tallaboa, Puerto Rico",earthquake,1.16,6.8,0.090367768872142,2.0,reviewed,pr,pr
+2024-11-29T01:47:47.710Z,19.50333404541,-155.48167419434,1.2599999904633,1.82000005,md,13.0,89.0,0.03549,0.119999997,hv,hv74545707,2024-11-29T01:49:14.910Z,"26 km WNW of Volcano, Hawaii",earthquake,0.32,1.16999996,0.189999998,3.0,automatic,hv,hv
+2024-11-29T01:43:13.906Z,63.1212,-150.5023,111.4,1.4,ml,,,,0.26,ak,ak024fceclem,2024-11-29T01:45:04.363Z,"70 km N of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-11-29T01:36:29.131Z,37.3634,-117.8587,8.4,1.1,ml,13.0,323.08,0.214,0.3468,nn,nn00888092,2024-11-29T01:39:02.219Z,"38 km SSE of Dyer, Nevada",earthquake,,1.0,0.53,8.0,automatic,nn,nn
+2024-11-29T01:22:06.622Z,37.8093,-115.8482,4.7,1.3,ml,17.0,201.39,0.643,0.4252,nn,nn00888090,2024-11-29T01:24:43.239Z,"20 km NNW of Rachel, Nevada",earthquake,,5.2,0.2,11.0,automatic,nn,nn
+2024-11-29T01:06:37.360Z,31.641,-103.971,10.119,2.0,ml,19.0,47.0,0.0,0.7,tx,tx2024xkms,2024-11-29T01:20:45.958Z,"35 km WSW of Mentone, Texas",earthquake,0.0,2.3975365161896,0.2,13.0,automatic,tx,tx
+2024-11-29T01:06:23.816Z,63.5641,-147.2089,0.8,1.6,ml,,,,0.75,ak,ak024fce4ood,2024-11-29T01:08:46.585Z,"86 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-29T01:03:09.902Z,64.5,-150.6073,0.0,1.6,ml,,,,0.97,ak,ak024fce40ge,2024-11-29T01:05:04.148Z,"55 km S of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-11-29T01:02:51.217Z,64.5048,-150.5685,5.4,1.6,ml,,,,0.86,ak,ak024fce3vxd,2024-11-29T01:05:07.282Z,"55 km S of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-11-29T00:47:07.360Z,19.070833206177,-155.46049499512,40.540000915527,2.05999994,md,19.0,195.0,0.08415,0.0900000036,hv,hv74545677,2024-11-29T00:48:38.430Z,"12 km E of Naalehu, Hawaii",earthquake,1.35,1.86000001,0.280000001,6.0,automatic,hv,hv
+2024-11-29T00:35:09.973Z,38.013,-118.713,0.0,1.8,ml,13.0,172.56,0.663,0.3627,nn,nn00888085,2024-11-29T00:37:52.479Z,"29 km NW of Benton, California",earthquake,,6.7,0.27,5.0,automatic,nn,nn
+2024-11-28T23:54:54.041Z,39.2058,16.4246,10.0,4.3,mb,73.0,87.0,0.917,1.05,us,us7000nuuw,2024-11-29T01:12:17.154Z,"5 km NNE of Parenti, Italy",earthquake,4.59,1.322,0.123,19.0,reviewed,us,us
+2024-11-28T23:26:45.140Z,-19.5948,169.0564,118.657,4.6,mb,41.0,129.0,3.358,0.81,us,us7000nuus,2024-11-29T00:33:53.040Z,"24 km WSW of Isangel, Vanuatu",earthquake,9.35,7.887,0.093,35.0,reviewed,us,us
+2024-11-28T23:25:24.448Z,-29.3042,-177.9784,78.068,4.9,mb,20.0,128.0,0.066,1.65,us,us7000nuun,2024-11-29T00:02:28.040Z,"Kermadec Islands, New Zealand",earthquake,14.02,5.196,0.132,18.0,reviewed,us,us
+2024-11-28T02:11:36.883Z,52.4235,-172.6766,125.903,4.1,mb,84.0,164.0,0.885,0.94,us,us7000nun7,2024-11-29T00:57:30.040Z,"106 km ENE of Atka, Alaska",earthquake,11.79,7.562,0.07,55.0,reviewed,us,us
