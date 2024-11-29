@@ -8703,3 +8703,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-29T17:08:14.975Z,39.6258,-119.3869,15.1,0.8,ml,9.0,243.54,0.421,0.1525,nn,nn00888112,2024-11-29T17:48:47.924Z,"8 km W of Wadsworth, Nevada",earthquake,,6.7,0.15,4.0,reviewed,nn,nn
 2024-11-29T13:39:43.001Z,36.7488,-116.2834,7.2,-0.3,ml,14.0,96.9,0.013,0.0588,nn,nn00888111,2024-11-29T17:45:42.285Z,"46 km ESE of Beatty, Nevada",earthquake,,1.3,0.34,5.0,reviewed,nn,nn
 2024-11-29T13:06:51.045Z,36.8371,-116.2664,6.2,-0.4,ml,7.0,132.5,0.038,0.0534,nn,nn00888110,2024-11-29T17:42:35.463Z,"44 km E of Beatty, Nevada",earthquake,,2.3,0.02,2.0,reviewed,nn,nn
+2024-11-29T17:56:44.139Z,59.8834,-152.007,19.6,1.4,ml,,,,1.13,ak,ak024fcnydq5,2024-11-29T17:58:07.242Z,"15 km NW of Anchor Point, Alaska",earthquake,,1.5,,,automatic,ak,ak
