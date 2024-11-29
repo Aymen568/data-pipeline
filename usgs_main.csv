@@ -8734,3 +8734,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-29T21:51:14.750Z,38.837665557861,-122.79350280762,1.9700000286102,0.37,md,7.0,182.0,0.002576,0.01,nc,nc75092646,2024-11-29T21:52:53.110Z,"6 km WNW of Cobb, CA",earthquake,1.32,1.33000004,0.22,7.0,automatic,nc,nc
 2024-11-29T21:48:01.548Z,63.5359,-147.7532,17.4,1.5,ml,,,,0.45,ak,ak024fcqab4q,2024-11-29T21:49:46.915Z,"61 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-29T18:57:04.458Z,-0.2743,124.1524,71.709,4.5,mb,44.0,51.0,1.577,1.14,us,us7000nuzz,2024-11-29T21:52:52.040Z,"86 km SSW of Modisi, Indonesia",earthquake,6.14,7.142,0.092,38.0,reviewed,us,us
+2024-11-29T22:10:04.027Z,62.1376,-144.8822,19.7,1.4,ml,,,,0.48,ak,ak024fcqnlpu,2024-11-29T22:11:46.222Z,"27 km ENE of Silver Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-11-29T04:18:47.400Z,35.8533333,-117.672,10.77,0.54,ml,7.0,119.0,0.07121,0.11,ci,ci37690684,2024-11-29T22:12:05.232Z,"23 km ESE of Little Lake, CA",earthquake,0.41,0.88,0.531,6.0,reviewed,ci,ci
