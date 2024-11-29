@@ -8683,3 +8683,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-29T14:54:21.961Z,29.001,-97.93,5.3955,2.7,ml,18.0,51.0,0.0,0.6,tx,tx2024xloa,2024-11-29T15:05:44.610Z,"8 km ENE of Falls City, Texas",earthquake,1.7245719977156,1.8089924365747,0.2,14.0,reviewed,tx,tx
 2024-11-29T14:28:11.466Z,52.58,159.8119,57.32,4.2,mb,31.0,179.0,0.834,0.73,us,us7000nuxi,2024-11-29T14:58:01.040Z,"96 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.86,9.526,0.108,24.0,reviewed,us,us
 2024-11-29T15:12:58.100Z,32.1585,-115.7956667,4.54,2.15,ml,16.0,62.0,0.1678,0.25,ci,ci40990016,2024-11-29T15:16:46.380Z,"51 km SSW of Progreso, B.C., MX",earthquake,0.38,1.88,0.151,28.0,automatic,ci,ci
+2024-11-29T07:52:14.780Z,45.3695,-121.69833333333,-0.5,-0.14,ml,5.0,117.0,0.03283,0.02,uw,uw62063051,2024-11-29T15:55:23.380Z,"8 km NNE of Government Camp, Oregon",earthquake,0.26,7.84,0.10853833851803,3.0,reviewed,uw,uw
+2024-11-28T22:04:35.390Z,46.815166666667,-121.94833333333,9.33,0.36,ml,24.0,91.0,0.02657,0.07,uw,uw62063006,2024-11-29T15:51:31.230Z,"8 km NE of Ashford, Washington",earthquake,0.24,0.25,0.11942744936714,14.0,reviewed,uw,uw
