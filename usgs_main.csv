@@ -8736,3 +8736,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-29T18:57:04.458Z,-0.2743,124.1524,71.709,4.5,mb,44.0,51.0,1.577,1.14,us,us7000nuzz,2024-11-29T21:52:52.040Z,"86 km SSW of Modisi, Indonesia",earthquake,6.14,7.142,0.092,38.0,reviewed,us,us
 2024-11-29T22:10:04.027Z,62.1376,-144.8822,19.7,1.4,ml,,,,0.48,ak,ak024fcqnlpu,2024-11-29T22:11:46.222Z,"27 km ENE of Silver Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-11-29T04:18:47.400Z,35.8533333,-117.672,10.77,0.54,ml,7.0,119.0,0.07121,0.11,ci,ci37690684,2024-11-29T22:12:05.232Z,"23 km ESE of Little Lake, CA",earthquake,0.41,0.88,0.531,6.0,reviewed,ci,ci
+2024-11-29T22:28:24.130Z,38.83483505249,-122.797996521,1.8799999952316,1.02,md,15.0,59.0,0.006961,0.02,nc,nc75092651,2024-11-29T22:30:03.273Z,"7 km WNW of Cobb, CA",earthquake,0.26,0.439999998,0.23,16.0,automatic,nc,nc
+2024-11-29T22:18:16.673Z,61.4168,-147.8248,19.7,2.4,ml,,,,0.63,ak,ak024fcqpce2,2024-11-29T22:19:50.716Z,"44 km SSW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-29T21:44:30.020Z,17.934666666667,-66.799833333333,8.96,2.93,md,16.0,179.0,0.07521,0.08,pr,pr71467213,2024-11-29T22:25:22.940Z,"6 km SSE of Indios, Puerto Rico",earthquake,0.35,0.58,0.077299771546744,11.0,reviewed,pr,pr
