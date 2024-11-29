@@ -8629,3 +8629,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-29T08:54:09.830Z,36.0213333,-117.738,1.37,0.81,ml,25.0,102.0,0.02243,0.2,ci,ci40989800,2024-11-29T08:57:41.196Z,"18 km ENE of Little Lake, CA",earthquake,0.31,0.24,0.138,9.0,automatic,ci,ci
 2024-11-29T08:51:03.100Z,38.80916595459,-122.77233123779,1.1799999475479,0.36,md,8.0,125.0,0.007701,0.03,nc,nc75092436,2024-11-29T08:52:41.722Z,"4 km  of The Geysers, CA",earthquake,0.44,1.09000003,0.15,9.0,automatic,nc,nc
 2024-11-29T08:49:51.341Z,44.3648,-116.0852,11.477,2.7,ml,26.0,45.0,0.363,0.45,us,us7000nuvw,2024-11-29T09:02:09.040Z,"7 km N of Smiths Ferry, Idaho",earthquake,3.4,8.272,0.038,90.0,reviewed,us,us
+2024-11-29T09:13:11.684Z,31.622,-104.498,5.2333,1.7,ml,7.0,147.0,0.0,0.3,tx,tx2024xlcu,2024-11-29T09:29:16.746Z,"62 km S of Whites City, New Mexico",earthquake,0.0,6.7588305473328,0.1,7.0,automatic,tx,tx
+2024-11-29T09:10:44.710Z,33.3841667,-116.8465,8.31,1.18,ml,62.0,28.0,0.03334,0.2,ci,ci40989808,2024-11-29T09:15:29.554Z,"4 km NNE of Palomar Observatory, CA",earthquake,0.16,0.55,0.27,16.0,automatic,ci,ci
