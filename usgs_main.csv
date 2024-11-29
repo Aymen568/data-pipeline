@@ -8643,3 +8643,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-29T10:06:22.653Z,59.9253,-152.7145,89.2,1.4,ml,,,,0.29,ak,ak024fcjhl15,2024-11-29T10:08:43.343Z,"52 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-29T10:05:28.170Z,38.831832885742,-122.79183197022,1.7599999904633,1.04,md,19.0,46.0,0.006669,0.02,nc,nc75092446,2024-11-29T10:07:06.457Z,"6 km WNW of Cobb, CA",earthquake,0.22,0.419999987,0.2,19.0,automatic,nc,nc
 2024-11-29T10:20:44.692Z,64.8383,-149.2498,25.4,1.0,ml,,,,0.57,ak,ak024fcjkmr9,2024-11-29T10:22:44.489Z,"26 km NNW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-11-29T10:48:12.850Z,36.1838333,-118.1603333,11.12,0.9,ml,23.0,68.0,0.1277,0.18,ci,ci40989872,2024-11-29T10:51:46.046Z,"18 km SW of Olancha, CA",earthquake,0.25,0.87,0.128,10.0,automatic,ci,ci
+2024-11-29T10:40:53.770Z,33.621,-116.6695,14.49,0.93,ml,49.0,46.0,0.04791,0.17,ci,ci40989864,2024-11-29T10:44:55.015Z,"7 km N of Anza, CA",earthquake,0.17,0.25,0.157,27.0,automatic,ci,ci
