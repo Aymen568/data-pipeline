@@ -8676,3 +8676,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-29T14:07:12.690Z,36.632499694824,-121.26333618164,6.1700000762939,1.82,md,26.0,110.0,0.0466,0.13,nc,nc75092501,2024-11-29T14:08:46.820Z,"16 km NNW of Pinnacles, CA",earthquake,0.35,0.899999976,0.22,23.0,automatic,nc,nc
 2024-11-29T14:02:24.868Z,63.3525,-149.703,92.9,1.7,ml,,,,0.3,ak,ak024fclugra,2024-11-29T14:04:49.540Z,"37 km W of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-29T03:38:11.190Z,39.6735,-87.406,6.83,1.98,md,12.0,79.0,0.1636,0.26,nm,nm60502783,2024-11-29T14:35:42.639Z,"1 km SE of Fairview Park, Indiana",earthquake,0.52,1.29,0.081826202678572,8.0,reviewed,nm,nm
+2024-11-29T14:48:34.430Z,32.783165,-115.8246689,6.19,1.31,ml,18.0,46.0,0.1053,0.2,ci,ci40990000,2024-11-29T14:50:59.217Z,"17 km ENE of Ocotillo, CA",earthquake,0.39,2.11,0.387,5.0,automatic,ci,ci
+2024-11-29T06:14:25.440Z,35.54733333,-96.7425,6.5,3.24,ml,70.0,35.0,0.0,0.15,ok,ok2024xkww,2024-11-29T14:51:15.223Z,"8 km NW of Prague, Oklahoma",earthquake,,0.3,0.23,31.0,reviewed,ok,ok
