@@ -8682,3 +8682,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-29T14:54:31.940Z,38.82149887085,-122.75900268555,1.9500000476837,0.69,md,8.0,214.0,0.01236,0.04,nc,nc75092516,2024-11-29T14:56:08.081Z,"3 km W of Cobb, CA",earthquake,0.86,1.44000006,0.09,9.0,automatic,nc,nc
 2024-11-29T14:54:21.961Z,29.001,-97.93,5.3955,2.7,ml,18.0,51.0,0.0,0.6,tx,tx2024xloa,2024-11-29T15:05:44.610Z,"8 km ENE of Falls City, Texas",earthquake,1.7245719977156,1.8089924365747,0.2,14.0,reviewed,tx,tx
 2024-11-29T14:28:11.466Z,52.58,159.8119,57.32,4.2,mb,31.0,179.0,0.834,0.73,us,us7000nuxi,2024-11-29T14:58:01.040Z,"96 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.86,9.526,0.108,24.0,reviewed,us,us
+2024-11-29T15:12:58.100Z,32.1585,-115.7956667,4.54,2.15,ml,16.0,62.0,0.1678,0.25,ci,ci40990016,2024-11-29T15:16:46.380Z,"51 km SSW of Progreso, B.C., MX",earthquake,0.38,1.88,0.151,28.0,automatic,ci,ci
