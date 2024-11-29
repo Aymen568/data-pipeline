@@ -8723,3 +8723,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-29T20:09:40.790Z,36.0243333,-117.7791667,2.31,0.92,ml,15.0,118.0,0.01131,0.11,ci,ci40990176,2024-11-29T20:13:51.865Z,"15 km NE of Little Lake, CA",earthquake,0.25,0.17,0.052,10.0,automatic,ci,ci
 2024-11-29T09:55:17.110Z,19.410166666667,-155.28816666667,1.08,1.59,ml,11.0,93.0,0.008387,0.07,hv,hv74546017,2024-11-29T20:37:22.130Z,"6 km WSW of Volcano, Hawaii",earthquake,0.18,0.19,0.37913579914199,7.0,reviewed,hv,hv
 2024-11-28T23:18:09.330Z,19.291166666667,-155.7935,8.93,1.9,ml,28.0,140.0,0.07652,0.12,hv,hv74545597,2024-11-29T20:35:08.560Z,"19 km SSE of Honaunau-Napoopoo, Hawaii",earthquake,0.52,0.38,0.16607775368749,10.0,reviewed,hv,hv
+2024-11-29T20:47:39.879Z,65.3303,-149.84,14.4,1.3,ml,,,,1.07,ak,ak024fcpoqs6,2024-11-29T20:49:53.422Z,"24 km SE of Rampart, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-29T20:44:44.590Z,38.834167480469,-122.81500244141,1.6799999475479,0.23,md,11.0,71.0,0.01142,0.01,nc,nc75092626,2024-11-29T20:46:22.770Z,"8 km WNW of Cobb, CA",earthquake,0.29,0.910000026,0.12,10.0,automatic,nc,nc
+2024-11-29T20:44:10.358Z,63.5329,-145.6684,248.2,1.6,ml,,,,0.45,ak,ak024fcpo2ke,2024-11-29T20:50:00.076Z,"43 km SSW of Deltana, Alaska",earthquake,,27.4,,,automatic,ak,ak
