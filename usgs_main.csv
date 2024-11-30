@@ -8941,3 +8941,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-30T14:18:21.976Z,60.188,-151.173,49.9,1.4,ml,,,,0.24,ak,ak024fe9h8hh,2024-11-30T14:19:57.698Z,"13 km ESE of Clam Gulch, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-11-30T14:10:15.823Z,-5.96,147.5369,113.378,4.8,mb,53.0,48.0,3.443,1.0,us,us7000nv4u,2024-11-30T14:44:11.040Z,"74 km NNW of Finschhafen, Papua New Guinea",earthquake,8.43,7.41,0.064,75.0,reviewed,us,us
 2024-11-30T13:31:17.338Z,-24.0476,179.8336,534.244,4.4,mb,23.0,162.0,5.55,0.66,us,us7000nv4r,2024-11-30T14:36:54.040Z,south of the Fiji Islands,earthquake,23.64,24.915,0.115,22.0,reviewed,us,us
+2024-11-30T14:49:55.650Z,19.38433265686,-155.12384033203,1.8400000333786,1.75999999,md,12.0,174.0,0.00159,0.100000001,hv,hv74548062,2024-11-30T14:51:55.040Z,"9 km S of Fern Forest, Hawaii",earthquake,1.15,0.200000003,0.769999981,8.0,automatic,hv,hv
+2024-11-30T14:45:41.860Z,33.3505,-116.3608333,11.52,1.37,ml,67.0,24.0,0.02429,0.2,ci,ci40990744,2024-11-30T14:50:14.942Z,"11 km N of Borrego Springs, CA",earthquake,0.17,0.51,0.188,25.0,automatic,ci,ci
