@@ -8980,3 +8980,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-30T14:24:32.194Z,36.6495,-116.2736,6.8,-0.4,ml,14.0,86.48,0.053,0.0908,nn,nn00888143,2024-11-30T19:06:45.951Z,"52 km ESE of Beatty, Nevada",earthquake,,1.4,0.41,5.0,reviewed,nn,nn
 2024-11-30T04:31:52.933Z,36.8069,-116.1148,6.4,-0.3,ml,6.0,214.56,0.019,0.0311,nn,nn00888141,2024-11-30T18:54:23.570Z,"47 km WNW of Indian Springs, Nevada",earthquake,,1.9,0.13,3.0,reviewed,nn,nn
 2024-11-30T18:34:56.546Z,-18.3012,-69.6103,111.387,4.8,mb,76.0,70.0,0.698,1.04,us,us7000nv60,2024-11-30T19:13:13.040Z,"69 km SSE of Palca, Peru",earthquake,6.91,6.16,0.039,204.0,reviewed,us,us
+2024-11-30T19:36:00.780Z,39.211833953857,-123.05699920654,7.5799999237061,0.92,md,7.0,77.0,0.08315,0.03,nc,nc75093231,2024-11-30T19:37:39.108Z,"13 km ENE of Talmage, CA",earthquake,0.38,1.29999995,0.02,3.0,automatic,nc,nc
+2024-11-30T00:43:02.290Z,61.290666666667,-152.4155,0.88,-0.25,ml,7.0,114.0,0.03796,0.12,av,av93383963,2024-11-30T19:39:04.110Z,"73 km WNW of Tyonek, Alaska",earthquake,0.65,1.35,0.12959648468801,7.0,reviewed,av,av
