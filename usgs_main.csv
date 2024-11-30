@@ -8888,3 +8888,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-30T09:21:25.180Z,17.9945,-66.520666666667,16.75,1.92,md,7.0,117.0,0.09454,0.13,pr,pr71467303,2024-11-30T09:31:25.200Z,"2 km W of Potala Pastillo, Puerto Rico",earthquake,0.46,0.81,0.037747323876856,3.0,reviewed,pr,pr
 2024-11-30T09:17:38.921Z,62.6762,-145.759,250.0,2.0,ml,,,,1.12,ak,ak024fe6hw1w,2024-11-30T09:30:05.260Z,"46 km S of Paxson, Alaska",earthquake,,4.5,,,automatic,ak,ak
 2024-11-30T09:38:31.817Z,58.2064,-155.2424,0.0,1.1,ml,,,,0.76,ak,ak024fe6mdj6,2024-11-30T09:40:34.369Z,"84 km NNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-11-30T09:51:28.250Z,38.773166656494,-122.7226638794,1.7200000286102,1.32,md,19.0,68.0,0.01168,0.05,nc,nc75093086,2024-11-30T09:53:04.307Z,"3 km W of Anderson Springs, CA",earthquake,0.26,0.379999995,0.15,19.0,automatic,nc,nc
+2024-11-30T09:46:53.119Z,31.598,-103.954,5.6109,1.8,ml,16.0,72.0,0.0,0.3,tx,tx2024xmzk,2024-11-30T09:53:40.125Z,"34 km NNW of Toyah, Texas",earthquake,0.0,2.1489713191986,0.2,12.0,automatic,tx,tx
+2024-11-30T09:44:48.822Z,62.8765,-152.8458,0.0,1.4,ml,,,,0.53,ak,ak024fe6np5e,2024-11-30T09:47:15.610Z,"79 km ESE of Nikolai, Alaska",earthquake,,0.5,,,automatic,ak,ak
