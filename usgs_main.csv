@@ -8791,3 +8791,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-30T02:43:42.300Z,18.034833333333,-66.810166666667,18.2,2.47,md,10.0,135.0,0.08318,0.13,pr,pr71467248,2024-11-30T03:13:11.000Z,"2 km NW of Guayanilla, Puerto Rico",earthquake,0.43,0.95,0.032843296458741,4.0,reviewed,pr,pr
 2024-11-30T02:22:58.745Z,-19.524,169.1021,131.738,4.4,mb,36.0,112.0,3.44,0.69,us,us7000nv1l,2024-11-30T02:53:30.040Z,"18 km W of Isangel, Vanuatu",earthquake,12.0,8.54,0.1,33.0,reviewed,us,us
 2024-11-29T19:07:27.244Z,39.6224,-119.8108,8.9,0.8,ml,10.0,164.84,0.038,0.0955,nn,nn00888121,2024-11-30T03:03:30.466Z,"1 km ENE of Golden Valley, Nevada",earthquake,,1.0,0.51,6.0,reviewed,nn,nn
+2024-11-30T03:27:41.620Z,19.313999176025,-155.25917053223,0.30000001192093,1.72,ml,49.0,96.0,0.04508,0.230000004,hv,hv74546982,2024-11-30T03:30:33.140Z,"14 km S of Volcano, Hawaii",earthquake,0.22,0.200000003,0.62,9.0,automatic,hv,hv
