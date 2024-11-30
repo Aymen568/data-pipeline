@@ -8979,3 +8979,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-30T15:15:30.692Z,36.6501,-116.273,6.8,0.1,ml,12.0,86.38,0.053,0.1007,nn,nn00888144,2024-11-30T19:09:53.784Z,"52 km ESE of Beatty, Nevada",earthquake,,1.9,0.1,2.0,reviewed,nn,nn
 2024-11-30T14:24:32.194Z,36.6495,-116.2736,6.8,-0.4,ml,14.0,86.48,0.053,0.0908,nn,nn00888143,2024-11-30T19:06:45.951Z,"52 km ESE of Beatty, Nevada",earthquake,,1.4,0.41,5.0,reviewed,nn,nn
 2024-11-30T04:31:52.933Z,36.8069,-116.1148,6.4,-0.3,ml,6.0,214.56,0.019,0.0311,nn,nn00888141,2024-11-30T18:54:23.570Z,"47 km WNW of Indian Springs, Nevada",earthquake,,1.9,0.13,3.0,reviewed,nn,nn
+2024-11-30T18:34:56.546Z,-18.3012,-69.6103,111.387,4.8,mb,76.0,70.0,0.698,1.04,us,us7000nv60,2024-11-30T19:13:13.040Z,"69 km SSE of Palca, Peru",earthquake,6.91,6.16,0.039,204.0,reviewed,us,us
