@@ -8883,3 +8883,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-30T08:56:05.107Z,62.1759,-144.9157,17.7,1.0,ml,,,,0.89,ak,ak024fe64qri,2024-11-30T08:57:31.900Z,"24 km SE of Gakona, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-30T08:46:15.083Z,25.2823,126.059,40.336,5.7,mww,112.0,32.0,1.886,0.83,us,us7000nv3a,2024-11-30T09:08:44.508Z,"92 km NE of Hirara, Japan",earthquake,7.0,6.387,0.04,59.0,reviewed,us,us
 2024-11-30T08:34:11.948Z,23.8777,123.3477,36.057,4.8,mb,55.0,92.0,0.662,0.81,us,us7000nv35,2024-11-30T09:06:54.040Z,"74 km SSE of Yonakuni, Japan",earthquake,5.89,7.858,0.078,51.0,reviewed,us,us
+2024-11-30T09:31:59.230Z,38.769832611084,-122.72100067139,1.9900000095367,1.09,md,7.0,106.0,0.008764,0.01,nc,nc75093081,2024-11-30T09:33:37.583Z,"3 km W of Anderson Springs, CA",earthquake,0.61,0.949999988,0.06,7.0,automatic,nc,nc
+2024-11-30T09:27:39.970Z,38.440498352051,-122.63316345215,8.4099998474121,1.63,md,34.0,47.0,0.05631,0.11,nc,nc75093076,2024-11-30T09:29:18.369Z,"6 km ESE of Santa Rosa, CA",earthquake,0.21,1.07000005,0.19,25.0,automatic,nc,nc
+2024-11-30T09:21:25.180Z,17.9945,-66.520666666667,16.75,1.92,md,7.0,117.0,0.09454,0.13,pr,pr71467303,2024-11-30T09:31:25.200Z,"2 km W of Potala Pastillo, Puerto Rico",earthquake,0.46,0.81,0.037747323876856,3.0,reviewed,pr,pr
+2024-11-30T09:17:38.921Z,62.6762,-145.759,250.0,2.0,ml,,,,1.12,ak,ak024fe6hw1w,2024-11-30T09:30:05.260Z,"46 km S of Paxson, Alaska",earthquake,,4.5,,,automatic,ak,ak
