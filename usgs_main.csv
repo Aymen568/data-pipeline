@@ -8939,3 +8939,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-30T13:56:54.333Z,59.9115,-152.2102,80.0,1.3,ml,,,,0.54,ak,ak024fe940l5,2024-11-30T13:59:14.469Z,"26 km NW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-11-30T14:21:48.960Z,38.809501647949,-122.79699707031,5.960000038147,0.72,md,9.0,131.0,0.002024,0.05,nc,nc75093156,2024-11-30T14:23:23.948Z,"5 km NNW of The Geysers, CA",earthquake,0.95,0.579999983,0.18,8.0,automatic,nc,nc
 2024-11-30T14:18:21.976Z,60.188,-151.173,49.9,1.4,ml,,,,0.24,ak,ak024fe9h8hh,2024-11-30T14:19:57.698Z,"13 km ESE of Clam Gulch, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2024-11-30T14:10:15.823Z,-5.96,147.5369,113.378,4.8,mb,53.0,48.0,3.443,1.0,us,us7000nv4u,2024-11-30T14:44:11.040Z,"74 km NNW of Finschhafen, Papua New Guinea",earthquake,8.43,7.41,0.064,75.0,reviewed,us,us
+2024-11-30T13:31:17.338Z,-24.0476,179.8336,534.244,4.4,mb,23.0,162.0,5.55,0.66,us,us7000nv4r,2024-11-30T14:36:54.040Z,south of the Fiji Islands,earthquake,23.64,24.915,0.115,22.0,reviewed,us,us
