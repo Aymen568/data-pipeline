@@ -8969,3 +8969,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-30T17:59:01.480Z,38.82466506958,-122.84449768066,1.7300000190735,0.85,md,10.0,78.0,0.007556,0.01,nc,nc75093191,2024-11-30T18:17:19.906Z,"9 km NW of The Geysers, CA",earthquake,0.41,0.75,0.24,11.0,automatic,nc,nc
 2024-11-30T18:37:24.607Z,61.9005,-151.2621,67.3,1.2,ml,,,,0.53,ak,ak024febz1po,2024-11-30T18:40:00.650Z,"12 km SE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-30T18:21:14.927Z,62.745,-148.7396,11.8,1.7,ml,,,,0.83,ak,ak024febvli1,2024-11-30T18:35:55.306Z,"72 km S of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-11-30T18:46:23.234Z,60.92,-149.6244,21.0,2.4,ml,,,,0.76,ak,ak024fec0z17,2024-11-30T18:47:45.859Z,"0 km ENE of Hope, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-11-30T18:43:08.592Z,62.2387,-151.2085,81.4,1.6,ml,,,,0.5,ak,ak024fec0arv,2024-11-30T18:45:35.558Z,"29 km NNE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-11-30T18:40:35.870Z,19.482999801636,-155.40049743652,19.780000686646,3.89,ml,65.0,36.0,0.017,0.180000007,hv,hv74548332,2024-11-30T18:50:20.782Z,"18 km WNW of Volcano, Hawaii",earthquake,0.26,0.540000021,0.4,50.0,automatic,hv,hv
+2024-11-30T02:59:53.719Z,39.5514,-119.7821,6.1,0.6,ml,14.0,172.62,0.02,0.1722,nn,nn00888140,2024-11-30T18:51:18.454Z,"3 km NW of Sparks, Nevada",earthquake,,1.3,0.28,7.0,reviewed,nn,nn
+2024-11-30T02:52:46.857Z,36.6522,-116.2744,7.2,-0.4,ml,14.0,85.28,0.052,0.081,nn,nn00888139,2024-11-30T18:45:09.382Z,"51 km ESE of Beatty, Nevada",earthquake,,1.5,0.41,5.0,reviewed,nn,nn
