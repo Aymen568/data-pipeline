@@ -8945,3 +8945,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-30T14:45:41.860Z,33.3505,-116.3608333,11.52,1.37,ml,67.0,24.0,0.02429,0.2,ci,ci40990744,2024-11-30T14:50:14.942Z,"11 km N of Borrego Springs, CA",earthquake,0.17,0.51,0.188,25.0,automatic,ci,ci
 2024-11-30T15:03:02.120Z,36.0166667,-117.81,2.16,0.62,ml,15.0,53.0,0.03726,0.1,ci,ci40990752,2024-11-30T15:06:38.702Z,"12 km NE of Little Lake, CA",earthquake,0.14,0.18,0.199,4.0,automatic,ci,ci
 2024-11-30T14:48:36.388Z,-20.0686,-175.8673,225.241,4.6,mb,35.0,118.0,5.687,1.19,us,us7000nv4y,2024-11-30T15:11:21.040Z,"135 km NNW of Houma, Tonga",earthquake,12.59,4.31,0.08,46.0,reviewed,us,us
+2024-11-30T15:31:16.169Z,58.257,-155.1013,35.8,1.1,ml,,,,0.51,ak,ak024fea5fy8,2024-11-30T15:33:05.774Z,"85 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-11-30T15:28:04.442Z,60.8624,-152.3489,113.1,1.3,ml,,,,0.11,ak,ak024fea4rwc,2024-11-30T15:29:36.622Z,"60 km WNW of Nikiski, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2024-11-30T15:08:50.731Z,19.3784,-108.4169,10.0,5.4,mww,49.0,184.0,6.42,0.7,us,us7000nv52,2024-11-30T15:28:23.566Z,Revilla Gigedo Islands region,earthquake,7.02,1.889,0.061,26.0,reviewed,us,us
