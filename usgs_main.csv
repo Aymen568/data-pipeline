@@ -8997,3 +8997,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-30T21:17:42.853Z,39.4219,-120.6208,3.9,1.4,ml,8.0,256.79,0.242,0.0758,nn,nn00888145,2024-11-30T21:19:41.581Z,"10 km ESE of Graniteville, California",earthquake,,12.6,0.46,6.0,automatic,nn,nn
 2024-11-30T17:58:42.391Z,-2.705,136.6551,45.13,4.6,mb,21.0,179.0,4.406,1.08,us,us7000nv5y,2024-11-30T21:11:13.040Z,"147 km ENE of Nabire, Indonesia",earthquake,5.67,14.595,0.141,15.0,reviewed,us,us
 2024-11-30T17:47:07.472Z,0.3403,122.1671,173.798,4.5,mb,27.0,88.0,1.5,0.83,us,us7000nv5x,2024-11-30T21:07:16.040Z,"102 km WSW of Gorontalo, Indonesia",earthquake,9.02,8.55,0.113,23.0,reviewed,us,us
+2024-11-30T21:42:29.010Z,33.2785,-116.4335,4.33,0.83,ml,39.0,70.0,0.01711,0.22,ci,ci40990968,2024-11-30T21:46:12.761Z,"6 km WNW of Borrego Springs, CA",earthquake,0.23,0.43,0.09,18.0,automatic,ci,ci
+2024-11-30T21:39:05.597Z,61.2673,-152.2014,35.0,0.6,ml,,,,0.64,ak,ak024fedrqhr,2024-11-30T21:40:20.813Z,"61 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-30T21:38:07.190Z,19.159999847412,-155.50466918945,33.709999084473,1.94000006,md,38.0,176.0,0.04049,0.119999997,hv,hv74548617,2024-11-30T21:39:38.140Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.67,0.720000029,0.25999999,7.0,automatic,hv,hv
+2024-11-30T21:37:44.800Z,33.5816667,-116.9631667,9.4,0.99,ml,8.0,94.0,0.2005,0.14,ci,ci40990960,2024-11-30T21:42:33.743Z,"18 km SE of Winchester, CA",earthquake,0.57,2.89,0.319,9.0,automatic,ci,ci
