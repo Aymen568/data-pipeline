@@ -8964,3 +8964,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-29T22:14:57.920Z,46.8855,-112.536,9.02,0.61,ml,9.0,124.0,0.06025,0.12,mb,mb90067183,2024-11-30T16:58:14.220Z,"13 km SE of Lincoln, Montana",earthquake,0.46,0.63,0.061356862866433,4.0,reviewed,mb,mb
 2024-11-30T16:10:47.969Z,6.2206,123.422,57.776,4.6,mb,28.0,118.0,2.303,0.82,us,us7000nv5u,2024-11-30T17:16:51.040Z,"73 km WSW of Sangay, Philippines",earthquake,9.59,7.794,0.129,18.0,reviewed,us,us
 2024-11-30T15:06:55.035Z,-18.2037,-172.5123,33.484,4.7,mb,16.0,102.0,2.6,0.79,us,us7000nv53,2024-11-30T17:28:49.040Z,"163 km ENE of Neiafu, Tonga",earthquake,11.14,7.73,0.153,16.0,reviewed,us,us
+2024-11-30T17:41:06.037Z,62.8606,-150.4292,82.7,1.2,ml,,,,0.52,ak,ak024febefjf,2024-11-30T17:43:16.880Z,"44 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
