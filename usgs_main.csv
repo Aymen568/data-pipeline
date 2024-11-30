@@ -8974,3 +8974,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-30T18:40:35.870Z,19.482999801636,-155.40049743652,19.780000686646,3.89,ml,65.0,36.0,0.017,0.180000007,hv,hv74548332,2024-11-30T18:50:20.782Z,"18 km WNW of Volcano, Hawaii",earthquake,0.26,0.540000021,0.4,50.0,automatic,hv,hv
 2024-11-30T02:59:53.719Z,39.5514,-119.7821,6.1,0.6,ml,14.0,172.62,0.02,0.1722,nn,nn00888140,2024-11-30T18:51:18.454Z,"3 km NW of Sparks, Nevada",earthquake,,1.3,0.28,7.0,reviewed,nn,nn
 2024-11-30T02:52:46.857Z,36.6522,-116.2744,7.2,-0.4,ml,14.0,85.28,0.052,0.081,nn,nn00888139,2024-11-30T18:45:09.382Z,"51 km ESE of Beatty, Nevada",earthquake,,1.5,0.41,5.0,reviewed,nn,nn
+2024-11-30T19:09:25.420Z,38.820999145508,-122.85350036621,2.6500000953674,1.07,md,21.0,116.0,0.007047,0.01,nc,nc75093221,2024-11-30T19:11:03.736Z,"10 km NW of The Geysers, CA",earthquake,0.25,0.469999999,0.1,21.0,automatic,nc,nc
+2024-11-30T18:54:39.763Z,61.309,-152.2583,2.8,0.2,ml,,,,0.07,ak,ak024fec2q20,2024-11-30T18:56:05.387Z,"65 km WNW of Beluga, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2024-11-30T15:15:30.692Z,36.6501,-116.273,6.8,0.1,ml,12.0,86.38,0.053,0.1007,nn,nn00888144,2024-11-30T19:09:53.784Z,"52 km ESE of Beatty, Nevada",earthquake,,1.9,0.1,2.0,reviewed,nn,nn
+2024-11-30T14:24:32.194Z,36.6495,-116.2736,6.8,-0.4,ml,14.0,86.48,0.053,0.0908,nn,nn00888143,2024-11-30T19:06:45.951Z,"52 km ESE of Beatty, Nevada",earthquake,,1.4,0.41,5.0,reviewed,nn,nn
+2024-11-30T04:31:52.933Z,36.8069,-116.1148,6.4,-0.3,ml,6.0,214.56,0.019,0.0311,nn,nn00888141,2024-11-30T18:54:23.570Z,"47 km WNW of Indian Springs, Nevada",earthquake,,1.9,0.13,3.0,reviewed,nn,nn
