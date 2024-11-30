@@ -8967,3 +8967,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-30T17:41:06.037Z,62.8606,-150.4292,82.7,1.2,ml,,,,0.52,ak,ak024febefjf,2024-11-30T17:43:16.880Z,"44 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-30T18:05:30.220Z,37.68399810791,-118.90716552734,2.3900001049042,0.73,md,11.0,129.0,0.0291,0.04,nc,nc75093196,2024-11-30T18:07:09.260Z,"8 km ENE of Mammoth Lakes, CA",earthquake,0.58,0.769999981,0.19,11.0,automatic,nc,nc
 2024-11-30T17:59:01.480Z,38.82466506958,-122.84449768066,1.7300000190735,0.85,md,10.0,78.0,0.007556,0.01,nc,nc75093191,2024-11-30T18:17:19.906Z,"9 km NW of The Geysers, CA",earthquake,0.41,0.75,0.24,11.0,automatic,nc,nc
+2024-11-30T18:37:24.607Z,61.9005,-151.2621,67.3,1.2,ml,,,,0.53,ak,ak024febz1po,2024-11-30T18:40:00.650Z,"12 km SE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-11-30T18:21:14.927Z,62.745,-148.7396,11.8,1.7,ml,,,,0.83,ak,ak024febvli1,2024-11-30T18:35:55.306Z,"72 km S of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
