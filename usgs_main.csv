@@ -9012,3 +9012,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-30T22:29:57.083Z,31.668,-104.189,4.0438,2.1,ml,16.0,111.0,0.1,0.2,tx,tx2024xnyo,2024-11-30T22:39:39.341Z,"54 km NW of Toyah, Texas",earthquake,0.0,1.3017469644546,0.2,12.0,automatic,tx,tx
 2024-11-30T22:26:23.995Z,31.639,-104.202,3.4647,1.5,ml,15.0,122.0,0.1,0.4,tx,tx2024xnyl,2024-11-30T22:39:36.332Z,"52 km NW of Toyah, Texas",earthquake,0.0,1.415966629982,0.3,12.0,automatic,tx,tx
 2024-11-30T22:12:26.508Z,-22.7218,-12.8275,10.0,4.8,mb,37.0,96.0,26.803,0.79,us,us7000nv6w,2024-11-30T22:32:13.040Z,southern Mid-Atlantic Ridge,earthquake,12.71,1.9,0.094,35.0,reviewed,us,us
+2024-11-30T22:46:28.940Z,38.833667755127,-122.81632995606,2.210000038147,0.51,md,8.0,122.0,0.01136,0.01,nc,nc75093311,2024-11-30T22:48:04.637Z,"8 km NNW of The Geysers, CA",earthquake,0.4,1.08000004,0.3,8.0,automatic,nc,nc
+2024-11-30T22:44:24.930Z,34.2148333,-117.5208333,6.54,1.11,ml,46.0,43.0,0.01892,0.18,ci,ci40991000,2024-11-30T22:48:21.102Z,"5 km SSW of Lytle Creek, CA",earthquake,0.19,0.34,0.083,8.0,automatic,ci,ci
+2024-11-30T21:11:28.323Z,-3.0693,128.7931,37.567,4.5,mb,26.0,87.0,1.82,0.69,us,us7000nv6q,2024-11-30T22:39:57.040Z,"31 km NW of Masohi, Indonesia",earthquake,9.32,7.216,0.131,17.0,reviewed,us,us
