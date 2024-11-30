@@ -8957,3 +8957,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-30T16:11:52.942Z,64.4868,-146.9714,5.4,0.5,ml,,,,0.63,ak,ak024feamo2f,2024-11-30T16:16:58.293Z,"5 km SW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-30T16:48:16.689Z,60.0713,-150.8143,65.3,1.5,ml,,,,0.31,ak,ak024feauiro,2024-11-30T16:49:51.560Z,"25 km NNE of Fox River, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-11-29T18:50:25.770Z,47.967,-114.12516666667,10.12,1.63,ml,20.0,83.0,0.1289,0.15,mb,mb90067173,2024-11-30T16:50:36.220Z,"6 km SW of Woods Bay, Montana",earthquake,0.4,0.75,0.25431518063629,8.0,reviewed,mb,mb
+2024-11-30T17:10:05.930Z,38.774166107178,-122.71067047119,1.960000038147,1.56,md,18.0,76.0,0.01073,0.03,nc,nc75093186,2024-11-30T17:11:43.735Z,"2 km W of Anderson Springs, CA",earthquake,0.27,0.389999986,0.13,21.0,automatic,nc,nc
+2024-11-30T17:05:22.914Z,60.9404,-151.1106,48.0,1.7,ml,,,,0.15,ak,ak024feb6r2b,2024-11-30T17:06:59.276Z,"14 km S of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-11-30T17:00:29.430Z,37.513832092285,-118.82399749756,3.7799999713898,1.34,md,18.0,139.0,0.07617,0.05,nc,nc75093181,2024-11-30T17:02:03.705Z,"14 km WSW of Toms Place, CA",earthquake,0.47,1.15999997,0.15,17.0,automatic,nc,nc
+2024-11-30T16:55:57.760Z,32.9828333,-116.3215,5.04,0.96,ml,38.0,50.0,0.07573,0.17,ci,ci40990800,2024-11-30T16:59:51.291Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.21,0.57,0.098,17.0,automatic,ci,ci
+2024-11-29T22:14:57.920Z,46.8855,-112.536,9.02,0.61,ml,9.0,124.0,0.06025,0.12,mb,mb90067183,2024-11-30T16:58:14.220Z,"13 km SE of Lincoln, Montana",earthquake,0.46,0.63,0.061356862866433,4.0,reviewed,mb,mb
