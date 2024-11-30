@@ -8909,3 +8909,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-30T11:45:15.740Z,19.466499328613,-155.60249328613,5.5700001716614,1.90999997,md,27.0,60.0,0.0146,0.300000012,hv,hv74547672,2024-11-30T11:46:52.590Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.51,0.74000001,0.670000017,9.0,automatic,hv,hv
 2024-11-30T11:38:59.891Z,61.8111,-149.3743,39.6,1.4,ml,,,,0.56,ak,ak024fe7tax1,2024-11-30T11:40:57.941Z,"10 km NW of Fishhook, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-30T11:35:23.601Z,62.2176,-152.9949,20.0,1.2,ml,,,,0.95,ak,ak024fe7slfq,2024-11-30T11:38:18.677Z,"87 km WNW of Skwentna, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-11-30T11:57:23.650Z,36.868000030518,-121.44650268555,3.5299999713898,1.78,md,15.0,113.0,0.03848,0.1,nc,nc75093126,2024-11-30T11:59:00.068Z,"5 km NW of Hollister, CA",earthquake,0.37,0.720000029,0.15,13.0,automatic,nc,nc
+2024-11-30T11:46:40.210Z,19.388166427612,-155.125,2.1400001049042,1.81,ml,15.0,133.0,0.003314,0.159999996,hv,hv74547677,2024-11-30T11:49:34.460Z,"8 km S of Fern Forest, Hawaii",earthquake,1.0,0.280000001,0.31,3.0,automatic,hv,hv
