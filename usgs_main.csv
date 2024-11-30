@@ -8824,3 +8824,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-30T05:43:09.050Z,19.6016,-65.4545,36.0,3.54,md,15.0,280.0,1.3055,0.42,pr,pr2024335001,2024-11-30T06:04:14.968Z,"136 km NNE of Vieques, Puerto Rico",earthquake,3.37,26.93,0.05,7.0,reviewed,pr,pr
 2024-11-30T06:56:07.290Z,38.819499969482,-122.84149932861,2.0099999904633,0.7,md,11.0,130.0,0.006211,0.01,nc,nc75092861,2024-11-30T06:57:42.735Z,"9 km NW of The Geysers, CA",earthquake,0.34,0.860000014,0.37,13.0,automatic,nc,nc
 2024-11-30T06:52:12.453Z,60.6392,-146.8142,20.0,2.3,ml,,,,0.64,ak,ak024fe4x19d,2024-11-30T06:54:04.971Z,"26 km SSW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-11-30T07:14:18.920Z,34.3183333,-116.4505,4.36,0.83,ml,27.0,60.0,0.06229,0.18,ci,ci40990496,2024-11-30T07:17:44.302Z,"23 km N of Yucca Valley, CA",earthquake,0.22,0.45,0.105,14.0,automatic,ci,ci
+2024-11-30T07:12:11.236Z,37.2412,-117.579,8.9,0.6,ml,10.0,175.59,0.054,0.2399,nn,nn00888127,2024-11-30T07:14:28.182Z,"57 km S of Silver Peak, Nevada",earthquake,,1.8,0.23,7.0,automatic,nn,nn
+2024-11-30T07:10:18.694Z,62.1758,-150.3399,20.2,1.4,ml,,,,0.32,ak,ak024fe59h9p,2024-11-30T07:12:07.440Z,"16 km SSW of Trapper Creek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-11-30T07:09:38.490Z,46.40633392334,-121.61033630371,3.6800000667572,1.7728098630905,ml,64.0,160.0,,0.140000001,uw,uw62063266,2024-11-30T07:12:15.710Z,"22 km SSE of Packwood, Washington",earthquake,0.34,0.620000005,0.22899934649467,35.0,automatic,uw,uw
