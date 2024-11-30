@@ -8906,3 +8906,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-30T10:14:41.370Z,38.508833333333,-112.88383333333,3.38,0.23,md,7.0,126.0,0.007571,0.07,uu,uu80088806,2024-11-30T10:58:22.360Z,"16 km NE of Milford, Utah",earthquake,1.05,1.53,0.41846748608552,3.0,reviewed,uu,uu
 2024-11-30T11:11:34.824Z,60.656,-150.7233,15.4,1.4,ml,,,,0.6,ak,ak024fe7ngne,2024-11-30T11:13:22.002Z,"13 km N of Sterling, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-30T11:09:58.240Z,33.0311667,-116.4283333,10.32,0.79,ml,41.0,41.0,0.04675,0.2,ci,ci40990592,2024-11-30T11:13:39.489Z,"17 km ESE of Julian, CA",earthquake,0.22,0.45,0.146,13.0,automatic,ci,ci
+2024-11-30T11:45:15.740Z,19.466499328613,-155.60249328613,5.5700001716614,1.90999997,md,27.0,60.0,0.0146,0.300000012,hv,hv74547672,2024-11-30T11:46:52.590Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.51,0.74000001,0.670000017,9.0,automatic,hv,hv
+2024-11-30T11:38:59.891Z,61.8111,-149.3743,39.6,1.4,ml,,,,0.56,ak,ak024fe7tax1,2024-11-30T11:40:57.941Z,"10 km NW of Fishhook, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-11-30T11:35:23.601Z,62.2176,-152.9949,20.0,1.2,ml,,,,0.95,ak,ak024fe7slfq,2024-11-30T11:38:18.677Z,"87 km WNW of Skwentna, Alaska",earthquake,,1.4,,,automatic,ak,ak
