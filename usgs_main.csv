@@ -9109,3 +9109,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-01T06:57:35.930Z,35.6888351,-117.5288315,4.61,1.15,ml,17.0,118.0,0.0888,0.11,ci,ci40991192,2024-12-01T06:59:41.350Z,"14 km SW of Searles Valley, CA",earthquake,0.35,0.76,0.215,5.0,automatic,ci,ci
 2024-12-01T06:57:03.560Z,35.6910019,-117.5319977,2.19,1.1,ml,16.0,119.0,0.09187,0.13,ci,ci40991184,2024-12-01T06:59:11.692Z,"14 km SW of Searles Valley, CA",earthquake,0.43,0.47,0.459,9.0,automatic,ci,ci
 2024-12-01T06:50:48.790Z,19.18416595459,-155.48649597168,27.120000839233,1.97000003,md,20.0,205.0,0.09944,0.159999996,hv,hv74549587,2024-12-01T06:52:52.930Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.9,1.13999999,0.159999996,6.0,automatic,hv,hv
+2024-12-01T07:12:56.574Z,31.652,-104.603,2.9031,1.7,ml,7.0,196.0,0.1,0.1,tx,tx2024xopv,2024-12-01T07:19:17.135Z,"61 km SSW of Whites City, New Mexico",earthquake,0.0,3.6396849155426,0.1,7.0,automatic,tx,tx
+2024-12-01T07:05:36.960Z,60.0884,-153.0468,99.8,1.0,ml,,,,0.64,ak,ak024ffsrsr5,2024-12-01T07:08:05.676Z,"68 km ENE of Pedro Bay, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2024-12-01T03:10:33.210Z,46.196666666667,-122.18616666667,7.48,0.2,ml,18.0,60.0,0.003564,0.08,uw,uw62063361,2024-12-01T07:10:39.930Z,"37 km NNE of Amboy, Washington",earthquake,0.39,0.48,0.1040724133546,12.0,reviewed,uw,uw
