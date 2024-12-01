@@ -9112,3 +9112,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-01T07:12:56.574Z,31.652,-104.603,2.9031,1.7,ml,7.0,196.0,0.1,0.1,tx,tx2024xopv,2024-12-01T07:19:17.135Z,"61 km SSW of Whites City, New Mexico",earthquake,0.0,3.6396849155426,0.1,7.0,automatic,tx,tx
 2024-12-01T07:05:36.960Z,60.0884,-153.0468,99.8,1.0,ml,,,,0.64,ak,ak024ffsrsr5,2024-12-01T07:08:05.676Z,"68 km ENE of Pedro Bay, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-12-01T03:10:33.210Z,46.196666666667,-122.18616666667,7.48,0.2,ml,18.0,60.0,0.003564,0.08,uw,uw62063361,2024-12-01T07:10:39.930Z,"37 km NNE of Amboy, Washington",earthquake,0.39,0.48,0.1040724133546,12.0,reviewed,uw,uw
+2024-12-01T07:34:59.070Z,38.825332641602,-122.80216979981,2.920000076294,0.86,md,11.0,98.0,0.00647,0.01,nc,nc75093541,2024-12-01T07:36:34.949Z,"7 km NNW of The Geysers, CA",earthquake,0.39,1.41999996,0.22,16.0,automatic,nc,nc
+2024-12-01T07:27:40.429Z,32.14,-101.07,2.4656,2.2,ml,48.0,108.0,0.2,0.4,tx,tx2024xoql,2024-12-01T07:35:43.977Z,"24 km SSW of Westbrook, Texas",earthquake,0.0,1.1003581285477,0.1,25.0,automatic,tx,tx
+2024-12-01T07:24:43.000Z,38.789333343506,-122.76866912842,1.9299999475479,0.75,md,13.0,96.0,0.01327,0.03,nc,nc75093536,2024-12-01T07:26:20.908Z,"2 km NNW of The Geysers, CA",earthquake,0.29,0.629999995,0.04,12.0,automatic,nc,nc
