@@ -9151,3 +9151,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-01T11:09:20.486Z,31.58,-104.535,4.579,1.8,ml,7.0,160.0,0.1,0.2,tx,tx2024xoxp,2024-12-01T11:18:07.973Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.3715510368347,0.1,7.0,automatic,tx,tx
 2024-12-01T11:27:33.940Z,35.7713333,-117.6118333,10.86,1.38,ml,35.0,59.0,0.04582,0.14,ci,ci40991288,2024-12-01T11:37:50.910Z,"18 km NNE of Ridgecrest, CA",earthquake,0.15,0.29,0.151,22.0,automatic,ci,ci
 2024-12-01T11:13:34.019Z,-5.2074,150.6547,242.629,4.5,mb,21.0,102.0,1.811,0.54,us,us7000nv9i,2024-12-01T11:29:04.040Z,"68 km ENE of Kimbe, Papua New Guinea",earthquake,12.0,12.43,0.128,18.0,reviewed,us,us
+2024-12-01T11:45:46.140Z,38.836498260498,-122.79250335693,2.210000038147,1.14,md,22.0,55.0,0.002546,0.02,nc,nc75093616,2024-12-01T11:47:24.836Z,"6 km WNW of Cobb, CA",earthquake,0.21,0.409999996,0.12,23.0,automatic,nc,nc
+2024-12-01T11:41:30.274Z,63.1337,-151.4822,4.7,1.7,ml,,,,0.67,ak,ak024ffvd89v,2024-12-01T11:44:04.095Z,"46 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
