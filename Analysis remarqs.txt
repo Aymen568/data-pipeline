@@ -5960,4 +5960,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.7 and occurred in/near 46 km NNW of Valdez, Alaska on 12/01/2024 at 12:45 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.8 and occurred in/near 40 km S of Bartolomé Masó, Cuba on 11/10/2024 at 04:50 PM./nSince 07:04 AM on 10/22/2024, there have been 9166 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.33 and occurred in/near 9 km E of Pala, CA on 12/01/2024 at 01:10 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.8 and occurred in/near 40 km S of Bartolomé Masó, Cuba on 11/10/2024 at 04:50 PM./nSince 07:04 AM on 10/22/2024, there have been 9169 recorded earthquakes.
+The most recent earthquake had a magnitude of 0.37 and occurred in/near 7 km S of Palomar Observatory, CA on 12/01/2024 at 01:32 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.8 and occurred in/near 40 km S of Bartolomé Masó, Cuba on 11/10/2024 at 04:50 PM./n
