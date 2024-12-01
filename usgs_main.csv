@@ -9241,3 +9241,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-01T22:59:03.399Z,53.7294,160.3463,84.59,4.6,mb,50.0,154.0,1.238,0.76,us,us7000nvc5,2024-12-01T23:27:56.040Z,"136 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,11.85,9.862,0.059,85.0,reviewed,us,us
 2024-12-01T22:54:33.530Z,18.148,-63.5256,60.0,3.76,md,9.0,343.0,0.5986,0.16,pr,pr2024336002,2024-12-01T23:31:03.401Z,"45 km W of Blowing Point Village, Anguilla",earthquake,5.71,5.77,0.04,3.0,reviewed,pr,pr
 2024-12-01T22:45:49.157Z,-5.188,-81.0279,35.0,4.3,mb,19.0,176.0,3.23,0.66,us,us7000nvc6,2024-12-01T23:22:28.040Z,"14 km SE of Paita, Peru",earthquake,6.52,1.937,0.189,8.0,reviewed,us,us
+2024-12-01T23:03:17.461Z,58.0715,-137.5833,10.0,2.9,ml,11.0,186.0,0.728,0.98,us,us7000nvc4,2024-12-01T23:42:31.040Z,"74 km W of Elfin Cove, Alaska",earthquake,3.48,1.82,0.077,22.0,reviewed,us,us
