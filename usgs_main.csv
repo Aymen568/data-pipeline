@@ -9147,3 +9147,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-01T11:09:01.122Z,37.3456,-115.33,10.6,2.0,ml,27.0,150.63,0.58,0.2134,nn,nn00888163,2024-12-01T11:11:38.560Z,"14 km W of Alamo, Nevada",earthquake,,0.8,0.21,19.0,automatic,nn,nn
 2024-12-01T11:05:22.410Z,38.787166595459,-122.72399902344,1.6200000047684,0.96,md,8.0,110.0,0.01069,0.03,nc,nc75093596,2024-12-01T11:06:59.699Z,"3 km E of The Geysers, CA",earthquake,0.35,0.889999986,0.22,8.0,automatic,nc,nc
 2024-12-01T10:59:35.210Z,34.0055,-116.746,13.12,1.11,ml,60.0,29.0,0.05923,0.13,ci,ci40991264,2024-12-01T11:10:26.290Z,"10 km NNE of Cabazon, CA",earthquake,0.12,0.32,0.16,26.0,automatic,ci,ci
+2024-12-01T11:19:43.460Z,34.2658333,-117.1486667,3.83,1.13,ml,72.0,27.0,0.07149,0.16,ci,ci40991280,2024-12-01T11:25:14.263Z,"4 km ENE of Lake Arrowhead, CA",earthquake,0.13,0.36,0.228,28.0,automatic,ci,ci
+2024-12-01T11:09:20.486Z,31.58,-104.535,4.579,1.8,ml,7.0,160.0,0.1,0.2,tx,tx2024xoxp,2024-12-01T11:18:07.973Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.3715510368347,0.1,7.0,automatic,tx,tx
