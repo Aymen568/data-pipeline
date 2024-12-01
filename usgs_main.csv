@@ -9156,3 +9156,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-01T12:14:01.969Z,66.1302,-149.5854,0.0,1.7,ml,,,,0.99,ak,ak024ffvstd0,2024-12-01T12:16:10.573Z,"26 km WNW of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-01T12:02:58.280Z,38.788833618164,-122.7688369751,2.0599999427795,1.04,md,14.0,79.0,0.01377,0.02,nc,nc75093621,2024-12-01T12:04:35.097Z,"2 km NNW of The Geysers, CA",earthquake,0.28,0.5,0.25,15.0,automatic,nc,nc
 2024-12-01T11:40:07.510Z,-20.3066,-176.9289,379.97,4.3,mb,14.0,186.0,5.181,0.51,us,us7000nv9l,2024-12-01T12:00:11.040Z,"194 km WNW of Houma, Tonga",earthquake,15.31,18.072,0.161,11.0,reviewed,us,us
+2024-12-01T12:45:30.550Z,61.5306,-146.5844,31.7,1.7,ml,,,,0.86,ak,ak024ffvzirj,2024-12-01T12:47:43.559Z,"46 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-01T12:40:17.510Z,38.829334259033,-122.80100250244,1.9800000190735,1.05,md,18.0,43.0,0.00924,0.01,nc,nc75093626,2024-12-01T12:41:56.350Z,"7 km WNW of Cobb, CA",earthquake,0.22,0.439999998,0.15,18.0,automatic,nc,nc
+2024-12-01T12:38:47.950Z,33.3333333,-116.3998333,9.46,0.57,ml,37.0,72.0,0.02815,0.19,ci,ci40991312,2024-12-01T12:43:36.455Z,"9 km NNW of Borrego Springs, CA",earthquake,0.28,0.52,0.129,9.0,automatic,ci,ci
+2024-12-01T12:32:06.620Z,34.1945,-117.0098333,11.74,0.7,ml,36.0,41.0,0.06229,0.14,ci,ci40991304,2024-12-01T12:36:46.270Z,"9 km E of Running Springs, CA",earthquake,0.18,0.35,0.144,12.0,automatic,ci,ci
+2024-12-01T12:23:34.490Z,19.375833511352,-155.12767028809,1.6499999761581,2.12,ml,44.0,96.0,0.009225,0.289999992,hv,hv74549932,2024-12-01T12:26:26.010Z,"9 km S of Fern Forest, Hawaii",earthquake,0.72,0.389999986,0.35,4.0,automatic,hv,hv
