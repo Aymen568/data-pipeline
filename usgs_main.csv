@@ -9178,3 +9178,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-01T14:11:30.451Z,61.5266,-146.475,18.4,2.2,ml,,,,0.74,ak,ak024ffwz3nr,2024-12-01T14:13:10.954Z,"44 km N of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-01T14:33:56.880Z,38.825832366943,-122.85233306885,2.289999961853,0.73,md,12.0,162.0,0.003937,0.02,nc,nc75093666,2024-12-01T14:35:30.868Z,"10 km NW of The Geysers, CA",earthquake,0.65,0.649999976,0.21,13.0,automatic,nc,nc
 2024-12-01T07:14:35.030Z,47.964166666667,-114.12033333333,10.93,2.1,ml,22.0,74.0,0.1247,0.16,mb,mb90067208,2024-12-01T14:48:11.950Z,"6 km SW of Woods Bay, Montana",earthquake,0.4,0.81,0.31587806241472,22.0,reviewed,mb,mb
+2024-12-01T14:55:45.250Z,33.0413333,-116.3933333,9.01,1.1,ml,48.0,44.0,0.05202,0.2,ci,ci40991368,2024-12-01T15:06:33.610Z,"20 km ESE of Julian, CA",earthquake,0.2,0.49,0.212,28.0,automatic,ci,ci
+2024-12-01T14:33:37.656Z,17.661,119.5824,14.383,4.5,mb,35.0,117.0,5.696,0.73,us,us7000nva5,2024-12-01T15:01:38.040Z,"82 km W of Puro Pinget, Philippines",earthquake,8.8,4.045,0.098,31.0,reviewed,us,us
+2024-11-30T16:37:59.340Z,44.816833333333,-111.4995,11.89,0.87,ml,14.0,114.0,0.05136,0.15,mb,mb90067198,2024-12-01T14:57:14.470Z,"25 km WNW of Hebgen Lake Estates, Montana",earthquake,0.37,0.46,0.14566562758569,10.0,reviewed,mb,mb
