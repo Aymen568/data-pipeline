@@ -9173,3 +9173,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-01T13:55:24.310Z,38.804668426514,-122.80233001709,2.6300001144409,0.76,md,16.0,86.0,0.006403,0.02,nc,nc75093651,2024-12-01T13:57:01.792Z,"5 km NW of The Geysers, CA",earthquake,0.35,0.720000029,0.06,16.0,automatic,nc,nc
 2024-12-01T12:41:30.920Z,18.9931,-65.6631,95.0,3.63,md,15.0,272.0,0.7841,0.54,pr,pr2024336001,2024-12-01T13:54:02.813Z,"65 km NNE of Vieques, Puerto Rico",earthquake,5.35,5.78,0.02,9.0,reviewed,pr,pr
 2024-12-01T10:15:21.760Z,18.631166666667,-66.053333333333,68.95,2.84,md,14.0,225.0,0.3216,0.16,pr,pr71467383,2024-12-01T14:05:29.660Z,"19 km NNE of San Juan, Puerto Rico",earthquake,1.08,1.18,0.14740840836795,4.0,reviewed,pr,pr
+2024-12-01T14:23:34.431Z,37.206,-117.2614,0.0,0.5,ml,8.0,158.57,0.094,0.3319,nn,nn00888166,2024-12-01T14:25:45.070Z,"55 km NW of Beatty, Nevada",earthquake,,30.8,0.39,4.0,automatic,nn,nn
+2024-12-01T14:12:39.405Z,61.5476,-146.486,34.8,2.5,ml,,,,0.4,ak,ak024ffwzc10,2024-12-01T14:26:16.040Z,"47 km N of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-12-01T14:11:30.451Z,61.5266,-146.475,18.4,2.2,ml,,,,0.74,ak,ak024ffwz3nr,2024-12-01T14:13:10.954Z,"44 km N of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
