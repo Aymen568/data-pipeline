@@ -9129,3 +9129,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-01T08:38:12.620Z,58.8096,-153.825,13.8,1.6,ml,,,,1.05,ak,ak024fftk94n,2024-12-01T08:41:11.477Z,"88 km SE of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-01T08:36:11.705Z,62.9282,-150.9212,31.3,1.7,ml,,,,1.5,ak,ak024fftjtg2,2024-12-01T08:38:01.840Z,"48 km N of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-01T08:43:28.773Z,31.747,-101.945,4.3628,1.6,ml,48.0,58.0,0.1,0.4,tx,tx2024xoss,2024-12-01T08:55:25.723Z,"30 km SSE of Midland, Texas",earthquake,0.0,0.9226296544075,0.1,30.0,automatic,tx,tx
+2024-12-01T09:17:20.478Z,61.0365,-151.8406,90.2,1.6,ml,,,,0.38,ak,ak024ffu174f,2024-12-01T09:19:49.967Z,"38 km W of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-12-01T09:11:18.053Z,61.3437,-152.2982,0.0,0.9,ml,,,,0.56,ak,ak024fftzwn1,2024-12-01T09:13:22.154Z,"69 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-12-01T09:10:24.471Z,61.3584,-152.3451,10.2,0.2,ml,,,,0.09,ak,ak024fftzpf3,2024-12-01T09:12:19.148Z,"71 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-01T09:07:44.390Z,34.0101667,-117.1951667,15.86,0.84,ml,41.0,89.0,0.1253,0.19,ci,ci40991240,2024-12-01T09:12:11.093Z,"5 km SSW of Redlands, CA",earthquake,0.22,0.62,0.263,23.0,automatic,ci,ci
+2024-12-01T09:07:05.466Z,63.6661,-147.0583,8.3,1.9,ml,,,,0.32,ak,ak024fftz0sy,2024-12-01T09:09:16.295Z,"77 km WSW of Delta Junction, Alaska",earthquake,,0.6,,,automatic,ak,ak
