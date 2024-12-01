@@ -9205,3 +9205,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-01T17:58:53.080Z,19.375333786011,-155.24299621582,0.14000000059605,1.73000002,md,17.0,87.0,0.002858,0.119999997,hv,hv74550352,2024-12-01T18:01:45.180Z,"7 km S of Volcano, Hawaii",earthquake,0.15,0.189999998,0.289999992,12.0,automatic,hv,hv
 2024-12-01T17:55:27.680Z,46.3095,-122.22083333333,4.0,1.31,ml,28.0,79.0,0.03429,0.09,uw,uw62063421,2024-12-01T18:09:00.630Z,"27 km S of Morton, Washington",earthquake,0.22,0.41,0.23692586615012,17.0,reviewed,uw,uw
 2024-12-01T17:52:19.750Z,34.096,-117.2913333,13.05,0.92,ml,44.0,66.0,0.1238,0.19,ci,ci40991440,2024-12-01T17:57:26.327Z,"3 km NE of Colton, CA",earthquake,0.21,0.54,0.19,28.0,automatic,ci,ci
+2024-12-01T18:35:30.340Z,57.4843,-152.6394,23.9,2.3,ml,,,,0.47,ak,ak024ffzhz7u,2024-12-01T18:38:49.907Z,"22 km S of Womens Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-01T18:27:47.676Z,58.5743,-154.6846,5.2,1.3,ml,,,,0.14,ak,ak024ffzgatr,2024-12-01T18:29:37.889Z,"96 km S of Kokhanok, Alaska",earthquake,,1.2,,,automatic,ak,ak
