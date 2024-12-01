@@ -9222,3 +9222,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-01T14:44:54.175Z,51.7705,178.4212,107.6,3.7,ml,,,,0.42,ak,ak024ffx685m,2024-12-01T20:05:18.557Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2024-12-01T21:04:13.048Z,64.1461,-147.6808,5.8,1.4,ml,,,,0.48,ak,ak024fg13li0,2024-12-01T21:06:15.516Z,"56 km SW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-01T20:56:51.100Z,38.830665588379,-122.80850219727,4.8299999237061,0.76,md,7.0,171.0,0.007363,0.04,nc,nc75093726,2024-12-01T20:58:25.933Z,"7 km NNW of The Geysers, CA",earthquake,0.95,1.63999999,0.23,7.0,automatic,nc,nc
+2024-12-01T21:19:30.890Z,38.811668395996,-122.82250213623,2.7799999713898,0.44,md,7.0,98.0,0.005918,0.01,nc,nc75093731,2024-12-01T21:21:06.420Z,"7 km NW of The Geysers, CA",earthquake,0.72,1.38999999,0.16,8.0,automatic,nc,nc
+2024-12-01T21:08:32.901Z,62.1027,-148.2363,31.9,1.4,ml,,,,0.38,ak,ak024fg14hwa,2024-12-01T21:10:27.328Z,"36 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
