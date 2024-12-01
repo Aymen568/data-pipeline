@@ -9134,3 +9134,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-01T09:10:24.471Z,61.3584,-152.3451,10.2,0.2,ml,,,,0.09,ak,ak024fftzpf3,2024-12-01T09:12:19.148Z,"71 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-01T09:07:44.390Z,34.0101667,-117.1951667,15.86,0.84,ml,41.0,89.0,0.1253,0.19,ci,ci40991240,2024-12-01T09:12:11.093Z,"5 km SSW of Redlands, CA",earthquake,0.22,0.62,0.263,23.0,automatic,ci,ci
 2024-12-01T09:07:05.466Z,63.6661,-147.0583,8.3,1.9,ml,,,,0.32,ak,ak024fftz0sy,2024-12-01T09:09:16.295Z,"77 km WSW of Delta Junction, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-12-01T09:31:25.587Z,62.9714,-150.411,97.6,2.3,ml,,,,0.48,ak,ak024ffu47hm,2024-12-01T09:33:04.901Z,"55 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-12-01T09:20:37.052Z,31.656,-104.367,4.5418,1.9,ml,16.0,70.0,0.1,0.2,tx,tx2024xoub,2024-12-01T09:32:54.052Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.5196086168289,0.2,13.0,automatic,tx,tx
