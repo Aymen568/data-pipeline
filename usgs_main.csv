@@ -9176,3 +9176,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-01T14:23:34.431Z,37.206,-117.2614,0.0,0.5,ml,8.0,158.57,0.094,0.3319,nn,nn00888166,2024-12-01T14:25:45.070Z,"55 km NW of Beatty, Nevada",earthquake,,30.8,0.39,4.0,automatic,nn,nn
 2024-12-01T14:12:39.405Z,61.5476,-146.486,34.8,2.5,ml,,,,0.4,ak,ak024ffwzc10,2024-12-01T14:26:16.040Z,"47 km N of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-01T14:11:30.451Z,61.5266,-146.475,18.4,2.2,ml,,,,0.74,ak,ak024ffwz3nr,2024-12-01T14:13:10.954Z,"44 km N of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-01T14:33:56.880Z,38.825832366943,-122.85233306885,2.289999961853,0.73,md,12.0,162.0,0.003937,0.02,nc,nc75093666,2024-12-01T14:35:30.868Z,"10 km NW of The Geysers, CA",earthquake,0.65,0.649999976,0.21,13.0,automatic,nc,nc
