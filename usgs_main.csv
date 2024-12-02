@@ -9333,3 +9333,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T08:42:13.940Z,38.8315,-122.78,0.27,0.13,md,12.0,57.0,0.007945,0.02,nc,nc75093936,2024-12-02T10:38:02.015Z,"5 km WNW of Cobb, CA",earthquake,0.25,0.61,0.344,11.0,reviewed,nc,nc
 2024-12-02T10:45:16.391Z,57.2943,-154.9205,37.9,2.0,ml,,,,0.1,ak,ak024fhibyyf,2024-12-02T10:46:46.556Z,"41 km SW of Karluk, Alaska",earthquake,,21.7,,,automatic,ak,ak
 2024-12-02T10:57:58.907Z,68.7172,-146.6345,0.0,2.8,ml,,,,0.65,ak,ak024fhiemtu,2024-12-02T11:01:38.251Z,"79 km NW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-02T11:19:11.221Z,31.275,-103.387,5.7525,2.6,ml,10.0,187.0,0.0,0.6,tx,tx2024xqtl,2024-12-02T11:23:14.040Z,"17 km SE of Lindsay, Texas",earthquake,0.0,3.844251871109,0.3,8.0,automatic,tx,tx
