@@ -9281,3 +9281,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T03:23:02.423Z,63.0745,-149.306,8.3,1.5,ml,,,,0.38,ak,ak024fhe16w2,2024-12-02T03:24:55.199Z,"39 km SSW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-02T02:57:58.100Z,36.1191667,-118.006,1.15,0.47,ml,18.0,126.0,0.1224,0.15,ci,ci40991648,2024-12-02T03:01:28.170Z,"10 km NNW of Coso Junction, CA",earthquake,0.25,0.44,0.265,3.0,automatic,ci,ci
 2024-12-01T21:51:07.840Z,39.3475,-120.0176,5.8,0.1,ml,6.0,100.73,0.057,0.0758,nn,nn00888178,2024-12-02T03:13:08.290Z,"5 km S of Floriston, California",earthquake,,3.0,0.49,5.0,reviewed,nn,nn
+2024-12-02T03:30:26.360Z,17.973833333333,-66.8555,17.5,2.36,md,10.0,191.0,0.01228,0.15,pr,pr71467443,2024-12-02T03:40:12.800Z,"3 km E of Maria Antonia, Puerto Rico",earthquake,0.65,0.46,0.057547351962173,5.0,reviewed,pr,pr
