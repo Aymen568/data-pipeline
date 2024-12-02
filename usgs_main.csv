@@ -9470,3 +9470,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T19:36:50.280Z,45.377166666667,-121.71683333333,-1.47,1.45,ml,11.0,65.0,0.01893,0.12,uw,uw62063661,2024-12-02T22:55:28.060Z,"8 km NNE of Government Camp, Oregon",earthquake,0.17,0.14,0.22645336132927,8.0,reviewed,uw,uw
 2024-12-02T04:48:05.480Z,38.505666666667,-112.88383333333,1.92,1.52,ml,13.0,60.0,0.004638,0.1,uu,uu80091311,2024-12-02T23:03:32.240Z,"16 km NE of Milford, Utah",earthquake,0.34,0.53,0.069858056603635,2.0,reviewed,uu,uu
 2024-12-02T03:25:01.470Z,60.022833333333,-153.04266666667,1.25,-0.85,ml,5.0,133.0,0.01379,0.2,av,av93386513,2024-12-02T23:01:20.100Z,"65 km ENE of Pedro Bay, Alaska",earthquake,0.64,0.58,0.25039469669063,5.0,reviewed,av,av
+2024-12-02T23:20:03.656Z,61.3375,-148.0427,12.0,1.0,ml,,,,0.79,ak,ak024fhpx7xp,2024-12-02T23:21:47.189Z,"48 km ESE of Knik River, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-02T23:18:46.277Z,31.58,-104.551,3.3106,1.6,ml,7.0,165.0,0.1,0.2,tx,tx2024xrre,2024-12-02T23:28:33.728Z,"65 km NNE of Van Horn, Texas",earthquake,0.0,3.1761636734009,0.2,7.0,automatic,tx,tx
+2024-12-02T23:15:21.211Z,63.2515,-150.2358,110.6,2.1,ml,,,,0.46,ak,ak024fhpw6pl,2024-12-02T23:17:53.601Z,"66 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-12-02T23:07:00.930Z,13.8804,-91.1063,59.188,4.0,mb,29.0,178.0,0.876,0.87,us,us7000nvj8,2024-12-02T23:15:32.040Z,"23 km SSW of La Gomera, Guatemala",earthquake,7.0,14.872,0.13,16.0,reviewed,us,us
+2024-12-02T22:18:11.230Z,38.508833333333,-112.891,2.28,1.25,md,14.0,60.0,0.00801,0.07,uu,uu80092636,2024-12-02T23:18:58.240Z,"16 km NE of Milford, Utah",earthquake,0.22,0.36,0.2495175258852,5.0,reviewed,uu,uu
