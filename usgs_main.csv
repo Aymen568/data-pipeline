@@ -9358,3 +9358,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T14:31:05.230Z,38.840000152588,-122.83383178711,1.3600000143051,2.21,md,9.0,148.0,0.001912,0.01,nc,nc75094021,2024-12-02T14:32:43.522Z,"10 km NNW of The Geysers, CA",earthquake,0.45,0.5,0.48,9.0,automatic,nc,nc
 2024-12-02T07:05:30.025Z,0.7155,126.1945,57.365,4.5,mb,34.0,66.0,1.173,0.5,us,us7000nvei,2024-12-02T14:43:37.040Z,"132 km W of Ternate, Indonesia",earthquake,9.15,8.592,0.103,28.0,reviewed,us,us
 2024-12-02T14:49:15.260Z,38.837833404541,-122.82816314697,2.0099999904633,0.19,md,7.0,111.0,0.005769,0.01,nc,nc75094031,2024-12-02T14:50:54.908Z,"9 km NNW of The Geysers, CA",earthquake,0.51,1.32000005,0.09,9.0,automatic,nc,nc
+2024-12-02T14:59:22.040Z,56.2141,-159.3747,9.9,1.0,ml,,,,0.72,ak,ak024fhkspu4,2024-12-02T15:00:29.894Z,"35 km N of Ivanof Bay, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-12-02T14:44:50.830Z,18.7953,-67.5815,60.0,3.75,md,25.0,168.0,0.5733,0.34,pr,pr2024337000,2024-12-02T15:09:13.954Z,"60 km NW of Aguadilla, Puerto Rico",earthquake,1.49,2.42,0.08,15.0,reviewed,pr,pr
+2024-12-01T23:33:17.550Z,35.7210007,-117.5741653,10.88,0.86,ml,16.0,115.0,0.09642,0.08,ci,ci40991560,2024-12-02T15:12:32.420Z,"14 km NE of Ridgecrest, CA",earthquake,0.35,0.81,0.084,5.0,reviewed,ci,ci
