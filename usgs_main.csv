@@ -9303,3 +9303,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T06:17:14.430Z,19.219165802002,-155.39266967773,30.569999694824,1.84000003,md,22.0,223.0,0.0188,0.100000001,hv,hv74551182,2024-12-02T06:18:57.780Z,"9 km E of Pāhala, Hawaii",earthquake,0.74,1.23000002,0.629999995,7.0,automatic,hv,hv
 2024-12-02T05:53:16.499Z,38.9287,-118.1614,5.1,1.6,ml,10.0,122.56,0.129,0.2988,nn,nn00888179,2024-12-02T05:56:19.410Z,"21 km WNW of Gabbs, Nevada",earthquake,,0.9,0.75,6.0,automatic,nn,nn
 2024-12-02T05:49:16.690Z,38.515166666667,-112.89,1.69,1.14,md,7.0,186.0,0.007532,0.04,uu,uu80091451,2024-12-02T06:16:06.200Z,"16 km NE of Milford, Utah",earthquake,0.76,0.8,0.18784030222355,3.0,reviewed,uu,uu
+2024-12-02T06:24:14.842Z,60.1403,-153.6088,34.7,1.8,ml,,,,0.4,ak,ak024fhftp8o,2024-12-02T06:27:21.376Z,"39 km E of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
