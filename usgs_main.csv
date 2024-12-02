@@ -9297,3 +9297,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T05:30:30.690Z,35.9795,-117.3768333,2.77,0.9,ml,20.0,169.0,0.1165,0.14,ci,ci40991704,2024-12-02T05:34:04.621Z,"24 km N of Searles Valley, CA",earthquake,0.38,1.08,0.145,8.0,automatic,ci,ci
 2024-12-02T05:30:07.740Z,38.807666778565,-122.7928314209,1.0599999427795,0.94,md,15.0,45.0,0.001954,0.03,nc,nc75093901,2024-12-02T05:31:42.357Z,"5 km NNW of The Geysers, CA",earthquake,0.21,0.430000007,0.22,15.0,automatic,nc,nc
 2024-12-02T05:25:37.516Z,59.7598,-152.2066,69.2,1.8,ml,,,,0.42,ak,ak024fhf8k8n,2024-12-02T05:27:15.500Z,"21 km W of Anchor Point, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-12-02T05:45:02.600Z,35.9786667,-117.3815,3.9,1.24,ml,22.0,124.0,0.1184,0.18,ci,ci40991728,2024-12-02T05:48:33.707Z,"24 km N of Searles Valley, CA",earthquake,0.36,0.79,0.272,11.0,automatic,ci,ci
+2024-12-02T05:43:27.210Z,33.2331667,-116.7365,11.06,0.4,ml,19.0,63.0,0.01887,0.15,ci,ci40991720,2024-12-02T05:47:08.735Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.23,0.6,0.174,6.0,automatic,ci,ci
+2024-12-02T00:16:27.670Z,46.9415,-121.97083333333,13.5,0.09,ml,12.0,81.0,0.01691,0.08,uw,uw62063466,2024-12-02T05:49:03.600Z,"16 km SSE of Carbonado, Washington",earthquake,0.7,0.78,0.094279257686063,5.0,reviewed,uw,uw
