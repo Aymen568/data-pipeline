@@ -9348,3 +9348,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T12:19:09.383Z,-2.7278,129.3991,10.0,4.7,mb,43.0,62.0,1.852,1.67,us,us7000nvf3,2024-12-02T13:05:35.040Z,"79 km NE of Masohi, Indonesia",earthquake,6.7,1.891,0.095,34.0,reviewed,us,us
 2024-12-02T13:52:53.990Z,36.2111667,-118.0126667,2.94,1.03,ml,19.0,54.0,0.1582,0.16,ci,ci40991832,2024-12-02T13:56:33.204Z,"8 km S of Olancha, CA",earthquake,0.26,0.82,0.175,11.0,automatic,ci,ci
 2024-12-02T12:40:02.783Z,-7.9968,106.983,29.872,4.6,mb,31.0,91.0,0.848,1.11,us,us7000nvfb,2024-12-02T13:54:31.040Z,"101 km SSW of Banjar, Indonesia",earthquake,6.6,5.805,0.11,25.0,reviewed,us,us
+2024-12-02T14:23:25.620Z,19.153165817261,-155.46466064453,33.209999084473,2.27999997,md,36.0,172.0,0.003287,0.180000007,hv,hv74551652,2024-12-02T14:25:15.230Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.65,0.810000002,0.129999995,3.0,automatic,hv,hv
+2024-12-02T14:19:08.398Z,62.5982,-149.6145,14.8,1.6,ml,,,,0.46,ak,ak024fhkjzvg,2024-12-02T14:21:32.053Z,"30 km ENE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-02T14:09:35.827Z,60.9777,-149.3003,23.7,1.5,ml,,,,0.54,ak,ak024fhki11o,2024-12-02T14:12:30.296Z,"8 km WNW of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-02T13:59:39.020Z,38.813331604004,-122.81833648682,2.579999923706,1.08,md,23.0,52.0,0.009571,0.01,nc,nc75094011,2024-12-02T14:19:27.457Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.409999996,0.05,23.0,automatic,nc,nc
+2024-12-02T08:06:34.693Z,-45.1071,167.3521,85.61,4.4,mb,31.0,62.0,0.384,0.6,us,us7000nvea,2024-12-02T14:25:19.040Z,"44 km NW of Te Anau, New Zealand",earthquake,4.74,4.985,0.123,19.0,reviewed,us,us
