@@ -9380,3 +9380,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T17:25:01.080Z,38.786499023438,-122.76716613769,2.1199998855591,1.09,md,17.0,81.0,0.01526,0.03,nc,nc75094066,2024-12-02T17:26:39.055Z,"1 km NNW of The Geysers, CA",earthquake,0.27,0.540000021,0.18,16.0,automatic,nc,nc
 2024-12-02T17:21:25.335Z,61.6003,-151.676,86.4,2.1,ml,,,,0.5,ak,ak024fhmcvpl,2024-12-02T17:23:54.235Z,"45 km SSW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-02T17:17:51.831Z,31.66,-104.433,3.7423,1.9,ml,14.0,71.0,0.1,0.4,tx,tx2024xrfg,2024-12-02T17:31:26.640Z,"57 km S of Whites City, New Mexico",earthquake,0.0,2.1042931079865,0.2,8.0,automatic,tx,tx
+2024-12-02T17:42:57.060Z,19.19683265686,-155.48449707031,29.879999160767,1.78999996,md,38.0,148.0,0.09162,0.109999999,hv,hv74551822,2024-12-02T17:44:46.610Z,"0 km SW of Pāhala, Hawaii",earthquake,0.56,1.03999996,0.100000001,5.0,automatic,hv,hv
