@@ -6098,4 +6098,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 2.6 and occurred in/near 17 km SE of Lindsay, Texas on 12/02/2024 at 11:19 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.8 and occurred in/near 40 km S of Bartolomé Masó, Cuba on 11/10/2024 at 04:50 PM./nSince 07:04 AM on 10/22/2024, there have been 9336 recorded earthquakes.
 The most recent earthquake had a magnitude of 0.46 and occurred in/near 12 km SSW of Salton City, CA on 12/02/2024 at 11:46 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.8 and occurred in/near 40 km S of Bartolomé Masó, Cuba on 11/10/2024 at 04:50 PM./nSince 07:04 AM on 10/22/2024, there have been 9337 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.4 and occurred in/near 19 km NW of Nikiski, Alaska on 12/02/2024 at 11:51 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.8 and occurred in/near 40 km S of Bartolomé Masó, Cuba on 11/10/2024 at 04:50 PM./n
