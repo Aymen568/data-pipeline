@@ -9288,3 +9288,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T03:59:04.550Z,34.2448333,-117.4846667,12.11,0.98,ml,34.0,46.0,0.011,0.14,ci,ci40991664,2024-12-02T04:04:09.013Z,"2 km SE of Lytle Creek, CA",earthquake,0.21,0.29,0.287,34.0,automatic,ci,ci
 2024-12-02T03:58:50.460Z,18.011666666667,-66.74,13.39,2.92,md,24.0,132.0,0.04973,0.21,pr,pr71467458,2024-12-02T04:14:21.200Z,"3 km NW of Tallaboa, Puerto Rico",earthquake,0.34,0.25,0.12768221293215,13.0,reviewed,pr,pr
 2024-12-02T01:59:55.682Z,-14.6851,167.2611,163.298,4.4,mb,40.0,65.0,0.759,0.71,us,us7000nvd0,2024-12-02T04:14:21.040Z,"44 km NNE of Port-Olry, Vanuatu",earthquake,10.85,6.011,0.098,30.0,reviewed,us,us
+2024-12-02T04:47:15.010Z,36.214,-118.0106667,3.0,0.94,ml,21.0,54.0,0.1586,0.16,ci,ci40991680,2024-12-02T04:50:52.793Z,"8 km S of Olancha, CA",earthquake,0.25,0.78,0.172,11.0,automatic,ci,ci
+2024-12-02T04:44:54.410Z,34.0111667,-116.769,11.69,0.23,ml,15.0,101.0,0.04012,0.11,ci,ci40991672,2024-12-02T04:50:00.013Z,"10 km N of Cabazon, CA",earthquake,0.33,0.64,0.156,4.0,automatic,ci,ci
