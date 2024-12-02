@@ -9313,3 +9313,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T08:05:23.330Z,33.3836667,-116.3866667,5.71,0.65,ml,49.0,66.0,0.05909,0.2,ci,ci40991736,2024-12-02T08:14:49.238Z,"14 km N of Borrego Springs, CA",earthquake,0.21,0.66,0.13,20.0,automatic,ci,ci
 2024-12-02T07:59:37.575Z,37.2234,-114.7534,15.8,1.4,ml,14.0,328.34,0.984,0.4646,nn,nn00888181,2024-12-02T08:02:10.037Z,"39 km ESE of Alamo, Nevada",earthquake,,7.7,0.16,9.0,automatic,nn,nn
 2024-12-02T02:57:36.980Z,38.821833333333,-122.80883333333,2.89,0.4,md,20.0,43.0,0.001836,0.02,nc,nc75093856,2024-12-02T07:52:21.713Z,"7 km NNW of The Geysers, CA",earthquake,0.26,0.48,0.193,20.0,reviewed,nc,nc
+2024-12-02T08:32:11.560Z,19.345666885376,-155.2131652832,4.5300002098083,1.73000002,md,24.0,126.0,0.02806,0.159999996,hv,hv74551317,2024-12-02T08:33:37.100Z,"10 km SSE of Volcano, Hawaii",earthquake,0.55,1.04999995,0.319999993,5.0,automatic,hv,hv
+2024-12-02T08:30:49.049Z,62.3746,-151.395,81.7,2.1,ml,,,,0.28,ak,ak024fhh1yiw,2024-12-02T08:32:30.616Z,"35 km WSW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
