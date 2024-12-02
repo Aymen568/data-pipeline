@@ -9397,3 +9397,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T18:45:50.500Z,38.823001861572,-122.81066894531,1.1900000572205,0.69,md,10.0,87.0,0.0006083,0.02,nc,nc75094131,2024-12-02T18:47:29.840Z,"7 km NNW of The Geysers, CA",earthquake,0.3,0.720000029,0.42,11.0,automatic,nc,nc
 2024-12-02T18:43:43.664Z,63.6816,-148.2508,85.0,1.6,ml,,,,0.76,ak,ak024fhn32gu,2024-12-02T18:46:36.685Z,"33 km E of Denali Park, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-12-02T10:56:16.250Z,51.6185,-167.8504,10.0,3.1,ml,,,,0.65,ak,ak024fhieb7d,2024-12-02T18:42:51.081Z,"162 km SSE of Nikolski, Alaska",earthquake,,0.0,,,reviewed,ak,ak
+2024-12-02T18:53:49.245Z,59.2389,-152.464,57.7,3.0,ml,,,,0.4,ak,ak024fhn580s,2024-12-02T19:02:02.040Z,"33 km WSW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
