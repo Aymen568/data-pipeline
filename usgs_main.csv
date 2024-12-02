@@ -9445,3 +9445,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T21:32:08.850Z,38.787166595459,-122.74500274658,1.0,0.58,md,9.0,122.0,0.007566,0.02,nc,nc75094201,2024-12-02T21:33:43.977Z,"1 km NE of The Geysers, CA",earthquake,0.44,1.5,0.15,8.0,automatic,nc,nc
 2024-12-02T21:26:13.054Z,32.143,-101.076,3.7068,1.6,ml,11.0,134.0,0.2,0.1,tx,tx2024xrnq,2024-12-02T21:37:40.445Z,"24 km SSW of Westbrook, Texas",earthquake,0.0,2.4032292366028,0.2,11.0,automatic,tx,tx
 2024-12-02T20:14:01.280Z,37.5665,-118.85383333333,5.12,0.56,md,20.0,170.0,0.03062,0.05,nc,nc75094171,2024-12-02T21:39:30.091Z,"14 km SE of Mammoth Lakes, CA",earthquake,0.42,0.71,0.191,15.0,reviewed,nc,nc
+2024-12-02T21:46:13.721Z,57.0208,-154.641,37.3,2.2,ml,,,,0.79,ak,ak024fhovy4c,2024-12-02T21:48:17.300Z,"29 km WNW of Akhiok, Alaska",earthquake,,4.0,,,automatic,ak,ak
+2024-12-02T21:46:07.890Z,19.284334182739,-155.37199401856,29.450000762939,2.26999998,md,49.0,117.0,0.05048,0.129999995,hv,hv74552177,2024-12-02T21:47:49.120Z,"14 km NE of Pāhala, Hawaii",earthquake,0.38,0.50999999,0.400000006,16.0,automatic,hv,hv
+2024-12-02T21:43:04.715Z,65.0352,-148.9958,8.6,1.3,ml,,,,1.53,ak,ak024fhova9z,2024-12-02T21:44:56.887Z,"21 km SE of Minto, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-12-02T21:42:46.675Z,60.9797,-150.572,46.9,1.3,ml,,,,0.26,ak,ak024fhov5sr,2024-12-02T21:44:54.470Z,"8 km NE of Point Possession, Alaska",earthquake,,2.0,,,automatic,ak,ak
+2024-12-02T21:28:43.820Z,38.5085,-112.89233333333,2.5,0.47,md,12.0,107.0,0.008228,0.08,uu,uu80092586,2024-12-02T21:47:50.710Z,"16 km NE of Milford, Utah",earthquake,0.33,0.41,0.59858349586412,5.0,reviewed,uu,uu
+2024-12-02T21:23:20.354Z,34.4361,33.2841,10.0,4.1,mb,26.0,140.0,0.525,0.86,us,us7000nviy,2024-12-02T21:49:22.823Z,"34 km SSE of Ágios Týchon, Cyprus",earthquake,4.46,1.65,0.145,13.0,reviewed,us,us
+2024-12-02T00:01:07.040Z,57.067833333333,-135.7165,4.13,0.39,ml,4.0,162.0,0.009398,0.08,av,av93386338,2024-12-02T21:44:13.330Z,"23 km W of Sitka, Alaska",earthquake,0.58,0.76,0.34256280182134,4.0,reviewed,av,av
