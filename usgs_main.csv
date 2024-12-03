@@ -9735,3 +9735,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T22:45:17.566Z,39.3883,-120.151,6.7,0.2,ml,7.0,106.58,0.13,0.1108,nn,nn00888224,2024-12-03T20:16:04.633Z,"7 km NNE of Truckee, California",earthquake,,3.8,0.23,4.0,reviewed,nn,nn
 2024-12-02T22:17:52.502Z,36.6388,-116.0464,3.0,-0.1,ml,12.0,191.64,0.031,0.0882,nn,nn00888223,2024-12-03T20:12:48.675Z,"34 km WNW of Indian Springs, Nevada",earthquake,,2.1,0.08,4.0,reviewed,nn,nn
 2024-12-02T21:48:24.630Z,36.117666666667,-121.59983333333,7.99,0.98,md,17.0,138.0,0.05974,0.08,nc,nc75094216,2024-12-03T20:18:10.062Z,"11 km  of Lopez Point, CA",earthquake,0.35,0.81,0.282,13.0,reviewed,nc,nc
+2024-12-03T20:43:01.677Z,59.6295,-153.1164,90.4,1.9,ml,,,,1.05,ak,ak024fjbt6xj,2024-12-03T20:44:57.441Z,"58 km ESE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-12-03T20:32:32.540Z,19.391000747681,-155.13200378418,2.4100000858307,1.78,ml,23.0,125.0,0.008708,0.159999996,hv,hv74554707,2024-12-03T20:35:24.900Z,"8 km S of Fern Forest, Hawaii",earthquake,0.76,0.300000012,0.23,3.0,automatic,hv,hv
+2024-12-02T23:20:47.550Z,53.451833333333,-168.20383333333,3.11,-0.24,ml,5.0,280.0,0.03419,0.07,av,av93027759,2024-12-03T20:37:32.040Z,"72 km NE of Nikolski, Alaska",earthquake,0.62,0.47,0.19874548337689,5.0,reviewed,av,av
