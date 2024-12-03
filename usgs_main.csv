@@ -9607,3 +9607,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T10:31:01.690Z,38.7531,-117.8233,2.5,2.0,ml,13.0,131.59,0.366,0.4079,nn,nn00888206,2024-12-03T10:34:05.841Z,"15 km SSE of Gabbs, Nevada",earthquake,,1.2,0.39,8.0,automatic,nn,nn
 2024-12-03T10:30:08.137Z,64.3431,-149.7022,1.0,1.6,ml,,,,1.04,ak,ak024fj5s32l,2024-12-03T10:32:40.988Z,"24 km W of Anderson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-03T09:32:17.420Z,19.5463,-65.2615,106.0,4.65,md,26.0,244.0,1.2299,0.51,pr,pr2024338004,2024-12-03T10:36:55.620Z,"137 km N of Culebra, Puerto Rico",earthquake,5.18,7.9,0.14,19.0,reviewed,pr,pr
+2024-12-03T10:44:04.544Z,39.4298,-119.8584,9.9,0.7,ml,8.0,115.9,0.083,0.0691,nn,nn00888209,2024-12-03T10:46:14.453Z,"10 km SSE of Mogul, Nevada",earthquake,,1.4,0.21,4.0,automatic,nn,nn
+2024-12-03T10:13:16.270Z,19.571333333333,-65.263333333333,31.59,3.18,md,7.0,296.0,1.247,0.23,pr,pr71467638,2024-12-03T10:52:36.860Z,"140 km NNE of Vieques, Puerto Rico",earthquake,1.69,18.31,0.078373986452929,4.0,reviewed,pr,pr
