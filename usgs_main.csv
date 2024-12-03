@@ -9618,3 +9618,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T11:01:40.934Z,60.9155,-151.0946,14.2,1.4,ml,,,,0.41,ak,ak024fj67dfx,2024-12-03T11:04:07.663Z,"17 km S of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-03T10:55:43.000Z,19.385499954224,-155.25549316406,1.1599999666214,2.77999997,md,43.0,45.0,0.003949,0.370000005,hv,hv74553662,2024-12-03T10:58:38.090Z,"6 km SSW of Volcano, Hawaii",earthquake,0.29,0.189999998,0.400000006,30.0,automatic,hv,hv
 2024-12-03T10:55:38.826Z,58.1927,-155.2611,1.1,0.3,ml,,,,0.22,ak,ak024fj5xica,2024-12-03T10:57:28.420Z,"84 km NW of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2024-12-03T11:17:36.930Z,19.298166275024,-155.23599243164,1.5900000333786,3.01,ml,15.0,210.0,0.01997,0.140000001,hv,hv74553717,2024-12-03T11:28:06.220Z,"16 km S of Volcano, Hawaii",earthquake,0.66,0.579999983,0.65,38.0,automatic,hv,hv
