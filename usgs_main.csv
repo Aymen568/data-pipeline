@@ -9540,3 +9540,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T03:52:30.360Z,19.4497,-67.9119,3.465,4.2,mb,37.0,129.0,1.215,0.55,us,us7000nvjw,2024-12-03T04:02:54.040Z,"109 km NNE of Punta Cana, Dominican Republic",earthquake,4.56,2.885,0.128,17.0,reviewed,us,us
 2024-12-03T04:18:23.690Z,17.9755,-66.833833333333,11.27,2.41,md,12.0,181.0,0.03296,0.17,pr,pr71467573,2024-12-03T04:32:41.380Z,"2 km SW of Indios, Puerto Rico",earthquake,0.48,0.5,0.041617608332344,6.0,reviewed,pr,pr
 2024-12-03T03:52:33.970Z,19.6091,-67.909,20.0,3.91,md,30.0,214.0,1.1927,0.21,pr,pr2024338000,2024-12-03T04:42:11.967Z,"125 km NNE of Punta Cana, Dominican Republic",earthquake,0.81,19.55,0.14,22.0,reviewed,pr,pr
+2024-12-03T04:51:19.490Z,33.2363319,-115.635498,3.14,1.6,ml,10.0,106.0,0.06102,0.2,ci,ci40992392,2024-12-03T04:53:24.919Z,"11 km W of Niland, CA",earthquake,0.62,0.66,0.496,14.0,automatic,ci,ci
+2024-12-03T04:47:56.110Z,38.788665771484,-122.77066802978,2.1900000572205,0.88,md,16.0,98.0,0.01421,0.03,nc,nc75094386,2024-12-03T04:49:31.633Z,"2 km NNW of The Geysers, CA",earthquake,0.28,0.660000026,0.18,15.0,automatic,nc,nc
+2024-12-03T04:31:49.184Z,-24.6177,179.877,508.301,4.6,mb,54.0,77.0,5.007,0.88,us,us7000nvk3,2024-12-03T04:47:27.040Z,south of the Fiji Islands,earthquake,12.67,8.334,0.064,73.0,reviewed,us,us
