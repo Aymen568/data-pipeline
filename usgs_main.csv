@@ -9672,3 +9672,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T05:49:25.550Z,45.548666666667,-111.67983333333,1.73,0.99,ml,12.0,72.0,0.05979,0.09,mb,mb90067493,2024-12-03T15:39:52.910Z,"18 km SSE of Harrison, Montana",earthquake,0.39,1.03,0.3600544391894,12.0,reviewed,mb,mb
 2024-12-03T03:37:08.580Z,46.895666666667,-112.52333333333,8.05,1.12,ml,9.0,127.0,0.05832,0.08,mb,mb90067488,2024-12-03T15:32:01.770Z,"13 km ESE of Lincoln, Montana",earthquake,0.42,0.58,0.26342954187552,11.0,reviewed,mb,mb
 2024-12-02T22:45:26.433Z,32.383,-102.106,7.1045,1.2,ml,18.0,69.0,0.0,0.2,tx,tx2024xrqc,2024-12-03T15:37:35.761Z,"39 km WSW of Ackerly, Texas",earthquake,0.75155992107458,0.88245095491764,0.1,7.0,reviewed,tx,tx
+2024-12-03T15:46:07.745Z,62.0374,-150.0623,43.7,1.6,ml,,,,1.18,ak,ak024fj8unzh,2024-12-03T15:48:21.181Z,"17 km SW of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-12-03T15:45:31.090Z,58.5821,-153.7164,250.0,2.3,ml,,,,0.35,ak,ak024fj8uilx,2024-12-03T15:48:16.847Z,"74 km NW of Aleneva, Alaska",earthquake,,11.4,,,automatic,ak,ak
+2024-12-03T14:39:48.770Z,38.505,-112.8885,1.69,1.32,ml,19.0,57.0,0.003714,0.14,uu,uu80093981,2024-12-03T15:47:14.320Z,"16 km NE of Milford, Utah",earthquake,0.29,0.44,0.08217801814796,2.0,reviewed,uu,uu
+2024-12-03T13:53:40.550Z,38.509,-112.88633333333,2.1,0.81,ml,17.0,58.0,0.00623,0.13,uu,uu80093911,2024-12-03T15:43:11.260Z,"16 km NE of Milford, Utah",earthquake,0.31,0.5,0.13425956350867,2.0,reviewed,uu,uu
