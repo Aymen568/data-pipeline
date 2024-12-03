@@ -9784,3 +9784,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T23:32:54.480Z,38.822666168213,-122.81133270264,2.670000076294,0.74,md,14.0,62.0,0.001223,0.01,nc,nc75094661,2024-12-03T23:34:32.706Z,"7 km NNW of The Geysers, CA",earthquake,0.28,0.639999986,0.15,16.0,automatic,nc,nc
 2024-12-03T22:54:09.340Z,19.148,-65.6078,22.0,3.5,md,18.0,222.0,0.9012,0.4,pr,pr2024338005,2024-12-03T23:38:22.997Z,"83 km NNE of Vieques, Puerto Rico",earthquake,1.5,29.44,0.07,9.0,reviewed,pr,pr
 2024-12-03T13:17:04.900Z,46.201666666667,-122.205,-1.73,-0.14,mh,6.0,181.0,0.01,0.13,uw,uw62063811,2024-12-03T23:32:48.260Z,"37 km NNE of Amboy, Washington",earthquake,0.43,11.88,,0.0,reviewed,uw,uw
+2024-12-03T22:41:16.770Z,38.5495,-112.16,12.86,1.58,ml,16.0,119.0,0.2329,0.08,uu,uu80094421,2024-12-03T23:47:18.430Z,"9 km SSW of Monroe, Utah",earthquake,0.48,1.2,0.16153236172066,8.0,reviewed,uu,uu
