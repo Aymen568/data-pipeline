@@ -9538,3 +9538,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T03:55:00.018Z,-52.8431,19.4932,10.0,4.9,mb,26.0,59.0,20.473,0.95,us,us7000nvjy,2024-12-03T04:17:06.040Z,southwest of Africa,earthquake,12.05,1.863,0.119,22.0,reviewed,us,us
 2024-12-03T03:53:51.278Z,64.4662,-146.8885,9.6,0.9,ml,,,,0.35,ak,ak024fj1r2gs,2024-12-03T03:58:51.110Z,"6 km S of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-03T03:52:30.360Z,19.4497,-67.9119,3.465,4.2,mb,37.0,129.0,1.215,0.55,us,us7000nvjw,2024-12-03T04:02:54.040Z,"109 km NNE of Punta Cana, Dominican Republic",earthquake,4.56,2.885,0.128,17.0,reviewed,us,us
+2024-12-03T04:18:23.690Z,17.9755,-66.833833333333,11.27,2.41,md,12.0,181.0,0.03296,0.17,pr,pr71467573,2024-12-03T04:32:41.380Z,"2 km SW of Indios, Puerto Rico",earthquake,0.48,0.5,0.041617608332344,6.0,reviewed,pr,pr
+2024-12-03T03:52:33.970Z,19.6091,-67.909,20.0,3.91,md,30.0,214.0,1.1927,0.21,pr,pr2024338000,2024-12-03T04:42:11.967Z,"125 km NNE of Punta Cana, Dominican Republic",earthquake,0.81,19.55,0.14,22.0,reviewed,pr,pr
