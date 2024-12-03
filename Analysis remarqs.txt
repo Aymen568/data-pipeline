@@ -6294,4 +6294,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.08 and occurred in/near 8 km WNW of Cobb, CA on 12/03/2024 at 08:46 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.8 and occurred in/near 40 km S of Bartolomé Masó, Cuba on 11/10/2024 at 04:50 PM./nSince 07:04 AM on 10/22/2024, there have been 9749 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.18 and occurred in/near 2 km ESE of Loma Linda, CA on 12/03/2024 at 09:11 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.8 and occurred in/near 40 km S of Bartolomé Masó, Cuba on 11/10/2024 at 04:50 PM./nSince 07:04 AM on 10/22/2024, there have been 9754 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.43 and occurred in/near 16 km SE of Barstow, CA on 12/03/2024 at 09:29 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.8 and occurred in/near 40 km S of Bartolomé Masó, Cuba on 11/10/2024 at 04:50 PM./n
