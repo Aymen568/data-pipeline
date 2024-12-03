@@ -9685,3 +9685,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T16:28:19.327Z,60.0027,-148.6073,7.4,3.0,ml,,,,0.71,ak,ak024fj9ca4s,2024-12-03T16:30:26.313Z,"33 km WSW of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-03T16:09:11.319Z,4.8191,126.4094,12.965,5.2,mww,141.0,35.0,2.383,0.85,us,us7000nvnb,2024-12-03T16:28:48.040Z,"123 km ESE of Sarangani, Philippines",earthquake,5.82,4.256,0.068,21.0,reviewed,us,us
 2024-12-03T16:20:17.420Z,38.5105,-112.88933333333,1.86,0.97,md,14.0,60.0,0.007376,0.12,uu,uu80094106,2024-12-03T16:56:41.170Z,"16 km NE of Milford, Utah",earthquake,0.33,0.55,0.45811694377341,5.0,reviewed,uu,uu
+2024-12-03T16:55:18.430Z,19.282,-65.124666666667,27.42,3.39,md,17.0,270.0,0.9383,0.28,pr,pr71467683,2024-12-03T17:20:28.080Z,"106 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.68,18.89,0.061293206202889,9.0,reviewed,pr,pr
