@@ -10123,3 +10123,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T12:57:10.510Z,47.8745,-112.98766666667,4.96,0.78,ml,9.0,107.0,0.275,0.14,mb,mb90067643,2024-12-04T23:13:15.270Z,"46 km SSW of Heart Butte, Montana",earthquake,1.29,9.47,0.25996788749852,5.0,reviewed,mb,mb
 2024-12-04T09:34:53.160Z,44.266166666667,-115.16033333333,5.01,1.27,ml,8.0,68.0,0.2766,0.24,mb,mb90067653,2024-12-04T23:27:04.270Z,"18 km WNW of Stanley, Idaho",earthquake,0.48,12.55,0.19980387137577,14.0,reviewed,mb,mb
 2024-12-03T23:53:55.760Z,44.2735,-115.17416666667,4.29,1.53,ml,12.0,68.0,0.2889,0.21,mb,mb90067648,2024-12-04T23:19:47.100Z,"19 km WNW of Stanley, Idaho",earthquake,0.44,2.7,0.21966670024479,14.0,reviewed,mb,mb
+2024-12-04T23:41:11.530Z,61.8626,-150.1157,37.2,1.4,ml,,,,0.75,ak,ak024fl14fkh,2024-12-04T23:42:51.458Z,"13 km NNW of Willow, Alaska",earthquake,,8.7,,,automatic,ak,ak
