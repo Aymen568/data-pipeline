@@ -9850,3 +9850,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T04:06:57.540Z,31.892,-101.758,3.54,1.4,ml,33.0,51.0,0.1,0.5,tx,tx2024xtwf,2024-12-04T04:16:58.792Z,"26 km W of Garden City, Texas",earthquake,0.0,0.98916745185852,0.2,23.0,automatic,tx,tx
 2024-12-04T04:04:47.114Z,31.896,-101.752,7.3127,0.9,ml,12.0,125.0,0.1,0.3,tx,tx2024xtwa,2024-12-04T04:15:50.869Z,"25 km W of Garden City, Texas",earthquake,0.0,2.4093918800354,0.1,7.0,automatic,tx,tx
 2024-12-04T03:52:52.400Z,38.824001312256,-122.764503479,2.0,0.93,md,16.0,124.0,0.007719,0.03,nc,nc75094776,2024-12-04T03:54:27.426Z,"4 km WNW of Cobb, CA",earthquake,0.32,0.50999999,0.19,16.0,automatic,nc,nc
+2024-12-04T04:33:12.400Z,33.7,-116.8233333,16.54,0.8,ml,45.0,48.0,0.07274,0.2,ci,ci40993288,2024-12-04T04:37:44.746Z,"8 km SE of Valle Vista, CA",earthquake,0.22,0.4,0.222,23.0,automatic,ci,ci
+2024-12-04T04:18:20.178Z,56.6625,-158.1949,101.5,1.5,ml,,,,0.49,ak,ak024fkpoa9t,2024-12-04T04:19:53.565Z,"42 km NNE of Chignik, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-12-04T00:19:34.881Z,-32.2779,-69.1933,10.0,4.1,mb,28.0,90.0,0.849,0.51,us,us7000nvrt,2024-12-04T04:16:56.040Z,"76 km NNW of Mendoza, Argentina",earthquake,3.86,1.95,0.233,5.0,reviewed,us,us
