@@ -9844,3 +9844,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T03:34:46.370Z,38.791831970215,-122.77833557129,2.2300000190735,0.85,md,10.0,127.0,0.007608,0.03,nc,nc75094766,2024-12-04T03:36:22.331Z,"2 km NW of The Geysers, CA",earthquake,0.45,0.75,0.34,12.0,automatic,nc,nc
 2024-12-04T03:31:40.116Z,58.1114,-155.961,131.2,1.6,ml,,,,0.14,ak,ak024fkp5oij,2024-12-04T03:33:53.119Z,"76 km SSE of King Salmon, Alaska",earthquake,,3.6,,,automatic,ak,ak
 2024-12-04T00:09:30.597Z,23.7065,123.3442,10.0,5.1,mb,40.0,93.0,0.816,0.87,us,us7000nvrp,2024-12-04T03:44:30.040Z,"91 km SSE of Yonakuni, Japan",earthquake,3.66,1.902,0.11,27.0,reviewed,us,us
+2024-12-04T04:12:44.615Z,58.2675,-154.9417,0.0,0.7,ml,,,,0.37,ak,ak024fkpn1v1,2024-12-04T04:13:56.860Z,"82 km NNW of Karluk, Alaska",earthquake,,24.2,,,automatic,ak,ak
+2024-12-04T04:12:15.550Z,33.697834,-116.8166656,14.41,1.51,ml,55.0,26.0,0.07247,0.18,ci,ci40993264,2024-12-04T04:14:45.979Z,"9 km SE of Valle Vista, CA",earthquake,0.22,0.38,0.188,14.0,automatic,ci,ci
+2024-12-04T04:12:07.420Z,19.385166168213,-155.17883300781,3.2200000286102,1.97,ml,38.0,74.0,0.01065,0.330000013,hv,hv74555302,2024-12-04T04:14:59.910Z,"8 km SE of Volcano, Hawaii",earthquake,0.65,1.15999997,0.2,7.0,automatic,hv,hv
+2024-12-04T04:06:57.540Z,31.892,-101.758,3.54,1.4,ml,33.0,51.0,0.1,0.5,tx,tx2024xtwf,2024-12-04T04:16:58.792Z,"26 km W of Garden City, Texas",earthquake,0.0,0.98916745185852,0.2,23.0,automatic,tx,tx
+2024-12-04T04:04:47.114Z,31.896,-101.752,7.3127,0.9,ml,12.0,125.0,0.1,0.3,tx,tx2024xtwa,2024-12-04T04:15:50.869Z,"25 km W of Garden City, Texas",earthquake,0.0,2.4093918800354,0.1,7.0,automatic,tx,tx
+2024-12-04T03:52:52.400Z,38.824001312256,-122.764503479,2.0,0.93,md,16.0,124.0,0.007719,0.03,nc,nc75094776,2024-12-04T03:54:27.426Z,"4 km WNW of Cobb, CA",earthquake,0.32,0.50999999,0.19,16.0,automatic,nc,nc
