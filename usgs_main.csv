@@ -10017,3 +10017,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T16:32:40.590Z,38.818832397461,-122.78849792481,1.6100000143051,0.24,md,9.0,81.0,0.00826,0.01,nc,nc75095076,2024-12-04T16:34:14.367Z,"5 km NNW of The Geysers, CA",earthquake,0.43,0.649999976,0.11,10.0,automatic,nc,nc
 2024-12-04T16:22:24.458Z,63.2379,-150.4417,108.3,1.5,ml,,,,0.14,ak,ak024fkwucq5,2024-12-04T16:24:21.018Z,"72 km ESE of Denali National Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-12-04T12:05:38.970Z,38.509666666667,-112.88466666667,1.36,0.88,ml,18.0,57.0,0.004852,0.12,uu,uu80094786,2024-12-04T16:34:07.190Z,"16 km NE of Milford, Utah",earthquake,0.26,0.4,0.15754581327246,2.0,reviewed,uu,uu
+2024-12-04T16:56:42.626Z,59.878,-152.6607,80.5,1.9,ml,,,,0.19,ak,ak024fkx1oh2,2024-12-04T16:58:31.238Z,"47 km WNW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-12-04T16:52:15.630Z,33.1346667,-115.6403333,8.81,1.56,ml,5.0,294.0,0.7777,0.17,ci,ci40993672,2024-12-04T16:55:42.743Z,"11 km N of Westmorland, CA",earthquake,2.9,11.86,0.272,28.0,automatic,ci,ci
