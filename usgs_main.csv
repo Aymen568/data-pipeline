@@ -10029,3 +10029,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T14:19:00.400Z,39.529333333333,-111.49966666667,6.32,2.12,ml,27.0,51.0,0.2116,0.17,uu,uu80094846,2024-12-04T17:19:39.740Z,"4 km WSW of Mount Pleasant, Utah",earthquake,0.43,1.85,0.095561223070918,10.0,reviewed,uu,uu
 2024-12-04T17:30:59.433Z,31.775,-103.984,2.0159,1.7,ml,13.0,167.0,0.1,0.9,tx,tx2024xuws,2024-12-04T17:37:04.585Z,"37 km WNW of Mentone, Texas",earthquake,0.0,1.7551221847534,0.3,11.0,automatic,tx,tx
 2024-12-04T17:30:12.676Z,64.8229,-149.0437,10.8,1.6,ml,,,,0.94,ak,ak024fkxhh5f,2024-12-04T17:32:18.531Z,"24 km N of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-12-04T17:41:36.410Z,34.0255,-117.6023333,3.66,1.35,ml,48.0,44.0,0.008718,0.15,ci,ci40993768,2024-12-04T17:46:05.708Z,"4 km SE of Ontario, CA",earthquake,0.14,0.22,0.158,29.0,automatic,ci,ci
+2024-12-04T17:02:28.060Z,17.852166666667,-66.957166666667,9.97,2.23,md,6.0,259.0,0.143,0.23,pr,pr71467818,2024-12-04T17:47:03.330Z,"14 km SSW of Guánica, Puerto Rico",earthquake,1.32,3.04,0.042113191185012,5.0,reviewed,pr,pr
