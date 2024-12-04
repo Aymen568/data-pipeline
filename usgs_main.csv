@@ -9996,3 +9996,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T12:18:13.770Z,38.509333333333,-112.8885,2.12,0.75,md,15.0,58.0,0.007349,0.1,uu,uu80094801,2024-12-04T15:38:21.320Z,"16 km NE of Milford, Utah",earthquake,0.32,0.42,0.42222805938317,7.0,reviewed,uu,uu
 2024-12-04T05:57:13.427Z,53.7314,-166.6156,83.3,1.9,ml,,,,0.14,ak,ak024fkqhxrw,2024-12-04T15:39:58.400Z,"16 km SSW of Unalaska, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2024-12-03T17:24:30.430Z,44.839166666667,-111.49,7.51,1.12,ml,18.0,64.0,0.04353,0.18,mb,mb90067558,2024-12-04T15:31:15.630Z,"24 km WNW of Hebgen Lake Estates, Montana",earthquake,0.51,0.61,0.062540742937642,7.0,reviewed,mb,mb
+2024-12-04T15:47:38.290Z,19.397499084473,-155.28700256348,1.0299999713898,1.74000001,md,13.0,65.0,0.009959,0.0799999982,hv,hv74555962,2024-12-04T15:49:00.740Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.310000002,0.439999998,7.0,automatic,hv,hv
+2024-12-04T15:42:11.352Z,60.3354,-152.241,81.3,1.6,ml,,,,0.28,ak,ak024fkwd6fj,2024-12-04T15:44:07.948Z,"44 km NW of Ninilchik, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-12-03T18:02:46.970Z,45.925666666667,-111.44383333333,-2.0,1.14,ml,7.0,166.0,0.2766,0.09,mb,mb90067563,2024-12-04T15:44:05.020Z,"4 km NNW of Logan, Montana",quarry blast,0.73,31.61,0.2367336148196,6.0,reviewed,mb,mb
