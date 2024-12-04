@@ -9891,3 +9891,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T06:37:15.150Z,61.933333333333,-144.11233333333,7.32,-0.12,ml,5.0,170.0,0.02994,0.24,av,av93027799,2024-12-04T06:19:41.830Z,"49 km NNE of Chitina, Alaska",earthquake,1.02,0.95,0.21964645983118,5.0,reviewed,av,av
 2024-12-04T06:34:53.010Z,17.935833333333,-66.936666666667,5.28,2.34,md,5.0,229.0,0.04494,0.08,pr,pr71467788,2024-12-04T06:50:56.810Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.85,0.38,0.084142595724939,2.0,reviewed,pr,pr
 2024-12-04T06:34:29.250Z,20.207166671753,-155.59683227539,14.729999542236,2.11999989,md,32.0,299.0,0.1879,0.239999995,hv,hv74555412,2024-12-04T06:36:26.730Z,"9 km NNW of Kukuihaele, Hawaii",earthquake,4.31,18.6800003,0.0900000036,3.0,automatic,hv,hv
+2024-12-04T07:19:01.076Z,31.68,-104.097,4.8038,1.5,ml,16.0,79.0,0.0,0.3,tx,tx2024xude,2024-12-04T07:28:05.794Z,"47 km W of Mentone, Texas",earthquake,0.0,1.3137745857239,0.2,12.0,automatic,tx,tx
+2024-12-04T07:15:00.892Z,60.312,-151.4499,34.1,1.9,ml,,,,0.59,ak,ak024fkrfwg9,2024-12-04T07:16:47.110Z,"9 km NNW of Clam Gulch, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-12-04T07:14:08.760Z,35.4966667,-118.522,1.77,1.26,ml,34.0,50.0,0.1703,0.18,ci,ci40993384,2024-12-04T07:18:18.571Z,"10 km SSW of Bodfish, CA",earthquake,0.21,0.84,0.272,18.0,automatic,ci,ci
+2024-12-04T07:11:10.664Z,56.2867,-159.2183,5.0,1.2,ml,,,,1.37,ak,ak024fkrf2ca,2024-12-04T07:12:30.014Z,"28 km W of Chignik Lake, Alaska",earthquake,,3.1,,,automatic,ak,ak
+2024-12-04T07:10:10.730Z,35.34,-117.7971667,6.25,1.44,ml,45.0,36.0,0.08263,0.17,ci,ci40993376,2024-12-04T07:16:15.383Z,"15 km WSW of Johannesburg, CA",earthquake,0.16,0.55,0.16,27.0,automatic,ci,ci
