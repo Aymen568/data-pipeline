@@ -10080,3 +10080,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T17:46:41.216Z,-30.3289,-71.8873,31.084,4.2,mb,26.0,190.0,0.407,0.93,us,us7000nvyj,2024-12-04T20:13:38.040Z,"67 km SW of Coquimbo, Chile",earthquake,4.96,5.321,0.264,4.0,reviewed,us,us
 2024-12-04T07:54:27.120Z,46.604166666667,-119.755,15.99,0.2,ml,9.0,90.0,0.01046,0.05,uw,uw62064011,2024-12-04T20:25:08.180Z,"14 km SE of Desert Aire, Washington",earthquake,0.4,0.49,0.21952527243844,9.0,reviewed,uw,uw
 2024-12-04T04:50:21.440Z,47.127666666667,-122.018,19.35,0.62,ml,13.0,311.0,0.1397,0.09,uw,uw62063996,2024-12-04T20:06:46.470Z,"3 km NE of Wilkeson, Washington",earthquake,0.58,0.57,0.045208485644142,4.0,reviewed,uw,uw
+2024-12-04T20:37:56.575Z,60.2037,-141.6963,5.0,2.3,ml,,,,1.01,ak,ak024fkzbdd5,2024-12-04T20:40:07.508Z,"132 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-04T18:02:39.311Z,5.2791,-73.6733,163.178,4.2,mb,56.0,84.0,0.846,1.19,us,us7000nvyp,2024-12-04T20:40:15.040Z,"5 km SE of Lenguazaque, Colombia",earthquake,7.56,5.578,0.095,31.0,reviewed,us,us
