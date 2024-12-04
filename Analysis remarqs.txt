@@ -6418,4 +6418,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.5 and occurred in/near 57 km S of Whites City, New Mexico on 12/04/2024 at 07:05 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.8 and occurred in/near 40 km S of Bartolomé Masó, Cuba on 11/10/2024 at 04:50 PM./nSince 07:04 AM on 10/22/2024, there have been 10064 recorded earthquakes.
 The most recent earthquake had a magnitude of 2.8 and occurred in/near 21 km NNE of Yerington, Nevada on 12/04/2024 at 07:31 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 6.8 and occurred in/near 40 km S of Bartolomé Masó, Cuba on 11/10/2024 at 04:50 PM./nSince 07:04 AM on 10/22/2024, there have been 10069 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.43 and occurred in/near 7 km ENE of Imperial, CA on 12/04/2024 at 07:41 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 6.8 and occurred in/near 40 km S of Bartolomé Masó, Cuba on 11/10/2024 at 04:50 PM./n
