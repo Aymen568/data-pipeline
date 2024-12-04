@@ -9817,3 +9817,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T05:42:13.780Z,38.8743,-119.6994,0.0,0.7,ml,6.0,232.53,0.041,0.1164,nn,nn00888238,2024-12-04T00:40:09.909Z,"3 km ESE of Gardnerville Ranchos, Nevada",earthquake,,0.0,0.31,2.0,reviewed,nn,nn
 2024-12-03T04:23:39.369Z,39.4249,-119.8475,10.3,0.2,ml,9.0,108.31,0.073,0.1479,nn,nn00888237,2024-12-04T00:06:16.178Z,"11 km SE of Mogul, Nevada",earthquake,,2.9,0.22,7.0,reviewed,nn,nn
 2024-12-03T02:26:40.245Z,39.8311,-120.425,13.3,0.2,ml,3.0,292.79,0.062,0.0031,nn,nn00888236,2024-12-03T23:57:00.493Z,"4 km WNW of Beckwourth, California",earthquake,,3.4,0.58,2.0,reviewed,nn,nn
+2024-12-04T02:39:09.086Z,19.2937,-66.7895,35.0,2.8,ml,17.0,272.0,0.849,0.79,us,us7000nvs7,2024-12-04T02:45:26.040Z,"89 km N of Hatillo, Puerto Rico",earthquake,3.31,2.019,0.062,34.0,reviewed,us,us
+2024-12-04T02:04:46.498Z,61.67,-149.4609,33.9,2.5,ml,,,,0.46,ak,ak024fkoeh2h,2024-12-04T02:17:21.040Z,"5 km NNW of Tanaina, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-04T02:02:39.770Z,36.186,-118.0538333,1.8,0.87,ml,21.0,60.0,0.1749,0.19,ci,ci40993200,2024-12-04T02:20:38.216Z,"12 km SSW of Olancha, CA",earthquake,0.23,0.99,0.162,9.0,automatic,ci,ci
+2024-12-04T01:56:57.937Z,18.3418,80.4451,10.0,5.0,mb,63.0,52.0,9.886,0.79,us,us7000nvs3,2024-12-04T02:45:53.779Z,"55 km ENE of Mulugu, India",earthquake,10.44,1.894,0.064,77.0,reviewed,us,us
+2024-12-04T01:33:21.645Z,37.026,-116.3855,8.1,0.0,ml,8.0,78.92,0.031,0.0635,nn,nn00888249,2024-12-04T01:35:27.328Z,"35 km ENE of Beatty, Nevada",earthquake,,1.0,0.58,6.0,automatic,nn,nn
+2024-12-04T01:26:23.220Z,35.9226667,-117.676,3.18,1.13,ml,28.0,46.0,0.03265,0.13,ci,ci40993192,2024-12-04T01:29:50.875Z,"21 km E of Little Lake, CA",earthquake,0.14,0.34,0.138,18.0,automatic,ci,ci
