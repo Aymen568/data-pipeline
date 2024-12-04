@@ -9839,3 +9839,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T07:31:26.218Z,36.713,-115.9063,4.5,-0.3,ml,5.0,287.34,0.065,0.092,nn,nn00888253,2024-12-04T03:04:07.722Z,"26 km NW of Indian Springs, Nevada",earthquake,,5.0,0.05,3.0,reviewed,nn,nn
 2024-12-03T03:57:41.485Z,36.7895,-116.1127,2.9,-0.2,ml,10.0,285.7,0.03,0.033,nn,nn00888252,2024-12-04T03:04:06.065Z,"46 km WNW of Indian Springs, Nevada",earthquake,,2.1,0.19,3.0,reviewed,nn,nn
 2024-12-03T03:40:14.881Z,36.7453,-115.9414,3.1,-0.4,ml,6.0,192.92,0.039,0.1599,nn,nn00888251,2024-12-04T03:00:59.270Z,"31 km NW of Indian Springs, Nevada",earthquake,,3.9,0.28,3.0,reviewed,nn,nn
+2024-12-04T03:44:25.373Z,31.592,-104.546,3.9219,1.6,ml,6.0,164.0,0.1,0.1,tx,tx2024xtvl,2024-12-04T03:51:21.333Z,"66 km SSW of Whites City, New Mexico",earthquake,0.0,3.4478142261505,0.1,6.0,automatic,tx,tx
+2024-12-04T03:41:57.415Z,64.2664,-149.9043,14.2,1.4,ml,,,,0.47,ak,ak024fkp7v0d,2024-12-04T03:43:32.503Z,"34 km W of Clear, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-04T03:34:46.370Z,38.791831970215,-122.77833557129,2.2300000190735,0.85,md,10.0,127.0,0.007608,0.03,nc,nc75094766,2024-12-04T03:36:22.331Z,"2 km NW of The Geysers, CA",earthquake,0.45,0.75,0.34,12.0,automatic,nc,nc
+2024-12-04T03:31:40.116Z,58.1114,-155.961,131.2,1.6,ml,,,,0.14,ak,ak024fkp5oij,2024-12-04T03:33:53.119Z,"76 km SSE of King Salmon, Alaska",earthquake,,3.6,,,automatic,ak,ak
+2024-12-04T00:09:30.597Z,23.7065,123.3442,10.0,5.1,mb,40.0,93.0,0.816,0.87,us,us7000nvrp,2024-12-04T03:44:30.040Z,"91 km SSE of Yonakuni, Japan",earthquake,3.66,1.902,0.11,27.0,reviewed,us,us
