@@ -9943,3 +9943,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T10:55:13.170Z,34.0376667,-117.2478333,15.29,0.91,ml,52.0,59.0,0.1125,0.16,ci,ci40993440,2024-12-04T10:59:24.301Z,"2 km SE of Loma Linda, CA",earthquake,0.16,0.29,0.231,30.0,automatic,ci,ci
 2024-12-04T10:50:44.180Z,33.5705,-116.5453333,11.49,0.69,ml,47.0,41.0,0.05051,0.13,ci,ci40993432,2024-12-04T10:56:20.873Z,"12 km E of Anza, CA",earthquake,0.14,0.25,0.226,20.0,automatic,ci,ci
 2024-12-04T11:21:34.050Z,19.256500244141,-155.40466308594,33.419998168945,1.85000002,md,51.0,79.0,0.02007,0.119999997,hv,hv74555737,2024-12-04T11:23:27.770Z,"9 km NE of Pāhala, Hawaii",earthquake,0.44,0.529999971,0.170000002,10.0,automatic,hv,hv
+2024-12-04T11:34:22.741Z,61.7991,-150.1963,0.1,1.9,ml,,,,0.26,ak,ak024fktxr5u,2024-12-04T11:36:00.080Z,"10 km NW of Willow, Alaska",earthquake,,0.6,,,automatic,ak,ak
