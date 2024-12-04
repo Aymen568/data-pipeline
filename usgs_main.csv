@@ -10082,3 +10082,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T04:50:21.440Z,47.127666666667,-122.018,19.35,0.62,ml,13.0,311.0,0.1397,0.09,uw,uw62063996,2024-12-04T20:06:46.470Z,"3 km NE of Wilkeson, Washington",earthquake,0.58,0.57,0.045208485644142,4.0,reviewed,uw,uw
 2024-12-04T20:37:56.575Z,60.2037,-141.6963,5.0,2.3,ml,,,,1.01,ak,ak024fkzbdd5,2024-12-04T20:40:07.508Z,"132 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-04T18:02:39.311Z,5.2791,-73.6733,163.178,4.2,mb,56.0,84.0,0.846,1.19,us,us7000nvyp,2024-12-04T20:40:15.040Z,"5 km SE of Lenguazaque, Colombia",earthquake,7.56,5.578,0.095,31.0,reviewed,us,us
+2024-12-04T04:12:15.520Z,33.6951667,-116.8145,14.75,1.34,ml,61.0,28.0,0.07068,0.18,ci,ci40993272,2024-12-04T20:48:45.420Z,"9 km SE of Valle Vista, CA",earthquake,0.16,0.32,0.222,36.0,reviewed,ci,ci
