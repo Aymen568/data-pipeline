@@ -10027,3 +10027,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T16:34:53.073Z,51.2951,-179.51,14.4,4.3,ml,,,,0.52,ak,ak024fkwwzhr,2024-12-04T17:06:13.040Z,"209 km WSW of Adak, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2024-12-04T14:20:33.900Z,39.532333333333,-111.49616666667,2.43,1.36,md,14.0,73.0,0.2149,0.11,uu,uu80094851,2024-12-04T17:20:30.290Z,"3 km WSW of Mount Pleasant, Utah",earthquake,0.44,8.3,0.28731271957569,9.0,reviewed,uu,uu
 2024-12-04T14:19:00.400Z,39.529333333333,-111.49966666667,6.32,2.12,ml,27.0,51.0,0.2116,0.17,uu,uu80094846,2024-12-04T17:19:39.740Z,"4 km WSW of Mount Pleasant, Utah",earthquake,0.43,1.85,0.095561223070918,10.0,reviewed,uu,uu
+2024-12-04T17:30:59.433Z,31.775,-103.984,2.0159,1.7,ml,13.0,167.0,0.1,0.9,tx,tx2024xuws,2024-12-04T17:37:04.585Z,"37 km WNW of Mentone, Texas",earthquake,0.0,1.7551221847534,0.3,11.0,automatic,tx,tx
+2024-12-04T17:30:12.676Z,64.8229,-149.0437,10.8,1.6,ml,,,,0.94,ak,ak024fkxhh5f,2024-12-04T17:32:18.531Z,"24 km N of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
