@@ -10292,3 +10292,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-05T12:26:57.846Z,60.3416,-152.2156,75.6,1.6,ml,,,,0.19,ak,ak024fmi0w8o,2024-12-05T12:28:17.697Z,"44 km NW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-12-05T12:25:10.230Z,19.414499282837,-155.28132629394,0.5799999833107,1.79999995,md,8.0,136.0,0.004091,0.0599999987,hv,hv74557197,2024-12-05T12:26:47.180Z,"5 km WSW of Volcano, Hawaii",earthquake,0.39,0.479999989,0.460000008,6.0,automatic,hv,hv
 2024-12-05T10:41:24.352Z,-18.6411,-71.2224,57.251,4.5,mb,34.0,147.0,0.878,1.11,us,us7000nw38,2024-12-05T12:30:14.040Z,"99 km W of Arica, Chile",earthquake,7.27,8.974,0.091,35.0,reviewed,us,us
+2024-12-05T13:28:49.330Z,33.231,-116.7333333,10.5,0.54,ml,29.0,33.0,0.07883,0.18,ci,ci40994896,2024-12-05T13:33:21.062Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.25,0.5,0.136,12.0,automatic,ci,ci
+2024-12-05T13:17:37.046Z,63.5115,-148.6888,4.8,1.0,ml,,,,0.54,ak,ak024fmikcsl,2024-12-05T13:20:27.147Z,"18 km NE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-05T13:15:19.974Z,31.397,-103.65,8.9267,2.1,ml,6.0,204.0,0.1,0.7,tx,tx2024xwju,2024-12-05T13:27:59.958Z,"11 km WNW of Lindsay, Texas",earthquake,0.0,5.3267765045166,0.2,6.0,automatic,tx,tx
+2024-12-05T13:11:40.130Z,35.9051667,-117.7446667,6.77,0.54,ml,23.0,42.0,0.07389,0.11,ci,ci40994880,2024-12-05T13:15:11.469Z,"15 km ESE of Little Lake, CA",earthquake,0.14,0.32,0.208,5.0,automatic,ci,ci
+2024-12-05T13:06:48.966Z,63.525,-148.7285,3.5,1.7,ml,,,,0.73,ak,ak024fmii0u8,2024-12-05T13:08:40.791Z,"18 km NE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-04T21:05:43.189Z,34.53816667,-96.61466667,0.0,1.34,ml,19.0,122.0,0.1142775748,0.42,ok,ok2024xvdu,2024-12-05T13:31:08.203Z,"15 km SSW of Stonewall, Oklahoma",quarry blast,,0.7,0.21,10.0,reviewed,ok,ok
