@@ -10539,3 +10539,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-05T09:57:30.770Z,44.094666666667,-110.58983333333,9.04,0.64,md,12.0,94.0,0.08016,0.19,uu,uu80002363,2024-12-05T20:57:38.440Z,"52 km NE of Alta, Wyoming",earthquake,0.55,1.35,0.31172375468285,8.0,reviewed,uu,uu
 2024-12-05T08:45:18.850Z,19.3975,-155.26016666667,-1.11,0.99,ml,17.0,52.0,0.005585,0.29,hv,hv74556957,2024-12-05T21:04:59.230Z,"5 km SSW of Volcano, Hawaii",earthquake,0.17,0.28,0.22321291694295,12.0,reviewed,hv,hv
 2024-12-05T07:39:19.990Z,35.9016667,-117.7443333,7.54,0.19,ml,9.0,66.0,0.07624,0.04,ci,ci37691460,2024-12-05T21:17:51.873Z,"15 km ESE of Little Lake, CA",earthquake,0.15,0.51,0.207,6.0,reviewed,ci,ci
+2024-12-05T21:34:39.609Z,55.7456,-155.265,19.5,2.8,ml,,,,0.32,ak,ak024fmnfh08,2024-12-05T21:36:46.423Z,"149 km SSW of Akhiok, Alaska",earthquake,,3.7,,,automatic,ak,ak
+2024-12-05T21:31:51.830Z,40.310832977295,-124.61083221435,20.840000152588,2.96,md,39.0,242.0,0.2064,0.19,nc,nc75096406,2024-12-05T21:35:50.715Z,"28 km W of Petrolia, CA",earthquake,2.06,0.469999999,0.1,24.0,automatic,nc,nc
+2024-12-05T21:29:07.785Z,63.1726,-149.6864,77.4,2.2,ml,,,,0.47,ak,ak024fmnebxx,2024-12-05T21:31:01.353Z,"44 km SW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
