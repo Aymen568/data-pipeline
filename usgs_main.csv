@@ -10207,3 +10207,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-05T05:28:39.529Z,63.4695,-150.2511,117.8,1.5,ml,,,,0.34,ak,ak024fmdv88w,2024-12-05T05:31:31.244Z,"65 km W of Cantwell, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2024-12-05T05:28:43.985Z,31.892,-101.746,3.4065,1.1,ml,27.0,48.0,0.1,0.5,tx,tx2024xvuk,2024-12-05T05:44:01.307Z,"25 km W of Garden City, Texas",earthquake,0.0,1.1193531751633,0.2,16.0,automatic,tx,tx
 2024-12-05T05:38:47.558Z,31.8473,49.5045,10.0,5.0,mww,110.0,53.0,4.48,0.67,us,us7000nw1s,2024-12-05T05:55:46.040Z,"21 km ESE of Masjed Soleymān, Iran",earthquake,9.79,1.857,0.08,15.0,reviewed,us,us
+2024-12-05T06:21:15.580Z,34.0363333,-117.257,14.42,1.01,ml,50.0,58.0,0.1073,0.17,ci,ci40994560,2024-12-05T06:25:47.875Z,"1 km SSE of Loma Linda, CA",earthquake,0.18,0.33,0.14,32.0,automatic,ci,ci
+2024-12-05T06:21:09.272Z,65.0084,-148.0246,15.1,0.6,ml,,,,0.36,ak,ak024fmef4a7,2024-12-05T06:22:41.007Z,"17 km N of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-05T06:17:57.239Z,59.9147,-153.0583,24.5,0.7,ml,,,,0.94,ak,ak024fmeed44,2024-12-05T06:21:27.329Z,"60 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-12-05T05:54:55.570Z,38.507166666667,-112.89083333333,1.9,0.66,md,10.0,93.0,0.006477,0.07,uu,uu80095206,2024-12-05T06:07:49.930Z,"16 km NE of Milford, Utah",earthquake,0.39,0.64,0.59124347864854,5.0,reviewed,uu,uu
