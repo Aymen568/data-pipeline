@@ -10542,3 +10542,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-05T21:34:39.609Z,55.7456,-155.265,19.5,2.8,ml,,,,0.32,ak,ak024fmnfh08,2024-12-05T21:36:46.423Z,"149 km SSW of Akhiok, Alaska",earthquake,,3.7,,,automatic,ak,ak
 2024-12-05T21:31:51.830Z,40.310832977295,-124.61083221435,20.840000152588,2.96,md,39.0,242.0,0.2064,0.19,nc,nc75096406,2024-12-05T21:35:50.715Z,"28 km W of Petrolia, CA",earthquake,2.06,0.469999999,0.1,24.0,automatic,nc,nc
 2024-12-05T21:29:07.785Z,63.1726,-149.6864,77.4,2.2,ml,,,,0.47,ak,ak024fmnebxx,2024-12-05T21:31:01.353Z,"44 km SW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-12-05T21:45:18.382Z,55.7101,-158.7992,30.9,2.6,ml,,,,0.41,ak,ak024fmnhng1,2024-12-05T21:47:44.828Z,"31 km SE of Perryville, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-05T21:38:37.670Z,61.2782,-152.3001,0.3,1.4,ml,,,,0.28,ak,ak024fmngbpz,2024-12-05T21:40:45.490Z,"66 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-05T21:35:47.210Z,40.292167663574,-124.5051651001,17.940000534058,2.51,md,20.0,266.0,0.1244,0.09,nc,nc75096416,2024-12-05T21:42:20.292Z,"19 km W of Petrolia, CA",earthquake,1.65,0.49000001,0.1,15.0,automatic,nc,nc
+2024-12-05T21:34:48.130Z,40.23433303833,-124.64233398438,7.4499998092651,2.5,md,11.0,280.0,0.2357,0.07,nc,nc75096411,2024-12-05T21:42:19.292Z,"32 km W of Petrolia, CA",earthquake,2.02,2.26999998,0.08,10.0,automatic,nc,nc
