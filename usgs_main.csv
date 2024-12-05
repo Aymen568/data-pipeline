@@ -10204,3 +10204,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-05T04:58:05.970Z,19.147167205811,-155.49749755859,29.10000038147,2.08999991,md,21.0,164.0,0.07943,0.100000001,hv,hv74556767,2024-12-05T04:59:45.590Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.75,0.850000024,0.100000001,4.0,automatic,hv,hv
 2024-12-05T04:56:05.010Z,35.8986667,-117.748,6.14,1.51,ml,33.0,40.0,0.09095,0.16,ci,ci40994496,2024-12-05T05:00:11.397Z,"15 km ESE of Little Lake, CA",earthquake,0.16,0.53,0.287,23.0,automatic,ci,ci
 2024-12-04T16:51:13.500Z,58.193,-155.2585,2.74,0.4,ml,12.0,92.0,0.04061,0.08,av,av93389578,2024-12-05T04:54:06.430Z,"84 km NW of Karluk, Alaska",earthquake,0.2,0.28,0.31207237016944,12.0,reviewed,av,av
+2024-12-05T05:28:39.529Z,63.4695,-150.2511,117.8,1.5,ml,,,,0.34,ak,ak024fmdv88w,2024-12-05T05:31:31.244Z,"65 km W of Cantwell, Alaska",earthquake,,2.1,,,automatic,ak,ak
