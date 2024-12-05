@@ -10216,3 +10216,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-05T06:34:01.760Z,34.575,-119.3298333,6.72,0.72,ml,11.0,99.0,0.07883,0.16,ci,ci40994576,2024-12-05T06:38:25.340Z,"16 km NNW of Ojai, CA",earthquake,0.33,0.93,0.125,9.0,automatic,ci,ci
 2024-12-05T06:21:22.666Z,32.798,73.7417,10.0,5.2,mb,135.0,34.0,4.206,0.66,us,us7000nw1v,2024-12-05T06:46:47.506Z,"7 km W of Mehmand Chak, Pakistan",earthquake,8.43,1.85,0.055,108.0,reviewed,us,us
 2024-12-05T07:06:17.270Z,34.8,-116.2605,4.91,1.57,ml,24.0,61.0,0.06795,0.16,ci,ci40994600,2024-12-05T07:09:47.090Z,"13 km NW of Ludlow, CA",earthquake,0.19,0.44,0.169,24.0,automatic,ci,ci
+2024-12-05T07:24:48.955Z,61.1126,-151.1223,0.0,1.5,ml,,,,1.26,ak,ak024fmf1a3j,2024-12-05T07:27:01.569Z,"3 km SW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
