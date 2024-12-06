@@ -6714,4 +6714,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.98000002 and occurred in/near 0 km WSW of Pāhala, Hawaii on 12/06/2024 at 09:39 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 11026 recorded earthquakes.
 The most recent earthquake had a magnitude of 2.0 and occurred in/near 59 km WSW of Cantwell, Alaska on 12/06/2024 at 09:49 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 11034 recorded earthquakes.
+The most recent earthquake had a magnitude of 0.75 and occurred in/near 4 km NNW of The Geysers, CA on 12/06/2024 at 10:09 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
