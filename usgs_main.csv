@@ -11008,3 +11008,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-06T20:37:49.051Z,36.60506058,-98.47813416,5.0,2.48,ml,12.0,139.6240082,0.1506408602,0.8919355161,ok,ok2024xytw,2024-12-06T20:40:14.630Z,"3 km NNW of Carmen, Oklahoma",earthquake,9.726259915,,0.28,4.0,automatic,ok,ok
 2024-12-06T20:34:18.573Z,60.2251,-151.0612,55.0,1.9,ml,,,,0.43,ak,ak024foadc9t,2024-12-06T20:36:03.801Z,"17 km SE of Kasilof, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-12-06T17:42:19.343Z,19.6273,-73.5578,26.279,4.0,mb,20.0,105.0,1.492,0.88,us,us7000nwq3,2024-12-06T20:39:24.040Z,"24 km WSW of Bombardopolis, Haiti",earthquake,5.52,11.346,0.366,2.0,reviewed,us,us
+2024-12-06T18:36:40.390Z,36.75183333,-94.79733333,0.0,1.25,ml,42.0,207.0,0.4553106525,0.37,ok,ok2024xypw,2024-12-06T20:47:37.069Z,"4 km E of Fairland, Oklahoma",quarry blast,,0.3,0.2,9.0,reviewed,ok,ok
+2024-12-06T04:25:25.500Z,46.847666666667,-121.771,-2.41,0.22,ml,12.0,78.0,0.02874,0.08,uw,uw62066181,2024-12-06T20:47:18.420Z,"22 km ENE of Ashford, Washington",earthquake,0.22,0.4,0.1816396487465,4.0,reviewed,uw,uw
