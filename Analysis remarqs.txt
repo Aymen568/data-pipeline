@@ -6722,4 +6722,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.04 and occurred in/near 7 km WNW of Wrightwood, CA on 12/06/2024 at 10:33 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 11045 recorded earthquakes.
 The most recent earthquake had a magnitude of 2.3 and occurred in/near 46 km WNW of Petrolia, CA on 12/06/2024 at 10:56 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 11050 recorded earthquakes.
+The most recent earthquake had a magnitude of 2.6 and occurred in/near 16 km W of Petrolia, CA on 12/06/2024 at 11:21 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
