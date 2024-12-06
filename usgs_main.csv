@@ -10944,3 +10944,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-06T05:34:35.140Z,44.424,-115.20433333333,3.93,1.2,ml,13.0,72.0,0.4087,0.23,mb,mb90067798,2024-12-06T17:23:03.630Z,"31 km NW of Stanley, Idaho",earthquake,0.53,2.18,0.21998373219355,14.0,reviewed,mb,mb
 2024-12-06T02:35:49.526Z,58.1038,-156.3927,12.1,1.1,ml,,,,0.13,ak,ak024fnznsaq,2024-12-06T17:28:48.343Z,"59 km ESE of Egegik, Alaska",earthquake,,2.0,,,reviewed,ak,ak
 2024-12-06T01:11:22.151Z,55.6834,-149.2533,9.8,3.2,ml,,,,0.53,ak,ak024fnyx93y,2024-12-06T17:24:55.027Z,"283 km SE of Chiniak, Alaska",earthquake,,11.4,,,reviewed,ak,ak
+2024-12-06T17:37:09.550Z,38.839000701904,-122.77333068848,0.75,0.7,md,8.0,140.0,0.004321,0.02,nc,nc75097866,2024-12-06T17:38:45.779Z,"5 km NW of Cobb, CA",earthquake,0.43,0.330000013,0.15,8.0,automatic,nc,nc
+2024-12-06T17:36:34.000Z,37.3302,-117.1982,2.9,0.9,ml,10.0,126.28,0.058,0.2318,nn,nn00888405,2024-12-06T17:38:43.742Z,"42 km S of Goldfield, Nevada",earthquake,,1.2,0.32,7.0,automatic,nn,nn
+2024-12-05T22:41:07.730Z,61.296333333333,-152.26433333333,1.42,-0.66,ml,10.0,116.0,0.06121,0.06,av,av93393401,2024-12-06T17:47:21.640Z,"65 km WNW of Tyonek, Alaska",earthquake,0.2,0.68,0.22413632599501,9.0,reviewed,av,av
