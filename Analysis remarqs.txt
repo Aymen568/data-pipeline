@@ -6596,4 +6596,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 3.2 and occurred in/near 40 km WSW of Ferndale, California on 12/06/2024 at 03:32 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 10713 recorded earthquakes.
 The most recent earthquake had a magnitude of 2.48000002 and occurred in/near 4 km SSW of Pāhala, Hawaii on 12/06/2024 at 03:50 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 10719 recorded earthquakes.
+The most recent earthquake had a magnitude of 0.26 and occurred in/near 9 km WNW of Cobb, CA on 12/06/2024 at 04:17 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
