@@ -10873,3 +10873,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-06T14:01:21.660Z,38.810001373291,-122.7945022583,2.4700000286102,0.76,md,10.0,78.0,0.002125,0.02,nc,nc75097656,2024-12-06T14:02:57.645Z,"5 km NNW of The Geysers, CA",earthquake,0.43,1.0,0.06,12.0,automatic,nc,nc
 2024-12-06T13:50:27.090Z,34.519,-116.278,-0.72,1.42,ml,26.0,66.0,0.194,0.2,ci,ci40995768,2024-12-06T13:54:08.441Z,"25 km SSW of Ludlow, CA",earthquake,0.28,0.61,0.11,24.0,automatic,ci,ci
 2024-12-06T13:41:21.959Z,31.682,-104.307,4.5979,1.7,ml,16.0,66.0,0.0,0.3,tx,tx2024xygd,2024-12-06T13:51:50.967Z,"55 km S of Whites City, New Mexico",earthquake,0.0,1.3050087690353,0.2,12.0,automatic,tx,tx
+2024-12-06T14:17:59.270Z,40.354831695557,-125.1455001831,1.210000038147,2.56,md,19.0,289.0,0.6174,0.26,nc,nc75097676,2024-12-06T14:27:15.331Z,"73 km WNW of Petrolia, CA",earthquake,10.11,14.29,0.11,8.0,automatic,nc,nc
+2024-12-06T14:07:28.512Z,32.407,-102.065,4.5917,1.1,ml,19.0,117.0,0.0,0.4,tx,tx2024xygw,2024-12-06T14:20:11.465Z,"35 km WSW of Ackerly, Texas",earthquake,0.0,1.1870365142822,0.2,11.0,automatic,tx,tx
+2024-12-06T14:07:24.284Z,63.2647,-145.1087,3.6,2.1,ml,,,,0.65,ak,ak024fo6myr0,2024-12-06T14:09:14.420Z,"32 km NE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-06T11:07:49.903Z,39.2771,-99.7866,7.226,2.4,mb_lg,17.0,101.0,0.464,0.44,us,us7000nwkj,2024-12-06T14:29:34.806Z,"10 km SSE of Hill City, Kansas",earthquake,3.83,6.971,0.193,7.0,reviewed,us,us
+2024-12-06T06:10:21.611Z,31.693,-104.309,6.4075,1.6,ml,13.0,56.0,0.0,0.1,tx,tx2024xxrh,2024-12-06T14:27:10.540Z,"53 km S of Whites City, New Mexico",earthquake,0.69699037245499,0.66382424440383,0.2,27.0,reviewed,tx,tx
+2024-12-05T20:53:05.555Z,34.6086,33.9473,36.447,4.5,mb,93.0,89.0,0.617,0.68,us,us7000nwak,2024-12-06T14:22:25.040Z,"41 km SE of Perivólia, Cyprus",earthquake,5.35,7.352,0.069,62.0,reviewed,us,us
