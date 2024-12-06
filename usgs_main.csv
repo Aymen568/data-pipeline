@@ -11005,3 +11005,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-06T19:51:06.940Z,38.505333333333,-112.897,2.46,0.94,md,15.0,65.0,0.00895,0.08,uu,uu80096776,2024-12-06T20:02:04.360Z,"15 km NE of Milford, Utah",earthquake,0.23,0.39,0.49716562427881,9.0,reviewed,uu,uu
 2024-12-06T18:56:05.330Z,18.276,-67.6705,3.01,3.27,md,4.0,171.0,0.597,0.05,pr,pr71467963,2024-12-06T20:04:15.430Z,"45 km W of Rincón, Puerto Rico",earthquake,1.48,0.87,0.1878990486367,3.0,reviewed,pr,pr
 2024-12-06T00:04:52.060Z,58.282666666667,-155.215,30.19,0.11,ml,10.0,75.0,0.009555,0.22,av,av93393496,2024-12-06T20:25:19.910Z,"91 km NNW of Karluk, Alaska",earthquake,1.26,0.77,0.47888437592265,9.0,reviewed,av,av
+2024-12-06T20:37:49.051Z,36.60506058,-98.47813416,5.0,2.48,ml,12.0,139.6240082,0.1506408602,0.8919355161,ok,ok2024xytw,2024-12-06T20:40:14.630Z,"3 km NNW of Carmen, Oklahoma",earthquake,9.726259915,,0.28,4.0,automatic,ok,ok
+2024-12-06T20:34:18.573Z,60.2251,-151.0612,55.0,1.9,ml,,,,0.43,ak,ak024foadc9t,2024-12-06T20:36:03.801Z,"17 km SE of Kasilof, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-12-06T17:42:19.343Z,19.6273,-73.5578,26.279,4.0,mb,20.0,105.0,1.492,0.88,us,us7000nwq3,2024-12-06T20:39:24.040Z,"24 km WSW of Bombardopolis, Haiti",earthquake,5.52,11.346,0.366,2.0,reviewed,us,us
