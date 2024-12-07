@@ -11212,3 +11212,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-07T09:43:22.970Z,40.348499298096,-124.94149780273,0.38999998569488,3.53,ml,58.0,248.0,0.4618,0.25,nc,nc75098631,2024-12-07T09:45:37.192Z,"56 km WNW of Petrolia, CA",earthquake,2.06,4.01999998,0.342,10.0,automatic,nc,nc
 2024-12-07T09:41:50.610Z,62.5162,-151.0794,16.2,1.6,ml,,,,0.55,ak,ak024fprehky,2024-12-07T09:45:00.761Z,"16 km W of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-07T09:37:51.160Z,40.349166870117,-125.12767028809,1.6100000143051,2.78,md,36.0,267.0,0.6033,0.28,nc,nc75098626,2024-12-07T09:47:45.751Z,"71 km WNW of Petrolia, CA",earthquake,5.0,8.40999985,0.05,14.0,automatic,nc,nc
+2024-12-07T09:41:25.865Z,-2.1329,124.4546,10.0,5.1,mb,77.0,44.0,2.001,0.76,us,us7000nwuw,2024-12-07T09:57:57.040Z,"169 km W of Sanana, Indonesia",earthquake,6.49,1.87,0.082,48.0,reviewed,us,us
