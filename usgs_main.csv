@@ -11275,3 +11275,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-07T15:03:13.841Z,60.5115,-147.6968,13.5,1.7,ml,,,,0.54,ak,ak024fpuqv6g,2024-12-07T15:05:38.235Z,"52 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-07T14:57:44.352Z,60.3479,-152.1208,76.8,1.7,ml,,,,0.28,ak,ak024fpuh2lf,2024-12-07T14:59:16.290Z,"41 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-07T11:04:37.540Z,47.751666666667,-113.99016666667,16.75,1.15,ml,11.0,83.0,0.1127,0.03,mb,mb90067823,2024-12-07T15:07:15.020Z,"5 km ENE of Finley Point, Montana",earthquake,0.24,0.59,0.39295864196028,8.0,reviewed,mb,mb
+2024-12-07T15:28:22.834Z,61.586,-150.4668,22.9,1.5,ml,,,,0.3,ak,ak024fpuw8rv,2024-12-07T15:30:47.399Z,"5 km NNE of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-12-07T15:25:01.350Z,55.7611,-157.5488,147.3,2.5,ml,,,,0.84,ak,ak024fpuvjyv,2024-12-07T15:27:25.749Z,"79 km SE of Chignik, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2024-12-07T07:05:07.170Z,44.275,-115.17833333333,4.31,1.74,ml,14.0,68.0,0.2923,0.19,mb,mb90067828,2024-12-07T15:24:59.600Z,"20 km WNW of Stanley, Idaho",earthquake,0.4,1.67,0.27203525973878,16.0,reviewed,mb,mb
