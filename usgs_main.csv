@@ -11180,3 +11180,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-07T06:33:06.700Z,40.30683517456,-124.47333526611,8.579999923706,2.62,md,23.0,261.0,0.1017,0.08,nc,nc75098526,2024-12-07T06:47:19.235Z,"16 km W of Petrolia, CA",earthquake,1.08,0.400000006,0.13,23.0,automatic,nc,nc
 2024-12-07T06:26:23.179Z,-38.9093,-73.8601,18.383,5.3,mww,32.0,199.0,1.026,0.87,us,us7000nwtv,2024-12-07T06:46:42.462Z,"64 km WSW of Carahue, Chile",earthquake,9.13,6.831,0.054,33.0,reviewed,us,us
 2024-12-07T05:59:12.423Z,65.6118,-135.0844,10.0,4.4,mb,101.0,45.0,1.367,1.0,us,us7000nwtj,2024-12-07T06:47:36.383Z,"269 km NE of Dawson City, Canada",earthquake,6.17,1.918,0.103,27.0,reviewed,us,us
+2024-12-07T06:51:01.010Z,38.820835113525,-122.7945022583,3.7200000286102,0.77,md,9.0,61.0,0.01243,0.01,nc,nc75098536,2024-12-07T06:52:36.547Z,"6 km NNW of The Geysers, CA",earthquake,0.56,1.84000003,0.29,9.0,automatic,nc,nc
+2024-12-07T06:26:08.851Z,26.2503,125.9177,124.852,4.6,mb,74.0,117.0,2.188,0.93,us,us7000nwtw,2024-12-07T06:49:51.040Z,"171 km NNE of Hirara, Japan",earthquake,9.22,9.538,0.074,54.0,reviewed,us,us
