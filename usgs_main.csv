@@ -11196,3 +11196,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-07T08:11:16.100Z,36.0688333,-117.8623333,2.26,0.94,ml,25.0,82.0,0.04902,0.13,ci,ci40996656,2024-12-07T08:14:46.377Z,"8 km ENE of Coso Junction, CA",earthquake,0.15,0.2,0.131,11.0,automatic,ci,ci
 2024-12-07T08:08:27.890Z,40.310165405273,-124.56233215332,19.75,2.69,md,17.0,280.0,0.1695,0.1,nc,nc75098581,2024-12-07T08:17:16.778Z,"24 km W of Petrolia, CA",earthquake,2.13,0.540000021,0.15,14.0,automatic,nc,nc
 2024-12-07T07:48:28.557Z,23.9112,122.2655,16.792,4.9,mb,73.0,74.0,0.667,0.82,us,us7000nwu5,2024-12-07T08:14:09.040Z,"67 km E of Hualien City, Taiwan",earthquake,4.66,4.686,0.077,53.0,reviewed,us,us
+2024-12-07T08:39:30.380Z,33.359,-116.683,12.77,0.97,ml,55.0,34.0,0.102,0.18,ci,ci40996672,2024-12-07T08:44:02.862Z,"10 km NNW of Warner Springs, CA",earthquake,0.16,0.4,0.113,26.0,automatic,ci,ci
+2024-12-07T08:38:28.687Z,59.8358,-153.4299,128.3,2.0,ml,,,,0.32,ak,ak024fpqsd5g,2024-12-07T08:40:21.434Z,"38 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-07T08:23:25.190Z,18.248,-67.477333333333,119.23,3.4,md,18.0,294.0,0.379,0.16,pr,pr71467988,2024-12-07T08:44:41.480Z,"25 km WSW of Stella, Puerto Rico",earthquake,1.2,0.55,0.073984241864785,6.0,reviewed,pr,pr
