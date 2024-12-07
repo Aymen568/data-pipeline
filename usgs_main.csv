@@ -11355,3 +11355,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-07T21:18:12.070Z,38.82149887085,-122.78916931152,1.1499999761581,0.77,md,9.0,62.0,0.01057,0.02,nc,nc75099076,2024-12-07T21:27:52.483Z,"6 km NNW of The Geysers, CA",earthquake,0.33,0.600000024,0.2,10.0,automatic,nc,nc
 2024-12-07T20:39:51.253Z,53.4938,-164.8039,21.8,2.2,ml,,,,0.35,ak,ak024fpxxxtp,2024-12-07T21:26:40.185Z,"95 km SE of Akutan, Alaska",earthquake,,2.9,,,reviewed,ak,ak
 2024-12-07T21:41:32.360Z,40.320667266846,-124.70349884033,10.85000038147,2.42,md,9.0,315.0,0.2779,0.05,nc,nc75099096,2024-12-07T21:43:02.848Z,"35 km W of Petrolia, CA",earthquake,5.81,1.70000005,0.04,8.0,automatic,nc,nc
+2024-12-07T22:04:31.000Z,40.2971,-124.5034,9.0,3.6,mw,23.0,,,,ew,ew1733609070,2024-12-07T22:04:46.000Z,"37 km SSW of Ferndale, California",earthquake,7.181,3.535,0.2,23.0,automatic,ew,ew
+2024-12-07T21:02:15.438Z,-21.0193,169.6157,93.305,4.6,mb,31.0,92.0,2.564,0.89,us,us7000nwy3,2024-12-07T22:00:33.040Z,"167 km SSE of Isangel, Vanuatu",earthquake,9.23,8.797,0.111,24.0,reviewed,us,us
+2024-12-07T17:08:36.226Z,30.3157,80.2382,35.0,4.1,mb,32.0,118.0,5.074,0.76,us,us7000nwwm,2024-12-07T21:52:53.065Z,"58 km NNW of Dhārchula, India",earthquake,10.58,1.943,0.109,25.0,reviewed,us,us
