@@ -11338,3 +11338,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-07T19:57:48.130Z,31.606,-103.947,5.1163,2.2,ml,15.0,104.0,0.0,0.5,tx,tx2024yaob,2024-12-07T20:09:52.807Z,"34 km WSW of Mentone, Texas",earthquake,0.0,2.1735684871674,0.2,10.0,automatic,tx,tx
 2024-12-07T19:57:27.750Z,19.326333999634,-155.11999511719,4.6700000762939,1.98000002,md,12.0,161.0,0.04116,0.200000003,hv,hv74559262,2024-12-07T19:59:42.350Z,"15 km S of Fern Forest, Hawaii",earthquake,0.81,2.99000001,0.25,5.0,automatic,hv,hv
 2024-12-07T20:34:34.440Z,33.9555,-115.9973333,8.67,1.02,ml,39.0,50.0,0.04499,0.13,ci,ci40997056,2024-12-07T20:38:06.213Z,"22 km SSE of Twentynine Palms, CA",earthquake,0.15,0.36,0.13,22.0,automatic,ci,ci
+2024-12-07T20:44:34.090Z,60.1391,-150.1499,60.4,1.9,ml,,,,0.18,ak,ak024fpxyv4h,2024-12-07T20:45:59.086Z,"39 km W of Seward, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-12-07T20:43:07.930Z,34.6886667,-116.3506667,2.82,2.1,ml,33.0,55.0,0.141,0.15,ci,ci40997072,2024-12-07T20:47:21.419Z,"18 km WSW of Ludlow, CA",earthquake,0.14,0.73,0.213,26.0,automatic,ci,ci
+2024-12-07T20:37:03.720Z,33.0788333,-116.0363333,8.95,1.18,ml,46.0,40.0,0.1064,0.19,ci,ci40997064,2024-12-07T20:41:26.039Z,"11 km SE of Ocotillo Wells, CA",earthquake,0.19,0.62,0.123,26.0,automatic,ci,ci
