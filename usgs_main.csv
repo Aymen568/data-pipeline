@@ -11582,3 +11582,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-08T16:31:02.001Z,-62.134,155.4576,10.0,4.8,mb,18.0,141.0,7.873,1.27,us,us7000nx2v,2024-12-08T16:47:28.040Z,Balleny Islands region,earthquake,13.51,1.963,0.131,18.0,reviewed,us,us
 2024-12-08T10:57:29.773Z,39.3916,-120.154,8.1,0.2,ml,10.0,88.8,0.134,0.121,nn,nn00888470,2024-12-08T16:53:39.520Z,"7 km NNE of Truckee, California",earthquake,,2.4,0.39,5.0,reviewed,nn,nn
 2024-12-08T08:07:25.923Z,39.5716,-119.9759,3.5,0.7,ml,12.0,84.58,0.038,0.1453,nn,nn00888469,2024-12-08T16:50:33.014Z,"6 km N of Verdi, Nevada",earthquake,,2.2,0.35,7.0,reviewed,nn,nn
+2024-12-08T17:11:49.822Z,62.2178,-152.2848,117.8,1.9,ml,,,,0.52,ak,ak024frjivdy,2024-12-08T17:14:33.993Z,"52 km WNW of Skwentna, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2024-12-08T17:09:40.780Z,33.0816667,-116.038,9.46,1.02,ml,44.0,45.0,0.1046,0.22,ci,ci40997712,2024-12-08T17:14:12.279Z,"11 km SE of Ocotillo Wells, CA",earthquake,0.2,0.61,0.112,18.0,automatic,ci,ci
+2024-12-08T16:55:37.150Z,33.4673333,-116.4835,8.92,2.25,ml,35.0,69.0,0.1029,0.19,ci,ci40997704,2024-12-08T17:03:20.689Z,"20 km ESE of Anza, CA",earthquake,0.25,0.66,0.287,37.0,automatic,ci,ci
+2024-12-08T16:50:11.006Z,32.401,-102.023,6.0499,1.6,ml,36.0,63.0,0.1,0.4,tx,tx2024ycdj,2024-12-08T17:02:33.907Z,"32 km WSW of Ackerly, Texas",earthquake,0.0,1.2589091062546,0.2,24.0,automatic,tx,tx
+2024-12-08T16:26:07.267Z,-9.5681,-109.9485,10.0,4.4,mb,29.0,213.0,38.373,0.61,us,us7000nx3c,2024-12-08T17:13:05.040Z,central East Pacific Rise,earthquake,10.19,1.974,0.083,42.0,reviewed,us,us
