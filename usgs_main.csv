@@ -11613,3 +11613,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-08T20:12:10.140Z,38.806331634521,-122.77433013916,0.68000000715256,0.51,md,8.0,108.0,0.008515,0.05,nc,nc75099656,2024-12-08T20:13:46.381Z,"4 km NNW of The Geysers, CA",earthquake,0.36,0.730000019,0.24,7.0,automatic,nc,nc
 2024-12-08T20:01:22.553Z,51.0133,-177.1867,25.4,4.3,ml,,,,0.47,ak,ak024frl8z0n,2024-12-08T20:25:05.094Z,"103 km SSW of Adak, Alaska",earthquake,,1.9,,,reviewed,ak,ak
 2024-12-08T19:57:11.283Z,51.0137,-177.3246,47.921,6.3,mww,73.0,89.0,0.751,1.7,us,us7000nx3z,2024-12-08T20:20:24.564Z,"107 km SSW of Adak, Alaska",earthquake,5.07,7.725,0.035,77.0,reviewed,us,us
+2024-12-08T20:33:15.190Z,37.223834991455,-121.79116821289,2.4400000572205,1.46,md,8.0,195.0,0.01917,0.04,nc,nc75099676,2024-12-08T20:34:51.157Z,"8 km SSE of Seven Trees, CA",earthquake,0.53,0.460000008,0.26,9.0,automatic,nc,nc
+2024-12-08T20:13:59.345Z,51.0148,-177.2324,27.3,3.7,ml,,,,0.53,ak,ak024frlbpik,2024-12-08T20:32:04.021Z,"104 km SSW of Adak, Alaska",earthquake,,31.2,,,reviewed,ak,ak
+2024-12-08T20:09:04.022Z,50.9609,-177.275,25.6,3.9,ml,,,,1.67,ak,ak024frlanbg,2024-12-08T20:29:15.905Z,"110 km SSW of Adak, Alaska",earthquake,,1.7,,,reviewed,ak,ak
+2024-12-08T20:01:18.290Z,50.851,-177.229,10.0,5.0,mb,29.0,231.0,0.912,0.69,us,us7000nx46,2024-12-08T20:38:09.737Z,"121 km SSW of Adak, Alaska",earthquake,3.78,1.696,0.213,7.0,reviewed,us,us
