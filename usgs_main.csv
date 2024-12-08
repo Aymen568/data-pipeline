@@ -11507,3 +11507,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-08T10:49:57.640Z,33.0801659,-116.0488358,3.95,1.47,ml,53.0,36.0,0.1105,0.24,ci,ci40997464,2024-12-08T10:52:19.752Z,"10 km SE of Ocotillo Wells, CA",earthquake,0.25,1.23,0.176,5.0,automatic,ci,ci
 2024-12-08T10:47:17.980Z,19.249166488648,-155.41133117676,33.099998474121,1.92999995,md,47.0,77.0,0.01748,0.119999997,hv,hv74559972,2024-12-08T10:48:53.710Z,"8 km NE of Pāhala, Hawaii",earthquake,0.58,0.49000001,0.219999999,5.0,automatic,hv,hv
 2024-12-08T10:43:27.080Z,33.0791667,-116.0475,7.23,0.94,ml,48.0,35.0,0.1108,0.2,ci,ci40997456,2024-12-08T10:48:13.767Z,"11 km SE of Ocotillo Wells, CA",earthquake,0.19,0.71,0.194,14.0,automatic,ci,ci
+2024-12-08T11:11:06.887Z,61.2791,-152.2741,13.6,0.3,ml,,,,0.95,ak,ak024frfy6g0,2024-12-08T11:12:47.184Z,"65 km WNW of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-12-08T11:00:14.760Z,33.9323333,-118.028,11.99,1.46,ml,71.0,39.0,0.06944,0.24,ci,ci40997480,2024-12-08T11:04:42.628Z,"2 km NW of La Mirada, CA",earthquake,0.23,0.44,0.133,27.0,automatic,ci,ci
+2024-12-08T10:56:49.680Z,33.0803333,-116.0486667,8.29,1.62,ml,67.0,35.0,0.1103,0.23,ci,ci40997472,2024-12-08T11:07:54.700Z,"10 km SE of Ocotillo Wells, CA",earthquake,0.17,0.95,0.14,28.0,automatic,ci,ci

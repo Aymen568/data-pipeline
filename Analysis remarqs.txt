@@ -6936,4 +6936,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.02 and occurred in/near 12 km WNW of Inyokern, CA on 12/08/2024 at 10:35 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 11508 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.47 and occurred in/near 10 km SE of Ocotillo Wells, CA on 12/08/2024 at 10:49 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 11511 recorded earthquakes.
+The most recent earthquake had a magnitude of 0.3 and occurred in/near 65 km WNW of Tyonek, Alaska on 12/08/2024 at 11:11 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
