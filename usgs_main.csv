@@ -11560,3 +11560,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-08T15:36:05.318Z,32.247,-101.944,4.7576,2.2,ml,61.0,31.0,0.0,0.5,tx,tx2024ycax,2024-12-08T15:43:21.237Z,"19 km NW of Stanton, Texas",earthquake,0.0,0.72549110651016,0.1,37.0,automatic,tx,tx
 2024-12-08T15:35:34.470Z,33.6653333,-116.7595,15.37,0.59,ml,36.0,51.0,0.05932,0.12,ci,ci40997632,2024-12-08T15:39:47.240Z,"9 km SSW of Idyllwild, CA",earthquake,0.17,0.28,0.201,17.0,automatic,ci,ci
 2024-12-08T15:32:39.430Z,18.011166666667,-66.753333333333,13.8,2.39,md,11.0,177.0,0.1251,0.11,pr,pr71468043,2024-12-08T15:41:55.700Z,"1 km ESE of Magas Arriba, Puerto Rico",earthquake,0.64,0.43,0.068198243002656,7.0,reviewed,pr,pr
+2024-12-08T15:53:50.230Z,33.7555008,-118.2486649,10.48,2.19,ml,71.0,78.0,0.05416,0.25,ci,ci40997664,2024-12-08T15:55:55.716Z,"5 km ENE of San Pedro, CA",earthquake,0.29,0.48,0.333,22.0,automatic,ci,ci
+2024-12-08T15:52:25.840Z,35.67,-117.5458333,6.96,1.08,ml,35.0,42.0,0.09678,0.14,ci,ci40997656,2024-12-08T15:55:53.999Z,"13 km ENE of Ridgecrest, CA",earthquake,0.14,0.41,0.173,16.0,automatic,ci,ci
