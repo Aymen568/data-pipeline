@@ -11593,3 +11593,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-08T17:16:58.264Z,59.7391,-141.3656,13.9,2.0,ml,,,,0.7,ak,ak024frjjyma,2024-12-08T17:19:20.353Z,"94 km WNW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-08T17:11:44.957Z,1.8371,123.0171,10.0,4.9,mb,62.0,74.0,2.348,0.84,us,us7000nx3f,2024-12-08T17:31:49.040Z,"143 km N of Gorontalo, Indonesia",earthquake,7.18,1.872,0.064,77.0,reviewed,us,us
 2024-12-08T16:41:22.385Z,-8.6935,-109.2257,10.0,5.0,mb,49.0,179.0,28.133,0.89,us,us7000nx3e,2024-12-08T17:23:29.040Z,central East Pacific Rise,earthquake,15.81,1.925,0.05,127.0,reviewed,us,us
+2024-12-08T17:35:44.842Z,61.3021,-152.2538,4.5,0.9,ml,,,,0.3,ak,ak024frjo06s,2024-12-08T17:37:53.255Z,"65 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-08T17:34:54.410Z,33.0803333,-116.0341667,9.16,1.37,ml,52.0,45.0,0.1043,0.21,ci,ci40997752,2024-12-08T17:39:29.141Z,"12 km SE of Ocotillo Wells, CA",earthquake,0.19,0.57,0.141,26.0,automatic,ci,ci
+2024-12-08T17:33:08.550Z,36.0846667,-117.8823333,3.45,1.57,ml,31.0,44.0,0.03967,0.17,ci,ci40997744,2024-12-08T17:36:41.856Z,"7 km NE of Coso Junction, CA",earthquake,0.19,0.4,0.203,20.0,automatic,ci,ci
