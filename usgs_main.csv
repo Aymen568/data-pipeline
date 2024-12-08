@@ -11544,3 +11544,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-08T14:02:45.952Z,37.2932,-115.2528,8.6,1.3,ml,10.0,174.08,0.196,0.2274,nn,nn00888458,2024-12-08T14:05:01.564Z,"11 km SW of Alamo, Nevada",earthquake,,90.2,0.26,8.0,automatic,nn,nn
 2024-12-08T13:51:56.340Z,40.32466506958,-124.45532989502,8.170000076294,1.89,md,8.0,307.0,0.0935,0.04,nc,nc75099516,2024-12-08T14:07:16.162Z,"14 km W of Petrolia, CA",earthquake,3.23,0.639999986,0.08,5.0,automatic,nc,nc
 2024-12-08T13:24:05.830Z,43.1616,-127.5042,10.0,3.9,mb,41.0,204.0,2.03,0.76,us,us7000nx25,2024-12-08T13:59:31.040Z,"249 km W of Port Orford, Oregon",earthquake,8.18,2.008,0.257,4.0,reviewed,us,us
+2024-12-08T14:23:44.471Z,60.1193,-152.6777,94.3,1.3,ml,,,,0.1,ak,ak024frht4r3,2024-12-08T14:25:43.075Z,"56 km WNW of Happy Valley, Alaska",earthquake,,2.3,,,automatic,ak,ak
+2024-12-08T14:02:12.690Z,38.511666666667,-112.89733333333,-0.4,2.37,ml,23.0,45.0,0.03692,0.18,uu,uu80096951,2024-12-08T14:26:06.040Z,"16 km NE of Milford, Utah",earthquake,0.35,8.34,0.21762829067019,11.0,reviewed,uu,uu
+2024-12-08T14:00:44.385Z,31.55,-104.206,3.0753,1.7,ml,16.0,74.0,0.1,0.2,tx,tx2024ybxu,2024-12-08T14:10:32.278Z,"47 km WNW of Toyah, Texas",earthquake,0.0,1.4773651361466,0.2,13.0,automatic,tx,tx
+2024-12-08T13:38:35.712Z,43.4198,-126.8784,10.0,3.2,ml,33.0,286.0,1.523,1.0,us,us7000nx28,2024-12-08T14:21:35.040Z,"203 km W of Bandon, Oregon",earthquake,9.11,2.025,0.042,76.0,reviewed,us,us
