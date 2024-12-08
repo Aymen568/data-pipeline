@@ -11596,3 +11596,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-08T17:35:44.842Z,61.3021,-152.2538,4.5,0.9,ml,,,,0.3,ak,ak024frjo06s,2024-12-08T17:37:53.255Z,"65 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-08T17:34:54.410Z,33.0803333,-116.0341667,9.16,1.37,ml,52.0,45.0,0.1043,0.21,ci,ci40997752,2024-12-08T17:39:29.141Z,"12 km SE of Ocotillo Wells, CA",earthquake,0.19,0.57,0.141,26.0,automatic,ci,ci
 2024-12-08T17:33:08.550Z,36.0846667,-117.8823333,3.45,1.57,ml,31.0,44.0,0.03967,0.17,ci,ci40997744,2024-12-08T17:36:41.856Z,"7 km NE of Coso Junction, CA",earthquake,0.19,0.4,0.203,20.0,automatic,ci,ci
+2024-12-08T18:02:57.310Z,38.79700088501,-122.76716613769,1.25,0.89,md,14.0,69.0,0.006857,0.03,nc,nc75099611,2024-12-08T18:22:14.943Z,"2 km NNW of The Geysers, CA",earthquake,0.26,0.49000001,0.32,14.0,automatic,nc,nc
+2024-12-08T17:47:09.324Z,-18.0369,-178.4166,589.889,4.4,mb,61.0,39.0,2.622,0.85,us,us7000nx3k,2024-12-08T18:04:27.040Z,"240 km E of Levuka, Fiji",earthquake,11.7,8.098,0.041,172.0,reviewed,us,us
