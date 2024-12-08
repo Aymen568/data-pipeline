@@ -11631,3 +11631,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-08T21:34:52.930Z,36.49666595459,-121.077003479,5.2300000190735,2.47,md,35.0,67.0,0.04406,0.1,nc,nc75099731,2024-12-08T21:38:13.530Z,"7 km SE of Pinnacles, CA",earthquake,0.23,0.829999983,0.16,41.0,automatic,nc,nc
 2024-12-08T21:29:14.030Z,35.4978333,-118.3891667,12.73,2.38,ml,44.0,37.0,0.1785,0.4,ci,ci40997824,2024-12-08T21:33:22.210Z,"14 km SE of Bodfish, CA",earthquake,0.42,1.25,0.188,25.0,automatic,ci,ci
 2024-12-08T20:27:27.847Z,-9.122,-109.734,10.0,5.1,mb,146.0,148.0,17.912,0.61,us,us7000nx4r,2024-12-08T21:36:58.040Z,central East Pacific Rise,earthquake,13.72,1.917,0.04,203.0,reviewed,us,us
+2024-12-08T21:45:21.810Z,38.827667236328,-122.77349853516,0.6700000166893,1.06,md,11.0,58.0,0.00396,0.02,nc,nc75099736,2024-12-08T21:46:55.942Z,"4 km WNW of Cobb, CA",earthquake,0.27,0.430000007,0.25,12.0,automatic,nc,nc
+2024-12-08T21:33:14.022Z,64.4851,-146.3778,0.0,1.9,ml,,,,0.22,ak,ak024frm18sq,2024-12-08T21:47:10.723Z,"16 km NE of Harding-Birch Lakes, Alaska",earthquake,,0.6,,,automatic,ak,ak
