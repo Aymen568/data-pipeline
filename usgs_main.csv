@@ -11510,3 +11510,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-08T11:11:06.887Z,61.2791,-152.2741,13.6,0.3,ml,,,,0.95,ak,ak024frfy6g0,2024-12-08T11:12:47.184Z,"65 km WNW of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-08T11:00:14.760Z,33.9323333,-118.028,11.99,1.46,ml,71.0,39.0,0.06944,0.24,ci,ci40997480,2024-12-08T11:04:42.628Z,"2 km NW of La Mirada, CA",earthquake,0.23,0.44,0.133,27.0,automatic,ci,ci
 2024-12-08T10:56:49.680Z,33.0803333,-116.0486667,8.29,1.62,ml,67.0,35.0,0.1103,0.23,ci,ci40997472,2024-12-08T11:07:54.700Z,"10 km SE of Ocotillo Wells, CA",earthquake,0.17,0.95,0.14,28.0,automatic,ci,ci
+2024-12-08T11:15:30.928Z,62.879,-149.4904,19.7,1.2,ml,,,,1.36,ak,ak024frfz35w,2024-12-08T11:21:50.091Z,"57 km NNE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
