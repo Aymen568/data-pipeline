@@ -11417,3 +11417,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-08T03:08:58.750Z,38.822666168213,-122.84466552734,2.2599999904633,0.76,md,13.0,116.0,0.00754,0.01,nc,nc75099231,2024-12-08T03:27:16.653Z,"9 km NW of The Geysers, CA",earthquake,0.38,0.639999986,0.23,14.0,automatic,nc,nc
 2024-12-08T02:50:53.010Z,40.313667297363,-121.12816619873,7.2199997901917,2.51,md,28.0,62.0,0.104,0.19,nc,nc75099226,2024-12-08T03:03:50.127Z,"5 km NNW of Hamilton Branch, CA",earthquake,0.45,1.38,0.1,21.0,automatic,nc,nc
 2024-12-08T02:44:29.903Z,1.1262,126.3426,36.964,5.0,mb,53.0,72.0,1.083,1.09,us,us7000nwza,2024-12-08T03:08:12.040Z,"121 km WNW of Ternate, Indonesia",earthquake,8.69,1.958,0.065,74.0,reviewed,us,us
+2024-12-08T03:41:30.740Z,63.2498,-150.7567,108.0,1.7,ml,,,,0.28,ak,ak024frbd6xe,2024-12-08T03:43:48.593Z,"58 km SE of Denali National Park, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2024-12-08T03:31:43.016Z,58.1391,-155.2385,103.6,3.3,ml,,,,0.7,ak,ak024frbb2qh,2024-12-08T03:47:40.040Z,"78 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
