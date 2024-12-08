@@ -11548,3 +11548,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-08T14:02:12.690Z,38.511666666667,-112.89733333333,-0.4,2.37,ml,23.0,45.0,0.03692,0.18,uu,uu80096951,2024-12-08T14:26:06.040Z,"16 km NE of Milford, Utah",earthquake,0.35,8.34,0.21762829067019,11.0,reviewed,uu,uu
 2024-12-08T14:00:44.385Z,31.55,-104.206,3.0753,1.7,ml,16.0,74.0,0.1,0.2,tx,tx2024ybxu,2024-12-08T14:10:32.278Z,"47 km WNW of Toyah, Texas",earthquake,0.0,1.4773651361466,0.2,13.0,automatic,tx,tx
 2024-12-08T13:38:35.712Z,43.4198,-126.8784,10.0,3.2,ml,33.0,286.0,1.523,1.0,us,us7000nx28,2024-12-08T14:21:35.040Z,"203 km W of Bandon, Oregon",earthquake,9.11,2.025,0.042,76.0,reviewed,us,us
+2024-12-08T14:38:10.750Z,33.2921667,-116.2295,12.16,0.75,ml,43.0,36.0,0.1013,0.21,ci,ci40997600,2024-12-08T14:43:20.254Z,"14 km ENE of Borrego Springs, CA",earthquake,0.23,0.98,0.116,15.0,automatic,ci,ci

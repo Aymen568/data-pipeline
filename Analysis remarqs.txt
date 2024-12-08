@@ -6960,4 +6960,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.3 and occurred in/near 56 km WNW of Happy Valley, Alaska on 12/08/2024 at 02:23 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 11549 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.3 and occurred in/near 56 km WNW of Happy Valley, Alaska on 12/08/2024 at 02:23 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 11550 recorded earthquakes.
+The most recent earthquake had a magnitude of 0.75 and occurred in/near 14 km ENE of Borrego Springs, CA on 12/08/2024 at 02:38 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
