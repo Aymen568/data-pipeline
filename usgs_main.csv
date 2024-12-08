@@ -11643,3 +11643,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-08T22:11:20.916Z,32.259,-101.937,4.5925,2.4,ml,62.0,30.0,0.0,0.4,tx,tx2024ycnz,2024-12-08T22:24:02.399Z,"20 km NW of Stanton, Texas",earthquake,0.0,0.71771550178528,0.1,37.0,automatic,tx,tx
 2024-12-08T22:11:12.070Z,33.4738333,-116.7975,7.9,0.68,ml,36.0,31.0,0.03074,0.18,ci,ci40997840,2024-12-08T22:16:18.332Z,"7 km ENE of Aguanga, CA",earthquake,0.18,0.64,0.128,7.0,automatic,ci,ci
 2024-12-08T21:59:22.049Z,32.254,-101.939,4.0447,1.7,ml,40.0,33.0,0.0,0.4,tx,tx2024ycno,2024-12-08T22:13:59.086Z,"19 km NW of Stanton, Texas",earthquake,0.0,0.84268796443939,0.1,25.0,automatic,tx,tx
+2024-12-08T22:46:31.380Z,33.2161667,-116.0685,10.87,2.35,ml,86.0,20.0,0.08719,0.2,ci,ci40997848,2024-12-08T22:51:11.611Z,"10 km NE of Ocotillo Wells, CA",earthquake,0.12,0.34,0.236,25.0,automatic,ci,ci
+2024-12-08T17:56:01.280Z,46.8465,-121.76466666667,0.88,0.93,ml,11.0,75.0,0.0199,0.07,uw,uw62066816,2024-12-08T22:54:10.440Z,"22 km ENE of Ashford, Washington",earthquake,0.25,0.49,0.17539093757781,7.0,reviewed,uw,uw
