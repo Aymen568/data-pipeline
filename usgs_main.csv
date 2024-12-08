@@ -11575,3 +11575,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-07T21:26:52.542Z,36.6815,-116.3258,8.6,-0.1,ml,13.0,155.24,0.038,0.0344,nn,nn00888462,2024-12-08T16:13:35.662Z,"46 km ESE of Beatty, Nevada",earthquake,,1.0,0.08,3.0,reviewed,nn,nn
 2024-12-07T20:46:20.725Z,36.6151,-115.9522,5.2,0.0,ml,12.0,290.41,0.048,0.0356,nn,nn00888461,2024-12-08T16:10:29.495Z,"25 km W of Indian Springs, Nevada",earthquake,,1.9,0.09,3.0,reviewed,nn,nn
 2024-12-07T19:10:17.425Z,36.7448,-116.1653,4.3,-0.3,ml,9.0,183.36,0.038,0.0617,nn,nn00888460,2024-12-08T16:07:23.022Z,"48 km WNW of Indian Springs, Nevada",earthquake,,2.0,0.06,2.0,reviewed,nn,nn
+2024-12-08T16:29:52.340Z,40.289165496826,-124.83899688721,0.25,2.31,md,7.0,319.0,0.3797,0.16,nc,nc75099576,2024-12-08T16:37:22.330Z,"47 km W of Petrolia, CA",earthquake,8.87,12.29,0.1,7.0,automatic,nc,nc
+2024-12-08T16:29:09.730Z,33.0835,-116.0333333,9.83,0.99,ml,31.0,46.0,0.1011,0.18,ci,ci40997688,2024-12-08T16:34:34.092Z,"11 km SE of Ocotillo Wells, CA",earthquake,0.21,0.64,0.196,12.0,automatic,ci,ci
