@@ -11533,3 +11533,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-08T12:59:23.237Z,62.286,-148.5557,30.7,1.5,ml,,,,0.55,ak,ak024frgtxoj,2024-12-08T13:01:19.599Z,"54 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-08T12:56:17.658Z,32.241,-101.948,4.0993,1.6,ml,46.0,27.0,0.0,0.3,tx,tx2024ybvr,2024-12-08T13:12:01.385Z,"19 km NW of Stanton, Texas",earthquake,0.0,0.78888136148453,0.1,33.0,automatic,tx,tx
 2024-12-08T12:55:18.770Z,40.338001251221,-124.54066467285,13.659999847412,2.74,md,20.0,279.0,0.1593,0.19,nc,nc75099486,2024-12-08T13:07:15.751Z,"22 km WNW of Petrolia, CA",earthquake,2.77,0.670000017,0.12,16.0,automatic,nc,nc
+2024-12-08T13:32:29.730Z,33.079,-116.0358333,8.93,0.91,ml,41.0,51.0,0.1061,0.22,ci,ci40997576,2024-12-08T13:36:39.530Z,"11 km SE of Ocotillo Wells, CA",earthquake,0.22,0.72,0.188,13.0,automatic,ci,ci
+2024-12-08T13:30:35.710Z,33.081,-116.0363333,9.31,0.77,ml,37.0,50.0,0.1045,0.22,ci,ci40997568,2024-12-08T13:34:52.588Z,"11 km SE of Ocotillo Wells, CA",earthquake,0.24,0.84,0.111,9.0,automatic,ci,ci
+2024-12-08T13:24:47.950Z,40.254165649414,-124.62767028809,17.309999465942,2.89,ml,14.0,291.0,0.3504,0.1,nc,nc75099506,2024-12-08T13:26:50.900Z,"30 km W of Petrolia, CA",earthquake,5.96,2.36999989,1.738,4.0,automatic,nc,nc
