@@ -11429,3 +11429,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-08T04:29:35.728Z,32.119,-101.487,3.5549,1.1,ml,6.0,144.0,0.1,0.1,tx,tx2024ybfa,2024-12-08T04:35:40.050Z,"11 km W of Forsan, Texas",earthquake,0.0,2.594569683075,0.3,5.0,automatic,tx,tx
 2024-12-08T04:28:00.320Z,31.312,-103.597,13.2332,2.1,ml,7.0,159.0,0.1,0.3,tx,tx2024ybex,2024-12-08T04:34:45.047Z,"8 km SW of Lindsay, Texas",earthquake,0.0,5.8602137565613,0.3,7.0,automatic,tx,tx
 2024-12-08T03:51:08.051Z,-18.8808,-177.8815,479.333,4.4,mb,70.0,66.0,3.546,0.7,us,us7000nwzf,2024-12-08T04:31:16.040Z,Fiji region,earthquake,12.27,6.418,0.042,163.0,reviewed,us,us
+2024-12-08T04:47:44.090Z,40.301334381104,-124.41633605957,8.9499998092651,1.81,md,10.0,277.0,0.05786,0.05,nc,nc75099281,2024-12-08T04:49:17.793Z,"11 km W of Petrolia, CA",earthquake,1.99,0.660000026,0.1,6.0,automatic,nc,nc
+2024-12-08T00:30:18.460Z,48.167,-122.77233333333,19.51,1.61,ml,14.0,102.0,0.06855,0.16,uw,uw62066741,2024-12-08T04:47:29.620Z,"5 km N of Port Townsend, Washington",earthquake,0.41,0.83,0.16090144875198,5.0,reviewed,uw,uw
