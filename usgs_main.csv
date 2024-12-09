@@ -11721,3 +11721,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-09T06:27:02.530Z,36.567832946777,-89.64616394043,8.6599998474121,2.8599999,md,35.0,67.0,,0.180000007,nm,nm60594656,2024-12-09T06:40:32.040Z,"3 km SW of Lilbourn, Missouri",earthquake,0.38,1.13999999,1.08000004,32.0,reviewed,nm,nm
 2024-12-09T05:56:48.518Z,50.9216,-177.4599,10.0,5.1,mb,77.0,129.0,0.953,0.82,us,us7000nx85,2024-12-09T06:16:17.284Z,"120 km SSW of Adak, Alaska",earthquake,6.53,1.884,0.031,341.0,reviewed,us,us
 2024-12-08T21:33:34.789Z,-8.7854,158.1099,10.0,4.3,mb,15.0,162.0,1.927,0.51,us,us7000nx50,2024-12-09T06:20:34.040Z,"158 km ESE of Gizo, Solomon Islands",earthquake,10.97,1.972,0.153,12.0,reviewed,us,us
+2024-12-09T06:51:34.877Z,61.6761,-149.4694,34.9,1.6,ml,,,,0.44,ak,ak024ft0qzpr,2024-12-09T06:53:17.502Z,"5 km NNW of Tanaina, Alaska",earthquake,,0.2,,,automatic,ak,ak
