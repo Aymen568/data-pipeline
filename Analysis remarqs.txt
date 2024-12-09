@@ -7106,4 +7106,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 0.8 and occurred in/near 10 km WSW of Anza, CA on 12/09/2024 at 02:21 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 11815 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.2 and occurred in/near 26 km S of Chickaloon, Alaska on 12/09/2024 at 03:21 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 11817 recorded earthquakes.
+The most recent earthquake had a magnitude of 2.2 and occurred in/near 35 km NNW of Toyah, Texas on 12/09/2024 at 03:23 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
