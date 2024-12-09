@@ -7078,4 +7078,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.65 and occurred in/near 9 km SW of Toms Place, CA on 12/09/2024 at 10:14 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 11763 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.3 and occurred in/near 4 km NNW of The Geysers, CA on 12/09/2024 at 10:38 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 11765 recorded earthquakes.
+The most recent earthquake had a magnitude of 2.1500001 and occurred in/near 12 km E of Pāhala, Hawaii on 12/09/2024 at 10:44 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
