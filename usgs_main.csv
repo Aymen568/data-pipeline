@@ -11908,3 +11908,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-09T20:52:24.960Z,33.8839989,-116.8519974,15.69,1.51,ml,40.0,37.0,0.06778,0.1,ci,ci40998496,2024-12-09T20:54:34.148Z,"5 km SSE of Banning, CA",earthquake,0.24,0.6,0.256,21.0,automatic,ci,ci
 2024-12-09T20:52:23.813Z,61.7237,-147.3379,37.1,1.7,ml,,,,0.91,ak,ak024ft9391p,2024-12-09T20:54:11.787Z,"19 km ESE of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-09T20:48:12.420Z,36.955165863037,-121.58149719238,4.5599999427795,1.7,md,16.0,120.0,0.00046,0.07,nc,nc75100271,2024-12-09T20:49:48.524Z,"6 km SSW of Gilroy, CA",earthquake,0.35,0.349999994,0.25,19.0,automatic,nc,nc
+2024-12-09T21:04:42.110Z,34.0251667,-117.5943333,3.79,1.13,ml,34.0,41.0,0.01342,0.15,ci,ci40998520,2024-12-09T21:12:03.180Z,"4 km SE of Ontario, CA",earthquake,0.17,0.35,0.203,30.0,automatic,ci,ci
+2024-12-09T21:04:35.840Z,34.367,-117.8111667,11.64,1.06,ml,20.0,154.0,0.2141,0.35,ci,ci40998512,2024-12-09T21:09:39.450Z,"14 km S of Llano, CA",earthquake,1.4,7.52,0.421,6.0,automatic,ci,ci
+2024-12-09T21:03:02.755Z,61.5503,-148.3629,20.7,1.4,ml,,,,0.17,ak,ak024ft9e4xv,2024-12-09T21:05:24.854Z,"27 km S of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-12-09T20:33:22.001Z,35.1525,140.6054,45.133,4.8,mwr,96.0,93.0,2.136,0.81,us,us7000nxdu,2024-12-09T21:04:51.169Z,"22 km ESE of Ōhara, Japan",earthquake,7.41,5.697,0.066,22.0,reviewed,us,us
