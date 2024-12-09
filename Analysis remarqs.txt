@@ -7044,4 +7044,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 2.51999998 and occurred in/near 4 km SW of Pāhala, Hawaii on 12/09/2024 at 04:39 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 11709 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.05 and occurred in/near 9 km SSW of Searles Valley, CA on 12/09/2024 at 04:50 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 11711 recorded earthquakes.
+The most recent earthquake had a magnitude of 2.1 and occurred in/near 5 km NNW of Upton, Maine on 12/09/2024 at 05:07 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
