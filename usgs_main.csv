@@ -11959,3 +11959,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-09T23:08:31.331Z,39.1787,-119.0004,0.0,5.5,ml,11.0,41.52,0.269,0.1193,nn,nn00888580,2024-12-09T23:29:56.308Z,"25 km NNE of Yerington, Nevada",earthquake,,0.0,0.0,1.0,reviewed,nn,nn
 2024-12-09T01:55:56.880Z,52.058666666667,-176.13983333333,1.73,0.54,ml,5.0,97.0,0.004122,0.23,av,av93398411,2024-12-09T23:26:48.690Z,"39 km ENE of Adak, Alaska",earthquake,1.03,0.92,0.29727924001888,5.0,reviewed,av,av
 2024-12-09T01:47:07.550Z,57.056166666667,-135.70583333333,5.57,0.6,ml,5.0,100.0,0.0125,0.1,av,av93028099,2024-12-09T23:20:30.800Z,"22 km W of Sitka, Alaska",earthquake,0.8,0.47,0.33273683136168,5.0,reviewed,av,av
+2024-12-09T23:39:28.544Z,39.1602,-119.0857,3.8,3.3,ml,8.0,151.9,0.212,0.1708,nn,nn00888607,2024-12-09T23:41:51.412Z,"20 km NNE of Yerington, Nevada",earthquake,,5.9,0.9,5.0,automatic,nn,nn
+2024-12-09T23:34:04.807Z,39.0899,-119.0604,1.4,2.6,ml,9.0,95.15,0.419,0.3221,nn,nn00888600,2024-12-09T23:37:02.267Z,"14 km NE of Yerington, Nevada",earthquake,,3.3,0.32,6.0,automatic,nn,nn
+2024-12-09T23:33:44.459Z,39.1596,-119.0706,7.2,2.2,ml,14.0,87.77,0.417,0.1417,nn,nn00888597,2024-12-09T23:36:02.878Z,"20 km NNE of Yerington, Nevada",earthquake,,1.0,0.27,10.0,automatic,nn,nn
+2024-12-09T23:32:29.070Z,39.1459,-119.078,3.9,2.6,ml,11.0,132.59,0.483,0.1789,nn,nn00888595,2024-12-09T23:40:47.295Z,"19 km NNE of Yerington, Nevada",earthquake,,6.3,0.36,6.0,automatic,nn,nn
+2024-12-09T23:29:48.468Z,39.1446,-119.064,15.9,3.0,ml,8.0,150.78,0.21,0.2506,nn,nn00888592,2024-12-09T23:32:10.978Z,"19 km NNE of Yerington, Nevada",earthquake,,0.7,0.28,4.0,automatic,nn,nn
