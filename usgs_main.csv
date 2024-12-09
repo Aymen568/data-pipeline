@@ -11918,3 +11918,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-09T21:35:30.120Z,40.300498962402,-124.39700317383,15.560000419617,1.57,md,10.0,279.0,0.04333,0.02,nc,nc75100306,2024-12-09T21:37:07.998Z,"10 km W of Petrolia, CA",earthquake,2.35,1.86000001,0.19,6.0,automatic,nc,nc
 2024-12-09T14:16:02.021Z,41.938,-119.5811,0.0,2.1,ml,5.0,129.37,0.538,0.105,nn,nn00888555,2024-12-09T21:43:15.383Z,"48 km E of Fort Bidwell, California",earthquake,,0.0,0.18,4.0,reviewed,nn,nn
 2024-12-09T13:29:10.320Z,41.919,-119.57,0.0,1.6,ml,4.0,215.5,0.546,0.1209,nn,nn00888551,2024-12-09T21:34:04.077Z,"48 km E of Fort Bidwell, California",earthquake,,0.0,0.23,2.0,reviewed,nn,nn
+2024-12-09T21:50:20.570Z,32.9745,-116.307,8.93,1.15,ml,40.0,38.0,0.08716,0.19,ci,ci40998560,2024-12-09T21:54:40.689Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.2,0.65,0.155,26.0,automatic,ci,ci
+2024-12-09T14:52:46.604Z,41.9203,-119.5782,0.2,1.8,ml,4.0,215.02,0.54,0.1041,nn,nn00888556,2024-12-09T21:46:19.898Z,"48 km E of Fort Bidwell, California",earthquake,,2.6,0.13,2.0,reviewed,nn,nn
