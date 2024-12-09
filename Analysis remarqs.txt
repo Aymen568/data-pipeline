@@ -7150,4 +7150,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.57 and occurred in/near 10 km W of Petrolia, CA on 12/09/2024 at 09:35 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 11921 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.15 and occurred in/near 25 km SW of Ocotillo Wells, CA on 12/09/2024 at 09:50 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 11933 recorded earthquakes.
+The most recent earthquake had a magnitude of 2.68 and occurred in/near 2 km ESE of Meno, Oklahoma on 12/09/2024 at 10:19 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
