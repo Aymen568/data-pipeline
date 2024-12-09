@@ -7158,4 +7158,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.56 and occurred in/near 14 km SSE of Bodfish, CA on 12/09/2024 at 10:38 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 11951 recorded earthquakes.
 The most recent earthquake had a magnitude of 5.7 and occurred in/near 22 km NNE of Yerington, Nevada on 12/09/2024 at 11:08 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 11960 recorded earthquakes.
+The most recent earthquake had a magnitude of 2.5 and occurred in/near 20 km NNE of Yerington, Nevada on 12/09/2024 at 11:26 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
