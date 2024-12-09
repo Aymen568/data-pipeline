@@ -11693,3 +11693,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-09T03:26:45.275Z,50.9162,-177.5785,0.2,2.6,ml,,,,1.29,ak,ak024fsyu4ke,2024-12-09T03:39:50.357Z,"125 km SSW of Adak, Alaska",earthquake,,6.7,,,automatic,ak,ak
 2024-12-09T03:26:39.994Z,50.9072,-177.5274,10.0,5.7,mww,103.0,127.0,0.875,0.96,us,us7000nx6q,2024-12-09T03:45:38.185Z,"124 km SSW of Adak, Alaska",earthquake,4.4,1.834,0.047,44.0,reviewed,us,us
 2024-12-09T03:11:42.282Z,50.8103,-177.4949,10.0,4.9,mb,79.0,195.0,0.966,0.99,us,us7000nx6j,2024-12-09T03:32:46.040Z,"132 km SSW of Adak, Alaska",earthquake,3.6,1.847,0.042,180.0,reviewed,us,us
+2024-12-09T04:15:57.450Z,33.1908333,-116.183,6.69,2.35,ml,93.0,23.0,0.03727,0.2,ci,ci40997944,2024-12-09T04:21:04.209Z,"7 km NW of Ocotillo Wells, CA",earthquake,0.13,0.43,0.14,27.0,automatic,ci,ci
+2024-12-09T04:09:42.909Z,32.375,-102.093,3.8404,1.1,ml,9.0,64.0,0.0,0.4,tx,tx2024yczu,2024-12-09T04:11:30.813Z,"39 km WSW of Ackerly, Texas",earthquake,0.0,2.0985748767853,0.2,7.0,automatic,tx,tx
+2024-12-09T04:08:07.730Z,39.792999267578,-123.32566833496,5.8699998855591,1.68,md,8.0,137.0,0.1209,0.05,nc,nc75099886,2024-12-09T04:09:41.877Z,"7 km WNW of Covelo, CA",earthquake,0.37,1.45000005,0.1,7.0,automatic,nc,nc
+2024-12-09T04:01:43.578Z,62.3903,-151.6537,82.2,2.0,ml,,,,0.25,ak,ak024fsz9fdh,2024-12-09T04:03:27.902Z,"46 km NNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-12-09T03:50:29.734Z,13.2206,-87.875,15.366,5.6,mww,74.0,125.0,0.501,1.01,us,us7000nx79,2024-12-09T04:17:13.503Z,"9 km S of Conchagua, El Salvador",earthquake,6.13,5.342,0.046,45.0,reviewed,us,us
+2024-12-09T03:35:14.462Z,50.7977,-177.4855,10.0,4.2,mb,35.0,232.0,0.978,0.57,us,us7000nx7b,2024-12-09T04:14:48.040Z,"133 km SSW of Adak, Alaska",earthquake,5.28,1.951,0.118,20.0,reviewed,us,us
+2024-12-09T03:14:55.420Z,47.797,-122.762,21.26,0.98,ml,12.0,104.0,0.07287,0.16,uw,uw62066851,2024-12-09T04:06:40.660Z,"7 km WSW of Lofall, Washington",earthquake,0.56,0.78,0.14509302431776,5.0,reviewed,uw,uw
