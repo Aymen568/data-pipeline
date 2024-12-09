@@ -11752,3 +11752,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-09T05:21:31.128Z,50.8236,-177.4069,10.0,4.5,mb,76.0,211.0,0.945,0.73,us,us7000nx9f,2024-12-09T08:56:51.040Z,"128 km SSW of Adak, Alaska",earthquake,5.18,1.901,0.072,56.0,reviewed,us,us
 2024-12-09T09:32:29.528Z,38.8935,-119.697,5.9,1.2,ml,9.0,143.01,0.21,0.0974,nn,nn00888526,2024-12-09T09:34:57.446Z,"3 km E of Gardnerville Ranchos, Nevada",earthquake,,1.6,0.38,6.0,automatic,nn,nn
 2024-12-09T09:12:58.335Z,19.6812,-70.4604,27.852,4.1,mb,38.0,80.0,0.422,0.71,us,us7000nx9i,2024-12-09T09:41:22.321Z,"5 km NNW of Jamao al Norte, Dominican Republic",earthquake,3.75,7.751,0.174,9.0,reviewed,us,us
+2024-12-09T09:49:05.700Z,38.759166717529,-122.73916625977,1.3799999952316,1.06,md,7.0,120.0,0.007679,0.01,nc,nc75100016,2024-12-09T09:50:42.296Z,"3 km SSE of The Geysers, CA",earthquake,0.5,0.810000002,0.29,7.0,automatic,nc,nc
