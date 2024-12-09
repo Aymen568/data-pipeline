@@ -11705,3 +11705,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-09T04:35:25.350Z,34.3278333,-116.8643333,7.89,1.25,ml,54.0,47.0,0.03656,0.13,ci,ci40997952,2024-12-09T04:40:01.684Z,"8 km NNW of Big Bear City, CA",earthquake,0.12,0.26,0.144,27.0,automatic,ci,ci
 2024-12-09T03:56:08.461Z,50.826,-177.4915,13.678,3.9,mb,29.0,204.0,1.05,0.51,us,us7000nx7r,2024-12-09T04:40:08.040Z,"131 km SSW of Adak, Alaska",earthquake,6.69,6.88,0.118,19.0,reviewed,us,us
 2024-12-09T03:48:39.201Z,50.7915,-177.5226,10.0,4.1,mb,30.0,200.0,1.088,0.7,us,us7000nx7e,2024-12-09T04:34:10.040Z,"135 km SSW of Adak, Alaska",earthquake,5.03,1.88,0.078,45.0,reviewed,us,us
+2024-12-09T04:50:37.180Z,35.6868324,-117.4361649,10.55,1.05,ml,18.0,140.0,0.02393,0.09,ci,ci40997968,2024-12-09T04:52:42.639Z,"9 km SSW of Searles Valley, CA",earthquake,0.46,0.63,0.101,3.0,automatic,ci,ci
+2024-12-09T04:49:00.549Z,60.9454,-151.4023,67.5,1.8,ml,,,,0.33,ak,ak024fszjmfa,2024-12-09T04:50:53.694Z,"19 km SW of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-12-09T04:42:57.370Z,34.328,-116.8643333,7.57,1.07,ml,51.0,47.0,0.03647,0.15,ci,ci40997960,2024-12-09T04:47:58.367Z,"8 km NNW of Big Bear City, CA",earthquake,0.14,0.31,0.219,27.0,automatic,ci,ci
