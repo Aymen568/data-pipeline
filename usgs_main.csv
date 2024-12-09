@@ -11713,3 +11713,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-09T05:34:17.000Z,33.4008331,-116.4073334,6.99,1.06,ml,29.0,143.0,0.1325,0.26,ci,ci40997976,2024-12-09T05:36:27.111Z,"16 km N of Borrego Springs, CA",earthquake,0.57,2.2,0.069,2.0,automatic,ci,ci
 2024-12-09T05:31:34.930Z,44.332832336426,-110.47666931152,3.6400001049042,2.54,ml,21.0,62.0,0.07801,0.239999995,uu,uu80097036,2024-12-09T05:34:14.010Z,"61 km SE of West Yellowstone, Montana",earthquake,0.43,0.810000002,0.36,15.0,automatic,uu,uu
 2024-12-09T05:25:06.610Z,62.9208,-150.9321,102.5,2.2,ml,,,,0.44,ak,ak024fszzxb9,2024-12-09T05:27:45.989Z,"48 km N of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-12-09T05:40:09.520Z,31.5021667,-115.628,7.6,1.66,ml,7.0,107.0,0.1731,0.14,ci,ci40997984,2024-12-09T05:43:35.644Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.33,2.82,0.122,4.0,automatic,ci,ci
