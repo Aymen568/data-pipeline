@@ -7122,4 +7122,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.7 and occurred in/near 13 km SSE of Volcano, Hawaii on 12/09/2024 at 05:36 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 11858 recorded earthquakes.
 The most recent earthquake had a magnitude of 0.91 and occurred in/near 16 km NW of Parkfield, CA on 12/09/2024 at 05:50 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 11868 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.2 and occurred in/near 19 km NW of Stanton, Texas on 12/09/2024 at 06:18 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
