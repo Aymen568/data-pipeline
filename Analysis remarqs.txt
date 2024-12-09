@@ -7052,4 +7052,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.66 and occurred in/near 92 km SSW of Alberto Oviedo Mota, B.C., MX on 12/09/2024 at 05:40 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 11718 recorded earthquakes.
 The most recent earthquake had a magnitude of 2.1 and occurred in/near 22 km NNE of Yerington, Nevada on 12/09/2024 at 06:08 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 11722 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.88 and occurred in/near 13 km S of Leilani Estates, Hawaii on 12/09/2024 at 06:36 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
