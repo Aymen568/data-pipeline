@@ -11964,3 +11964,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-09T23:33:44.459Z,39.1596,-119.0706,7.2,2.2,ml,14.0,87.77,0.417,0.1417,nn,nn00888597,2024-12-09T23:36:02.878Z,"20 km NNE of Yerington, Nevada",earthquake,,1.0,0.27,10.0,automatic,nn,nn
 2024-12-09T23:32:29.070Z,39.1459,-119.078,3.9,2.6,ml,11.0,132.59,0.483,0.1789,nn,nn00888595,2024-12-09T23:40:47.295Z,"19 km NNE of Yerington, Nevada",earthquake,,6.3,0.36,6.0,automatic,nn,nn
 2024-12-09T23:29:48.468Z,39.1446,-119.064,15.9,3.0,ml,8.0,150.78,0.21,0.2506,nn,nn00888592,2024-12-09T23:32:10.978Z,"19 km NNE of Yerington, Nevada",earthquake,,0.7,0.28,4.0,automatic,nn,nn
+2024-12-09T23:50:48.100Z,39.1747,-119.0405,6.2,2.5,ml,16.0,87.27,0.245,0.1752,nn,nn00888618,2024-12-09T23:53:03.228Z,"23 km NNE of Yerington, Nevada",earthquake,,1.1,0.18,7.0,automatic,nn,nn
+2024-12-09T23:48:10.810Z,39.1614,-119.0707,4.6,1.9,ml,13.0,86.0,0.22,0.1576,nn,nn00888612,2024-12-09T23:50:42.682Z,"21 km NNE of Yerington, Nevada",earthquake,,1.7,0.19,7.0,automatic,nn,nn
+2024-12-09T23:41:07.277Z,39.1517,-119.0384,9.5,3.0,ml,17.0,103.65,0.229,0.2721,nn,nn00888610,2024-12-09T23:43:34.153Z,"21 km NNE of Yerington, Nevada",earthquake,,1.5,0.21,8.0,automatic,nn,nn
