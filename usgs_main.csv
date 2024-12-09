@@ -11710,3 +11710,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-09T04:42:57.370Z,34.328,-116.8643333,7.57,1.07,ml,51.0,47.0,0.03647,0.15,ci,ci40997960,2024-12-09T04:47:58.367Z,"8 km NNW of Big Bear City, CA",earthquake,0.14,0.31,0.219,27.0,automatic,ci,ci
 2024-12-09T05:07:58.990Z,44.7468,-71.0278,9.912,2.1,ml,24.0,67.0,0.195,0.4,us,us7000nx7y,2024-12-09T05:15:17.040Z,"5 km NNW of Upton, Maine",earthquake,1.89,6.087,0.105,12.0,reviewed,us,us
 2024-12-09T04:47:19.021Z,18.0715,-61.175,10.0,4.0,mb,29.0,244.0,0.706,0.65,us,us7000nx7u,2024-12-09T04:59:53.040Z,"83 km NE of Codrington, Antigua and Barbuda",earthquake,4.7,1.974,0.232,5.0,reviewed,us,us
+2024-12-09T05:34:17.000Z,33.4008331,-116.4073334,6.99,1.06,ml,29.0,143.0,0.1325,0.26,ci,ci40997976,2024-12-09T05:36:27.111Z,"16 km N of Borrego Springs, CA",earthquake,0.57,2.2,0.069,2.0,automatic,ci,ci
+2024-12-09T05:31:34.930Z,44.332832336426,-110.47666931152,3.6400001049042,2.54,ml,21.0,62.0,0.07801,0.239999995,uu,uu80097036,2024-12-09T05:34:14.010Z,"61 km SE of West Yellowstone, Montana",earthquake,0.43,0.810000002,0.36,15.0,automatic,uu,uu
+2024-12-09T05:25:06.610Z,62.9208,-150.9321,102.5,2.2,ml,,,,0.44,ak,ak024fszzxb9,2024-12-09T05:27:45.989Z,"48 km N of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
