@@ -12345,3 +12345,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-10T19:38:12.000Z,36.638000488281,-121.29000091553,4.0300002098083,1.74,md,21.0,79.0,0.03357,0.19,nc,nc75101216,2024-12-10T19:39:50.643Z,"17 km S of Tres Pinos, CA",earthquake,0.4,1.20000005,0.15,17.0,automatic,nc,nc
 2024-12-10T19:36:03.030Z,35.0201667,-117.1146667,2.37,2.34,ml,8.0,290.0,0.402,0.26,ci,ci40999144,2024-12-10T19:43:26.671Z,"16 km NNW of Barstow, CA",earthquake,8.4,17.82,0.485,33.0,automatic,ci,ci
 2024-12-10T11:55:42.129Z,39.1698,-119.0541,6.5,2.6,ml,26.0,84.8,0.235,0.1678,nn,nn00888938,2024-12-10T19:47:19.065Z,"22 km NNE of Yerington, Nevada",earthquake,,3.2,0.28,11.0,reviewed,nn,nn
+2024-12-10T19:55:56.700Z,35.0736656,-119.0944977,14.01,1.74,ml,14.0,107.0,0.01741,0.18,ci,ci40999176,2024-12-10T19:58:27.770Z,"21 km NW of Grapevine, CA",earthquake,0.88,1.29,0.236,3.0,automatic,ci,ci
