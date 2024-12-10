@@ -12341,3 +12341,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-10T19:14:19.830Z,40.349834442139,-125.07516479492,0.090000003576279,2.79,md,26.0,288.0,0.5635,0.31,nc,nc75101206,2024-12-10T19:15:49.424Z,"67 km WNW of Petrolia, CA",earthquake,5.72,8.07999992,0.18,18.0,automatic,nc,nc
 2024-12-10T19:08:38.950Z,38.823833465576,-122.79666900635,2.6600000858307,0.54,md,10.0,110.0,0.01048,0.01,nc,nc75101201,2024-12-10T19:10:15.468Z,"6 km NNW of The Geysers, CA",earthquake,0.71,1.45000005,0.25,10.0,automatic,nc,nc
 2024-12-10T18:02:18.080Z,33.6385,-116.7468333,15.29,0.48,ml,12.0,91.0,0.06805,0.08,ci,ci40999024,2024-12-10T19:13:38.923Z,"12 km NW of Anza, CA",earthquake,0.27,0.63,0.206,6.0,reviewed,ci,ci
+2024-12-10T19:33:52.589Z,62.0329,-148.5538,51.7,1.7,ml,,,,0.79,ak,ak024fuvx5ju,2024-12-10T19:35:18.753Z,"26 km N of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak

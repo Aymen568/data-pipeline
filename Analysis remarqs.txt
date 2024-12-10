@@ -7266,4 +7266,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 2.0 and occurred in/near 58 km WNW of Petersville, Alaska on 12/10/2024 at 07:01 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 12342 recorded earthquakes.
 The most recent earthquake had a magnitude of 2.79 and occurred in/near 67 km WNW of Petrolia, CA on 12/10/2024 at 07:14 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 12343 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.7 and occurred in/near 26 km N of Chickaloon, Alaska on 12/10/2024 at 07:33 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
