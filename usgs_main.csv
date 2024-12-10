@@ -12174,3 +12174,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-10T08:00:43.565Z,39.125,-119.0803,16.0,1.2,ml,8.0,126.3,0.187,0.1408,nn,nn00888854,2024-12-10T08:03:18.879Z,"17 km NNE of Yerington, Nevada",earthquake,,2.1,0.05,4.0,automatic,nn,nn
 2024-12-10T07:50:56.268Z,-35.9942,53.3992,10.0,5.3,mb,50.0,51.0,12.293,0.51,us,us7000nxj8,2024-12-10T08:08:16.040Z,Southwest Indian Ridge,earthquake,10.72,1.863,0.076,57.0,reviewed,us,us
 2024-12-10T06:28:14.018Z,50.9687,-177.3901,25.9,4.0,ml,,,,0.58,ak,ak024fuo5daz,2024-12-10T08:24:45.608Z,"113 km SSW of Adak, Alaska",earthquake,,2.1,,,reviewed,ak,ak
+2024-12-10T08:48:04.204Z,39.1685,-119.0431,5.8,1.7,ml,16.0,86.76,0.239,0.1909,nn,nn00888868,2024-12-10T08:50:32.590Z,"22 km NNE of Yerington, Nevada",earthquake,,1.0,0.21,10.0,automatic,nn,nn
+2024-12-10T08:45:44.208Z,61.3833,-152.3965,13.2,0.9,ml,,,,0.16,ak,ak024fupfxuc,2024-12-10T08:47:17.420Z,"75 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
