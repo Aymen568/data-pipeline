@@ -12378,3 +12378,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-10T21:48:50.612Z,39.1626,-119.04,10.6,1.2,ml,8.0,122.74,0.236,0.1528,nn,nn00889073,2024-12-10T21:51:16.074Z,"22 km NNE of Yerington, Nevada",earthquake,,3.7,0.2,3.0,automatic,nn,nn
 2024-12-10T21:44:16.060Z,35.9588333,-117.6825,5.18,0.72,ml,21.0,61.0,0.02825,0.12,ci,ci40999288,2024-12-10T21:47:44.298Z,"20 km E of Little Lake, CA",earthquake,0.2,0.38,0.093,6.0,automatic,ci,ci
 2024-12-10T05:35:50.460Z,51.604666666667,-177.94866666667,21.16,1.59,ml,5.0,313.0,0.1541,0.18,av,av93401501,2024-12-10T21:50:06.990Z,"95 km WSW of Adak, Alaska",earthquake,1.51,2.58,0.23130213890054,5.0,reviewed,av,av
+2024-12-10T21:26:39.376Z,5.6963,127.4169,39.222,4.7,mb,27.0,120.0,2.28,1.29,us,us7000nxpp,2024-12-10T22:02:08.040Z,"155 km ESE of Pondaguitan, Philippines",earthquake,9.82,6.604,0.085,42.0,reviewed,us,us
+2024-12-10T09:52:31.090Z,41.95,-119.586,0.0,1.3,ml,3.0,210.0,0.536,0.0945,nn,nn00889080,2024-12-10T22:17:46.609Z,"47 km ENE of Fort Bidwell, California",earthquake,,0.0,0.11,2.0,reviewed,nn,nn
+2024-12-10T08:17:47.453Z,41.9426,-119.5835,0.9,1.4,ml,4.0,211.28,0.537,0.0656,nn,nn00889078,2024-12-10T22:11:39.111Z,"47 km E of Fort Bidwell, California",earthquake,,5.1,0.0,1.0,reviewed,nn,nn
+2024-12-10T06:41:06.910Z,61.260166666667,-152.2065,22.72,-0.24,ml,9.0,101.0,0.02546,0.16,av,av93401651,2024-12-10T22:07:02.530Z,"61 km WNW of Tyonek, Alaska",earthquake,0.64,0.92,0.2054854413008,10.0,reviewed,av,av
+2024-12-10T01:01:48.270Z,41.9265,-119.5773,1.1,1.8,ml,4.0,214.06,0.541,0.0869,nn,nn00889074,2024-12-10T22:02:28.372Z,"48 km E of Fort Bidwell, California",earthquake,,4.7,0.2,3.0,reviewed,nn,nn
