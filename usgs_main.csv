@@ -12224,3 +12224,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-10T11:24:28.612Z,39.1584,-119.0286,0.0,1.9,ml,14.0,87.66,0.239,0.2096,nn,nn00888929,2024-12-10T11:26:55.246Z,"22 km NNE of Yerington, Nevada",earthquake,,21.0,0.35,6.0,automatic,nn,nn
 2024-12-10T11:21:42.460Z,40.298999786377,-124.51950073242,5.8400001525879,2.65,md,22.0,267.0,,0.09,nc,nc75100976,2024-12-10T11:23:19.276Z,"20 km W of Petrolia, CA",earthquake,1.71,0.99000001,0.11,22.0,automatic,nc,nc
 2024-12-10T10:49:37.560Z,18.270833333333,-67.977833333333,110.61,3.34,md,7.0,184.0,0.846,0.25,pr,pr71468218,2024-12-10T11:23:45.880Z,"56 km SE of Punta Cana, Dominican Republic",earthquake,3.27,2.09,0.086796029523097,4.0,reviewed,pr,pr
+2024-12-10T11:46:45.187Z,39.146,-119.0464,15.9,1.3,ml,9.0,125.95,0.22,0.2471,nn,nn00888935,2024-12-10T11:48:54.727Z,"20 km NNE of Yerington, Nevada",earthquake,,3.6,0.11,3.0,automatic,nn,nn
+2024-12-10T11:44:13.927Z,63.7671,-149.0851,28.1,2.0,ml,,,,1.05,ak,ak024fur7yls,2024-12-10T11:46:14.889Z,"9 km WNW of Denali Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
