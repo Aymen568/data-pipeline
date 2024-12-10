@@ -12160,3 +12160,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-10T07:39:47.260Z,38.819332122803,-122.81283569336,2.5299999713898,1.1,md,20.0,42.0,0.004595,0.02,nc,nc75100881,2024-12-10T07:41:23.529Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.50999999,0.14,22.0,automatic,nc,nc
 2024-12-10T07:39:47.166Z,39.1545,-119.0391,12.5,1.6,ml,10.0,124.79,0.231,0.1235,nn,nn00888851,2024-12-10T07:42:19.037Z,"21 km NNE of Yerington, Nevada",earthquake,,2.0,0.31,6.0,automatic,nn,nn
 2024-12-10T07:33:50.380Z,34.318,-116.4545,7.43,0.83,ml,19.0,103.0,0.06516,0.13,ci,ci40998872,2024-12-10T07:37:12.764Z,"23 km N of Yucca Valley, CA",earthquake,0.22,0.57,0.117,6.0,automatic,ci,ci
+2024-12-10T07:52:16.021Z,61.2747,-150.9241,19.5,1.8,ml,,,,0.67,ak,ak024fuovy2q,2024-12-10T07:54:15.191Z,"17 km NNE of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
