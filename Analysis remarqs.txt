@@ -7252,4 +7252,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 3.41 and occurred in/near 42 km SW of Captain Cook, Hawaii on 12/10/2024 at 04:45 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 12308 recorded earthquakes.
 The most recent earthquake had a magnitude of 0.71 and occurred in/near 7 km NNW of The Geysers, CA on 12/10/2024 at 05:09 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 12312 recorded earthquakes.
+The most recent earthquake had a magnitude of 2.85 and occurred in/near 31 km WNW of Bayview, CA on 12/10/2024 at 05:28 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
