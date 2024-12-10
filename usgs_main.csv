@@ -12213,3 +12213,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-10T10:27:42.180Z,40.295333862305,-124.57216644287,-0.10999999940395,3.49,ml,41.0,262.0,,0.28,nc,nc75100956,2024-12-10T10:43:51.718Z,"25 km W of Petrolia, CA",earthquake,2.67,4.01999998,0.469,5.0,reviewed,nc,nc
 2024-12-10T10:25:57.510Z,40.304668426514,-124.50483703613,7.9400000572205,3.63,mw,31.0,267.0,,0.12,nc,nc75100951,2024-12-10T10:45:12.712Z,"19 km W of Petrolia, CA",earthquake,1.4,0.560000002,,5.0,reviewed,nc,nc
 2024-12-10T10:03:03.030Z,36.7497,70.9161,87.851,4.7,mb,71.0,66.0,2.36,0.93,us,us7000nxk3,2024-12-10T10:30:03.040Z,"14 km SSE of Jurm, Afghanistan",earthquake,6.34,7.893,0.069,64.0,reviewed,us,us
+2024-12-10T10:47:11.725Z,39.1307,-119.075,13.9,1.4,ml,11.0,125.61,0.194,0.215,nn,nn00888919,2024-12-10T10:49:13.707Z,"17 km NNE of Yerington, Nevada",earthquake,,1.7,0.28,6.0,automatic,nn,nn
