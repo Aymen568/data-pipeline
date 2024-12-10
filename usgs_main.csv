@@ -12400,3 +12400,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-10T23:08:01.175Z,39.1543,-119.0196,0.9,1.6,ml,9.0,89.45,0.241,0.1175,nn,nn00889098,2024-12-10T23:23:17.767Z,"22 km NNE of Yerington, Nevada",earthquake,,25.3,0.24,6.0,automatic,nn,nn
 2024-12-10T11:15:15.530Z,61.277333333333,-152.24866666667,3.09,-0.85,ml,7.0,150.0,0.04679,0.08,av,av93402176,2024-12-10T23:20:33.400Z,"64 km WNW of Tyonek, Alaska",earthquake,0.34,0.51,0.22522063147646,8.0,reviewed,av,av
 2024-12-10T23:38:07.904Z,36.3038,-115.95,15.9,1.4,ml,15.0,260.31,0.358,0.318,nn,nn00889103,2024-12-10T23:40:12.072Z,"11 km NNE of Pahrump, Nevada",earthquake,,0.7,0.25,12.0,automatic,nn,nn
+2024-12-10T23:46:42.316Z,62.0714,-151.2284,94.1,2.4,ml,,,,0.36,ak,ak024fuydnhj,2024-12-10T23:49:55.784Z,"12 km NE of Skwentna, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-12-10T23:44:39.950Z,40.682498931885,-124.3381652832,26.469999313354,2.1,md,21.0,191.0,0.2493,0.14,nc,nc75101366,2024-12-10T23:46:15.339Z,"13 km NNW of Ferndale, CA",earthquake,1.11,2.68000007,0.18,12.0,automatic,nc,nc
