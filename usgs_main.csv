@@ -12113,3 +12113,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-10T05:24:04.548Z,39.1578,-119.0628,7.8,1.4,ml,12.0,85.78,0.221,0.1681,nn,nn00888821,2024-12-10T05:26:16.920Z,"20 km NNE of Yerington, Nevada",earthquake,,1.0,0.3,6.0,automatic,nn,nn
 2024-12-09T23:36:11.322Z,39.175,-119.0171,10.0,3.2,ml,36.0,42.15,0.257,0.1607,nn,nn00888604,2024-12-10T05:36:55.310Z,"24 km NNE of Yerington, Nevada",earthquake,,2.0,0.39,12.0,reviewed,nn,nn
 2024-12-09T18:41:04.330Z,61.3175,-152.25533333333,0.57,0.17,ml,10.0,123.0,0.07121,0.09,av,av93400231,2024-12-10T05:31:45.410Z,"65 km WNW of Beluga, Alaska",earthquake,0.2,1.84,0.26662443234053,10.0,reviewed,av,av
+2024-12-10T05:47:07.402Z,39.1622,-119.0346,3.1,2.6,ml,24.0,84.74,0.239,0.2053,nn,nn00888826,2024-12-10T05:49:29.827Z,"22 km NNE of Yerington, Nevada",earthquake,,1.7,0.46,12.0,automatic,nn,nn
+2024-12-10T05:42:12.971Z,63.4246,-147.5139,0.0,1.8,ml,,,,0.58,ak,ak024funmxgx,2024-12-10T05:44:07.171Z,"71 km E of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
