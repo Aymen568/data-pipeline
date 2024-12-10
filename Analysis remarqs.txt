@@ -7282,4 +7282,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 0.76 and occurred in/near 17 km W of Searles Valley, CA on 12/10/2024 at 09:04 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 12372 recorded earthquakes.
 The most recent earthquake had a magnitude of 2.91 and occurred in/near 17 km S of Tres Pinos, CA on 12/10/2024 at 09:28 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 12375 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.4 and occurred in/near 17 km NNE of Yerington, Nevada on 12/10/2024 at 09:36 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
