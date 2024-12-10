@@ -12186,3 +12186,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-10T08:55:28.285Z,39.1263,-119.0485,0.8,1.6,ml,15.0,89.54,0.205,0.1538,nn,nn00888871,2024-12-10T08:57:41.712Z,"18 km NNE of Yerington, Nevada",earthquake,,9.0,0.13,9.0,automatic,nn,nn
 2024-12-10T08:54:06.170Z,38.827499389648,-122.80699920654,3.079999923706,0.7,md,14.0,53.0,0.00475,0.03,nc,nc75100906,2024-12-10T08:55:42.949Z,"7 km NNW of The Geysers, CA",earthquake,0.35,1.07000005,0.21,15.0,automatic,nc,nc
 2024-12-10T08:53:45.773Z,39.1735,-119.024,0.7,1.4,ml,9.0,122.21,0.252,0.1119,nn,nn00888870,2024-12-10T08:56:00.544Z,"24 km NNE of Yerington, Nevada",earthquake,,56.1,0.18,5.0,automatic,nn,nn
+2024-12-10T09:22:20.564Z,39.1432,-119.0238,1.4,1.2,ml,8.0,134.63,0.231,0.1622,nn,nn00888880,2024-12-10T09:25:40.807Z,"21 km NE of Yerington, Nevada",earthquake,,25.9,0.37,4.0,automatic,nn,nn
+2024-12-10T09:14:57.790Z,39.13,-119.061,15.9,1.2,ml,8.0,128.04,0.201,0.1683,nn,nn00888879,2024-12-10T09:17:30.546Z,"18 km NNE of Yerington, Nevada",earthquake,,2.2,0.38,5.0,automatic,nn,nn
+2024-12-10T09:13:31.008Z,39.155,-119.0628,7.0,1.6,ml,12.0,85.57,0.219,0.1583,nn,nn00888876,2024-12-10T09:16:01.628Z,"20 km NNE of Yerington, Nevada",earthquake,,1.7,0.12,7.0,automatic,nn,nn
