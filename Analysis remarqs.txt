@@ -7262,4 +7262,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.45 and occurred in/near 6 km NNW of The Geysers, CA on 12/10/2024 at 06:22 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 12333 recorded earthquakes.
 The most recent earthquake had a magnitude of 2.37 and occurred in/near 40 km W of Petrolia, CA on 12/10/2024 at 06:43 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 12339 recorded earthquakes.
+The most recent earthquake had a magnitude of 2.0 and occurred in/near 58 km WNW of Petersville, Alaska on 12/10/2024 at 07:01 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
