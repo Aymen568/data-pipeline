@@ -12190,3 +12190,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-10T09:14:57.790Z,39.13,-119.061,15.9,1.2,ml,8.0,128.04,0.201,0.1683,nn,nn00888879,2024-12-10T09:17:30.546Z,"18 km NNE of Yerington, Nevada",earthquake,,2.2,0.38,5.0,automatic,nn,nn
 2024-12-10T09:13:31.008Z,39.155,-119.0628,7.0,1.6,ml,12.0,85.57,0.219,0.1583,nn,nn00888876,2024-12-10T09:16:01.628Z,"20 km NNE of Yerington, Nevada",earthquake,,1.7,0.12,7.0,automatic,nn,nn
 2024-12-10T09:34:32.341Z,39.1433,-119.0409,15.9,1.2,ml,8.0,151.28,0.221,0.3559,nn,nn00888881,2024-12-10T09:36:50.879Z,"20 km NNE of Yerington, Nevada",earthquake,,2.0,0.04,3.0,automatic,nn,nn
+2024-12-10T09:52:29.654Z,39.1423,-119.0179,4.3,1.7,ml,13.0,84.82,0.234,0.1614,nn,nn00888886,2024-12-10T09:54:52.719Z,"21 km NE of Yerington, Nevada",earthquake,,2.0,0.12,7.0,automatic,nn,nn
+2024-12-10T09:49:16.013Z,39.1362,-119.0409,16.0,1.4,ml,10.0,178.13,0.216,0.1715,nn,nn00888885,2024-12-10T09:51:41.747Z,"19 km NNE of Yerington, Nevada",earthquake,,2.4,0.36,6.0,automatic,nn,nn
+2024-12-10T09:48:24.630Z,35.7233333,-118.4103333,3.09,1.47,ml,33.0,38.0,0.05414,0.19,ci,ci40998888,2024-12-10T09:51:58.227Z,"4 km SSE of Kernville, CA",earthquake,0.21,0.5,0.257,21.0,automatic,ci,ci
+2024-12-10T09:48:14.776Z,39.1682,-119.0201,4.2,1.2,ml,9.0,158.75,0.457,0.0925,nn,nn00888884,2024-12-10T09:50:21.546Z,"23 km NNE of Yerington, Nevada",earthquake,,2.8,0.23,5.0,automatic,nn,nn
+2024-12-10T09:47:12.349Z,39.162,-119.0706,3.3,1.1,ml,10.0,134.67,0.221,0.1202,nn,nn00888882,2024-12-10T09:49:21.703Z,"21 km NNE of Yerington, Nevada",earthquake,,7.3,0.28,3.0,automatic,nn,nn
