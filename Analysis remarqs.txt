@@ -7212,4 +7212,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.7 and occurred in/near 21 km NE of Yerington, Nevada on 12/10/2024 at 09:52 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 12206 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.9 and occurred in/near 21 km NNE of Yerington, Nevada on 12/10/2024 at 10:25 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 12214 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.4 and occurred in/near 20 km NNE of Yerington, Nevada on 12/10/2024 at 10:42 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
