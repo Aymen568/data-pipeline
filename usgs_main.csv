@@ -12509,3 +12509,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-11T08:07:16.370Z,17.9665,-66.842666666667,17.46,2.59,md,12.0,200.0,0.03585,0.11,pr,pr71468278,2024-12-11T08:17:29.260Z,"3 km SW of Indios, Puerto Rico",earthquake,0.44,0.56,0.25019658701676,7.0,reviewed,pr,pr
 2024-12-11T08:00:09.416Z,39.1593,-119.0981,9.1,1.2,ml,9.0,133.14,0.206,0.1168,nn,nn00889188,2024-12-11T08:02:37.870Z,"20 km NNE of Yerington, Nevada",earthquake,,1.0,0.04,3.0,automatic,nn,nn
 2024-12-11T07:50:13.358Z,63.8598,-144.5819,10.3,0.8,ml,,,,0.33,ak,ak024fwceuxi,2024-12-11T08:01:51.362Z,"15 km SSE of Healy Lake, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-12-11T08:39:58.370Z,35.7698333,-117.5843333,6.81,0.99,ml,29.0,55.0,0.1518,0.15,ci,ci40999528,2024-12-11T08:43:35.707Z,"16 km W of Searles Valley, CA",earthquake,0.18,0.6,0.106,9.0,automatic,ci,ci
+2024-12-11T08:23:24.870Z,33.9185,-116.8101667,13.57,1.33,ml,56.0,23.0,0.0222,0.17,ci,ci40999520,2024-12-11T08:27:31.513Z,"2 km W of Cabazon, CA",earthquake,0.15,0.4,0.131,26.0,automatic,ci,ci
