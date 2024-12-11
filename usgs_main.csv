@@ -12639,3 +12639,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-11T07:29:17.160Z,46.596666666667,-119.7995,7.57,0.29,ml,8.0,179.0,0.02965,0.08,uw,uw62067256,2024-12-11T19:35:17.230Z,"12 km SE of Desert Aire, Washington",earthquake,0.3,0.18,0.092352874913886,6.0,reviewed,uw,uw
 2024-12-10T20:00:48.726Z,32.086,-102.207,7.251,1.1,ml,18.0,78.0,0.0,0.1,tx,tx2024ygat,2024-12-11T19:40:44.152Z,"15 km NW of Midland, Texas",earthquake,0.64163687941319,0.72980314525125,0.2,14.0,reviewed,tx,tx
 2024-12-11T09:29:35.980Z,19.165833333333,-155.50666666667,31.18,1.82,md,23.0,167.0,0.04337,0.13,hv,hv74562357,2024-12-11T20:11:56.380Z,"5 km SW of Pāhala, Hawaii",earthquake,0.55,0.67,0.043709817113133,9.0,reviewed,hv,hv
+2024-12-11T11:44:18.918Z,60.0411,-153.0867,1.3,1.2,ml,,,,0.25,ak,ak024fwer6q4,2024-12-11T20:30:25.268Z,"63 km ENE of Pedro Bay, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2024-12-11T09:48:35.626Z,52.7235,-163.5174,20.8,3.6,ml,,,,0.73,ak,ak024fwdldot,2024-12-11T20:31:46.100Z,"217 km SE of Akutan, Alaska",earthquake,,4.2,,,reviewed,ak,ak
+2024-12-11T09:06:52.152Z,61.1561,-148.5896,36.4,1.3,ml,,,,0.15,ak,ak024fwdccel,2024-12-11T20:23:13.062Z,"38 km SSE of Knik River, Alaska",earthquake,,1.4,,,reviewed,ak,ak
+2024-12-11T08:29:38.560Z,46.194,-122.18,7.57,-0.08,ml,10.0,99.0,0.007284,0.11,uw,uw62067271,2024-12-11T20:25:48.610Z,"37 km NNE of Amboy, Washington",earthquake,0.43,0.59,0.047921662911216,3.0,reviewed,uw,uw
+2024-12-10T23:07:18.512Z,32.141,-101.077,9.0088,1.7,ml,14.0,82.0,0.2,0.1,tx,tx2024yggz,2024-12-11T20:16:30.466Z,"24 km SSW of Westbrook, Texas",earthquake,0.88575775424002,2.4448062124832,0.2,17.0,reviewed,tx,tx
