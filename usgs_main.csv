@@ -12597,3 +12597,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-11T17:13:04.690Z,34.339,-116.8835,0.2,1.27,ml,29.0,45.0,0.04723,0.27,ci,ci40999800,2024-12-11T17:17:29.182Z,"9 km NNW of Big Bear City, CA",earthquake,0.4,0.61,0.128,28.0,automatic,ci,ci
 2024-12-11T16:47:27.650Z,18.796,-64.542166666667,27.52,3.18,md,7.0,309.0,0.3811,0.33,pr,pr71468288,2024-12-11T17:18:24.650Z,"57 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,8.77,19.58,0.04654669943221,5.0,reviewed,pr,pr
 2024-12-11T16:44:03.836Z,-12.0226,166.0929,39.342,5.4,mww,69.0,65.0,3.571,0.53,us,us7000nxwu,2024-12-11T17:03:43.503Z,"147 km SSE of Lata, Solomon Islands",earthquake,8.49,6.4,0.063,24.0,reviewed,us,us
+2024-12-11T17:25:36.570Z,38.782665252685,-122.75816345215,2.4400000572205,0.59,md,9.0,91.0,0.01332,0.02,nc,nc75101831,2024-12-11T17:27:13.573Z,"1 km  of The Geysers, CA",earthquake,0.56,1.01999998,0.14,9.0,automatic,nc,nc
+2024-12-11T17:19:57.290Z,34.0228333,-117.5948333,3.77,2.0,ml,22.0,77.0,0.01463,0.13,ci,ci40999816,2024-12-11T17:24:31.218Z,"4 km SE of Ontario, CA",earthquake,0.19,0.48,0.32,28.0,automatic,ci,ci
