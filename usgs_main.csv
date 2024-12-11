@@ -12638,3 +12638,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-11T19:25:45.215Z,39.1592,-119.0712,6.3,1.9,ml,13.0,101.59,0.218,0.1313,nn,nn00889269,2024-12-11T19:27:46.863Z,"20 km NNE of Yerington, Nevada",earthquake,,1.1,0.09,7.0,automatic,nn,nn
 2024-12-11T07:29:17.160Z,46.596666666667,-119.7995,7.57,0.29,ml,8.0,179.0,0.02965,0.08,uw,uw62067256,2024-12-11T19:35:17.230Z,"12 km SE of Desert Aire, Washington",earthquake,0.3,0.18,0.092352874913886,6.0,reviewed,uw,uw
 2024-12-10T20:00:48.726Z,32.086,-102.207,7.251,1.1,ml,18.0,78.0,0.0,0.1,tx,tx2024ygat,2024-12-11T19:40:44.152Z,"15 km NW of Midland, Texas",earthquake,0.64163687941319,0.72980314525125,0.2,14.0,reviewed,tx,tx
+2024-12-11T09:29:35.980Z,19.165833333333,-155.50666666667,31.18,1.82,md,23.0,167.0,0.04337,0.13,hv,hv74562357,2024-12-11T20:11:56.380Z,"5 km SW of Pāhala, Hawaii",earthquake,0.55,0.67,0.043709817113133,9.0,reviewed,hv,hv
