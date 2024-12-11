@@ -12526,3 +12526,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-11T09:50:47.150Z,38.789665222168,-122.77083587647,0.03999999910593,0.26,md,6.0,100.0,0.0138,0.02,nc,nc75101696,2024-12-11T09:52:20.784Z,"2 km NNW of The Geysers, CA",earthquake,0.52,1.48000002,0.02,5.0,automatic,nc,nc
 2024-12-11T09:46:05.410Z,35.4986667,-118.401,5.14,1.42,ml,38.0,41.0,0.1742,0.13,ci,ci40999544,2024-12-11T09:49:36.917Z,"13 km SE of Bodfish, CA",earthquake,0.14,0.93,0.192,25.0,automatic,ci,ci
 2024-12-11T10:08:32.695Z,59.7858,-147.5406,17.4,2.3,ml,,,,0.87,ak,ak024fwdy75x,2024-12-11T10:11:00.912Z,"40 km SE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-11T10:37:18.181Z,61.0113,-146.5329,4.1,2.0,ml,,,,0.85,ak,ak024fwe4dt6,2024-12-11T10:39:53.384Z,"16 km SW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-11T10:22:48.995Z,39.1205,-119.0469,13.5,1.2,ml,9.0,166.15,0.43,0.1862,nn,nn00889213,2024-12-11T10:25:19.163Z,"18 km NE of Yerington, Nevada",earthquake,,2.3,0.18,3.0,automatic,nn,nn
