@@ -7334,4 +7334,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 3.3 and occurred in/near 6 km S of Kasilof, Alaska on 12/11/2024 at 07:38 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 12506 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.07 and occurred in/near 6 km NW of The Geysers, CA on 12/11/2024 at 07:49 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 12510 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.4 and occurred in/near 16 km NE of Yerington, Nevada on 12/11/2024 at 08:09 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n

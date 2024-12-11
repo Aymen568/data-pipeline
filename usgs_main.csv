@@ -12505,3 +12505,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-11T07:04:22.230Z,18.022666666667,-66.854,16.38,1.84,md,4.0,171.0,0.05311,0.05,pr,pr71468273,2024-12-11T07:19:38.130Z,"1 km SSW of Yauco, Puerto Rico",earthquake,2.76,1.49,0.1408604244353,4.0,reviewed,pr,pr
 2024-12-11T07:38:45.453Z,60.2771,-151.2519,42.6,3.3,ml,,,,0.9,ak,ak024fwcccup,2024-12-11T07:40:55.035Z,"6 km S of Kasilof, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2024-12-11T07:49:40.520Z,38.814834594727,-122.80916595459,2.9900000095367,1.07,md,22.0,44.0,0.01282,0.02,nc,nc75101626,2024-12-11T07:51:14.787Z,"6 km NW of The Geysers, CA",earthquake,0.23,0.600000024,0.11,22.0,automatic,nc,nc
+2024-12-11T08:09:49.722Z,39.0952,-119.0294,0.0,1.4,ml,11.0,102.03,0.198,0.2576,nn,nn00889191,2024-12-11T08:11:58.454Z,"16 km NE of Yerington, Nevada",earthquake,,12.2,0.16,6.0,automatic,nn,nn
+2024-12-11T08:07:16.370Z,17.9665,-66.842666666667,17.46,2.59,md,12.0,200.0,0.03585,0.11,pr,pr71468278,2024-12-11T08:17:29.260Z,"3 km SW of Indios, Puerto Rico",earthquake,0.44,0.56,0.25019658701676,7.0,reviewed,pr,pr
+2024-12-11T08:00:09.416Z,39.1593,-119.0981,9.1,1.2,ml,9.0,133.14,0.206,0.1168,nn,nn00889188,2024-12-11T08:02:37.870Z,"20 km NNE of Yerington, Nevada",earthquake,,1.0,0.04,3.0,automatic,nn,nn
+2024-12-11T07:50:13.358Z,63.8598,-144.5819,10.3,0.8,ml,,,,0.33,ak,ak024fwceuxi,2024-12-11T08:01:51.362Z,"15 km SSE of Healy Lake, Alaska",earthquake,,0.7,,,automatic,ak,ak
