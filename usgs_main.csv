@@ -12490,3 +12490,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-11T05:59:00.140Z,38.805168151855,-122.80549621582,0.87999999523163,1.09,md,18.0,97.0,0.008441,0.03,nc,nc75101571,2024-12-11T06:32:15.981Z,"5 km NW of The Geysers, CA",earthquake,0.22,0.370000005,0.22,18.0,automatic,nc,nc
 2024-12-11T05:58:50.989Z,39.074,-119.04,4.5,1.2,ml,8.0,107.04,0.179,0.2596,nn,nn00889170,2024-12-11T06:02:26.570Z,"14 km NE of Yerington, Nevada",earthquake,,2.3,0.33,4.0,automatic,nn,nn
 2024-12-11T05:57:46.110Z,39.0658,-119.074,11.7,1.2,ml,8.0,105.75,0.152,0.2358,nn,nn00889169,2024-12-11T06:01:06.485Z,"11 km NE of Yerington, Nevada",earthquake,,0.8,0.14,3.0,automatic,nn,nn
+2024-12-11T06:46:59.250Z,36.001167297363,-120.56066894531,3.8099999427795,2.03,md,27.0,81.0,0.02117,0.08,nc,nc75101591,2024-12-11T06:50:04.190Z,"16 km NW of Parkfield, CA",earthquake,0.21,0.310000002,0.21,19.0,automatic,nc,nc
+2024-12-11T06:39:52.120Z,61.378,-151.0463,64.1,2.6,ml,,,,0.36,ak,ak024fwbr5fw,2024-12-11T06:41:25.968Z,"26 km N of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-12-11T06:30:57.231Z,37.552,-116.6761,14.0,1.2,ml,11.0,180.44,0.438,0.2637,nn,nn00889175,2024-12-11T06:34:17.147Z,"52 km ESE of Goldfield, Nevada",earthquake,,2.0,0.23,7.0,automatic,nn,nn
+2024-12-11T06:30:16.196Z,39.7179,-117.5295,12.2,2.5,ml,12.0,234.55,0.434,0.2669,nn,nn00889172,2024-12-11T06:33:07.807Z,"46 km WNW of Austin, Nevada",earthquake,,1.7,0.16,9.0,automatic,nn,nn
