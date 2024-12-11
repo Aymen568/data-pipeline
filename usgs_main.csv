@@ -12467,3 +12467,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-11T04:48:23.532Z,39.1601,-119.0414,0.8,2.6,ml,18.0,86.1,0.233,0.1586,nn,nn00889155,2024-12-11T04:50:28.509Z,"22 km NNE of Yerington, Nevada",earthquake,,6.6,0.21,11.0,automatic,nn,nn
 2024-12-11T04:43:42.814Z,39.1671,-119.0423,7.5,1.2,ml,9.0,87.39,0.439,0.1494,nn,nn00889153,2024-12-11T04:46:56.174Z,"22 km NNE of Yerington, Nevada",earthquake,,1.0,0.13,4.0,automatic,nn,nn
 2024-12-11T04:40:40.460Z,40.454833984375,-125.10333251953,0.43000000715256,3.46,ml,55.0,268.0,,0.26,nc,nc75101526,2024-12-11T04:47:17.252Z,"71 km WNW of Petrolia, CA",earthquake,2.49,6.11999989,0.221,11.0,automatic,nc,nc
+2024-12-11T05:02:45.810Z,39.1781,-119.0342,1.9,1.6,ml,13.0,87.58,0.251,0.127,nn,nn00889159,2024-12-11T05:05:17.173Z,"24 km NNE of Yerington, Nevada",earthquake,,9.4,0.14,7.0,automatic,nn,nn
+2024-12-11T04:50:16.300Z,33.3906667,-116.3936667,12.98,0.79,ml,34.0,86.0,0.1237,0.2,ci,ci40999480,2024-12-11T04:54:28.428Z,"15 km N of Borrego Springs, CA",earthquake,0.28,0.56,0.122,15.0,automatic,ci,ci
+2024-12-11T01:30:09.040Z,46.219833333333,-122.31883333333,10.92,0.53,ml,17.0,93.0,0.04004,0.12,uw,uw62067191,2024-12-11T04:59:46.110Z,"35 km NNE of Amboy, Washington",earthquake,0.38,0.64,0.22091979216279,9.0,reviewed,uw,uw
