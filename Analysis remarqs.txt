@@ -7402,4 +7402,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.15 and occurred in/near 9 km SSW of Idyllwild, CA on 12/11/2024 at 06:41 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 12633 recorded earthquakes.
 The most recent earthquake had a magnitude of 2.13000011 and occurred in/near 5 km SSW of Pāhala, Hawaii on 12/11/2024 at 07:11 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 12635 recorded earthquakes.
+The most recent earthquake had a magnitude of 2.13000011 and occurred in/near 5 km SSW of Pāhala, Hawaii on 12/11/2024 at 07:11 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
