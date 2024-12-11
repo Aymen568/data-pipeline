@@ -12511,3 +12511,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-11T07:50:13.358Z,63.8598,-144.5819,10.3,0.8,ml,,,,0.33,ak,ak024fwceuxi,2024-12-11T08:01:51.362Z,"15 km SSE of Healy Lake, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-11T08:39:58.370Z,35.7698333,-117.5843333,6.81,0.99,ml,29.0,55.0,0.1518,0.15,ci,ci40999528,2024-12-11T08:43:35.707Z,"16 km W of Searles Valley, CA",earthquake,0.18,0.6,0.106,9.0,automatic,ci,ci
 2024-12-11T08:23:24.870Z,33.9185,-116.8101667,13.57,1.33,ml,56.0,23.0,0.0222,0.17,ci,ci40999520,2024-12-11T08:27:31.513Z,"2 km W of Cabazon, CA",earthquake,0.15,0.4,0.131,26.0,automatic,ci,ci
+2024-12-11T08:50:57.340Z,40.283000946045,-124.45216369629,19.059999465942,1.91,md,15.0,266.0,,0.15,nc,nc75101641,2024-12-11T08:52:35.045Z,"15 km W of Petrolia, CA",earthquake,3.14,1.00999999,0.07,10.0,automatic,nc,nc
+2024-12-10T10:07:33.582Z,50.948,-177.1601,24.814,4.0,mb,78.0,209.0,0.816,0.69,us,us7000nxmx,2024-12-11T08:50:04.040Z,"109 km SSW of Adak, Alaska",earthquake,5.52,8.792,0.075,48.0,reviewed,us,us
