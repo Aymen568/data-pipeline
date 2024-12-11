@@ -7374,4 +7374,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.28 and occurred in/near 14 km ENE of Borrego Springs, CA on 12/11/2024 at 02:20 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 12565 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.9 and occurred in/near 55 km N of Karluk, Alaska on 12/11/2024 at 02:37 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 12567 recorded earthquakes.
+The most recent earthquake had a magnitude of 0.9 and occurred in/near 43 km WNW of Indian Springs, Nevada on 12/11/2024 at 02:49 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
