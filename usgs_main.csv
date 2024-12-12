@@ -12967,3 +12967,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T23:02:38.186Z,61.5278,-151.8793,13.5,1.1,ml,,,,0.91,ak,ak024fy96wne,2024-12-12T23:04:23.355Z,"57 km SSW of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-12T22:59:21.689Z,63.1258,-151.5265,0.0,2.2,ml,,,,0.94,ak,ak024fy8xnl4,2024-12-12T23:02:42.019Z,"47 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-12T22:53:58.180Z,40.300498962402,-124.47699737549,17.790000915527,2.16,md,8.0,310.0,0.1489,0.03,nc,nc75102471,2024-12-12T23:07:15.627Z,"17 km W of Petrolia, CA",earthquake,4.4,0.720000029,0.21,4.0,automatic,nc,nc
+2024-12-12T23:29:05.790Z,38.808334350586,-122.82066345215,2.9900000095367,1.12,md,25.0,55.0,0.006674,0.02,nc,nc75102481,2024-12-12T23:30:40.113Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.449999988,0.22,26.0,automatic,nc,nc

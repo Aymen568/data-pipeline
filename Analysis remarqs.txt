@@ -7570,4 +7570,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.7 and occurred in/near 68 km SE of Pedro Bay, Alaska on 12/12/2024 at 10:42 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 12968 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.45 and occurred in/near 7 km S of Mojave, CA on 12/12/2024 at 11:04 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 12969 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.12 and occurred in/near 7 km NW of The Geysers, CA on 12/12/2024 at 11:29 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
