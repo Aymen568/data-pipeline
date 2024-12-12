@@ -12923,3 +12923,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T01:50:40.540Z,51.780666666667,-178.8275,8.09,0.6,ml,5.0,141.0,0.0183,0.13,av,av93405696,2024-12-12T19:02:15.700Z,"151 km W of Adak, Alaska",earthquake,0.84,0.64,0.13249276253315,5.0,reviewed,av,av
 2024-12-12T13:06:23.437Z,52.1538,-170.4259,13.7,3.8,ml,,,,0.73,ak,ak024fy39e6l,2024-12-12T19:23:34.728Z,"137 km SW of Nikolski, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2024-12-12T19:27:45.702Z,61.4077,-147.2679,12.9,2.6,ml,,,,0.69,ak,ak024fy6yjpg,2024-12-12T19:29:21.470Z,"49 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-12T00:51:58.940Z,56.875333333333,-158.136,3.02,0.38,ml,4.0,160.0,0.02389,0.13,av,av93405661,2024-12-12T19:41:16.130Z,"66 km NNE of Chignik, Alaska",earthquake,0.47,1.66,0.26316702817577,4.0,reviewed,av,av
