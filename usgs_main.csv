@@ -12963,3 +12963,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T22:29:39.328Z,65.0103,-148.8027,18.1,1.0,ml,,,,0.22,ak,ak024fy8r9gs,2024-12-12T22:31:36.098Z,"30 km ESE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-12T22:42:03.770Z,59.4164,-153.1298,76.8,1.7,ml,,,,0.53,ak,ak024fy8tz15,2024-12-12T22:44:04.127Z,"68 km SE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-12T22:15:46.130Z,39.0947,-119.0244,10.5,2.3,ml,21.0,71.47,0.075,0.1473,nn,nn00889391,2024-12-12T22:53:53.183Z,"17 km NE of Yerington, Nevada",earthquake,,0.8,0.22,11.0,reviewed,nn,nn
+2024-12-12T23:04:51.710Z,34.988,-118.1873333,0.54,1.45,ml,38.0,36.0,0.1141,0.19,ci,ci41000960,2024-12-12T23:08:41.427Z,"7 km S of Mojave, CA",earthquake,0.23,0.47,0.128,32.0,automatic,ci,ci
+2024-12-12T23:02:38.186Z,61.5278,-151.8793,13.5,1.1,ml,,,,0.91,ak,ak024fy96wne,2024-12-12T23:04:23.355Z,"57 km SSW of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-12T22:59:21.689Z,63.1258,-151.5265,0.0,2.2,ml,,,,0.94,ak,ak024fy8xnl4,2024-12-12T23:02:42.019Z,"47 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-12T22:53:58.180Z,40.300498962402,-124.47699737549,17.790000915527,2.16,md,8.0,310.0,0.1489,0.03,nc,nc75102471,2024-12-12T23:07:15.627Z,"17 km W of Petrolia, CA",earthquake,4.4,0.720000029,0.21,4.0,automatic,nc,nc
