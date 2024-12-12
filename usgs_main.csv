@@ -12791,3 +12791,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-11T11:53:29.478Z,22.5999,93.8524,59.461,4.4,mb,31.0,172.0,1.703,0.78,us,us7000nxub,2024-12-12T08:34:52.040Z,"25 km ESE of Hakha, Myanmar",earthquake,6.85,9.093,0.115,22.0,reviewed,us,us
 2024-12-11T11:28:22.809Z,-8.7273,122.5666,142.243,4.3,mb,12.0,164.0,0.338,0.56,us,us7000nxu2,2024-12-12T08:31:10.040Z,"40 km ESE of Maumere, Indonesia",earthquake,13.74,7.571,0.169,10.0,reviewed,us,us
 2024-12-11T09:48:33.993Z,52.6845,-163.4841,10.0,3.9,mb,40.0,175.0,1.948,0.68,us,us7000nxxx,2024-12-12T08:26:59.040Z,"221 km SE of Akutan, Alaska",earthquake,7.26,1.964,0.181,8.0,reviewed,us,us
+2024-12-12T09:11:48.790Z,38.777500152588,-122.75916290283,0.73000001907349,1.46,md,17.0,85.0,0.01845,0.06,nc,nc75102236,2024-12-12T09:13:24.136Z,"0 km WNW of The Geysers, CA",earthquake,0.28,0.50999999,0.24,17.0,automatic,nc,nc
+2024-12-12T09:11:31.670Z,31.671,-104.397,7.1252,2.6,ml,19.0,69.0,0.0,0.2,tx,tx2024yiwg,2024-12-12T09:26:25.143Z,"55 km S of Whites City, New Mexico",earthquake,0.76396004514029,0.81304704113974,0.1,29.0,reviewed,tx,tx
+2024-12-12T08:47:40.980Z,-17.8703,-178.5256,591.297,4.4,mb,55.0,134.0,2.442,0.65,us,us7000ny42,2024-12-12T09:03:14.040Z,"229 km E of Levuka, Fiji",earthquake,15.05,9.112,0.04,182.0,reviewed,us,us
