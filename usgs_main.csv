@@ -12968,3 +12968,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T22:59:21.689Z,63.1258,-151.5265,0.0,2.2,ml,,,,0.94,ak,ak024fy8xnl4,2024-12-12T23:02:42.019Z,"47 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-12T22:53:58.180Z,40.300498962402,-124.47699737549,17.790000915527,2.16,md,8.0,310.0,0.1489,0.03,nc,nc75102471,2024-12-12T23:07:15.627Z,"17 km W of Petrolia, CA",earthquake,4.4,0.720000029,0.21,4.0,automatic,nc,nc
 2024-12-12T23:29:05.790Z,38.808334350586,-122.82066345215,2.9900000095367,1.12,md,25.0,55.0,0.006674,0.02,nc,nc75102481,2024-12-12T23:30:40.113Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.449999988,0.22,26.0,automatic,nc,nc
+2024-12-12T23:39:06.870Z,33.2806667,-115.7041667,2.89,1.97,ml,55.0,38.0,0.07578,0.19,ci,ci41000984,2024-12-12T23:44:15.480Z,"8 km SSE of Bombay Beach, CA",earthquake,0.16,0.33,0.156,27.0,automatic,ci,ci
+2024-12-12T23:26:41.582Z,31.67,-104.393,6.7114,1.7,ml,16.0,70.0,0.0,0.3,tx,tx2024yjym,2024-12-12T23:36:24.375Z,"56 km S of Whites City, New Mexico",earthquake,0.0,2.811065196991,0.1,13.0,automatic,tx,tx
