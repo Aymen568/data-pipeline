@@ -12795,3 +12795,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T09:11:31.670Z,31.671,-104.397,7.1252,2.6,ml,19.0,69.0,0.0,0.2,tx,tx2024yiwg,2024-12-12T09:26:25.143Z,"55 km S of Whites City, New Mexico",earthquake,0.76396004514029,0.81304704113974,0.1,29.0,reviewed,tx,tx
 2024-12-12T08:47:40.980Z,-17.8703,-178.5256,591.297,4.4,mb,55.0,134.0,2.442,0.65,us,us7000ny42,2024-12-12T09:03:14.040Z,"229 km E of Levuka, Fiji",earthquake,15.05,9.112,0.04,182.0,reviewed,us,us
 2024-12-12T09:33:28.552Z,60.2647,-151.838,55.5,1.8,ml,,,,0.41,ak,ak024fy11gmv,2024-12-12T09:35:21.566Z,"24 km W of Clam Gulch, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2024-12-12T09:47:29.666Z,61.3735,-151.682,70.2,1.2,ml,,,,0.25,ak,ak024fy14gqu,2024-12-12T09:49:46.019Z,"41 km NW of Beluga, Alaska",earthquake,,1.0,,,automatic,ak,ak
