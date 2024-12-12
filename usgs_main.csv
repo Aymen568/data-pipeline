@@ -12959,3 +12959,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T17:11:24.280Z,38.503,-112.90283333333,3.06,1.26,ml,19.0,75.0,0.01278,0.12,uu,uu80097316,2024-12-12T21:56:45.110Z,"15 km NE of Milford, Utah",earthquake,0.26,0.43,0.017939794006702,2.0,reviewed,uu,uu
 2024-12-12T22:05:47.668Z,60.7776,-151.5569,98.4,2.0,ml,,,,0.63,ak,ak024fy8m4xa,2024-12-12T22:07:18.372Z,"17 km WNW of Nikiski, Alaska",earthquake,,4.4,,,automatic,ak,ak
 2024-12-12T22:01:10.077Z,39.3292,-163.5132,0.0,1.9,ml,,,,0.95,ak,ak024fy8lwre,2024-12-12T22:17:46.470Z,North Pacific Ocean,earthquake,,63.9,,,automatic,ak,ak
+2024-12-12T22:35:57.603Z,60.1968,-151.9923,33.4,1.5,ml,,,,1.16,ak,ak024fy8sl68,2024-12-12T22:37:53.252Z,"24 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-12-12T22:29:39.328Z,65.0103,-148.8027,18.1,1.0,ml,,,,0.22,ak,ak024fy8r9gs,2024-12-12T22:31:36.098Z,"30 km ESE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
