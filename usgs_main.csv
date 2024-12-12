@@ -12837,3 +12837,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T14:00:07.214Z,64.1505,-148.7223,9.8,1.5,ml,,,,0.71,ak,ak024fy3tidt,2024-12-12T14:02:19.282Z,"24 km NE of Ferry, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-12-12T13:58:03.540Z,63.0954,-151.3351,0.0,1.8,ml,,,,0.72,ak,ak024fy3ki0y,2024-12-12T14:00:19.373Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-12T13:46:42.240Z,17.3815,-67.8231,27.0,3.54,md,18.0,244.0,0.9485,0.28,pr,pr2024347002,2024-12-12T14:14:33.435Z,"94 km SW of Pole Ojea, Puerto Rico",earthquake,1.27,13.83,0.04,11.0,reviewed,pr,pr
+2024-12-12T14:41:18.299Z,60.2439,-151.9423,81.1,1.9,ml,,,,0.42,ak,ak024fy42blh,2024-12-12T14:42:54.902Z,"26 km NW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-12-12T14:40:53.451Z,60.1309,-150.869,114.9,2.0,ml,,,,1.0,ak,ak024fy426rs,2024-12-12T14:42:48.336Z,"30 km N of Fox River, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2024-12-12T14:37:06.140Z,33.638,-116.7278333,16.67,0.5,ml,30.0,46.0,0.0546,0.1,ci,ci41000576,2024-12-12T14:42:18.646Z,"10 km NNW of Anza, CA",earthquake,0.16,0.34,0.171,14.0,automatic,ci,ci
+2024-12-12T14:25:16.990Z,31.923,-115.803,8.03,2.64,ml,15.0,86.0,0.1165,0.26,ci,ci41000568,2024-12-12T14:28:50.742Z,"69 km WSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.46,1.23,0.124,27.0,automatic,ci,ci
+2024-12-12T12:06:26.630Z,41.559333333333,-109.8585,-3.49,2.55,ml,24.0,157.0,0.1091,0.21,uu,uu80097306,2024-12-12T14:43:01.980Z,"1 km N of Little America, Wyoming",earthquake,0.64,1.06,0.20513616533573,11.0,reviewed,uu,uu
+2024-12-11T22:12:35.017Z,32.357,-102.079,5.542,1.1,ml,25.0,63.0,0.0,0.2,tx,tx2024yian,2024-12-12T14:37:12.073Z,"37 km NW of Stanton, Texas",earthquake,0.55443498690902,0.90975136266182,0.2,19.0,reviewed,tx,tx
