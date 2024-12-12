@@ -12924,3 +12924,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T13:06:23.437Z,52.1538,-170.4259,13.7,3.8,ml,,,,0.73,ak,ak024fy39e6l,2024-12-12T19:23:34.728Z,"137 km SW of Nikolski, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2024-12-12T19:27:45.702Z,61.4077,-147.2679,12.9,2.6,ml,,,,0.69,ak,ak024fy6yjpg,2024-12-12T19:29:21.470Z,"49 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-12T00:51:58.940Z,56.875333333333,-158.136,3.02,0.38,ml,4.0,160.0,0.02389,0.13,av,av93405661,2024-12-12T19:41:16.130Z,"66 km NNE of Chignik, Alaska",earthquake,0.47,1.66,0.26316702817577,4.0,reviewed,av,av
+2024-12-12T19:57:54.664Z,64.9202,-146.4847,6.2,2.1,ml,,,,0.62,ak,ak024fy74zvu,2024-12-12T20:00:02.670Z,"18 km ENE of Pleasant Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-12T19:55:20.012Z,30.5632,141.9457,10.0,5.1,mb,87.0,119.0,3.125,0.62,us,us7000ny8l,2024-12-12T20:12:33.040Z,"Izu Islands, Japan region",earthquake,9.12,1.864,0.064,84.0,reviewed,us,us
+2024-12-12T19:46:39.943Z,-11.8928,166.232,10.0,5.1,mb,31.0,148.0,3.657,1.17,us,us7000ny8h,2024-12-12T20:07:04.129Z,"137 km SSE of Lata, Solomon Islands",earthquake,10.37,1.898,0.114,25.0,reviewed,us,us
+2024-12-12T19:41:36.526Z,-17.3815,-178.8278,550.697,5.0,mb,67.0,115.0,1.945,0.86,us,us7000ny8g,2024-12-12T19:57:28.040Z,"210 km ENE of Levuka, Fiji",earthquake,13.41,8.506,0.072,61.0,reviewed,us,us
+2024-12-12T19:37:10.764Z,-12.0513,166.0756,10.0,5.0,mb,26.0,108.0,3.549,1.18,us,us7000ny8e,2024-12-12T20:07:26.973Z,"149 km SSE of Lata, Solomon Islands",earthquake,6.75,1.962,0.088,47.0,reviewed,us,us
+2024-12-12T15:50:54.950Z,19.631666666667,-156.07333333333,6.28,1.76,md,10.0,334.0,0.3717,0.15,hv,hv74563372,2024-12-12T20:11:50.380Z,"7 km W of Kailua-Kona, Hawaii",earthquake,3.79,31.61,0.23899238152122,8.0,reviewed,hv,hv
+2024-12-12T01:07:34.620Z,58.251666666667,-155.126,27.58,0.12,ml,11.0,82.0,0.04779,0.07,av,av93405671,2024-12-12T19:57:45.640Z,"85 km NNW of Karluk, Alaska",earthquake,0.42,0.48,0.29656863077025,12.0,reviewed,av,av
