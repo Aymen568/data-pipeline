@@ -12899,3 +12899,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T06:33:55.380Z,38.510333333333,-112.89966666667,2.51,1.37,ml,18.0,88.0,0.01345,0.12,uu,uu80097276,2024-12-12T17:13:58.900Z,"15 km NE of Milford, Utah",earthquake,0.32,0.52,0.11192756421962,2.0,reviewed,uu,uu
 2024-12-12T04:06:59.250Z,38.512333333333,-112.8925,1.66,0.92,ml,17.0,67.0,0.009337,0.11,uu,uu80097271,2024-12-12T17:17:23.030Z,"16 km NE of Milford, Utah",earthquake,0.24,0.51,0.11372590909062,2.0,reviewed,uu,uu
 2024-12-12T01:38:14.670Z,38.510666666667,-112.8975,2.77,0.87,ml,14.0,111.0,0.01245,0.09,uu,uu80097261,2024-12-12T17:20:26.130Z,"16 km NE of Milford, Utah",earthquake,0.35,0.48,0.10789724840687,2.0,reviewed,uu,uu
+2024-12-12T17:33:28.104Z,59.488,-152.6065,82.4,3.1,ml,,,,0.29,ak,ak024fy5sxej,2024-12-12T17:34:43.467Z,"41 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
