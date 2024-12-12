@@ -12773,3 +12773,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T06:18:01.088Z,31.677,-104.402,5.9415,1.7,ml,16.0,69.0,0.0,0.3,tx,tx2024yiqo,2024-12-12T06:25:35.382Z,"55 km S of Whites City, New Mexico",earthquake,0.0,2.637243270874,0.1,13.0,automatic,tx,tx
 2024-12-12T06:15:37.865Z,31.333,-103.614,9.4037,1.7,ml,8.0,143.0,0.1,0.4,tx,tx2024yiqm,2024-12-12T06:22:35.598Z,"8 km WSW of Lindsay, Texas",earthquake,0.0,4.8750247955322,0.1,6.0,automatic,tx,tx
 2024-12-12T05:58:33.587Z,60.1221,-152.483,93.6,2.0,ml,,,,0.41,ak,ak024fxyt3i6,2024-12-12T06:00:29.716Z,"46 km W of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-12-12T06:04:26.410Z,17.344,-67.8143,25.0,3.57,md,17.0,322.0,0.9671,0.34,pr,pr2024347000,2024-12-12T06:38:13.925Z,"96 km SW of Pole Ojea, Puerto Rico",earthquake,1.75,21.83,0.08,12.0,reviewed,pr,pr
