@@ -12774,3 +12774,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T06:15:37.865Z,31.333,-103.614,9.4037,1.7,ml,8.0,143.0,0.1,0.4,tx,tx2024yiqm,2024-12-12T06:22:35.598Z,"8 km WSW of Lindsay, Texas",earthquake,0.0,4.8750247955322,0.1,6.0,automatic,tx,tx
 2024-12-12T05:58:33.587Z,60.1221,-152.483,93.6,2.0,ml,,,,0.41,ak,ak024fxyt3i6,2024-12-12T06:00:29.716Z,"46 km W of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-12T06:04:26.410Z,17.344,-67.8143,25.0,3.57,md,17.0,322.0,0.9671,0.34,pr,pr2024347000,2024-12-12T06:38:13.925Z,"96 km SW of Pole Ojea, Puerto Rico",earthquake,1.75,21.83,0.08,12.0,reviewed,pr,pr
+2024-12-12T07:11:49.400Z,35.6148338,-117.4434967,6.28,1.23,ml,25.0,44.0,0.03212,0.12,ci,ci41000424,2024-12-12T07:13:56.300Z,"17 km SSW of Searles Valley, CA",earthquake,0.28,0.53,0.048,3.0,automatic,ci,ci
+2024-12-12T07:01:48.980Z,19.143333435059,-155.36332702637,28.260000228882,1.95000005,md,22.0,224.0,0.09416,0.119999997,hv,hv74563192,2024-12-12T07:03:19.240Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.85,1.02999997,0.0500000007,3.0,automatic,hv,hv
+2024-12-12T06:58:08.535Z,18.5757,-68.7744,132.928,3.6,ml,26.0,120.0,0.811,0.64,us,us7000ny3p,2024-12-12T07:08:53.040Z,"8 km WSW of Salvaleón de Higüey, Dominican Republic",earthquake,7.82,13.242,0.057,41.0,reviewed,us,us
+2024-12-12T06:51:35.258Z,38.1565,-117.8163,7.8,1.4,ml,9.0,131.98,0.116,0.1797,nn,nn00889333,2024-12-12T06:54:12.009Z,"36 km SE of Mina, Nevada",earthquake,,0.6,0.63,6.0,automatic,nn,nn
+2024-12-12T06:36:26.788Z,-0.8508,99.3663,10.0,4.8,mb,30.0,188.0,2.79,1.04,us,us7000ny3m,2024-12-12T06:56:07.040Z,"87 km WSW of Pariaman, Indonesia",earthquake,10.2,1.942,0.127,19.0,reviewed,us,us
