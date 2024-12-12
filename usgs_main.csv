@@ -12916,3 +12916,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T18:30:14.710Z,35.3851667,-117.7548333,6.24,0.96,ml,28.0,76.0,0.1113,0.15,ci,ci41000800,2024-12-12T18:33:45.087Z,"11 km W of Johannesburg, CA",earthquake,0.18,0.63,0.176,13.0,automatic,ci,ci
 2024-12-12T18:11:47.073Z,6.3875,-73.131,188.698,4.3,mb,30.0,88.0,0.494,0.63,us,us7000ny84,2024-12-12T18:32:04.040Z,"5 km N of Ocamonte, Colombia",earthquake,7.36,5.99,0.1,28.0,reviewed,us,us
 2024-12-12T13:18:36.920Z,45.457166666667,-122.77283333333,21.83,1.44,ml,26.0,103.0,0.0677,0.14,uw,uw62059112,2024-12-12T18:23:21.110Z,"1 km SW of Garden Home-Whitford, Oregon",earthquake,0.26,0.35,0.11751493216903,14.0,reviewed,uw,uw
+2024-12-12T18:41:46.400Z,33.2936667,-116.2461667,4.44,1.02,ml,50.0,28.0,0.08669,0.21,ci,ci41000824,2024-12-12T18:45:47.099Z,"13 km ENE of Borrego Springs, CA",earthquake,0.18,0.58,0.154,27.0,automatic,ci,ci
+2024-12-12T10:43:00.268Z,39.1703,-119.0008,14.2,2.5,ml,17.0,87.1,0.263,0.1771,nn,nn00889341,2024-12-12T18:47:06.146Z,"24 km NE of Yerington, Nevada",earthquake,,1.7,0.16,8.0,reviewed,nn,nn
