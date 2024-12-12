@@ -12900,3 +12900,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T04:06:59.250Z,38.512333333333,-112.8925,1.66,0.92,ml,17.0,67.0,0.009337,0.11,uu,uu80097271,2024-12-12T17:17:23.030Z,"16 km NE of Milford, Utah",earthquake,0.24,0.51,0.11372590909062,2.0,reviewed,uu,uu
 2024-12-12T01:38:14.670Z,38.510666666667,-112.8975,2.77,0.87,ml,14.0,111.0,0.01245,0.09,uu,uu80097261,2024-12-12T17:20:26.130Z,"16 km NE of Milford, Utah",earthquake,0.35,0.48,0.10789724840687,2.0,reviewed,uu,uu
 2024-12-12T17:33:28.104Z,59.488,-152.6065,82.4,3.1,ml,,,,0.29,ak,ak024fy5sxej,2024-12-12T17:34:43.467Z,"41 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-12-12T17:44:44.906Z,61.2928,-152.2651,7.4,1.4,ml,,,,0.15,ak,ak024fy5vbm2,2024-12-12T17:46:22.419Z,"65 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-12T17:43:21.200Z,38.814666748047,-122.46499633789,4.7800002098083,1.04,md,5.0,127.0,0.01631,0.01,nc,nc75102431,2024-12-12T17:45:00.034Z,"8 km E of Hidden Valley Lake, CA",earthquake,0.51,0.670000017,0.15,5.0,automatic,nc,nc
+2024-12-12T02:47:08.372Z,31.891,-102.061,8.0322,0.8,ml,22.0,44.0,0.1,0.1,tx,tx2024yijp,2024-12-12T17:46:52.765Z,"11 km S of Midland, Texas",earthquake,0.70121319729319,1.4640412583633,0.2,18.0,reviewed,tx,tx
