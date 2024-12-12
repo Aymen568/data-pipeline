@@ -12918,3 +12918,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T13:18:36.920Z,45.457166666667,-122.77283333333,21.83,1.44,ml,26.0,103.0,0.0677,0.14,uw,uw62059112,2024-12-12T18:23:21.110Z,"1 km SW of Garden Home-Whitford, Oregon",earthquake,0.26,0.35,0.11751493216903,14.0,reviewed,uw,uw
 2024-12-12T18:41:46.400Z,33.2936667,-116.2461667,4.44,1.02,ml,50.0,28.0,0.08669,0.21,ci,ci41000824,2024-12-12T18:45:47.099Z,"13 km ENE of Borrego Springs, CA",earthquake,0.18,0.58,0.154,27.0,automatic,ci,ci
 2024-12-12T10:43:00.268Z,39.1703,-119.0008,14.2,2.5,ml,17.0,87.1,0.263,0.1771,nn,nn00889341,2024-12-12T18:47:06.146Z,"24 km NE of Yerington, Nevada",earthquake,,1.7,0.16,8.0,reviewed,nn,nn
+2024-12-12T18:53:46.224Z,61.3315,-150.0669,43.2,1.9,ml,,,,0.4,ak,ak024fy6iori,2024-12-12T18:55:48.054Z,"5 km WSW of Point MacKenzie, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-12-12T09:42:54.455Z,61.6362,-149.7584,29.1,1.2,ml,,,,0.3,ak,ak024fy13jow,2024-12-12T18:59:30.125Z,"3 km ENE of Houston, Alaska",earthquake,,2.7,,,reviewed,ak,ak
+2024-12-12T01:50:40.540Z,51.780666666667,-178.8275,8.09,0.6,ml,5.0,141.0,0.0183,0.13,av,av93405696,2024-12-12T19:02:15.700Z,"151 km W of Adak, Alaska",earthquake,0.84,0.64,0.13249276253315,5.0,reviewed,av,av

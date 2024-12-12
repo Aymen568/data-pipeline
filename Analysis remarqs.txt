@@ -7538,4 +7538,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 0.88 and occurred in/near 7 km NNE of Banning, CA on 12/12/2024 at 06:30 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 12919 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.02 and occurred in/near 13 km ENE of Borrego Springs, CA on 12/12/2024 at 06:41 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 12922 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.9 and occurred in/near 5 km WSW of Point MacKenzie, Alaska on 12/12/2024 at 06:53 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
