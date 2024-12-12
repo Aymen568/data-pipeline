@@ -7514,4 +7514,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.9 and occurred in/near 26 km NW of Ninilchik, Alaska on 12/12/2024 at 02:41 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 12845 recorded earthquakes.
 The most recent earthquake had a magnitude of 3.71 and occurred in/near 68 km WNW of Petrolia, CA on 12/12/2024 at 02:50 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 12857 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.1 and occurred in/near 7 km NNW of The Geysers, CA on 12/12/2024 at 03:17 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
