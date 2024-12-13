@@ -13104,3 +13104,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-13T10:44:36.470Z,38.822834014893,-122.85633087158,2.3599998950958,0.79,md,17.0,88.0,0.004723,0.02,nc,nc75102696,2024-12-13T10:46:15.122Z,"10 km NW of The Geysers, CA",earthquake,0.27,0.560000002,0.26,17.0,automatic,nc,nc
 2024-12-13T10:44:22.380Z,33.9606667,-118.332,5.64,1.79,ml,56.0,76.0,0.01019,0.28,ci,ci41001144,2024-12-13T10:49:06.249Z,"1 km ENE of Inglewood, CA",earthquake,0.29,0.37,0.183,27.0,automatic,ci,ci
 2024-12-13T10:41:13.185Z,59.621,-152.2019,56.8,1.6,ml,,,,0.37,ak,ak024fzp7x9y,2024-12-13T10:42:52.811Z,"27 km SW of Anchor Point, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-12-13T10:50:50.390Z,38.81600189209,-122.79316711426,2.2400000095367,1.38,md,29.0,31.0,0.008194,0.02,nc,nc75102706,2024-12-13T11:03:34.860Z,"5 km NNW of The Geysers, CA",earthquake,0.18,0.330000013,0.14,30.0,automatic,nc,nc
+2024-12-13T10:42:24.346Z,-18.4644,-177.8271,625.963,4.3,mb,50.0,168.0,3.325,0.74,us,us7000nyed,2024-12-13T11:01:25.040Z,Fiji region,earthquake,13.11,10.221,0.085,39.0,reviewed,us,us
