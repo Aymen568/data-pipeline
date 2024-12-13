@@ -13182,3 +13182,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-13T17:12:35.541Z,39.1381,-119.0437,1.4,1.6,ml,8.0,89.99,0.216,0.1371,nn,nn00889507,2024-12-13T17:15:56.024Z,"19 km NNE of Yerington, Nevada",earthquake,,15.2,0.29,4.0,automatic,nn,nn
 2024-12-13T10:08:40.080Z,41.799833333333,-112.35816666667,7.2,0.3,md,7.0,103.0,0.1318,0.08,uu,uu80097391,2024-12-13T17:10:13.920Z,"7 km E of Howell, Utah",earthquake,0.38,2.22,0.16588675956171,5.0,reviewed,uu,uu
 2024-12-13T04:09:15.210Z,44.681166666667,-110.16683333333,9.18,1.8,ml,9.0,124.0,0.0595,0.04,uu,uu80097381,2024-12-13T17:14:05.510Z,"38 km SSW of Silver Gate, Montana",earthquake,0.43,0.95,0.1495306588034,3.0,reviewed,uu,uu
+2024-12-13T17:40:45.020Z,32.9891663,-116.430336,6.19,1.51,ml,51.0,43.0,0.02395,0.2,ci,ci41001312,2024-12-13T17:42:51.480Z,"19 km ESE of Julian, CA",earthquake,0.23,0.54,0.234,17.0,automatic,ci,ci
+2024-12-13T17:39:33.475Z,60.5269,-147.4167,19.1,2.3,ml,,,,0.63,ak,ak024fztdkn7,2024-12-13T17:41:40.273Z,"55 km SW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
