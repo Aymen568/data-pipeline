@@ -7700,4 +7700,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.98000002 and occurred in/near 11 km S of Fern Forest, Hawaii on 12/13/2024 at 09:15 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 13229 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.74 and occurred in/near 5 km SW of Volcano, Hawaii on 12/13/2024 at 09:43 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 13233 recorded earthquakes.
+The most recent earthquake had a magnitude of 0.96 and occurred in/near 3 km NNW of The Geysers, CA on 12/13/2024 at 09:57 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
