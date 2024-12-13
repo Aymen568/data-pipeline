@@ -13110,3 +13110,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-13T11:33:43.440Z,33.9451667,-118.3513333,8.11,1.6,ml,37.0,194.0,0.01489,0.29,ci,ci41001152,2024-12-13T11:38:09.512Z,"1 km N of Lennox, CA",earthquake,0.64,0.67,0.138,30.0,automatic,ci,ci
 2024-12-13T11:47:20.428Z,39.1403,-119.05,0.0,1.8,ml,11.0,126.89,0.214,0.1524,nn,nn00889479,2024-12-13T11:49:23.942Z,"19 km NNE of Yerington, Nevada",earthquake,,15.2,0.31,5.0,automatic,nn,nn
 2024-12-13T11:40:04.696Z,38.1134,-117.8911,4.1,1.9,ml,14.0,132.73,0.113,0.3493,nn,nn00889476,2024-12-13T11:42:45.748Z,"36 km SSE of Mina, Nevada",earthquake,,0.9,0.45,8.0,automatic,nn,nn
+2024-12-13T12:08:58.149Z,39.1645,-119.0562,0.8,1.6,ml,8.0,86.35,0.229,0.0812,nn,nn00889481,2024-12-13T12:12:23.226Z,"21 km NNE of Yerington, Nevada",earthquake,,25.3,0.23,3.0,automatic,nn,nn
