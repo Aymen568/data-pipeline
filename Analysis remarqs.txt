@@ -7672,4 +7672,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.51 and occurred in/near 19 km ESE of Julian, CA on 12/13/2024 at 05:40 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 13187 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.7 and occurred in/near 34 km N of Sutton-Alpine, Alaska on 12/13/2024 at 05:51 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 13195 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.8 and occurred in/near 68 km W of Karluk, Alaska on 12/13/2024 at 06:14 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
