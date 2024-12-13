@@ -13150,3 +13150,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-13T04:35:39.780Z,36.7037,-116.2762,5.4,-0.1,ml,19.0,106.67,0.035,0.0864,nn,nn00889490,2024-12-13T15:33:10.891Z,"48 km ESE of Beatty, Nevada",earthquake,,1.2,0.17,7.0,reviewed,nn,nn
 2024-12-12T21:57:50.080Z,44.235,-115.17983333333,16.63,2.01,ml,14.0,71.0,0.8326,0.17,mb,mb90068523,2024-12-13T15:33:52.250Z,"19 km W of Stanley, Idaho",earthquake,0.38,1.11,0.21052196128051,15.0,reviewed,mb,mb
 2024-12-12T19:34:16.980Z,44.813666666667,-111.46433333333,9.05,0.22,ml,8.0,119.0,0.02977,0.15,mb,mb90068513,2024-12-13T15:22:44.290Z,"22 km WNW of Hebgen Lake Estates, Montana",earthquake,0.56,1.04,0.17958829034084,4.0,reviewed,mb,mb
+2024-12-13T15:43:23.530Z,60.9289,-150.6184,51.7,1.5,ml,,,,1.0,ak,ak024fzs7jj5,2024-12-13T15:45:30.798Z,"3 km E of Point Possession, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-12-13T15:35:23.162Z,63.1518,-144.5538,14.3,2.4,ml,,,,0.19,ak,ak024fzs5trw,2024-12-13T15:36:46.418Z,"47 km WNW of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-13T15:33:35.582Z,39.1272,-119.027,3.7,3.4,ml,34.0,83.63,0.218,0.2918,nn,nn00889492,2024-12-13T15:44:09.040Z,"19 km NE of Yerington, Nevada",earthquake,,0.9,0.52,18.0,automatic,nn,nn
+2024-12-12T22:14:41.670Z,46.323666666667,-111.622,-2.0,1.68,ml,9.0,95.0,0.3172,0.14,mb,mb90068528,2024-12-13T15:42:14.540Z,"7 km SSW of The Silos, Montana",quarry blast,0.77,31.61,0.22551921975999,18.0,reviewed,mb,mb
