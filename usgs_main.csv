@@ -13071,3 +13071,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T22:40:51.540Z,58.169333333333,-155.35683333333,2.29,0.06,ml,8.0,117.0,0.04353,0.11,av,av93406726,2024-12-13T07:26:59.440Z,"85 km NW of Karluk, Alaska",earthquake,0.29,0.48,0.16902166718163,9.0,reviewed,av,av
 2024-12-12T22:37:03.800Z,60.004833333333,-153.084,-1.26,-1.17,ml,5.0,101.0,0.03486,0.12,av,av93406721,2024-12-13T07:23:21.400Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.32,31.61,0.20176299524904,5.0,reviewed,av,av
 2024-12-12T22:24:44.570Z,53.420666666667,-168.22783333333,-0.9,1.06,ml,5.0,272.0,0.03723,0.19,av,av93028329,2024-12-13T07:30:05.410Z,"68 km NE of Nikolski, Alaska",earthquake,0.84,0.79,0.26306941189269,4.0,reviewed,av,av
+2024-12-13T07:41:57.805Z,60.0119,-152.8625,103.0,2.1,ml,,,,0.31,ak,ak024fznfpwk,2024-12-13T07:43:50.754Z,"63 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-12-13T07:33:13.255Z,61.0159,-146.5011,16.0,1.7,ml,,,,0.85,ak,ak024fzndwql,2024-12-13T07:35:50.870Z,"15 km SSW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
