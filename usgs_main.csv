@@ -13108,3 +13108,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-13T10:42:24.346Z,-18.4644,-177.8271,625.963,4.3,mb,50.0,168.0,3.325,0.74,us,us7000nyed,2024-12-13T11:01:25.040Z,Fiji region,earthquake,13.11,10.221,0.085,39.0,reviewed,us,us
 2024-12-13T11:09:46.007Z,36.6673,-116.2596,6.8,0.3,ml,16.0,93.53,0.067,0.1973,nn,nn00889475,2024-12-13T11:11:43.789Z,"52 km ESE of Beatty, Nevada",earthquake,,0.6,0.22,9.0,automatic,nn,nn
 2024-12-13T11:33:43.440Z,33.9451667,-118.3513333,8.11,1.6,ml,37.0,194.0,0.01489,0.29,ci,ci41001152,2024-12-13T11:38:09.512Z,"1 km N of Lennox, CA",earthquake,0.64,0.67,0.138,30.0,automatic,ci,ci
+2024-12-13T11:47:20.428Z,39.1403,-119.05,0.0,1.8,ml,11.0,126.89,0.214,0.1524,nn,nn00889479,2024-12-13T11:49:23.942Z,"19 km NNE of Yerington, Nevada",earthquake,,15.2,0.31,5.0,automatic,nn,nn
+2024-12-13T11:40:04.696Z,38.1134,-117.8911,4.1,1.9,ml,14.0,132.73,0.113,0.3493,nn,nn00889476,2024-12-13T11:42:45.748Z,"36 km SSE of Mina, Nevada",earthquake,,0.9,0.45,8.0,automatic,nn,nn
