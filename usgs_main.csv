@@ -13176,3 +13176,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-13T16:23:05.897Z,-35.9134,179.0822,83.57,4.7,mb,32.0,105.0,1.76,1.22,us,us7000nyi1,2024-12-13T17:01:26.040Z,"199 km NNE of Hicks Bay, New Zealand",earthquake,8.79,7.56,0.104,28.0,reviewed,us,us
 2024-12-13T08:59:41.900Z,48.153666666667,-120.83,8.51,0.83,ml,13.0,113.0,0.2094,0.21,uw,uw62059242,2024-12-13T16:52:54.760Z,"54 km WNW of Granite Falls, Washington",earthquake,0.43,1.92,0.15967458999331,4.0,reviewed,uw,uw
 2024-12-12T23:53:13.905Z,31.741,-101.947,9.1309,2.3,ml,21.0,59.0,0.1,0.1,tx,tx2024yjzj,2024-12-13T17:07:08.367Z,"31 km SSE of Midland, Texas",earthquake,0.89519070630256,2.117310378797,0.1,12.0,reviewed,tx,tx
+2024-12-13T17:24:02.340Z,38.826332092285,-122.82283020019,3.420000076294,0.44,md,7.0,102.0,0.01006,0.02,nc,nc75102811,2024-12-13T17:25:36.723Z,"8 km NW of The Geysers, CA",earthquake,0.76,2.45000005,0.18,8.0,automatic,nc,nc
+2024-12-13T17:18:28.567Z,60.2893,-141.0715,16.0,1.8,ml,,,,0.81,ak,ak024fzt9288,2024-12-13T17:20:44.422Z,"111 km NW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-13T17:16:37.642Z,59.7684,-151.4146,44.6,1.8,ml,,,,0.54,ak,ak024fzt8nhw,2024-12-13T17:18:30.483Z,"7 km WNW of Fritz Creek, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-12-13T17:12:35.541Z,39.1381,-119.0437,1.4,1.6,ml,8.0,89.99,0.216,0.1371,nn,nn00889507,2024-12-13T17:15:56.024Z,"19 km NNE of Yerington, Nevada",earthquake,,15.2,0.29,4.0,automatic,nn,nn
+2024-12-13T10:08:40.080Z,41.799833333333,-112.35816666667,7.2,0.3,md,7.0,103.0,0.1318,0.08,uu,uu80097391,2024-12-13T17:10:13.920Z,"7 km E of Howell, Utah",earthquake,0.38,2.22,0.16588675956171,5.0,reviewed,uu,uu
+2024-12-13T04:09:15.210Z,44.681166666667,-110.16683333333,9.18,1.8,ml,9.0,124.0,0.0595,0.04,uu,uu80097381,2024-12-13T17:14:05.510Z,"38 km SSW of Silver Gate, Montana",earthquake,0.43,0.95,0.1495306588034,3.0,reviewed,uu,uu
