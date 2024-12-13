@@ -13085,3 +13085,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-13T07:58:58.025Z,31.67,-104.427,4.3027,1.9,ml,17.0,60.0,0.0,0.3,tx,tx2024ykpj,2024-12-13T08:09:18.678Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.3784426450729,0.1,13.0,automatic,tx,tx
 2024-12-13T06:32:34.353Z,39.7343,-98.1412,11.162,2.6,mb_lg,17.0,110.0,1.383,0.39,us,us7000nycu,2024-12-13T07:59:28.040Z,"7 km N of Jewell, Kansas",earthquake,4.74,8.528,0.109,22.0,reviewed,us,us
 2024-12-13T08:38:03.658Z,39.162,-119.0797,0.9,1.2,ml,9.0,85.98,0.216,0.1292,nn,nn00889467,2024-12-13T08:41:31.858Z,"20 km NNE of Yerington, Nevada",earthquake,,25.2,0.17,2.0,automatic,nn,nn
+2024-12-13T08:34:13.191Z,40.2877,24.1683,10.0,4.9,mb,64.0,47.0,1.299,0.56,us,us7000nydx,2024-12-13T08:51:05.040Z,"7 km WNW of Karyes, Greece",earthquake,5.8,1.845,0.061,85.0,reviewed,us,us
