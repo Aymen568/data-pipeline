@@ -13073,3 +13073,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T22:24:44.570Z,53.420666666667,-168.22783333333,-0.9,1.06,ml,5.0,272.0,0.03723,0.19,av,av93028329,2024-12-13T07:30:05.410Z,"68 km NE of Nikolski, Alaska",earthquake,0.84,0.79,0.26306941189269,4.0,reviewed,av,av
 2024-12-13T07:41:57.805Z,60.0119,-152.8625,103.0,2.1,ml,,,,0.31,ak,ak024fznfpwk,2024-12-13T07:43:50.754Z,"63 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-13T07:33:13.255Z,61.0159,-146.5011,16.0,1.7,ml,,,,0.85,ak,ak024fzndwql,2024-12-13T07:35:50.870Z,"15 km SSW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-13T07:44:58.550Z,19.05316734314,-155.35884094238,31.170000076294,2.3,ml,59.0,208.0,0.141,0.140000001,hv,hv74563887,2024-12-13T07:48:07.960Z,"20 km SE of Pāhala, Hawaii",earthquake,0.46,0.769999981,0.71,6.0,automatic,hv,hv
+2024-12-13T07:44:50.600Z,64.7101,-149.3072,26.2,1.4,ml,,,,0.46,ak,ak024fzngchw,2024-12-13T07:47:28.306Z,"14 km NW of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-12-12T23:31:05.410Z,54.1125,-165.94883333333,3.6,-0.39,ml,6.0,108.0,0.0156,0.33,av,av93028334,2024-12-13T07:47:04.220Z,"11 km WSW of Akutan, Alaska",earthquake,0.76,1.0,0.21021072294721,6.0,reviewed,av,av
+2024-12-12T23:19:30.780Z,58.2925,-154.97566666667,2.88,-0.36,ml,7.0,150.0,0.04638,0.15,av,av93406756,2024-12-13T07:52:30.820Z,"86 km NNW of Karluk, Alaska",earthquake,0.43,0.98,0.28667276517815,7.0,reviewed,av,av
