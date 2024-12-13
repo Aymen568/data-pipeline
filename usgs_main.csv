@@ -13077,3 +13077,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-13T07:44:50.600Z,64.7101,-149.3072,26.2,1.4,ml,,,,0.46,ak,ak024fzngchw,2024-12-13T07:47:28.306Z,"14 km NW of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-12T23:31:05.410Z,54.1125,-165.94883333333,3.6,-0.39,ml,6.0,108.0,0.0156,0.33,av,av93028334,2024-12-13T07:47:04.220Z,"11 km WSW of Akutan, Alaska",earthquake,0.76,1.0,0.21021072294721,6.0,reviewed,av,av
 2024-12-12T23:19:30.780Z,58.2925,-154.97566666667,2.88,-0.36,ml,7.0,150.0,0.04638,0.15,av,av93406756,2024-12-13T07:52:30.820Z,"86 km NNW of Karluk, Alaska",earthquake,0.43,0.98,0.28667276517815,7.0,reviewed,av,av
+2024-12-13T08:16:46.976Z,39.1027,-119.025,3.6,1.9,ml,14.0,81.82,0.205,0.1567,nn,nn00889463,2024-12-13T08:19:13.007Z,"17 km NE of Yerington, Nevada",earthquake,,5.2,0.24,7.0,automatic,nn,nn
+2024-12-13T08:14:23.853Z,39.1124,-119.0673,9.3,1.4,ml,9.0,92.82,0.185,0.1852,nn,nn00889461,2024-12-13T08:16:51.807Z,"16 km NNE of Yerington, Nevada",earthquake,,0.9,0.16,4.0,automatic,nn,nn
+2024-12-13T08:11:05.580Z,38.833831787109,-122.8125,2.1199998855591,0.45,md,5.0,160.0,0.01059,0.01,nc,nc75102656,2024-12-13T08:12:40.005Z,"8 km WNW of Cobb, CA",earthquake,4.03,1.39999998,0.32,8.0,automatic,nc,nc
+2024-12-13T08:09:40.015Z,31.676,-104.422,4.5864,1.8,ml,16.0,64.0,0.0,0.3,tx,tx2024ykps,2024-12-13T08:21:37.798Z,"55 km S of Whites City, New Mexico",earthquake,0.0,1.320233464241,0.1,12.0,automatic,tx,tx
+2024-12-13T08:08:26.834Z,38.1325,-117.9706,5.2,1.6,ml,14.0,127.33,0.067,0.2046,nn,nn00889458,2024-12-13T08:11:02.774Z,"31 km SSE of Mina, Nevada",earthquake,,0.5,0.4,9.0,automatic,nn,nn
+2024-12-13T07:58:58.025Z,31.67,-104.427,4.3027,1.9,ml,17.0,60.0,0.0,0.3,tx,tx2024ykpj,2024-12-13T08:09:18.678Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.3784426450729,0.1,13.0,automatic,tx,tx
+2024-12-13T06:32:34.353Z,39.7343,-98.1412,11.162,2.6,mb_lg,17.0,110.0,1.383,0.39,us,us7000nycu,2024-12-13T07:59:28.040Z,"7 km N of Jewell, Kansas",earthquake,4.74,8.528,0.109,22.0,reviewed,us,us
