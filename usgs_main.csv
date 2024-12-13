@@ -13194,3 +13194,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-13T17:43:46.564Z,31.677,-104.42,4.3249,2.0,ml,16.0,67.0,0.0,0.3,tx,tx2024ylir,2024-12-13T17:56:46.556Z,"55 km S of Whites City, New Mexico",earthquake,0.0,1.4086412191391,0.1,13.0,automatic,tx,tx
 2024-12-13T16:31:22.717Z,53.5086,-165.4471,44.3,2.8,ml,,,,0.56,ak,ak024fzsqehb,2024-12-13T18:03:23.735Z,"72 km SSE of Akutan, Alaska",earthquake,,4.9,,,reviewed,ak,ak
 2024-12-13T16:30:56.251Z,55.6516,-158.253,64.8,2.6,ml,,,,0.63,ak,ak024fzsq6zi,2024-12-13T18:03:11.920Z,"62 km ESE of Perryville, Alaska",earthquake,,2.7,,,reviewed,ak,ak
+2024-12-13T18:43:12.240Z,38.783500671387,-122.73349761963,1.6100000143051,1.47,md,22.0,81.0,0.002536,0.04,nc,nc75102836,2024-12-13T18:44:47.534Z,"2 km E of The Geysers, CA",earthquake,0.25,0.379999995,0.23,23.0,automatic,nc,nc
+2024-12-13T18:41:30.390Z,35.0499992,-118.3181686,7.19,1.39,ml,18.0,62.0,0.06229,0.27,ci,ci41001360,2024-12-13T18:43:36.841Z,"13 km W of Mojave, CA",earthquake,0.69,3.26,0.405,5.0,automatic,ci,ci
+2024-12-13T18:13:54.145Z,17.838,-68.1466,9.897,2.8,ml,18.0,112.0,1.001,0.87,us,us7000nyj8,2024-12-13T18:41:41.040Z,"77 km SE of Boca de Yuma, Dominican Republic",earthquake,4.29,6.991,0.065,31.0,reviewed,us,us
+2024-12-13T09:25:51.540Z,19.042166666667,-155.368,35.68,1.68,md,28.0,229.0,0.1436,0.12,hv,hv74563932,2024-12-13T18:24:02.180Z,"21 km SSE of Pāhala, Hawaii",earthquake,0.67,0.68,0.097410864352822,10.0,reviewed,hv,hv
+2024-12-13T04:17:54.170Z,19.149166666667,-155.47816666667,29.28,1.53,md,21.0,239.0,0.0164,0.12,hv,hv74563802,2024-12-13T18:40:15.790Z,"5 km S of Pāhala, Hawaii",earthquake,1.29,1.05,0.069693015044549,10.0,reviewed,hv,hv
