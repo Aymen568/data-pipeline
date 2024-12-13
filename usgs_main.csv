@@ -13199,3 +13199,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-13T18:13:54.145Z,17.838,-68.1466,9.897,2.8,ml,18.0,112.0,1.001,0.87,us,us7000nyj8,2024-12-13T18:41:41.040Z,"77 km SE of Boca de Yuma, Dominican Republic",earthquake,4.29,6.991,0.065,31.0,reviewed,us,us
 2024-12-13T09:25:51.540Z,19.042166666667,-155.368,35.68,1.68,md,28.0,229.0,0.1436,0.12,hv,hv74563932,2024-12-13T18:24:02.180Z,"21 km SSE of Pāhala, Hawaii",earthquake,0.67,0.68,0.097410864352822,10.0,reviewed,hv,hv
 2024-12-13T04:17:54.170Z,19.149166666667,-155.47816666667,29.28,1.53,md,21.0,239.0,0.0164,0.12,hv,hv74563802,2024-12-13T18:40:15.790Z,"5 km S of Pāhala, Hawaii",earthquake,1.29,1.05,0.069693015044549,10.0,reviewed,hv,hv
+2024-12-13T18:47:18.310Z,39.1371,-119.046,3.8,1.3,ml,10.0,127.36,0.214,0.1489,nn,nn00889509,2024-12-13T18:49:37.534Z,"19 km NNE of Yerington, Nevada",earthquake,,6.2,0.14,3.0,automatic,nn,nn
