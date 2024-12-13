@@ -13215,3 +13215,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-13T20:25:50.658Z,62.0162,-148.8119,20.0,1.4,ml,,,,0.29,ak,ak024fzv2wrd,2024-12-13T20:27:26.665Z,"26 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-13T11:18:51.790Z,61.248166666667,-152.092,35.99,-0.02,ml,10.0,128.0,0.03507,0.31,av,av93028339,2024-12-13T20:18:14.330Z,"55 km WNW of Tyonek, Alaska",earthquake,1.53,1.69,0.17208593324891,9.0,reviewed,av,av
 2024-12-13T06:44:00.290Z,39.1802,-119.0099,6.8,2.0,ml,24.0,87.87,0.021,0.1543,nn,nn00889448,2024-12-13T20:26:53.248Z,"25 km NNE of Yerington, Nevada",earthquake,,0.7,0.3,11.0,reviewed,nn,nn
+2024-12-13T08:16:22.870Z,19.312,-155.20866666667,2.05,0.47,md,15.0,189.0,0.03413,0.12,hv,hv74563912,2024-12-13T20:42:54.890Z,"14 km S of Volcano, Hawaii",earthquake,0.4,0.64,0.096269886041019,3.0,reviewed,hv,hv
+2024-12-13T06:50:58.000Z,19.258,-155.39783333333,30.48,1.41,md,25.0,98.0,0.02039,0.11,hv,hv74563857,2024-12-13T20:37:33.350Z,"10 km NE of Pāhala, Hawaii",earthquake,0.51,0.66,0.090036003515856,9.0,reviewed,hv,hv
