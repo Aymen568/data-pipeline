@@ -13240,3 +13240,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-13T22:34:47.949Z,60.7656,-147.2457,12.8,2.0,ml,,,,0.76,ak,ak024fzwbp7e,2024-12-13T22:36:49.061Z,"32 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-13T22:20:10.139Z,31.573,-104.56,3.4036,2.1,ml,7.0,167.0,0.1,0.2,tx,tx2024ylru,2024-12-13T22:32:36.567Z,"64 km NNE of Van Horn, Texas",earthquake,0.0,2.3187658786774,0.2,7.0,automatic,tx,tx
 2024-12-13T22:00:10.639Z,-22.1058,-68.4249,95.341,4.9,mb,63.0,45.0,0.819,0.83,us,us7000nyl4,2024-12-13T22:34:42.040Z,"64 km NE of Calama, Chile",earthquake,4.98,5.6,0.073,59.0,reviewed,us,us
+2024-12-13T22:36:01.010Z,33.4808333,-116.8911667,11.24,1.18,ml,42.0,38.0,0.0727,0.17,ci,ci41001488,2024-12-13T22:44:50.550Z,"5 km NNW of Aguanga, CA",earthquake,0.21,0.57,0.198,28.0,automatic,ci,ci
+2024-12-13T05:23:37.490Z,58.269166666667,-154.99133333333,2.99,0.37,ml,10.0,135.0,0.04671,0.12,av,av93406976,2024-12-13T22:48:25.670Z,"84 km NNW of Karluk, Alaska",earthquake,0.28,0.73,0.25367940732154,10.0,reviewed,av,av
