@@ -13242,3 +13242,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-13T22:00:10.639Z,-22.1058,-68.4249,95.341,4.9,mb,63.0,45.0,0.819,0.83,us,us7000nyl4,2024-12-13T22:34:42.040Z,"64 km NE of Calama, Chile",earthquake,4.98,5.6,0.073,59.0,reviewed,us,us
 2024-12-13T22:36:01.010Z,33.4808333,-116.8911667,11.24,1.18,ml,42.0,38.0,0.0727,0.17,ci,ci41001488,2024-12-13T22:44:50.550Z,"5 km NNW of Aguanga, CA",earthquake,0.21,0.57,0.198,28.0,automatic,ci,ci
 2024-12-13T05:23:37.490Z,58.269166666667,-154.99133333333,2.99,0.37,ml,10.0,135.0,0.04671,0.12,av,av93406976,2024-12-13T22:48:25.670Z,"84 km NNW of Karluk, Alaska",earthquake,0.28,0.73,0.25367940732154,10.0,reviewed,av,av
+2024-12-13T23:13:23.172Z,39.0864,-118.9656,9.2,1.9,ml,10.0,151.77,0.236,0.1097,nn,nn00889526,2024-12-13T23:15:40.326Z,"20 km NW of Schurz, Nevada",earthquake,,4.2,0.19,4.0,automatic,nn,nn
