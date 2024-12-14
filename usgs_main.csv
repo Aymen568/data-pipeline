@@ -13466,3 +13466,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-14T21:10:14.864Z,59.867,-153.0871,102.6,1.2,ml,,,,0.09,ak,ak024g1j4ecu,2024-12-14T21:11:33.606Z,"57 km E of Pedro Bay, Alaska",earthquake,,4.8,,,automatic,ak,ak
 2024-12-14T21:32:15.120Z,33.2328333,-116.7436667,9.62,2.13,ml,91.0,14.0,0.01303,0.2,ci,ci41002024,2024-12-14T21:37:12.114Z,"2 km ESE of Lake Henshaw, CA",earthquake,0.13,0.34,0.262,24.0,automatic,ci,ci
 2024-12-14T21:28:42.540Z,33.6963333,-117.0756667,12.06,1.18,ml,41.0,54.0,0.06292,0.15,ci,ci41002016,2024-12-14T21:33:11.091Z,"1 km SE of Winchester, CA",earthquake,0.2,0.34,0.185,11.0,automatic,ci,ci
+2024-12-14T21:37:40.640Z,33.233,-116.7346667,11.55,1.05,ml,41.0,40.0,0.02041,0.16,ci,ci41002032,2024-12-14T21:42:01.138Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.19,0.41,0.175,26.0,automatic,ci,ci
