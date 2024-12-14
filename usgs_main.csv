@@ -13376,3 +13376,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-14T09:59:20.060Z,38.145332336426,-121.78849792481,23.280000686646,1.82,md,9.0,219.0,0.2352,0.14,nc,nc75103056,2024-12-14T10:17:19.440Z,"9 km W of Rio Vista, CA",earthquake,2.63,0.699999988,0.46,4.0,automatic,nc,nc
 2024-12-14T09:59:16.428Z,39.1929,-119.0401,9.3,1.9,ml,13.0,121.74,0.446,0.223,nn,nn00889554,2024-12-14T10:01:33.395Z,"25 km NNE of Yerington, Nevada",earthquake,,0.9,0.15,7.0,automatic,nn,nn
 2024-12-14T09:55:38.390Z,17.957,-64.93,68.42,3.22,md,9.0,239.0,0.3941,0.13,pr,pr71468548,2024-12-14T10:19:24.970Z,"31 km NW of Saint Croix, U.S. Virgin Islands",earthquake,4.58,3.14,0.044200126079101,8.0,reviewed,pr,pr
+2024-12-14T10:36:15.694Z,60.3211,-141.2586,19.2,1.7,ml,,,,0.16,ak,ak024g1cq7dt,2024-12-14T10:37:36.438Z,"121 km NW of Yakutat, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-12-14T10:33:47.400Z,35.2853333,-119.8896667,1.57,1.17,ml,23.0,70.0,0.0425,0.2,ci,ci41001760,2024-12-14T10:37:12.471Z,"12 km SE of Simmler, CA",earthquake,0.22,0.42,0.139,15.0,automatic,ci,ci
+2024-12-14T10:33:31.029Z,63.0451,-151.3612,0.0,1.7,ml,,,,0.65,ak,ak024g1cplf2,2024-12-14T10:35:30.164Z,"58 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-14T10:20:23.674Z,-38.7674,178.9705,10.0,5.2,mww,36.0,221.0,1.312,0.95,us,us7000nyuj,2024-12-14T10:39:11.040Z,"78 km E of Wainui, New Zealand",earthquake,7.68,1.972,0.058,29.0,reviewed,us,us
