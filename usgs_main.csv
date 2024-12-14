@@ -13333,3 +13333,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-14T06:04:19.327Z,60.2611,-150.9509,60.9,1.6,ml,,,,0.28,ak,ak024g1a5mbw,2024-12-14T06:05:48.181Z,"19 km ESE of Kasilof, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-12-14T05:45:14.068Z,28.683,-99.135,4.3701,2.9,ml,20.0,75.0,0.2,0.3,tx,tx2024ymgl,2024-12-14T06:29:11.032Z,"3 km ENE of Dilley, Texas",earthquake,1.9361971737981,3.0482735769299,0.1,21.0,reviewed,tx,tx
 2024-12-14T05:00:08.641Z,-1.1065,128.9312,37.467,4.8,mb,44.0,89.0,2.435,0.9,us,us7000nysw,2024-12-14T06:01:23.040Z,"170 km ESE of Labuha, Indonesia",earthquake,8.22,7.582,0.094,35.0,reviewed,us,us
+2024-12-14T06:38:08.853Z,61.3872,-146.3462,20.2,1.6,ml,,,,0.71,ak,ak024g1acvv9,2024-12-14T06:40:04.476Z,"28 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-14T06:28:03.880Z,33.9016667,-117.8048333,4.1,1.24,ml,22.0,124.0,0.0263,0.16,ci,ci41001648,2024-12-14T06:33:22.737Z,"2 km NNE of Yorba Linda, CA",earthquake,0.37,0.52,0.199,30.0,automatic,ci,ci
+2024-12-14T06:20:15.722Z,19.7233,-64.5602,15.95,3.2,ml,18.0,233.0,1.297,0.7,us,us7000nytd,2024-12-14T06:44:25.040Z,"156 km N of Cruz Bay, U.S. Virgin Islands",earthquake,9.04,7.982,0.064,32.0,reviewed,us,us
