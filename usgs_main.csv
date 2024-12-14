@@ -13479,3 +13479,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-14T22:30:15.860Z,17.951666666667,-66.933,6.83,2.21,md,6.0,211.0,0.0309,0.08,pr,pr71468578,2024-12-14T22:54:42.680Z,"3 km SW of Guánica, Puerto Rico",earthquake,0.88,0.26,0.07096563194454,4.0,reviewed,pr,pr
 2024-12-14T23:08:26.384Z,39.1391,-119.0542,15.5,2.0,ml,9.0,126.61,0.211,0.1337,nn,nn00889598,2024-12-14T23:10:56.313Z,"19 km NNE of Yerington, Nevada",earthquake,,1.6,0.33,5.0,automatic,nn,nn
 2024-12-14T22:55:13.060Z,33.2673333,-115.9981667,6.89,0.72,ml,27.0,86.0,0.01639,0.19,ci,ci41002056,2024-12-14T23:00:03.527Z,"5 km SW of Salton City, CA",earthquake,0.23,0.44,0.144,14.0,automatic,ci,ci
+2024-12-14T23:28:05.141Z,60.0085,-151.1192,6.7,1.6,ml,,,,0.39,ak,ak024g1kf3pe,2024-12-14T23:30:02.162Z,"18 km NNW of Fox River, Alaska",earthquake,,0.4,,,automatic,ak,ak
