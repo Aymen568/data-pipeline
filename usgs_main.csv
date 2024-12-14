@@ -13403,3 +13403,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-14T13:33:13.415Z,61.469,-146.7446,25.1,1.7,ml,,,,0.59,ak,ak024g1ehuvh,2024-12-14T13:35:13.940Z,"43 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-14T13:46:25.750Z,33.2133333,-116.0091667,4.4,2.74,ml,7.0,228.0,0.2669,0.21,ci,ci41001824,2024-12-14T13:49:54.789Z,"11 km SSW of Salton City, CA",earthquake,3.72,14.53,0.077,2.0,automatic,ci,ci
 2024-12-14T13:45:18.400Z,33.161499,-115.5995026,3.73,3.0,ml,77.0,43.0,0.0209,0.25,ci,ci41001816,2024-12-14T13:51:22.749Z,"9 km WNW of Calipatria, CA",earthquake,0.25,0.41,0.302,21.0,automatic,ci,ci
+2024-12-14T14:07:17.180Z,38.841167449951,-122.76333618164,7.9099998474121,1.58,md,14.0,205.0,0.01185,0.18,nc,nc75103126,2024-12-14T14:08:56.256Z,"4 km NW of Cobb, CA",earthquake,1.38,2.38000011,0.29,17.0,automatic,nc,nc
+2024-12-14T14:00:05.017Z,59.0335,-153.6614,212.0,0.1,ml,,,,0.48,ak,ak024g1ew9iq,2024-12-14T14:02:48.500Z,"75 km SE of Pope-Vannoy Landing, Alaska",earthquake,,3.0,,,automatic,ak,ak
+2024-12-13T19:08:58.195Z,36.6541,-116.2755,6.9,0.0,ml,14.0,84.34,0.052,0.0706,nn,nn00889567,2024-12-14T14:11:02.734Z,"51 km ESE of Beatty, Nevada",earthquake,,1.3,0.32,6.0,reviewed,nn,nn
