@@ -13452,3 +13452,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-14T16:44:53.326Z,-5.7602,146.6114,53.466,4.6,mb,116.0,42.0,3.661,0.76,us,us7000nyvu,2024-12-14T19:07:08.040Z,"101 km NE of Kainantu, Papua New Guinea",earthquake,7.05,6.867,0.055,108.0,reviewed,us,us
 2024-12-14T00:01:23.880Z,46.965666666667,-122.23783333333,-0.26,1.15,ml,16.0,217.0,0.02477,0.13,uw,uw62059327,2024-12-14T19:20:38.510Z,"2 km SSW of Kapowsin, Washington",explosion,0.42,31.61,0.071849281244632,9.0,reviewed,uw,uw
 2024-12-14T00:16:09.460Z,45.164,-122.51266666667,18.3,1.79,ml,15.0,72.0,0.0484,0.23,uw,uw62059332,2024-12-14T19:28:17.730Z,"5 km ENE of Molalla, Oregon",earthquake,0.46,0.9,0.23505666605407,8.0,reviewed,uw,uw
+2024-12-14T18:05:16.269Z,-1.5965,-80.6474,35.237,4.4,mb,39.0,159.0,1.636,0.49,us,us7000nyw6,2024-12-14T19:44:52.040Z,"24 km WSW of Paján, Ecuador",earthquake,7.56,9.964,0.103,28.0,reviewed,us,us
