@@ -13345,3 +13345,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-14T06:59:33.328Z,62.1613,-151.3409,79.4,1.8,ml,,,,0.37,ak,ak024g1ahfsk,2024-12-14T07:01:19.579Z,"19 km N of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-12-14T06:59:04.180Z,32.1915,-115.0375,7.81,1.82,ml,15.0,127.0,0.1158,0.37,ci,ci41001664,2024-12-14T07:02:59.552Z,"3 km W of Estacion Coahuila, B.C., MX",earthquake,0.81,1.82,0.187,17.0,automatic,ci,ci
 2024-12-13T08:12:19.243Z,40.4075,24.1012,10.0,4.4,mb,26.0,76.0,1.271,0.9,us,us7000nydv,2024-12-14T07:21:30.040Z,"12 km NE of Ouranoupolis, Greece",earthquake,6.37,1.9,0.134,16.0,reviewed,us,us
+2024-12-14T07:28:24.186Z,60.1073,-152.7329,102.7,1.7,ml,,,,0.43,ak,ak024g1aw7hu,2024-12-14T07:30:19.163Z,"58 km WNW of Happy Valley, Alaska",earthquake,,0.8,,,automatic,ak,ak
