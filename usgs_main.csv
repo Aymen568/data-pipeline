@@ -13398,3 +13398,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-14T05:22:45.582Z,36.7744,-116.0878,3.7,0.0,ml,5.0,232.15,0.02,0.0683,nn,nn00889560,2024-12-14T13:03:22.626Z,"43 km WNW of Indian Springs, Nevada",earthquake,,3.8,0.31,3.0,reviewed,nn,nn
 2024-12-14T04:52:03.453Z,36.6568,-116.2744,6.8,0.0,ml,11.0,185.21,0.053,0.0634,nn,nn00889559,2024-12-14T13:00:17.547Z,"51 km ESE of Beatty, Nevada",earthquake,,1.6,0.14,4.0,reviewed,nn,nn
 2024-12-14T03:11:49.467Z,36.8301,-116.1945,5.2,0.0,ml,11.0,136.57,0.085,0.0607,nn,nn00889558,2024-12-14T12:57:11.344Z,"51 km E of Beatty, Nevada",earthquake,,2.7,0.26,5.0,reviewed,nn,nn
+2024-12-14T12:54:31.395Z,-21.2808,-67.1983,186.606,4.9,mb,69.0,43.0,1.895,1.05,us,us7000nyv3,2024-12-14T13:14:02.040Z,"98 km SSW of Uyuni, Bolivia",earthquake,7.56,7.076,0.03,346.0,reviewed,us,us
