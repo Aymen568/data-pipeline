@@ -7858,4 +7858,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.67 and occurred in/near 6 km N of Avenal, CA on 12/14/2024 at 10:04 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 13473 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.4 and occurred in/near 29 km ESE of Susitna North, Alaska on 12/14/2024 at 10:19 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 13477 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.6 and occurred in/near 5 km S of Meadow Lakes, Alaska on 12/14/2024 at 10:32 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
