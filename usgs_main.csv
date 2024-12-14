@@ -13336,3 +13336,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-14T06:38:08.853Z,61.3872,-146.3462,20.2,1.6,ml,,,,0.71,ak,ak024g1acvv9,2024-12-14T06:40:04.476Z,"28 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-14T06:28:03.880Z,33.9016667,-117.8048333,4.1,1.24,ml,22.0,124.0,0.0263,0.16,ci,ci41001648,2024-12-14T06:33:22.737Z,"2 km NNE of Yorba Linda, CA",earthquake,0.37,0.52,0.199,30.0,automatic,ci,ci
 2024-12-14T06:20:15.722Z,19.7233,-64.5602,15.95,3.2,ml,18.0,233.0,1.297,0.7,us,us7000nytd,2024-12-14T06:44:25.040Z,"156 km N of Cruz Bay, U.S. Virgin Islands",earthquake,9.04,7.982,0.064,32.0,reviewed,us,us
+2024-12-14T06:52:42.608Z,60.4234,-152.3469,87.3,1.0,ml,,,,0.24,ak,ak024g1afyhw,2024-12-14T06:54:13.924Z,"56 km NW of Ninilchik, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-12-14T06:24:57.600Z,19.5593,-64.5645,45.0,3.72,md,12.0,302.0,1.1455,0.34,pr,pr2024349000,2024-12-14T06:57:47.687Z,"138 km N of Cruz Bay, U.S. Virgin Islands",earthquake,5.17,20.61,0.15,7.0,reviewed,pr,pr
+2024-12-14T06:20:18.560Z,19.7053,-64.5323,37.0,4.04,md,21.0,284.0,1.2932,0.34,pr,pr2024349001,2024-12-14T06:55:41.271Z,"154 km N of Cruz Bay, U.S. Virgin Islands",earthquake,2.78,21.89,0.09,16.0,reviewed,pr,pr
+2024-12-14T06:15:03.655Z,44.4282,-115.2095,2.739,2.5,ml,20.0,57.0,0.414,0.51,us,us7000nyt6,2024-12-14T06:51:34.040Z,"31 km NW of Stanley, Idaho",earthquake,2.02,6.238,0.059,38.0,reviewed,us,us
+2024-12-14T02:46:54.563Z,19.452,-70.8447,25.324,3.2,ml,12.0,103.0,0.026,1.05,us,us7000nytn,2024-12-14T06:52:03.803Z,"3 km SW of La Canela, Dominican Republic",earthquake,5.73,4.455,0.079,21.0,reviewed,us,us
