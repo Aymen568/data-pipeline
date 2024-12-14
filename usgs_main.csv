@@ -13328,3 +13328,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-14T05:48:49.660Z,19.131000518799,-155.47383117676,32.75,2.42000008,md,53.0,181.0,0.02669,0.189999998,hv,hv74564537,2024-12-14T05:50:29.480Z,"7 km S of Pāhala, Hawaii",earthquake,0.54,0.689999998,0.239999995,10.0,automatic,hv,hv
 2024-12-14T05:45:15.443Z,28.7015,-99.1068,7.067,2.8,mb_lg,14.0,54.0,0.183,0.88,us,us7000nyt2,2024-12-14T05:58:47.798Z,"6 km E of Hilltop, Texas",earthquake,1.08,4.407,0.114,20.0,reviewed,us,us
 2024-12-13T22:23:42.950Z,45.862166666667,-122.42783333333,-0.95,0.95,ml,5.0,331.0,0.0706,0.19,uw,uw62059297,2024-12-14T05:56:44.190Z,"1 km WSW of Yacolt, Washington",explosion,17.03,31.61,0.13022280916987,5.0,reviewed,uw,uw
+2024-12-14T06:12:10.461Z,67.3691,-153.8072,3.9,1.8,ml,,,,0.56,ak,ak024g1a7bgb,2024-12-14T06:16:05.434Z,"102 km NNW of Alatna, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2024-12-14T06:09:49.146Z,61.8315,-149.6855,27.3,1.6,ml,,,,0.5,ak,ak024g1a6r7m,2024-12-14T06:11:35.279Z,"20 km ENE of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-14T06:04:19.327Z,60.2611,-150.9509,60.9,1.6,ml,,,,0.28,ak,ak024g1a5mbw,2024-12-14T06:05:48.181Z,"19 km ESE of Kasilof, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-12-14T05:45:14.068Z,28.683,-99.135,4.3701,2.9,ml,20.0,75.0,0.2,0.3,tx,tx2024ymgl,2024-12-14T06:29:11.032Z,"3 km ENE of Dilley, Texas",earthquake,1.9361971737981,3.0482735769299,0.1,21.0,reviewed,tx,tx
+2024-12-14T05:00:08.641Z,-1.1065,128.9312,37.467,4.8,mb,44.0,89.0,2.435,0.9,us,us7000nysw,2024-12-14T06:01:23.040Z,"170 km ESE of Labuha, Indonesia",earthquake,8.22,7.582,0.094,35.0,reviewed,us,us
