@@ -13381,3 +13381,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-14T10:33:31.029Z,63.0451,-151.3612,0.0,1.7,ml,,,,0.65,ak,ak024g1cplf2,2024-12-14T10:35:30.164Z,"58 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-14T10:20:23.674Z,-38.7674,178.9705,10.0,5.2,mww,36.0,221.0,1.312,0.95,us,us7000nyuj,2024-12-14T10:39:11.040Z,"78 km E of Wainui, New Zealand",earthquake,7.68,1.972,0.058,29.0,reviewed,us,us
 2024-12-14T10:47:23.730Z,32.9143333,-117.7238333,9.08,1.73,ml,27.0,171.0,0.4254,0.18,ci,ci41001768,2024-12-14T10:51:05.772Z,"42 km WSW of Encinitas, CA",earthquake,0.47,1.21,0.161,31.0,automatic,ci,ci
+2024-12-14T10:47:02.429Z,-53.5345,140.2495,10.0,4.7,mb,22.0,126.0,16.372,0.81,us,us7000nyuq,2024-12-14T11:05:40.040Z,west of Macquarie Island,earthquake,14.09,1.918,0.123,20.0,reviewed,us,us
