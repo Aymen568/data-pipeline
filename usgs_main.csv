@@ -13323,3 +13323,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-13T23:36:12.330Z,61.351333333333,-152.33433333333,0.89,-0.03,ml,8.0,168.0,0.09435,0.12,av,av93407916,2024-12-14T05:28:18.650Z,"71 km WNW of Beluga, Alaska",earthquake,0.34,3.29,0.29891155925783,9.0,reviewed,av,av
 2024-12-13T23:31:58.380Z,61.300833333333,-152.16633333333,39.26,-0.33,ml,10.0,113.0,0.03588,0.12,av,av93028394,2024-12-14T05:24:32.500Z,"60 km WNW of Beluga, Alaska",earthquake,0.71,0.54,0.24369790490433,10.0,reviewed,av,av
 2024-12-13T18:51:43.010Z,49.328166666667,-121.339,1.49,1.87,ml,10.0,151.0,0.07965,0.26,uw,uw62059272,2024-12-14T05:19:34.460Z,"9 km SE of Hope, Canada",earthquake,0.88,1.72,0.08174666144481,6.0,reviewed,uw,uw
+2024-12-14T05:33:49.524Z,62.9683,-148.145,67.7,2.0,ml,,,,0.64,ak,ak024g19qgtk,2024-12-14T05:36:31.061Z,"62 km SE of Cantwell, Alaska",earthquake,,1.0,,,automatic,ak,ak
