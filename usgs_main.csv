@@ -13786,3 +13786,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-15T23:35:56.990Z,33.291,-116.2626667,7.01,0.66,ml,42.0,54.0,0.0813,0.21,ci,ci41002464,2024-12-15T23:40:44.511Z,"11 km ENE of Borrego Springs, CA",earthquake,0.23,0.5,0.136,14.0,automatic,ci,ci
 2024-12-15T23:35:04.515Z,39.1233,-119.0654,5.3,1.7,ml,10.0,128.49,0.592,0.1141,nn,nn00889727,2024-12-15T23:37:15.543Z,"17 km NNE of Yerington, Nevada",earthquake,,5.3,0.19,6.0,automatic,nn,nn
 2024-12-15T18:08:24.350Z,45.5495,-123.31066666667,21.38,1.39,ml,16.0,99.0,0.05088,0.14,uw,uw62059547,2024-12-15T23:33:58.320Z,"15 km WNW of Forest Grove, Oregon",earthquake,0.39,0.47,0.30152475751847,4.0,reviewed,uw,uw
+2024-12-15T23:06:47.120Z,19.588,-65.3278,82.0,3.79,md,17.0,250.0,1.2813,0.13,pr,pr2024350004,2024-12-15T23:52:13.809Z,"139 km NNE of Vieques, Puerto Rico",earthquake,2.07,4.65,0.07,9.0,reviewed,pr,pr
