@@ -7932,4 +7932,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.51 and occurred in/near 8 km SE of Valle Vista, CA on 12/15/2024 at 11:21 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 13623 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.51 and occurred in/near 8 km SE of Valle Vista, CA on 12/15/2024 at 11:21 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 13624 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.4 and occurred in/near 50 km WNW of Tatitlek, Alaska on 12/15/2024 at 11:39 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
