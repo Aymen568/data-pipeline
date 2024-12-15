@@ -13773,3 +13773,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-15T22:12:17.980Z,19.122333526611,-155.34950256348,28.469999313354,2.03999996,md,41.0,229.0,0.1114,0.140000001,hv,hv74566627,2024-12-15T22:14:09.690Z,"16 km ESE of Pāhala, Hawaii",earthquake,0.86,0.689999998,0.239999995,4.0,automatic,hv,hv
 2024-12-15T22:12:11.848Z,63.1911,-152.5084,15.8,3.5,ml,,,,0.73,ak,ak024g379lnp,2024-12-15T22:32:21.040Z,"55 km SW of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-15T22:41:39.319Z,39.1011,-119.0201,0.0,1.5,ml,8.0,131.54,0.45,0.087,nn,nn00889721,2024-12-15T22:43:44.348Z,"17 km NE of Yerington, Nevada",earthquake,,27.7,0.14,5.0,automatic,nn,nn
+2024-12-15T22:51:52.659Z,37.3533,-117.1982,2.5,0.3,ml,9.0,236.38,0.073,0.323,nn,nn00889722,2024-12-15T22:54:15.061Z,"39 km S of Goldfield, Nevada",earthquake,,8.3,0.33,3.0,automatic,nn,nn
+2024-12-15T22:47:29.240Z,38.76549911499,-122.70133209228,1.9500000476837,1.27,md,11.0,103.0,0.003118,0.03,nc,nc75103696,2024-12-15T22:49:04.677Z,"1 km SW of Anderson Springs, CA",earthquake,0.31,0.409999996,0.23,12.0,automatic,nc,nc
