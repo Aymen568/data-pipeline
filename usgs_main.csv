@@ -13542,3 +13542,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-15T04:57:42.507Z,66.3383,-157.6278,15.0,3.1,ml,,,,1.09,ak,ak024g2wtiis,2024-12-15T05:03:02.677Z,"65 km SSW of Shungnak, Alaska",earthquake,,322.4,,,automatic,ak,ak
 2024-12-15T04:56:16.300Z,33.0386667,-116.4181667,9.09,0.75,ml,36.0,42.0,0.04204,0.18,ci,ci41002120,2024-12-15T05:00:33.323Z,"18 km ESE of Julian, CA",earthquake,0.21,0.52,0.181,12.0,automatic,ci,ci
 2024-12-14T05:12:54.300Z,61.302166666667,-152.26233333333,2.51,0.76,ml,6.0,167.0,0.06357,0.07,av,av93028399,2024-12-15T04:51:30.720Z,"65 km WNW of Beluga, Alaska",earthquake,0.56,0.85,0.15860037735239,6.0,reviewed,av,av
+2024-12-15T05:19:06.670Z,19.189832687378,-155.35833740234,30.489999771118,1.90999997,md,28.0,197.0,0.06015,0.109999999,hv,hv74565817,2024-12-15T05:20:45.860Z,"12 km E of Pāhala, Hawaii",earthquake,0.76,0.600000024,0.0399999991,3.0,automatic,hv,hv
+2024-12-15T05:12:18.131Z,61.8764,-150.6837,80.4,1.5,ml,,,,0.75,ak,ak024g2x58ut,2024-12-15T05:13:50.371Z,"36 km WNW of Willow, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2024-12-15T05:08:07.763Z,39.1672,-119.0457,0.8,1.8,ml,13.0,86.64,0.237,0.172,nn,nn00889619,2024-12-15T05:10:58.314Z,"22 km NNE of Yerington, Nevada",earthquake,,6.8,0.2,10.0,automatic,nn,nn
