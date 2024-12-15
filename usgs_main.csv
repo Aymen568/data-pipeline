@@ -13722,3 +13722,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-15T18:11:09.870Z,38.844165802002,-122.83166503906,1.3400000333786,0.63,md,12.0,113.0,0.006318,0.03,nc,nc75103616,2024-12-15T18:12:48.023Z,"10 km WNW of Cobb, CA",earthquake,0.32,0.560000002,0.18,12.0,automatic,nc,nc
 2024-12-15T18:05:19.093Z,61.0582,-147.6684,27.8,1.5,ml,,,,1.13,ak,ak024g34uds5,2024-12-15T18:07:05.255Z,"57 km WNW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-15T17:54:37.120Z,33.2558333,-116.4248333,3.18,0.83,ml,38.0,71.0,0.01391,0.19,ci,ci41002368,2024-12-15T17:59:23.359Z,"5 km W of Borrego Springs, CA",earthquake,0.19,0.27,0.1,21.0,automatic,ci,ci
+2024-12-15T18:40:48.830Z,36.6227,-116.2286,6.5,-0.1,ml,12.0,114.58,0.077,0.0639,nn,nn00889690,2024-12-15T18:42:32.847Z,"50 km W of Indian Springs, Nevada",earthquake,,1.4,0.14,7.0,automatic,nn,nn
+2024-12-15T18:35:24.750Z,19.402166366577,-155.2893371582,0.97000002861023,1.81,ml,20.0,41.0,0.011,0.0900000036,hv,hv74566307,2024-12-15T18:38:17.280Z,"7 km SW of Volcano, Hawaii",earthquake,0.15,0.170000002,0.29,13.0,automatic,hv,hv
+2024-12-15T18:26:52.219Z,60.547,-147.189,8.2,1.6,ml,,,,0.86,ak,ak024g34yydh,2024-12-15T18:29:29.888Z,"45 km SW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-15T18:26:41.656Z,37.1979,-116.3029,16.0,0.3,ml,9.0,146.83,0.025,0.4783,nn,nn00889689,2024-12-15T18:28:41.998Z,"51 km NE of Beatty, Nevada",earthquake,,1.8,0.1,7.0,automatic,nn,nn
+2024-12-15T18:23:28.606Z,31.642,-104.309,4.2893,1.8,ml,17.0,70.0,0.0,0.3,tx,tx2024ypaz,2024-12-15T18:37:18.140Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.462387919426,0.2,13.0,automatic,tx,tx
+2024-12-15T12:57:14.620Z,45.305666666667,-121.72683333333,7.08,1.1,ml,10.0,150.0,0.03222,0.05,uw,uw62059522,2024-12-15T18:40:21.100Z,"2 km E of Government Camp, Oregon",earthquake,0.29,0.41,0.099048852310617,5.0,reviewed,uw,uw
