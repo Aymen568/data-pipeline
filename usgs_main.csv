@@ -13618,3 +13618,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-15T10:55:14.783Z,61.8,-148.4637,13.9,1.4,ml,,,,0.84,ak,ak024g30dmeu,2024-12-15T10:57:58.491Z,"0 km N of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-12-15T10:52:47.728Z,61.823,-148.4545,13.3,2.1,ml,,,,0.59,ak,ak024g30d1t0,2024-12-15T10:54:39.933Z,"2 km N of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-12-15T10:42:28.820Z,17.973333333333,-66.923166666667,10.08,2.37,md,13.0,167.0,0.01387,0.23,pr,pr71468633,2024-12-15T10:59:12.130Z,"1 km W of Guánica, Puerto Rico",earthquake,0.56,0.66,0.23827709082958,12.0,reviewed,pr,pr
+2024-12-15T11:21:59.230Z,33.7026672,-116.8231659,15.68,1.51,ml,57.0,38.0,0.07533,0.19,ci,ci41002264,2024-12-15T11:24:14.301Z,"8 km SE of Valle Vista, CA",earthquake,0.26,0.5,0.278,23.0,automatic,ci,ci
+2024-12-15T11:11:43.101Z,60.2513,-153.0577,108.5,1.6,ml,,,,0.6,ak,ak024g30pop2,2024-12-15T11:14:06.973Z,"69 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-12-15T11:10:49.657Z,62.2914,-149.2907,34.8,1.2,ml,,,,0.43,ak,ak024g30phhg,2024-12-15T11:13:32.261Z,"32 km ENE of Susitna North, Alaska",earthquake,,1.9,,,automatic,ak,ak
