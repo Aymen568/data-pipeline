@@ -13739,3 +13739,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-15T19:36:01.273Z,60.5541,-147.2238,10.1,1.9,ml,,,,0.63,ak,ak024g35mf7j,2024-12-15T19:37:58.095Z,"45 km SW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-15T19:32:21.281Z,31.73,-104.25,4.0918,1.8,ml,18.0,81.0,0.0,0.4,tx,tx2024ypdg,2024-12-15T19:38:08.545Z,"50 km SSE of Whites City, New Mexico",earthquake,0.0,1.2229754924774,0.2,13.0,automatic,tx,tx
 2024-12-15T03:44:09.870Z,61.531833333333,-151.911,10.49,-0.14,ml,10.0,134.0,0.0497,0.16,av,av93409296,2024-12-15T19:34:27.690Z,"57 km SSW of Skwentna, Alaska",earthquake,0.7,0.8,0.17279868222238,11.0,reviewed,av,av
+2024-12-15T19:46:38.823Z,37.3552,-117.1885,7.0,1.2,ml,26.0,129.29,0.384,0.2492,nn,nn00889691,2024-12-15T19:48:46.506Z,"39 km S of Goldfield, Nevada",earthquake,,2.6,0.26,14.0,automatic,nn,nn
+2024-12-15T19:45:33.270Z,37.958000183105,-122.06366729736,8.0,1.67,md,22.0,81.0,0.07843,0.17,nc,nc75103636,2024-12-15T19:47:08.980Z,"1 km  of Pleasant Hill, CA",earthquake,0.37,0.709999979,0.13,15.0,automatic,nc,nc
+2024-12-15T04:06:21.300Z,60.534666666667,-152.76683333333,6.56,-1.29,ml,7.0,107.0,0.05845,0.04,av,av93409316,2024-12-15T19:41:25.110Z,"79 km W of Salamatof, Alaska",earthquake,0.33,0.63,0.11127747011333,7.0,reviewed,av,av
