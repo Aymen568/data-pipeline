@@ -7990,4 +7990,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.9 and occurred in/near 45 km SW of Tatitlek, Alaska on 12/15/2024 at 07:36 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 13743 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.2 and occurred in/near 39 km S of Goldfield, Nevada on 12/15/2024 at 07:46 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 13750 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.42 and occurred in/near 12 km WSW of Dana Point, CA on 12/15/2024 at 08:01 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
