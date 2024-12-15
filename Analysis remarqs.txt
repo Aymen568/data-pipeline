@@ -7966,4 +7966,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.2 and occurred in/near 5 km E of Fox, Alaska on 12/15/2024 at 04:15 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 13704 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.9 and occurred in/near 23 km NNE of Petersville, Alaska on 12/15/2024 at 04:39 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 13707 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.92 and occurred in/near 5 km SSW of Volcano, Hawaii on 12/15/2024 at 04:47 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
