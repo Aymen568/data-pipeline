@@ -13568,3 +13568,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-15T07:02:29.345Z,61.2178,-150.7372,17.4,2.2,ml,,,,0.4,ak,ak024g2y9zrq,2024-12-15T07:03:55.791Z,"20 km ENE of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-15T06:43:05.770Z,19.6478,-65.4155,42.0,3.77,md,13.0,283.0,1.3468,0.26,pr,pr2024350001,2024-12-15T07:15:57.227Z,"142 km NNE of Vieques, Puerto Rico",earthquake,3.12,17.42,0.1,10.0,reviewed,pr,pr
 2024-12-15T00:00:29.981Z,35.5351,45.4912,10.0,1.8,ml,7.0,113.0,0.098,0.47,us,us7000nyzy,2024-12-15T06:59:36.018Z,"6 km ESE of As Sulaymānīyah, Iraq",earthquake,1.73,1.876,0.105,12.0,reviewed,us,us
+2024-12-15T07:29:25.383Z,36.7531,-116.2353,4.9,0.4,ml,8.0,122.84,0.031,0.2404,nn,nn00889624,2024-12-15T07:31:17.198Z,"49 km ESE of Beatty, Nevada",earthquake,,1.0,0.55,3.0,automatic,nn,nn
+2024-12-15T07:24:05.100Z,34.4608333,-116.8578333,28.95,1.71,ml,10.0,306.0,0.1153,0.17,ci,ci41002184,2024-12-15T07:29:22.080Z,"10 km E of Lucerne Valley, CA",earthquake,2.42,0.68,0.167,34.0,automatic,ci,ci
+2024-12-15T07:21:58.320Z,40.409000396729,-125.13549804688,0.43000000715256,5.25,ml,222.0,233.0,0.6127,0.31,nc,nc75103356,2024-12-15T07:33:51.973Z,"73 km WNW of Petrolia, CA",earthquake,0.79,3.24000001,0.262,24.0,automatic,nc,nc
