@@ -13782,3 +13782,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-15T22:59:31.162Z,39.1131,-118.9838,4.1,1.1,ml,8.0,101.7,0.237,0.1203,nn,nn00889724,2024-12-15T23:02:44.823Z,"20 km NE of Yerington, Nevada",earthquake,,3.1,0.18,3.0,automatic,nn,nn
 2024-12-15T22:55:20.773Z,39.1382,-119.1061,10.8,1.2,ml,8.0,168.04,0.185,0.0937,nn,nn00889723,2024-12-15T22:58:24.546Z,"17 km NNE of Yerington, Nevada",earthquake,,0.8,0.3,5.0,automatic,nn,nn
 2024-12-15T05:21:51.010Z,61.536833333333,-151.88916666667,10.82,0.07,ml,12.0,133.0,0.04669,0.24,av,av93409401,2024-12-15T23:19:33.360Z,"56 km SSW of Skwentna, Alaska",earthquake,0.76,0.97,0.2410073659889,12.0,reviewed,av,av
+2024-12-15T23:41:03.384Z,64.4266,-146.8997,12.2,1.1,ml,,,,0.5,ak,ak024g3818de,2024-12-15T23:42:22.970Z,"10 km S of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-15T23:35:56.990Z,33.291,-116.2626667,7.01,0.66,ml,42.0,54.0,0.0813,0.21,ci,ci41002464,2024-12-15T23:40:44.511Z,"11 km ENE of Borrego Springs, CA",earthquake,0.23,0.5,0.136,14.0,automatic,ci,ci
+2024-12-15T23:35:04.515Z,39.1233,-119.0654,5.3,1.7,ml,10.0,128.49,0.592,0.1141,nn,nn00889727,2024-12-15T23:37:15.543Z,"17 km NNE of Yerington, Nevada",earthquake,,5.3,0.19,6.0,automatic,nn,nn
+2024-12-15T18:08:24.350Z,45.5495,-123.31066666667,21.38,1.39,ml,16.0,99.0,0.05088,0.14,uw,uw62059547,2024-12-15T23:33:58.320Z,"15 km WNW of Forest Grove, Oregon",earthquake,0.39,0.47,0.30152475751847,4.0,reviewed,uw,uw
