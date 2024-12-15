@@ -13533,3 +13533,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-15T03:39:03.880Z,38.835834503174,-122.88033294678,2.2200000286102,0.53,md,8.0,147.0,0.01005,0.01,nc,nc75103286,2024-12-15T03:40:42.892Z,"12 km E of Cloverdale, CA",earthquake,0.52,1.02999997,0.4,7.0,automatic,nc,nc
 2024-12-15T03:19:31.971Z,53.7052,-165.114,34.394,3.9,mb,19.0,192.0,0.624,0.36,us,us7000nyz0,2024-12-15T03:43:36.040Z,"64 km SE of Akutan, Alaska",earthquake,4.4,11.159,0.209,6.0,reviewed,us,us
 2024-12-15T03:04:26.234Z,-58.0043,-25.6734,110.492,4.6,mb,32.0,134.0,7.097,0.64,us,us7000nyyz,2024-12-15T03:48:06.040Z,South Sandwich Islands region,earthquake,14.59,8.575,0.098,31.0,reviewed,us,us
+2024-12-15T04:21:15.549Z,62.5895,-151.2965,90.0,1.4,ml,,,,0.19,ak,ak024g2wlqhu,2024-12-15T04:22:49.562Z,"29 km WNW of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
