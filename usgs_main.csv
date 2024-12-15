@@ -13767,3 +13767,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-15T21:34:33.320Z,38.821998596191,-122.84700012207,1.9500000476837,0.68,md,10.0,99.0,0.009417,0.02,nc,nc75103681,2024-12-15T21:36:08.595Z,"9 km NW of The Geysers, CA",earthquake,0.47,0.790000021,0.26,11.0,automatic,nc,nc
 2024-12-15T21:29:45.030Z,38.797668457031,-122.76899719238,6.0900001525879,0.77,md,9.0,83.0,0.007833,0.08,nc,nc75103676,2024-12-15T21:31:24.183Z,"3 km NNW of The Geysers, CA",earthquake,1.02,1.61000001,0.05,9.0,automatic,nc,nc
 2024-12-15T21:12:19.654Z,-47.2743,-13.2283,10.0,5.1,mb,40.0,85.0,10.221,0.46,us,us7000nz57,2024-12-15T21:37:45.040Z,southern Mid-Atlantic Ridge,earthquake,11.4,1.895,0.092,38.0,reviewed,us,us
+2024-12-15T21:49:28.573Z,37.338,-117.1957,5.1,1.1,ml,27.0,127.19,0.064,0.2532,nn,nn00889716,2024-12-15T21:51:48.389Z,"41 km S of Goldfield, Nevada",earthquake,,1.1,0.37,12.0,automatic,nn,nn
