@@ -13998,3 +13998,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-16T19:24:45.848Z,61.5806,-146.5175,37.0,1.5,ml,,,,0.91,ak,ak024g4t3ajy,2024-12-16T19:26:52.953Z,"47 km SSE of Nelchina, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-12-16T19:21:44.281Z,31.599,-103.943,6.0188,1.7,ml,15.0,108.0,0.0,0.5,tx,tx2024yqyk,2024-12-16T19:31:28.501Z,"34 km NNW of Toyah, Texas",earthquake,0.0,2.169661283493,0.2,13.0,automatic,tx,tx
 2024-12-16T19:21:32.550Z,34.0801667,-118.179,10.69,1.36,ml,19.0,88.0,0.04306,0.12,ci,ci41002960,2024-12-16T19:27:38.385Z,"5 km SSE of Highland Park, CA",earthquake,0.27,0.43,0.291,36.0,automatic,ci,ci
+2024-12-16T19:41:37.839Z,58.7724,-137.3891,0.2,2.9,ml,,,,0.4,ak,ak024g4t6x3r,2024-12-16T19:44:16.226Z,"88 km NW of Elfin Cove, Alaska",earthquake,,0.5,,,automatic,ak,ak
