@@ -14035,3 +14035,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-16T20:47:10.937Z,31.595,-103.948,7.1263,1.8,ml,16.0,75.0,0.0,0.5,tx,tx2024yrbj,2024-12-16T21:00:24.064Z,"34 km NNW of Toyah, Texas",earthquake,0.0,2.5088977813721,0.2,12.0,automatic,tx,tx
 2024-12-16T15:57:15.380Z,39.703166666667,-110.82466666667,-3.41,1.71,md,10.0,105.0,0.06897,0.16,uu,uu80097801,2024-12-16T21:10:02.540Z,"2 km NW of Kenilworth, Utah",earthquake,0.67,1.88,0.32493079829477,9.0,reviewed,uu,uu
 2024-12-16T10:03:45.557Z,60.6102,-139.6971,6.3,1.4,ml,,,,1.44,ak,ak024g4nlwnf,2024-12-16T20:59:39.934Z,"118 km N of Yakutat, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2024-12-16T21:24:42.150Z,59.288,-148.6054,34.8,2.7,ml,,,,0.6,ak,ak024g4ua5h3,2024-12-16T21:27:35.394Z,"92 km SSW of Chenega, Alaska",earthquake,,3.0,,,automatic,ak,ak
+2024-12-16T21:22:00.146Z,61.2888,-152.2467,0.0,1.7,ml,,,,0.45,ak,ak024g4u9msu,2024-12-16T21:24:01.477Z,"64 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-16T21:16:46.890Z,19.405166625977,-155.26400756836,0.37999999523163,1.73,ml,10.0,119.0,0.007149,0.129999995,hv,hv74568032,2024-12-16T21:19:39.020Z,"5 km SW of Volcano, Hawaii",earthquake,0.19,0.319999993,0.24,4.0,automatic,hv,hv
+2024-12-16T08:57:19.890Z,33.895,-116.2866667,7.41,0.67,ml,15.0,79.0,0.09897,0.13,ci,ci37693140,2024-12-16T21:18:26.519Z,"13 km NE of Thousand Palms, CA",earthquake,0.21,0.75,0.084,9.0,reviewed,ci,ci
