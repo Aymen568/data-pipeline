@@ -14058,3 +14058,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-16T22:38:53.139Z,39.0557,-119.2189,4.0,3.1,ml,10.0,170.3,0.072,0.2595,nn,nn00889790,2024-12-16T22:47:58.241Z,"9 km NNW of Yerington, Nevada",earthquake,,0.9,0.27,6.0,automatic,nn,nn
 2024-12-16T22:33:45.717Z,36.4037,26.9257,119.594,4.2,mb,19.0,135.0,0.984,0.48,us,us7000nzdz,2024-12-16T22:45:28.040Z,"29 km SW of Mandráki, Greece",earthquake,5.45,10.202,0.124,18.0,reviewed,us,us
 2024-12-16T22:24:29.531Z,-3.3883,149.7296,10.0,4.6,mb,19.0,139.0,2.556,0.87,us,us7000nzdy,2024-12-16T22:39:35.040Z,"148 km SW of Kavieng, Papua New Guinea",earthquake,7.22,1.918,0.146,14.0,reviewed,us,us
+2024-12-16T22:46:39.848Z,63.5677,-149.56,112.7,2.1,ml,,,,0.23,ak,ak024g4v0ank,2024-12-16T22:48:56.025Z,"36 km WNW of Cantwell, Alaska",earthquake,,1.6,,,automatic,ak,ak
