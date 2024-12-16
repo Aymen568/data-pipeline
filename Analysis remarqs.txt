@@ -8146,4 +8146,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 3.3 and occurred in/near 3 km NNE of Chesapeake, Ohio on 12/16/2024 at 09:39 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 14047 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.29 and occurred in/near 13 km SE of Tehachapi, CA on 12/16/2024 at 09:58 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 14055 recorded earthquakes.
+The most recent earthquake had a magnitude of 0.91 and occurred in/near 3 km ESE of Lake Henshaw, CA on 12/16/2024 at 10:27 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
