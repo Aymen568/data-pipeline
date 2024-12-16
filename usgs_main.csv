@@ -13995,3 +13995,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-16T18:12:22.604Z,-21.8112,170.7586,75.965,4.9,mww,30.0,127.0,3.171,1.1,us,us7000nzaq,2024-12-16T19:08:52.040Z,"294 km SSE of Isangel, Vanuatu",earthquake,11.02,7.592,0.103,9.0,reviewed,us,us
 2024-12-16T09:12:06.180Z,39.704666666667,-110.83116666667,1.26,1.5,md,7.0,202.0,0.07307,0.23,uu,uu80097751,2024-12-16T19:19:08.710Z,"2 km NW of Kenilworth, Utah",earthquake,1.5,31.61,0.18587081099005,6.0,reviewed,uu,uu
 2024-12-16T08:48:08.780Z,38.999166666667,-111.4045,-0.97,1.17,ml,9.0,131.0,0.03557,0.1,uu,uu80097746,2024-12-16T19:17:35.290Z,"15 km WNW of Emery, Utah",earthquake,0.63,0.55,0.26879251558055,4.0,reviewed,uu,uu
+2024-12-16T19:24:45.848Z,61.5806,-146.5175,37.0,1.5,ml,,,,0.91,ak,ak024g4t3ajy,2024-12-16T19:26:52.953Z,"47 km SSE of Nelchina, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2024-12-16T19:21:44.281Z,31.599,-103.943,6.0188,1.7,ml,15.0,108.0,0.0,0.5,tx,tx2024yqyk,2024-12-16T19:31:28.501Z,"34 km NNW of Toyah, Texas",earthquake,0.0,2.169661283493,0.2,13.0,automatic,tx,tx
+2024-12-16T19:21:32.550Z,34.0801667,-118.179,10.69,1.36,ml,19.0,88.0,0.04306,0.12,ci,ci41002960,2024-12-16T19:27:38.385Z,"5 km SSE of Highland Park, CA",earthquake,0.27,0.43,0.291,36.0,automatic,ci,ci
