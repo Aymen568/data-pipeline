@@ -8118,4 +8118,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.15 and occurred in/near 7 km WNW of Cobb, CA on 12/16/2024 at 05:52 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 13984 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.15 and occurred in/near 6 km NW of The Geysers, CA on 12/16/2024 at 06:08 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 13989 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.3 and occurred in/near 5 km SW of San Juan Bautista, CA on 12/16/2024 at 06:39 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
