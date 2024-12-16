@@ -13844,3 +13844,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-16T05:32:00.912Z,63.0781,-151.5409,0.0,1.7,ml,,,,0.8,ak,ak024g4ksucb,2024-12-16T05:34:01.783Z,"52 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-16T05:27:55.020Z,36.208999633789,-121.13649749756,8.5500001907349,1.43,md,5.0,144.0,0.08345,0.02,nc,nc75103826,2024-12-16T05:29:29.810Z,"1 km W of King City, CA",earthquake,0.51,1.17999995,0.32,7.0,automatic,nc,nc
 2024-12-16T03:15:40.179Z,32.2766,-101.1456,3.266,2.4,mb_lg,41.0,41.0,0.122,0.54,us,us7000nz69,2024-12-16T05:39:02.040Z,"15 km SW of Westbrook, Texas",earthquake,1.76,7.87,0.104,24.0,reviewed,us,us
+2024-12-16T06:19:48.882Z,61.4716,-149.923,31.2,1.6,ml,,,,0.7,ak,ak024g4lblc8,2024-12-16T06:21:33.469Z,"5 km SSE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-16T05:59:58.930Z,40.492832183838,-125.00066375732,1.0900000333786,2.94,ml,24.0,278.0,0.5339,0.42,nc,nc75103831,2024-12-16T06:07:17.868Z,"63 km W of Ferndale, CA",earthquake,8.5,12.9300003,0.138,4.0,automatic,nc,nc
+2024-12-16T05:57:09.050Z,19.399000167847,-155.28067016602,1.3099999427795,2.0,ml,31.0,36.0,0.007553,0.159999996,hv,hv74567242,2024-12-16T06:00:02.040Z,"6 km SW of Volcano, Hawaii",earthquake,0.18,0.189999998,0.23,12.0,automatic,hv,hv
+2024-12-15T08:24:56.700Z,45.934,-118.11466666667,7.28,1.55,ml,6.0,202.0,0.1352,0.13,uw,uw62059502,2024-12-16T06:22:25.060Z,"19 km SE of Walla Walla East, Washington",earthquake,0.65,0.37,0.29948863384443,4.0,reviewed,uw,uw

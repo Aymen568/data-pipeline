@@ -8042,4 +8042,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.5 and occurred in/near 54 km SSE of Denali National Park, Alaska on 12/16/2024 at 05:35 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 13845 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.5 and occurred in/near 54 km SSE of Denali National Park, Alaska on 12/16/2024 at 05:35 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 13849 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.6 and occurred in/near 5 km SSE of Big Lake, Alaska on 12/16/2024 at 06:19 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
