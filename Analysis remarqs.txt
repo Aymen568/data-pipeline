@@ -8122,4 +8122,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.3 and occurred in/near 5 km SW of San Juan Bautista, CA on 12/16/2024 at 06:39 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 13990 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.3 and occurred in/near 5 km SW of San Juan Bautista, CA on 12/16/2024 at 06:39 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./nSince 07:04 AM on 10/22/2024, there have been 13996 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.4 and occurred in/near 33 km ENE of Susitna North, Alaska on 12/16/2024 at 07:16 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.0 and occurred in/near 99 km WSW of Ferndale, California on 12/05/2024 at 06:44 PM./n
