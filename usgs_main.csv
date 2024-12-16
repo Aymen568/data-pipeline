@@ -14040,3 +14040,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-16T21:16:46.890Z,19.405166625977,-155.26400756836,0.37999999523163,1.73,ml,10.0,119.0,0.007149,0.129999995,hv,hv74568032,2024-12-16T21:19:39.020Z,"5 km SW of Volcano, Hawaii",earthquake,0.19,0.319999993,0.24,4.0,automatic,hv,hv
 2024-12-16T08:57:19.890Z,33.895,-116.2866667,7.41,0.67,ml,15.0,79.0,0.09897,0.13,ci,ci37693140,2024-12-16T21:18:26.519Z,"13 km NE of Thousand Palms, CA",earthquake,0.21,0.75,0.084,9.0,reviewed,ci,ci
 2024-12-16T21:25:19.676Z,31.697,-104.167,4.4848,1.8,ml,22.0,54.0,0.1,0.2,tx,tx2024yrco,2024-12-16T21:41:44.352Z,"53 km W of Mentone, Texas",earthquake,0.0,1.1036676168442,0.2,17.0,automatic,tx,tx
+2024-12-16T21:39:20.525Z,38.4513,-82.4387,5.0,3.3,mb_lg,43.0,29.0,0.527,0.77,us,us7000nzcn,2024-12-16T21:50:56.038Z,"3 km NNE of Chesapeake, Ohio",earthquake,3.29,1.993,0.041,154.0,reviewed,us,us
