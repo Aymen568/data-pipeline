@@ -13926,3 +13926,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-16T13:22:31.530Z,17.954166666667,-66.9435,9.46,2.22,md,5.0,209.0,0.06458,0.04,pr,pr71468713,2024-12-16T13:28:47.250Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.65,0.71,0.087934967633473,5.0,reviewed,pr,pr
 2024-12-16T13:14:45.250Z,38.516166687012,-122.44132995606,9.0500001907349,1.22,md,8.0,151.0,0.08875,0.03,nc,nc75103931,2024-12-16T13:32:15.039Z,"3 km ENE of Saint Helena, CA",earthquake,0.45,1.15999997,0.2,5.0,automatic,nc,nc
 2024-12-16T13:12:21.868Z,65.4536,-148.2132,4.2,1.4,ml,,,,0.52,ak,ak024g4pg2h6,2024-12-16T13:14:18.739Z,"17 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-16T13:48:29.070Z,38.788333892822,-122.76782989502,2.0199999809265,1.23,md,20.0,79.0,0.01382,0.03,nc,nc75103941,2024-12-16T13:50:06.482Z,"2 km NNW of The Geysers, CA",earthquake,0.23,0.430000007,0.09,19.0,automatic,nc,nc
