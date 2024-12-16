@@ -13973,3 +13973,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-15T20:44:18.306Z,31.964,-102.274,8.374,1.4,ml,15.0,77.0,0.0,0.1,tx,tx2024ypfp,2024-12-16T17:01:31.692Z,"11 km ESE of Gardendale, Texas",earthquake,0.65157145127642,0.60342198784057,0.2,15.0,reviewed,tx,tx
 2024-12-16T17:20:57.590Z,33.7738333,-116.9076667,13.68,1.5,ml,70.0,25.0,0.06064,0.2,ci,ci41002832,2024-12-16T17:26:39.531Z,"3 km NNW of Valle Vista, CA",earthquake,0.16,0.37,0.187,26.0,automatic,ci,ci
 2024-12-16T09:24:32.280Z,39.01,-111.39633333333,-1.71,1.13,md,7.0,126.0,0.03172,0.11,uu,uu80097756,2024-12-16T17:21:35.680Z,"16 km NW of Emery, Utah",earthquake,0.62,0.68,0.23644936929462,7.0,reviewed,uu,uu
+2024-12-16T16:45:34.850Z,18.783166666667,-64.843,21.94,3.08,md,11.0,252.0,0.4183,0.28,pr,pr71468718,2024-12-16T17:36:34.570Z,"49 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.19,22.7,0.10953126559472,6.0,reviewed,pr,pr
