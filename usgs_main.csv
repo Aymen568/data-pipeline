@@ -14059,3 +14059,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-16T22:33:45.717Z,36.4037,26.9257,119.594,4.2,mb,19.0,135.0,0.984,0.48,us,us7000nzdz,2024-12-16T22:45:28.040Z,"29 km SW of Mandráki, Greece",earthquake,5.45,10.202,0.124,18.0,reviewed,us,us
 2024-12-16T22:24:29.531Z,-3.3883,149.7296,10.0,4.6,mb,19.0,139.0,2.556,0.87,us,us7000nzdy,2024-12-16T22:39:35.040Z,"148 km SW of Kavieng, Papua New Guinea",earthquake,7.22,1.918,0.146,14.0,reviewed,us,us
 2024-12-16T22:46:39.848Z,63.5677,-149.56,112.7,2.1,ml,,,,0.23,ak,ak024g4v0ank,2024-12-16T22:48:56.025Z,"36 km WNW of Cantwell, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2024-12-16T23:20:50.848Z,58.065,-156.0685,126.8,1.9,ml,,,,0.1,ak,ak024g4vg6ho,2024-12-16T23:22:51.691Z,"77 km SSE of King Salmon, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-12-16T23:13:40.949Z,61.3619,-152.3541,0.0,0.7,ml,,,,0.48,ak,ak024g4venpq,2024-12-16T23:15:18.062Z,"72 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-12-16T22:20:53.230Z,39.696333333333,-110.85083333333,-3.46,1.5,md,8.0,214.0,0.09023,0.19,uu,uu80097826,2024-12-16T23:02:40.540Z,"1 km NNE of Helper, Utah",earthquake,0.99,0.86,0.15861131254125,8.0,reviewed,uu,uu
+2024-12-16T21:45:03.010Z,34.0845,-118.1768333,10.66,0.42,ml,8.0,209.0,0.05859,0.08,ci,ci41003128,2024-12-16T23:19:26.175Z,"4 km SW of South Pasadena, CA",earthquake,0.58,0.46,0.133,4.0,reviewed,ci,ci
+2024-12-16T20:45:33.640Z,48.353,-122.29483333333,-0.53,1.11,ml,6.0,211.0,0.1074,0.16,uw,uw62059617,2024-12-16T23:15:54.800Z,"3 km ENE of Conway, Washington",explosion,2.64,31.61,0.1394287113928,3.0,reviewed,uw,uw
+2024-12-16T19:52:17.590Z,42.013333333333,-124.32883333333,11.83,1.8,ml,9.0,240.0,0.0686,0.21,uw,uw62059607,2024-12-16T23:04:32.550Z,"5 km SW of Brookings, Oregon",earthquake,0.81,0.61,0.29679916630173,5.0,reviewed,uw,uw
