@@ -13910,3 +13910,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-16T11:19:45.033Z,64.0542,-148.3744,0.8,1.7,ml,,,,0.48,ak,ak024g4oar2f,2024-12-16T11:21:54.180Z,"36 km NE of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-16T11:15:41.680Z,38.835334777832,-122.81700134277,1.710000038147,1.04,md,15.0,63.0,0.01309,0.03,nc,nc75103901,2024-12-16T11:17:19.857Z,"8 km WNW of Cobb, CA",earthquake,0.25,0.699999988,0.29,16.0,automatic,nc,nc
 2024-12-16T11:36:37.265Z,39.0944,-119.021,2.8,1.4,ml,9.0,103.09,0.203,0.2268,nn,nn00889750,2024-12-16T11:39:59.483Z,"17 km NE of Yerington, Nevada",earthquake,,12.0,0.33,5.0,automatic,nn,nn
+2024-12-16T11:43:41.142Z,62.055,-148.8376,7.3,1.8,ml,,,,0.67,ak,ak024g4ofvya,2024-12-16T11:45:38.234Z,"31 km N of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
