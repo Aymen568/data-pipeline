@@ -8206,4 +8206,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 2.2 and occurred in/near 4 km W of Houston, Alaska on 12/17/2024 at 09:23 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 14206 recorded earthquakes.
 The most recent earthquake had a magnitude of 2.2 and occurred in/near 4 km W of Houston, Alaska on 12/17/2024 at 09:23 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 14216 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.08 and occurred in/near 4 km NE of North Shore, CA on 12/17/2024 at 10:21 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
