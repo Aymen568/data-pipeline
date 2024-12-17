@@ -14319,3 +14319,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-17T16:49:39.686Z,-24.0447,-66.9317,204.944,4.3,mb,68.0,43.0,1.579,1.47,us,us7000nzl6,2024-12-17T18:02:49.040Z,"65 km WNW of San Antonio de los Cobres, Argentina",earthquake,7.89,5.575,0.073,57.0,reviewed,us,us
 2024-12-17T09:27:42.200Z,46.499833333333,-122.4325,19.76,0.68,md,15.0,95.0,0.109,0.09,uw,uw62059682,2024-12-17T18:28:27.670Z,"5 km SE of Mossyrock, Washington",earthquake,0.28,0.65,0.37218676425277,10.0,reviewed,uw,uw
 2024-12-17T07:33:11.850Z,60.8941,-142.0488,12.2,0.3,ml,,,,0.41,ak,ak024g69j50g,2024-12-17T18:34:31.420Z,"76 km SE of McCarthy, Alaska",earthquake,,1.0,,,reviewed,ak,ak
+2024-12-17T18:35:44.302Z,31.603,-103.923,13.4104,1.5,ml,5.0,149.0,0.0,0.6,tx,tx2024yssj,2024-12-17T18:46:25.219Z,"32 km WSW of Mentone, Texas",earthquake,0.0,5.9423389434814,0.3,5.0,automatic,tx,tx
+2024-12-17T16:49:04.060Z,45.181166666667,-112.40883333333,-2.0,1.1,ml,8.0,176.0,0.2246,0.05,mb,mb90068918,2024-12-17T18:48:41.020Z,"18 km ESE of Dillon, Montana",quarry blast,0.67,31.61,0.22837525818102,16.0,reviewed,mb,mb
+2024-12-17T16:30:24.298Z,24.5913,122.8932,111.01,4.4,mb,52.0,57.0,0.164,0.94,us,us7000nzl5,2024-12-17T18:37:40.040Z,"17 km NW of Yonakuni, Japan",earthquake,6.01,6.807,0.095,37.0,reviewed,us,us
+2024-12-17T12:29:23.139Z,61.6459,-148.1509,17.9,0.8,ml,,,,0.28,ak,ak024g6chhfe,2024-12-17T18:38:55.017Z,"23 km SE of Chickaloon, Alaska",earthquake,,1.0,,,reviewed,ak,ak
