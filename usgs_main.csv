@@ -14228,3 +14228,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-17T11:03:53.777Z,36.46344376,-98.73374176,11.50701141,1.7,ml,12.0,134.4454193,0.04420743883,0.8955934309,ok,ok2024ysdm,2024-12-17T11:07:48.620Z,"18 km SE of Waynoka, Oklahoma",earthquake,4.303643299,3.414873175,0.51,7.0,automatic,ok,ok
 2024-12-17T11:02:52.248Z,39.3549,-119.1227,6.8,1.4,ml,10.0,126.91,0.381,0.117,nn,nn00889844,2024-12-17T11:04:55.431Z,"11 km SE of Silver Springs, Nevada",earthquake,,0.0,0.33,6.0,automatic,nn,nn
 2024-12-17T10:49:18.357Z,-17.9773,167.886,69.338,5.1,mb,28.0,199.0,4.256,0.45,us,us7000nzig,2024-12-17T11:02:48.040Z,"52 km WSW of Port-Vila, Vanuatu",earthquake,11.59,8.451,0.121,22.0,reviewed,us,us
+2024-12-17T11:11:37.708Z,31.59,-104.531,3.918,1.6,ml,8.0,155.0,0.1,0.2,tx,tx2024ysdv,2024-12-17T11:23:54.274Z,"66 km SSW of Whites City, New Mexico",earthquake,0.0,2.2901079654694,0.0,6.0,automatic,tx,tx
+2024-12-17T11:05:37.861Z,5.1846,127.4355,147.176,5.0,mb,72.0,68.0,2.629,0.87,us,us7000nzih,2024-12-17T11:23:52.040Z,"190 km SE of Pondaguitan, Philippines",earthquake,8.19,6.748,0.048,137.0,reviewed,us,us
