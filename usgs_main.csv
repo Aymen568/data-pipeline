@@ -14358,3 +14358,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-17T20:33:27.419Z,63.5081,-148.0509,10.7,1.8,ml,,,,0.68,ak,ak024g6h9yew,2024-12-17T20:35:51.603Z,"46 km ENE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-17T20:32:35.514Z,39.532,-119.6449,0.0,2.0,ml,12.0,135.29,0.122,0.3639,nn,nn00889864,2024-12-17T20:34:28.662Z,"9 km E of Sparks, Nevada",earthquake,,10.2,0.24,9.0,automatic,nn,nn
 2024-12-17T13:38:51.880Z,46.742166666667,-114.96316666667,10.26,1.33,ml,9.0,212.0,0.6403,0.07,mb,mb90068973,2024-12-17T20:42:11.540Z,"46 km SSW of Riverbend, Montana",earthquake,0.73,1.22,0.228606886208,5.0,reviewed,mb,mb
+2024-12-17T20:42:21.040Z,33.4165,-116.6505,4.44,0.9,ml,47.0,27.0,0.04302,0.18,ci,ci41003832,2024-12-17T20:47:17.786Z,"15 km N of Warner Springs, CA",earthquake,0.16,0.34,0.147,26.0,automatic,ci,ci
+2024-12-17T20:06:09.230Z,46.003166666667,-112.46866666667,-2.0,1.79,ml,9.0,81.0,0.06181,0.13,mb,mb90068958,2024-12-17T20:52:19.310Z,"5 km E of Butte, Montana",quarry blast,0.45,31.61,0.20408978303672,22.0,reviewed,mb,mb
+2024-12-17T13:09:22.360Z,19.415166666667,-155.29283333333,0.69,0.61,md,17.0,94.0,0.005987,0.2,hv,hv74568842,2024-12-17T20:49:10.220Z,"6 km WSW of Volcano, Hawaii",earthquake,0.38,0.23,0.029526824384163,3.0,reviewed,hv,hv
