@@ -14379,3 +14379,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-17T21:33:04.070Z,31.4966667,-115.6423333,6.46,2.83,ml,7.0,107.0,0.1602,0.18,ci,ci41003912,2024-12-17T21:36:42.271Z,"91 km ESE of Maneadero, B.C., MX",earthquake,0.48,3.05,0.179,26.0,automatic,ci,ci
 2024-12-17T21:22:08.990Z,34.4941667,-119.4588333,9.94,2.32,ml,3.0,301.0,0.1535,0.03,ci,ci41003888,2024-12-17T21:29:18.233Z,"12 km NNE of Carpinteria, CA",earthquake,1.08,0.54,0.253,36.0,automatic,ci,ci
 2024-12-17T11:25:27.140Z,19.329,-155.287,7.09,0.56,md,19.0,83.0,0.01488,0.1,hv,hv74568787,2024-12-17T21:44:56.810Z,"13 km SSW of Volcano, Hawaii",earthquake,0.41,0.63,0.024529469338097,4.0,reviewed,hv,hv
+2024-12-17T21:41:08.741Z,-6.8132,130.3503,111.434,5.4,mb,36.0,91.0,2.319,0.81,us,us7000nzn6,2024-12-17T21:56:44.136Z,"296 km WSW of Tual, Indonesia",earthquake,9.84,8.01,0.079,55.0,reviewed,us,us
+2024-12-17T21:27:14.900Z,34.4813333,-117.965,8.19,1.13,ml,29.0,39.0,0.03327,0.16,ci,ci41003896,2024-12-17T21:59:17.682Z,"5 km SSE of Littlerock, CA",earthquake,0.2,0.41,0.179,20.0,reviewed,ci,ci
