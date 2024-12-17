@@ -14146,3 +14146,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-17T04:30:36.075Z,61.146,-152.4951,250.0,1.7,ml,,,,0.63,ak,ak024g67qeif,2024-12-17T04:36:03.290Z,"73 km W of Tyonek, Alaska",earthquake,,7.7,,,automatic,ak,ak
 2024-12-17T04:18:43.059Z,-17.9258,167.953,43.336,5.4,mb,48.0,72.0,4.338,1.09,us,us7000nzgb,2024-12-17T04:33:17.766Z,"43 km WSW of Port-Vila, Vanuatu",earthquake,8.84,8.666,0.09,42.0,reviewed,us,us
 2024-12-17T04:07:10.305Z,-18.0814,168.0112,60.481,4.7,mb,22.0,214.0,4.29,0.81,us,us7000nzg9,2024-12-17T04:39:41.040Z,"49 km SW of Port-Vila, Vanuatu",earthquake,14.12,10.819,0.142,15.0,reviewed,us,us
+2024-12-17T04:54:26.635Z,62.2912,-150.6168,63.6,1.8,ml,,,,0.6,ak,ak024g67viyv,2024-12-17T04:56:38.959Z,"20 km W of Trapper Creek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-12-17T04:54:21.200Z,40.341667175293,-124.84533691406,12.979999542236,2.88,md,24.0,272.0,0.3881,0.34,nc,nc75104341,2024-12-17T04:56:00.826Z,"48 km WNW of Petrolia, CA",earthquake,8.66,5.57000017,0.12,24.0,automatic,nc,nc
+2024-12-17T04:49:58.120Z,33.483,-116.5205,12.93,0.63,ml,40.0,55.0,0.06927,0.14,ci,ci41003336,2024-12-17T04:54:50.777Z,"16 km ESE of Anza, CA",earthquake,0.16,0.32,0.132,18.0,automatic,ci,ci
+2024-12-17T04:39:34.957Z,-41.8381,174.38,25.855,4.5,mb,29.0,89.0,0.582,1.02,us,us7000nzge,2024-12-17T04:54:18.046Z,"49 km SE of Witherlea, New Zealand",earthquake,1.91,7.177,0.192,8.0,reviewed,us,us
