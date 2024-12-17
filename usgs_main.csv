@@ -14387,3 +14387,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-17T22:11:34.135Z,63.8855,-148.5366,97.3,1.6,ml,,,,0.55,ak,ak024g6ic3o1,2024-12-17T22:18:11.237Z,"21 km E of Healy, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-12-17T22:10:39.585Z,-18.1976,-178.2797,535.946,5.6,mww,85.0,37.0,3.52,0.82,us,us7000nznb,2024-12-17T22:32:18.957Z,"254 km E of Levuka, Fiji",earthquake,9.62,7.696,0.089,12.0,reviewed,us,us
 2024-12-17T02:11:00.620Z,47.4715,-115.78283333333,0.02,1.48,ml,5.0,118.0,0.4333,0.15,mb,mb90068998,2024-12-17T22:22:03.770Z,"1 km E of Mullan, Idaho",earthquake,0.74,31.61,0.06759079403158,2.0,reviewed,mb,mb
+2024-12-17T22:46:09.560Z,38.84700012207,-122.73699951172,11.539999961853,0.74,md,6.0,201.0,0.04959,0.01,nc,nc75104611,2024-12-17T22:47:48.965Z,"3 km NNW of Cobb, CA",earthquake,1.98,1.79999995,0.16,5.0,automatic,nc,nc
