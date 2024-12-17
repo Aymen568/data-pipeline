@@ -14333,3 +14333,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-17T19:13:18.110Z,35.0425,-118.327,1.01,1.51,ml,32.0,40.0,0.05314,0.14,ci,ci41003752,2024-12-17T19:19:27.578Z,"14 km W of Mojave, CA",earthquake,0.18,0.34,0.138,28.0,automatic,ci,ci
 2024-12-17T19:00:11.955Z,31.619,-104.13,5.0745,2.0,ml,15.0,73.0,0.0,0.1,tx,tx2024ystg,2024-12-17T19:10:35.364Z,"46 km NW of Toyah, Texas",earthquake,0.76002137183061,1.3215780207533,0.1,13.0,reviewed,tx,tx
 2024-12-17T12:03:33.122Z,39.1586,-119.0634,10.3,1.8,ml,20.0,89.61,0.022,0.166,nn,nn00889847,2024-12-17T19:23:33.855Z,"21 km NNE of Yerington, Nevada",earthquake,,0.9,0.23,12.0,reviewed,nn,nn
+2024-12-17T17:26:50.537Z,33.6926,92.9426,10.0,4.4,mb,48.0,63.0,4.267,0.61,us,us7000nzl9,2024-12-17T19:32:19.040Z,"259 km NNE of Nagqu, China",earthquake,8.6,1.736,0.092,34.0,reviewed,us,us
+2024-12-17T15:05:08.650Z,45.308833333333,-121.735,6.94,0.87,ml,9.0,143.0,0.04407,0.08,uw,uw62059702,2024-12-17T19:26:20.130Z,"1 km ENE of Government Camp, Oregon",earthquake,0.33,0.5,0.044399898063909,3.0,reviewed,uw,uw
