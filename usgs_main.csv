@@ -14143,3 +14143,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-17T03:48:18.967Z,-17.8389,167.9946,56.851,5.0,mb,55.0,84.0,4.422,0.68,us,us7000nzg6,2024-12-17T04:13:44.040Z,"35 km WSW of Port-Vila, Vanuatu",earthquake,9.62,5.509,0.078,52.0,reviewed,us,us
 2024-12-17T03:37:44.268Z,-17.8056,167.957,55.674,4.9,mb,27.0,84.0,4.415,1.05,us,us7000nzg0,2024-12-17T04:05:48.040Z,"38 km WSW of Port-Vila, Vanuatu",earthquake,10.13,6.436,0.103,30.0,reviewed,us,us
 2024-12-16T07:06:57.536Z,39.3305,-120.1414,9.5,1.1,ml,15.0,102.78,0.054,0.1322,nn,nn00889832,2024-12-17T04:27:02.112Z,"3 km E of Truckee, California",earthquake,,1.4,0.28,9.0,reviewed,nn,nn
+2024-12-17T04:30:36.075Z,61.146,-152.4951,250.0,1.7,ml,,,,0.63,ak,ak024g67qeif,2024-12-17T04:36:03.290Z,"73 km W of Tyonek, Alaska",earthquake,,7.7,,,automatic,ak,ak
+2024-12-17T04:18:43.059Z,-17.9258,167.953,43.336,5.4,mb,48.0,72.0,4.338,1.09,us,us7000nzgb,2024-12-17T04:33:17.766Z,"43 km WSW of Port-Vila, Vanuatu",earthquake,8.84,8.666,0.09,42.0,reviewed,us,us
+2024-12-17T04:07:10.305Z,-18.0814,168.0112,60.481,4.7,mb,22.0,214.0,4.29,0.81,us,us7000nzg9,2024-12-17T04:39:41.040Z,"49 km SW of Port-Vila, Vanuatu",earthquake,14.12,10.819,0.142,15.0,reviewed,us,us
