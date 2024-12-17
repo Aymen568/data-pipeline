@@ -14223,3 +14223,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-17T10:44:01.480Z,33.557,-115.9093333,3.24,1.06,ml,50.0,78.0,0.03054,0.22,ci,ci41003440,2024-12-17T10:48:23.997Z,"4 km NE of North Shore, CA",earthquake,0.19,0.27,0.168,25.0,automatic,ci,ci
 2024-12-17T10:38:23.032Z,31.589,-104.526,4.0484,1.7,ml,8.0,153.0,0.1,0.2,tx,tx2024yscq,2024-12-17T10:46:25.008Z,"66 km SSW of Whites City, New Mexico",earthquake,0.0,2.2183985710144,0.1,6.0,automatic,tx,tx
 2024-12-17T10:36:31.657Z,31.587,-104.535,3.7044,2.6,ml,8.0,157.0,0.1,0.1,tx,tx2024ysco,2024-12-17T10:55:02.040Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,3.1548283100128,0.1,6.0,automatic,tx,tx
+2024-12-17T11:15:15.479Z,61.5695,-149.9811,39.2,1.8,ml,,,,0.73,ak,ak024g6bt6ez,2024-12-17T11:16:52.102Z,"5 km NNW of Big Lake, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-12-17T11:10:50.111Z,59.928,-151.6213,65.7,2.5,ml,,,,0.29,ak,ak024g6bs6ib,2024-12-17T11:12:27.311Z,"6 km ESE of Happy Valley, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-12-17T11:03:53.777Z,36.46344376,-98.73374176,11.50701141,1.7,ml,12.0,134.4454193,0.04420743883,0.8955934309,ok,ok2024ysdm,2024-12-17T11:07:48.620Z,"18 km SE of Waynoka, Oklahoma",earthquake,4.303643299,3.414873175,0.51,7.0,automatic,ok,ok
+2024-12-17T11:02:52.248Z,39.3549,-119.1227,6.8,1.4,ml,10.0,126.91,0.381,0.117,nn,nn00889844,2024-12-17T11:04:55.431Z,"11 km SE of Silver Springs, Nevada",earthquake,,0.0,0.33,6.0,automatic,nn,nn
+2024-12-17T10:49:18.357Z,-17.9773,167.886,69.338,5.1,mb,28.0,199.0,4.256,0.45,us,us7000nzig,2024-12-17T11:02:48.040Z,"52 km WSW of Port-Vila, Vanuatu",earthquake,11.59,8.451,0.121,22.0,reviewed,us,us
