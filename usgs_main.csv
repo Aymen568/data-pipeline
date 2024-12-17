@@ -14162,3 +14162,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-17T05:05:55.073Z,0.905,-29.1088,10.0,5.2,mb,78.0,50.0,9.525,0.67,us,us7000nzgl,2024-12-17T05:24:16.040Z,central Mid-Atlantic Ridge,earthquake,6.93,1.844,0.035,272.0,reviewed,us,us
 2024-12-16T13:06:09.280Z,53.6265,-167.14983333333,14.16,0.54,ml,7.0,335.0,0.2204,0.12,av,av93028574,2024-12-17T05:36:28.890Z,"49 km SW of Unalaska, Alaska",earthquake,1.56,0.49,0.17983982611492,7.0,reviewed,av,av
 2024-12-16T12:38:37.710Z,53.460333333333,-168.12316666667,8.29,0.01,ml,5.0,286.0,0.004661,0.15,av,av93028569,2024-12-17T05:26:15.970Z,"76 km NE of Nikolski, Alaska",earthquake,1.0,0.72,0.15881606184914,4.0,reviewed,av,av
+2024-12-17T05:39:32.418Z,63.1066,-152.6709,9.9,2.0,ml,,,,0.61,ak,ak024g68dra1,2024-12-17T05:41:23.298Z,"67 km SW of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
