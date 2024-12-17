@@ -14197,3 +14197,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-17T08:33:59.917Z,32.124,-102.204,3.7403,1.5,ml,54.0,67.0,0.0,0.4,tx,tx2024yryo,2024-12-17T08:50:04.010Z,"18 km NW of Midland, Texas",earthquake,0.0,0.72998261451721,0.2,35.0,automatic,tx,tx
 2024-12-17T08:28:53.836Z,32.125,-102.208,4.2592,2.0,ml,56.0,47.0,0.0,0.4,tx,tx2024yryj,2024-12-17T08:40:49.906Z,"18 km NW of Midland, Texas",earthquake,0.0,0.75456964969635,0.2,35.0,automatic,tx,tx
 2024-12-17T08:23:22.540Z,19.274166666667,-65.097166666667,85.84,3.43,md,12.0,270.0,0.9265,0.22,pr,pr71468793,2024-12-17T08:37:27.500Z,"104 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,3.93,5.35,0.069676792835213,5.0,reviewed,pr,pr
+2024-12-17T09:09:10.520Z,38.817832946777,-122.79533386231,3.1900000572205,0.67,md,9.0,74.0,0.009851,0.02,nc,nc75104466,2024-12-17T09:10:46.507Z,"6 km NNW of The Geysers, CA",earthquake,0.61,1.41999996,0.36,10.0,automatic,nc,nc
+2024-12-17T08:48:59.455Z,32.13,-102.216,4.6031,2.4,ml,65.0,48.0,0.0,0.4,tx,tx2024yrzb,2024-12-17T09:01:14.340Z,"19 km NW of Midland, Texas",earthquake,0.0,0.72251063585281,0.1,40.0,automatic,tx,tx
+2024-12-17T08:47:42.360Z,36.0191667,-117.7781667,1.28,0.47,ml,15.0,60.0,0.01208,0.17,ci,ci41003392,2024-12-17T08:51:04.280Z,"15 km NE of Little Lake, CA",earthquake,0.23,0.33,0.069,5.0,automatic,ci,ci
