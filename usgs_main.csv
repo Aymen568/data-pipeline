@@ -14258,3 +14258,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-17T14:03:19.731Z,60.9416,-151.1826,59.1,2.0,ml,,,,0.4,ak,ak024g6diwyt,2024-12-17T14:05:13.048Z,"14 km S of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-17T14:02:39.560Z,60.3169,-148.8055,66.1,2.6,ml,,,,1.51,ak,ak024g6diql6,2024-12-17T14:04:57.220Z,"29 km E of Primrose, Alaska",earthquake,,3.8,,,automatic,ak,ak
 2024-12-17T08:48:59.794Z,32.149,-102.216,7.2021,2.4,ml,33.0,57.0,0.0,0.1,tx,tx2024yryx,2024-12-17T14:17:24.030Z,"21 km NE of Gardendale, Texas",earthquake,0.78540260914474,0.62857099955518,0.2,53.0,reviewed,tx,tx
+2024-12-17T13:50:47.950Z,38.509,-112.904,3.48,0.76,md,12.0,113.0,0.0155,0.07,uu,uu80097921,2024-12-17T14:37:24.670Z,"15 km NE of Milford, Utah",earthquake,0.34,0.54,0.25589129662765,5.0,reviewed,uu,uu
+2024-12-17T12:32:24.102Z,39.7526,77.1364,10.0,4.4,mb,29.0,241.0,1.737,0.78,us,us7000nziv,2024-12-17T14:43:00.040Z,"103 km ENE of Kashgar, China",earthquake,7.09,1.974,0.149,13.0,reviewed,us,us
