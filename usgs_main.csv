@@ -14245,3 +14245,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-17T12:44:53.095Z,39.3649,-119.1248,0.9,1.6,ml,8.0,130.24,0.39,0.0981,nn,nn00889851,2024-12-17T12:48:35.237Z,"10 km ESE of Silver Springs, Nevada",earthquake,,6.6,0.26,5.0,automatic,nn,nn
 2024-12-17T12:42:12.160Z,33.872,-115.9801667,4.71,1.03,ml,38.0,73.0,0.1291,0.17,ci,ci41003464,2024-12-17T12:46:01.977Z,"28 km NE of Indio, CA",earthquake,0.21,0.64,0.109,11.0,automatic,ci,ci
 2024-12-17T12:41:13.090Z,33.154,-115.6538333,4.04,1.98,ml,53.0,41.0,0.03968,0.25,ci,ci41003456,2024-12-17T12:44:58.100Z,"13 km NNW of Westmorland, CA",earthquake,0.23,0.45,0.266,28.0,automatic,ci,ci
+2024-12-17T13:18:21.273Z,65.1858,-149.8321,11.8,1.6,ml,,,,0.57,ak,ak024g6d0p7z,2024-12-17T13:20:25.094Z,"22 km W of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-17T13:09:59.070Z,34.53716667,-97.52466667,5.23,1.72,ml,76.0,44.0,0.1313742199,0.38,ok,ok2024yshq,2024-12-17T13:24:09.919Z,"8 km NW of Tatums, Oklahoma",earthquake,,0.9,0.25,30.0,reviewed,ok,ok
+2024-12-17T12:53:26.544Z,-7.5921,127.786,150.093,4.5,mb,39.0,91.0,3.706,0.93,us,us7000nziy,2024-12-17T13:13:51.040Z,"134 km NE of Lospalos, Timor Leste",earthquake,9.76,8.214,0.089,37.0,reviewed,us,us
+2024-12-17T12:45:32.719Z,31.687,-104.419,6.0101,1.6,ml,20.0,59.0,0.0,0.1,tx,tx2024ysgw,2024-12-17T13:24:41.118Z,"54 km S of Whites City, New Mexico",earthquake,0.65151502693125,0.59856311899721,0.2,26.0,reviewed,tx,tx
