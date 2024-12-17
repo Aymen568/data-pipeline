@@ -14233,3 +14233,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-17T11:46:41.278Z,35.35375595,-97.96042633,6.581493378,1.91,ml,17.0,62.50346375,0.05156578869,0.2860795021,ok,ok2024ysex,2024-12-17T11:50:14.784Z,"4 km SSW of Union City, Oklahoma",earthquake,3.115166837,3.438254805,0.22,12.0,automatic,ok,ok
 2024-12-17T11:39:46.004Z,61.5878,-146.3521,40.9,1.6,ml,,,,0.95,ak,ak024g6bydyg,2024-12-17T11:41:35.249Z,"50 km SSE of Nelchina, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-17T09:45:07.700Z,-6.6585,128.4224,239.015,4.4,mb,25.0,71.0,5.323,0.58,us,us7000nzi5,2024-12-17T11:44:21.040Z,"259 km NE of Lospalos, Timor Leste",earthquake,11.11,10.148,0.117,21.0,reviewed,us,us
+2024-12-17T12:19:40.636Z,64.9213,-147.5879,0.6,1.3,ml,,,,0.6,ak,ak024g6cfipo,2024-12-17T12:22:42.879Z,"4 km SSE of Fox, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-12-17T11:57:11.760Z,19.378166198731,-155.28733825684,2.4000000953674,2.82,ml,15.0,92.0,0.009871,0.100000001,hv,hv74568807,2024-12-17T12:00:08.450Z,"9 km SW of Volcano, Hawaii",earthquake,0.36,0.439999998,0.68,3.0,automatic,hv,hv
+2024-12-17T11:55:00.889Z,62.9251,-150.1318,67.1,1.8,ml,,,,0.84,ak,ak024g6c1pxk,2024-12-17T11:57:21.636Z,"53 km N of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-12-17T11:23:29.302Z,29.8513,81.4236,37.534,4.4,mb,22.0,159.0,3.952,0.44,us,us7000nzij,2024-12-17T12:11:16.040Z,"54 km SSE of Burang, China",earthquake,10.45,9.077,0.13,18.0,reviewed,us,us
