@@ -14230,3 +14230,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-17T10:49:18.357Z,-17.9773,167.886,69.338,5.1,mb,28.0,199.0,4.256,0.45,us,us7000nzig,2024-12-17T11:02:48.040Z,"52 km WSW of Port-Vila, Vanuatu",earthquake,11.59,8.451,0.121,22.0,reviewed,us,us
 2024-12-17T11:11:37.708Z,31.59,-104.531,3.918,1.6,ml,8.0,155.0,0.1,0.2,tx,tx2024ysdv,2024-12-17T11:23:54.274Z,"66 km SSW of Whites City, New Mexico",earthquake,0.0,2.2901079654694,0.0,6.0,automatic,tx,tx
 2024-12-17T11:05:37.861Z,5.1846,127.4355,147.176,5.0,mb,72.0,68.0,2.629,0.87,us,us7000nzih,2024-12-17T11:23:52.040Z,"190 km SE of Pondaguitan, Philippines",earthquake,8.19,6.748,0.048,137.0,reviewed,us,us
+2024-12-17T11:46:41.278Z,35.35375595,-97.96042633,6.581493378,1.91,ml,17.0,62.50346375,0.05156578869,0.2860795021,ok,ok2024ysex,2024-12-17T11:50:14.784Z,"4 km SSW of Union City, Oklahoma",earthquake,3.115166837,3.438254805,0.22,12.0,automatic,ok,ok
+2024-12-17T11:39:46.004Z,61.5878,-146.3521,40.9,1.6,ml,,,,0.95,ak,ak024g6bydyg,2024-12-17T11:41:35.249Z,"50 km SSE of Nelchina, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-12-17T09:45:07.700Z,-6.6585,128.4224,239.015,4.4,mb,25.0,71.0,5.323,0.58,us,us7000nzi5,2024-12-17T11:44:21.040Z,"259 km NE of Lospalos, Timor Leste",earthquake,11.11,10.148,0.117,21.0,reviewed,us,us
