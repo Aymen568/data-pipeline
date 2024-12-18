@@ -14526,3 +14526,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-18T10:45:28.420Z,19.284999847412,-155.41683959961,29.020000457764,2.17000008,md,38.0,92.0,0.05066,0.119999997,hv,hv74569967,2024-12-18T10:47:10.650Z,"11 km NE of Pāhala, Hawaii",earthquake,0.7,0.610000014,0.400000006,3.0,automatic,hv,hv
 2024-12-18T10:44:00.703Z,39.132,-119.051,2.5,1.2,ml,10.0,128.98,0.038,0.1704,nn,nn00889907,2024-12-18T10:46:11.116Z,"18 km NNE of Yerington, Nevada",earthquake,,0.9,0.44,5.0,automatic,nn,nn
 2024-12-18T10:39:02.119Z,62.9022,-150.0182,0.0,1.8,ml,,,,0.98,ak,ak024g7yw7gj,2024-12-18T10:41:17.815Z,"50 km N of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-18T11:27:01.570Z,33.6858333,-116.79,11.19,0.51,ml,24.0,80.0,0.06808,0.12,ci,ci41004304,2024-12-18T11:31:50.988Z,"9 km SW of Idyllwild, CA",earthquake,0.24,0.47,0.174,12.0,automatic,ci,ci
+2024-12-18T10:53:06.517Z,34.2628,78.7395,10.0,4.4,mb,38.0,106.0,4.587,0.64,us,us7000nzs7,2024-12-18T11:26:25.040Z,"107 km E of Leh, India",earthquake,7.64,1.732,0.11,24.0,reviewed,us,us
