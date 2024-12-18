@@ -14449,3 +14449,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-17T09:29:15.120Z,61.045666666667,-152.33,14.95,-0.07,ml,8.0,287.0,0.1505,0.21,av,av93412881,2024-12-18T04:31:07.730Z,"64 km W of Tyonek, Alaska",earthquake,1.38,2.38,0.25331069902542,8.0,reviewed,av,av
 2024-12-17T09:08:15.310Z,61.068333333333,-152.3145,16.67,-0.03,ml,9.0,282.0,0.1283,0.22,av,av93028614,2024-12-18T04:34:44.810Z,"63 km W of Tyonek, Alaska",earthquake,0.97,1.31,0.15558702753012,9.0,reviewed,av,av
 2024-12-17T09:00:06.270Z,61.056833333333,-152.3115,15.01,-0.19,ml,6.0,285.0,0.1399,0.05,av,av93028609,2024-12-18T04:24:16.780Z,"63 km W of Tyonek, Alaska",earthquake,1.11,1.33,0.28643686283918,6.0,reviewed,av,av
+2024-12-18T04:44:36.604Z,63.8746,-148.8097,107.0,3.4,ml,,,,0.47,ak,ak024g7vcr1p,2024-12-18T04:46:23.962Z,"7 km ENE of Healy, Alaska",earthquake,,0.5,,,automatic,ak,ak
