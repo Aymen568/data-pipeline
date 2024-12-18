@@ -14584,3 +14584,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-18T15:24:50.777Z,39.1045,-119.0455,8.5,1.3,ml,9.0,137.77,0.065,0.0586,nn,nn00889924,2024-12-18T15:27:02.875Z,"16 km NE of Yerington, Nevada",earthquake,,0.8,0.23,5.0,automatic,nn,nn
 2024-12-18T08:45:09.480Z,46.898333333333,-113.5165,2.88,1.14,ml,16.0,72.0,0.1821,0.13,mb,mb90069018,2024-12-18T15:32:38.300Z,"20 km NE of Clinton, Montana",earthquake,0.37,1.3,0.085086694385176,12.0,reviewed,mb,mb
 2024-12-18T03:02:53.090Z,39.708833333333,-110.85,1.32,1.83,md,11.0,158.0,0.08569,0.15,uu,uu80097996,2024-12-18T15:25:34.060Z,"2 km N of Helper, Utah",earthquake,0.96,31.61,0.1733898497153,9.0,reviewed,uu,uu
+2024-12-18T15:45:10.121Z,39.155,-119.0363,6.9,1.6,ml,15.0,87.44,0.014,0.1446,nn,nn00889929,2024-12-18T15:47:34.270Z,"21 km NNE of Yerington, Nevada",earthquake,,0.4,0.15,7.0,automatic,nn,nn
+2024-12-18T15:44:20.899Z,61.659,-151.9681,89.7,1.7,ml,,,,0.48,ak,ak024g81whm6,2024-12-18T15:47:30.044Z,"47 km SW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-12-18T15:39:18.582Z,61.0387,-150.6313,43.4,1.8,ml,,,,0.55,ak,ak024g81ver6,2024-12-18T15:41:49.936Z,"13 km NNE of Point Possession, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-12-18T10:59:17.900Z,46.934166666667,-112.52216666667,9.26,1.3,ml,10.0,144.0,0.0873,0.13,mb,mb90069028,2024-12-18T15:47:22.190Z,"12 km E of Lincoln, Montana",earthquake,0.51,0.92,0.18454146287027,13.0,reviewed,mb,mb
+2024-12-18T08:56:03.150Z,44.916,-111.49283333333,9.99,0.89,ml,8.0,114.0,0.15,0.1,mb,mb90069023,2024-12-18T15:39:20.060Z,"28 km NW of Hebgen Lake Estates, Montana",earthquake,0.47,0.86,0.20860751426356,7.0,reviewed,mb,mb
+2024-12-18T07:40:53.550Z,35.7513333,-117.5533333,3.2,0.84,ml,21.0,69.0,0.1361,0.15,ci,ci41004248,2024-12-18T15:47:55.927Z,"14 km W of Searles Valley, CA",earthquake,0.21,0.81,0.118,12.0,reviewed,ci,ci
