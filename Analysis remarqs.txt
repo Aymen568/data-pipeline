@@ -8402,4 +8402,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.7 and occurred in/near 6 km WSW of Petrolia, CA on 12/18/2024 at 05:41 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 14618 recorded earthquakes.
 The most recent earthquake had a magnitude of 0.98 and occurred in/near 23 km ESE of Julian, CA on 12/18/2024 at 05:49 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 14622 recorded earthquakes.
+The most recent earthquake had a magnitude of 0.51 and occurred in/near 6 km WNW of Cobb, CA on 12/18/2024 at 06:12 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
