@@ -14650,3 +14650,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-18T20:34:58.178Z,62.2305,-147.07,0.0,2.0,ml,,,,0.52,ak,ak024g84tl95,2024-12-18T20:43:16.622Z,"27 km WSW of Lake Louise, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-18T20:11:12.160Z,46.007666666667,-112.46083333333,-2.0,0.93,ml,6.0,118.0,0.06687,0.05,mb,mb90069048,2024-12-18T20:43:55.820Z,"5 km E of Butte, Montana",quarry blast,0.52,31.61,0.19104422386838,5.0,reviewed,mb,mb
 2024-12-18T03:34:12.310Z,61.294666666667,-152.23466666667,3.37,-0.19,ml,8.0,140.0,0.04835,0.06,av,av93414456,2024-12-18T20:42:40.710Z,"64 km WNW of Beluga, Alaska",earthquake,0.33,0.41,0.1914148084482,10.0,reviewed,av,av
+2024-12-18T20:41:31.462Z,31.294,-103.011,3.7024,1.7,ml,9.0,137.0,0.1,0.5,tx,tx2024yusc,2024-12-18T20:51:43.015Z,"7 km NE of Coyanosa, Texas",earthquake,0.0,1.8034893274307,0.2,7.0,automatic,tx,tx
+2024-12-18T20:12:52.278Z,-60.507,-26.6123,10.0,5.0,mb,37.0,213.0,8.2,0.32,us,us7000nzvy,2024-12-18T20:47:37.040Z,South Sandwich Islands region,earthquake,11.48,1.985,0.101,31.0,reviewed,us,us
