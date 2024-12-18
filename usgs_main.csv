@@ -14523,3 +14523,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-18T07:58:17.032Z,-28.1292,-71.0108,57.687,4.3,mb,33.0,99.0,0.093,1.24,us,us7000nzqr,2024-12-18T10:11:23.040Z,"55 km NNW of Vallenar, Chile",earthquake,6.75,8.724,0.218,6.0,reviewed,us,us
 2024-12-18T10:28:58.199Z,64.5434,-156.9367,11.9,3.0,ml,,,,0.77,ak,ak024g7ytyw8,2024-12-18T10:31:19.178Z,"21 km S of Galena, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-18T10:19:47.356Z,62.5704,-150.1732,68.3,1.5,ml,,,,0.57,ak,ak024g7ys0mn,2024-12-18T10:21:22.052Z,"14 km NNW of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-12-18T10:45:28.420Z,19.284999847412,-155.41683959961,29.020000457764,2.17000008,md,38.0,92.0,0.05066,0.119999997,hv,hv74569967,2024-12-18T10:47:10.650Z,"11 km NE of Pāhala, Hawaii",earthquake,0.7,0.610000014,0.400000006,3.0,automatic,hv,hv
+2024-12-18T10:44:00.703Z,39.132,-119.051,2.5,1.2,ml,10.0,128.98,0.038,0.1704,nn,nn00889907,2024-12-18T10:46:11.116Z,"18 km NNE of Yerington, Nevada",earthquake,,0.9,0.44,5.0,automatic,nn,nn
+2024-12-18T10:39:02.119Z,62.9022,-150.0182,0.0,1.8,ml,,,,0.98,ak,ak024g7yw7gj,2024-12-18T10:41:17.815Z,"50 km N of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
