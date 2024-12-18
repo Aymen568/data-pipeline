@@ -14625,3 +14625,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-18T18:26:48.265Z,63.7745,-149.4475,45.4,1.9,ml,,,,0.45,ak,ak024g83kzju,2024-12-18T18:28:12.201Z,"25 km WSW of Healy, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-12-18T08:24:00.980Z,42.209833333333,-118.529,0.64,1.79,ml,7.0,257.0,0.2377,0.27,uw,uw62059837,2024-12-18T18:38:37.470Z,"25 km NNE of Denio, Nevada",earthquake,1.99,4.12,0.087895716240663,3.0,reviewed,uw,uw
 2024-12-17T21:20:19.950Z,45.090833333333,-123.02066666667,21.21,1.24,ml,15.0,102.0,0.06794,0.21,uw,uw62059752,2024-12-18T18:44:06.580Z,"6 km NW of Brooks, Oregon",earthquake,0.48,0.81,0.067420909696226,5.0,reviewed,uw,uw
+2024-12-18T18:48:05.071Z,62.1802,-145.5655,25.0,1.5,ml,,,,0.36,ak,ak024g83plyz,2024-12-18T18:49:32.986Z,"7 km N of Glennallen, Alaska",earthquake,,0.2,,,automatic,ak,ak
