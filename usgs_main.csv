@@ -14428,3 +14428,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-18T01:16:42.551Z,34.88385773,-95.84098053,5.0,2.68,ml,63.0,102.4211349,0.3778877556,0.8097382005,ok,ok2024ytfp,2024-12-18T01:55:49.725Z,"6 km N of Savanna, Oklahoma",earthquake,2.15712511,,0.24,18.0,automatic,ok,ok
 2024-12-18T01:13:41.900Z,19.4035,-155.26916666667,10.02,1.05,ml,20.0,48.0,0.006009,0.12,hv,hv74569657,2024-12-18T01:26:52.640Z,"5 km SW of Volcano, Hawaii",earthquake,0.42,0.47,0.11722203209788,16.0,reviewed,hv,hv
 2024-12-17T19:43:24.968Z,39.1369,-119.0605,8.1,1.5,ml,17.0,75.15,0.036,0.1348,nn,nn00889861,2024-12-18T01:24:31.722Z,"18 km NNE of Yerington, Nevada",earthquake,,1.2,0.27,9.0,reviewed,nn,nn
+2024-12-18T03:10:27.967Z,64.5624,-147.9188,16.3,1.2,ml,,,,0.51,ak,ak024g7uk0fp,2024-12-18T03:12:45.385Z,"28 km SSW of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-18T03:03:33.800Z,33.2551667,-116.4213333,2.8,0.72,ml,37.0,72.0,0.01346,0.21,ci,ci41004128,2024-12-18T03:08:13.600Z,"4 km W of Borrego Springs, CA",earthquake,0.23,0.33,0.143,18.0,automatic,ci,ci
+2024-12-18T03:03:15.437Z,39.1565,-119.0585,4.0,1.2,ml,12.0,87.73,0.02,0.0942,nn,nn00889876,2024-12-18T03:05:19.804Z,"21 km NNE of Yerington, Nevada",earthquake,,0.6,0.27,4.0,automatic,nn,nn
+2024-12-18T02:58:32.435Z,31.755,-104.379,4.0707,1.6,ml,13.0,97.0,0.0,0.1,tx,tx2024ytjg,2024-12-18T03:16:46.072Z,"46 km S of Whites City, New Mexico",earthquake,0.0,1.3456192016602,0.1,11.0,automatic,tx,tx
+2024-12-18T02:34:22.647Z,39.1638,-119.0443,8.7,1.3,ml,16.0,84.79,0.007,0.1858,nn,nn00889873,2024-12-18T02:56:23.095Z,"22 km NNE of Yerington, Nevada",earthquake,,1.1,0.17,8.0,reviewed,nn,nn
