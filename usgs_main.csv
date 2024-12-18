@@ -14533,3 +14533,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-18T11:58:13.320Z,38.839668273926,-122.76999664307,1.1599999666214,1.07,md,17.0,149.0,0.005794,0.02,nc,nc75104801,2024-12-18T11:59:51.561Z,"5 km NW of Cobb, CA",earthquake,0.29,0.419999987,0.09,19.0,automatic,nc,nc
 2024-12-18T11:55:02.800Z,35.4855,-118.4436667,2.97,1.23,ml,32.0,46.0,0.1786,0.16,ci,ci41004312,2024-12-18T11:59:03.869Z,"12 km SSE of Bodfish, CA",earthquake,0.18,0.63,0.174,27.0,automatic,ci,ci
 2024-12-18T11:06:19.410Z,46.8903,152.9906,52.85,4.4,mb,26.0,137.0,6.923,0.75,us,us7000nzs8,2024-12-18T11:51:57.040Z,Kuril Islands,earthquake,12.35,8.498,0.139,15.0,reviewed,us,us
+2024-12-18T12:23:00.367Z,59.6566,-153.0657,103.3,2.1,ml,,,,0.25,ak,ak024g7zzn2s,2024-12-18T12:34:02.040Z,"60 km ESE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-12-18T12:04:18.652Z,36.6573,-116.2715,10.5,0.4,ml,19.0,83.85,0.055,0.1338,nn,nn00889911,2024-12-18T12:06:13.286Z,"51 km ESE of Beatty, Nevada",earthquake,,0.7,0.24,11.0,automatic,nn,nn
