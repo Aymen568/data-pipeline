@@ -8428,4 +8428,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 2.1 and occurred in/near 9 km SSW of Lindsay, Texas on 12/18/2024 at 09:08 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 14662 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.7 and occurred in/near 42 km W of Tatitlek, Alaska on 12/18/2024 at 09:25 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 14665 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.8 and occurred in/near 7 km SW of Volcano, Hawaii on 12/18/2024 at 09:30 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
