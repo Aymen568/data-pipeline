@@ -14528,3 +14528,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-18T10:39:02.119Z,62.9022,-150.0182,0.0,1.8,ml,,,,0.98,ak,ak024g7yw7gj,2024-12-18T10:41:17.815Z,"50 km N of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-18T11:27:01.570Z,33.6858333,-116.79,11.19,0.51,ml,24.0,80.0,0.06808,0.12,ci,ci41004304,2024-12-18T11:31:50.988Z,"9 km SW of Idyllwild, CA",earthquake,0.24,0.47,0.174,12.0,automatic,ci,ci
 2024-12-18T10:53:06.517Z,34.2628,78.7395,10.0,4.4,mb,38.0,106.0,4.587,0.64,us,us7000nzs7,2024-12-18T11:26:25.040Z,"107 km E of Leh, India",earthquake,7.64,1.732,0.11,24.0,reviewed,us,us
+2024-12-18T11:43:59.867Z,62.7422,-150.3175,70.1,1.7,ml,,,,0.59,ak,ak024g7zimdu,2024-12-18T11:45:57.088Z,"34 km NNW of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-12-18T11:37:34.951Z,36.7079,-115.8556,12.1,0.2,ml,12.0,147.48,0.097,0.1606,nn,nn00889909,2024-12-18T11:39:31.489Z,"22 km NW of Indian Springs, Nevada",earthquake,,0.7,0.19,7.0,automatic,nn,nn
