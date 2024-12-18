@@ -14519,3 +14519,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-18T09:08:54.249Z,-35.9487,-102.2838,10.0,4.9,mb,37.0,153.0,24.15,0.89,us,us7000nzrn,2024-12-18T09:29:35.040Z,southeast of Easter Island,earthquake,10.38,1.724,0.072,60.0,reviewed,us,us
 2024-12-18T09:08:25.090Z,35.0781667,-119.0855,12.55,1.57,ml,43.0,81.0,0.01957,0.19,ci,ci41004288,2024-12-18T09:12:18.833Z,"21 km NW of Grapevine, CA",earthquake,0.2,0.5,0.191,27.0,automatic,ci,ci
 2024-12-18T09:35:40.760Z,33.823,-116.9921667,12.46,0.72,ml,37.0,43.0,0.02514,0.19,ci,ci41004296,2024-12-18T09:40:22.972Z,"5 km NW of San Jacinto, CA",earthquake,0.21,0.6,0.151,6.0,automatic,ci,ci
+2024-12-18T09:52:26.301Z,-31.5614,-68.9837,109.019,4.9,mb,52.0,42.0,0.256,0.74,us,us7000nzrr,2024-12-18T10:09:58.040Z,"23 km W of Villa Basilio Nievas, Argentina",earthquake,6.48,6.587,0.039,204.0,reviewed,us,us
+2024-12-18T07:58:17.032Z,-28.1292,-71.0108,57.687,4.3,mb,33.0,99.0,0.093,1.24,us,us7000nzqr,2024-12-18T10:11:23.040Z,"55 km NNW of Vallenar, Chile",earthquake,6.75,8.724,0.218,6.0,reviewed,us,us
