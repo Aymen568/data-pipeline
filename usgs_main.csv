@@ -14812,3 +14812,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-19T07:04:54.545Z,38.1585,-117.9191,10.2,1.0,ml,9.0,132.83,0.066,0.3919,nn,nn00889995,2024-12-19T07:07:36.377Z,"30 km SSE of Mina, Nevada",earthquake,,0.4,0.6,4.0,automatic,nn,nn
 2024-12-19T06:55:00.839Z,17.6944,119.5562,10.0,5.0,mb,53.0,114.0,5.294,0.81,us,us7000nzzc,2024-12-19T07:11:26.040Z,"85 km W of Puro Pinget, Philippines",earthquake,11.5,1.893,0.066,73.0,reviewed,us,us
 2024-12-19T06:42:24.786Z,17.6363,119.4894,10.0,5.1,mb,42.0,118.0,5.367,0.74,us,us7000nzza,2024-12-19T06:58:26.040Z,"92 km W of Puro Pinget, Philippines",earthquake,12.57,1.911,0.074,59.0,reviewed,us,us
+2024-12-19T07:28:14.820Z,19.478834152222,-155.45516967773,2.9800000190735,2.17000008,md,58.0,39.0,0.05074,0.200000003,hv,hv74570677,2024-12-19T07:30:23.820Z,"23 km W of Volcano, Hawaii",earthquake,0.25,1.03999996,0.379999995,34.0,automatic,hv,hv
+2024-12-19T07:28:05.416Z,39.1307,-119.0539,1.5,1.6,ml,14.0,89.31,0.04,0.3664,nn,nn00889999,2024-12-19T07:30:38.274Z,"18 km NNE of Yerington, Nevada",earthquake,,0.7,0.13,7.0,automatic,nn,nn
+2024-12-19T06:16:25.574Z,-2.3313,128.1897,10.0,4.7,mb,20.0,94.0,2.769,0.99,us,us7000nzys,2024-12-19T07:29:43.040Z,"137 km NW of Masohi, Indonesia",earthquake,8.72,1.934,0.133,17.0,reviewed,us,us
