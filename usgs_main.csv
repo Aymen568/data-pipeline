@@ -14903,3 +14903,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-19T16:51:21.912Z,5.6669,127.0536,74.701,4.9,mb,117.0,50.0,2.022,0.65,us,us7000p03u,2024-12-19T17:26:22.040Z,"123 km SE of Pondaguitan, Philippines",earthquake,7.6,5.261,0.056,105.0,reviewed,us,us
 2024-12-19T17:35:23.550Z,33.0538333,-116.848,2.0,1.64,ml,9.0,73.0,0.1905,0.33,ci,ci40824911,2024-12-19T17:39:38.839Z,"2 km NE of Ramona, CA",earthquake,0.91,15.17,0.086,9.0,automatic,ci,ci
 2024-12-19T10:31:30.870Z,34.298,-116.8381667,9.21,0.5,ml,11.0,79.0,0.05069,0.13,ci,ci37693388,2024-12-19T17:35:27.011Z,"4 km N of Big Bear City, CA",earthquake,0.31,0.62,0.092,6.0,reviewed,ci,ci
+2024-12-19T17:37:44.530Z,31.598,-103.947,6.5623,1.6,ml,16.0,76.0,0.0,0.3,tx,tx2024ywhm,2024-12-19T17:45:04.865Z,"34 km NNW of Toyah, Texas",earthquake,0.0,2.2243432998657,0.1,12.0,automatic,tx,tx
+2024-12-19T15:17:34.740Z,35.7123333,-117.51,5.4,0.79,ml,14.0,78.0,0.08459,0.14,ci,ci40824799,2024-12-19T17:45:57.418Z,"11 km WSW of Searles Valley, CA",earthquake,0.35,1.94,0.064,6.0,reviewed,ci,ci
