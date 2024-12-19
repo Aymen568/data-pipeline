@@ -14918,3 +14918,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-19T18:36:16.772Z,-20.316,168.387,25.549,5.1,mww,47.0,66.0,2.448,1.19,us,us7000p04r,2024-12-19T19:00:14.040Z,"126 km SW of Isangel, Vanuatu",earthquake,8.92,5.192,0.083,14.0,reviewed,us,us
 2024-12-19T18:55:52.750Z,46.954333333333,-121.935,11.0,1.12,ml,28.0,101.0,0.03526,0.09,uw,uw62060042,2024-12-19T19:17:55.890Z,"16 km SSE of Carbonado, Washington",earthquake,0.28,0.42,0.12267444850657,18.0,reviewed,uw,uw
 2024-12-19T18:10:23.463Z,32.6731,-94.1115,5.0,2.6,mb_lg,15.0,68.0,0.395,0.66,us,us7000p04m,2024-12-19T19:16:01.040Z,"4 km SSE of Uncertain, Texas",earthquake,2.37,1.956,0.102,26.0,reviewed,us,us
+2024-12-19T19:24:38.942Z,61.7174,-151.1091,63.6,1.8,ml,,,,0.43,ak,ak024g9rpbhy,2024-12-19T19:26:47.493Z,"33 km SSE of Skwentna, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-12-19T09:26:49.890Z,46.198166666667,-122.194,7.28,0.79,ml,18.0,51.0,0.006244,0.08,uw,uw62060022,2024-12-19T19:32:34.050Z,"37 km NNE of Amboy, Washington",earthquake,0.24,0.27,0.13612160454361,9.0,reviewed,uw,uw
+2024-12-19T09:04:14.120Z,46.213333333333,-122.17416666667,7.33,0.58,ml,13.0,98.0,0.002651,0.09,uw,uw62060007,2024-12-19T19:28:11.600Z,"39 km SSE of Morton, Washington",earthquake,0.47,0.34,0.12283765864498,8.0,reviewed,uw,uw
