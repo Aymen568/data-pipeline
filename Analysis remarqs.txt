@@ -8510,4 +8510,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.71 and occurred in/near 8 km E of Coso Junction, CA on 12/19/2024 at 11:21 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 14852 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.71 and occurred in/near 8 km E of Coso Junction, CA on 12/19/2024 at 11:21 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 14854 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.51 and occurred in/near 6 km N of Pinnacles, CA on 12/19/2024 at 11:47 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
