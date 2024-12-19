@@ -14877,3 +14877,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-19T14:45:55.414Z,39.1496,-119.0716,9.2,1.4,ml,13.0,114.74,0.032,0.1147,nn,nn00890022,2024-12-19T14:47:59.943Z,"19 km NNE of Yerington, Nevada",earthquake,,0.5,0.17,7.0,automatic,nn,nn
 2024-12-19T14:43:28.582Z,39.1219,-119.0483,8.4,1.2,ml,12.0,124.9,0.048,0.1211,nn,nn00890020,2024-12-19T14:45:39.912Z,"18 km NNE of Yerington, Nevada",earthquake,,0.6,0.33,5.0,automatic,nn,nn
 2024-12-19T04:32:35.000Z,38.5045,-112.9075,2.82,0.97,md,14.0,76.0,0.01662,0.1,uu,uu80098096,2024-12-19T14:43:58.380Z,"14 km NE of Milford, Utah",earthquake,0.29,0.51,0.58514130922983,7.0,reviewed,uu,uu
+2024-12-19T10:41:19.770Z,45.881166666667,-111.49883333333,0.97,2.01,ml,20.0,99.0,0.2685,0.08,mb,mb90069108,2024-12-19T15:00:53.110Z,"4 km ESE of Three Forks, Montana",earthquake,0.25,0.74,0.235176049993,31.0,reviewed,mb,mb
