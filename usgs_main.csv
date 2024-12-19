@@ -14897,3 +14897,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-19T16:47:03.690Z,33.9273338,-116.8560028,13.64,1.11,ml,30.0,77.0,0.1055,0.15,ci,ci40824863,2024-12-19T16:49:22.750Z,"2 km E of Banning, CA",earthquake,0.36,1.04,0.214,10.0,automatic,ci,ci
 2024-12-19T17:00:54.386Z,60.023,-140.6836,11.7,0.9,ml,,,,0.84,ak,ak024g9qdcd0,2024-12-19T17:03:19.132Z,"75 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-19T16:52:12.585Z,39.1134,-119.0531,8.3,1.3,ml,12.0,94.51,0.057,0.135,nn,nn00890029,2024-12-19T16:54:20.943Z,"17 km NE of Yerington, Nevada",earthquake,,0.7,0.34,5.0,automatic,nn,nn
+2024-12-19T17:13:07.500Z,36.182834625244,-121.35350036621,33.619998931885,1.54,md,7.0,146.0,0.1078,0.17,nc,nc75105386,2024-12-19T17:14:46.583Z,"18 km SW of Greenfield, CA",earthquake,3.02,7.86999989,0.42,6.0,automatic,nc,nc
+2024-12-19T17:12:56.887Z,63.0855,-150.8071,118.9,2.0,ml,,,,0.18,ak,ak024g9qfx2w,2024-12-19T17:15:27.915Z,"65 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-12-19T17:10:28.770Z,19.29683303833,-155.33399963379,35.259998321533,1.97000003,md,23.0,161.0,0.04957,0.209999993,hv,hv74570902,2024-12-19T17:12:08.210Z,"18 km NE of Pāhala, Hawaii",earthquake,1.44,1.15999997,0.330000013,5.0,automatic,hv,hv
+2024-12-19T16:51:21.912Z,5.6669,127.0536,74.701,4.9,mb,117.0,50.0,2.022,0.65,us,us7000p03u,2024-12-19T17:26:22.040Z,"123 km SE of Pondaguitan, Philippines",earthquake,7.6,5.261,0.056,105.0,reviewed,us,us
