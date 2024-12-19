@@ -8520,4 +8520,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.8 and occurred in/near 21 km NNE of Yerington, Nevada on 12/19/2024 at 01:15 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 14867 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.9 and occurred in/near 46 km WNW of Happy Valley, Alaska on 12/19/2024 at 01:40 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 14867 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.9 and occurred in/near 46 km WNW of Happy Valley, Alaska on 12/19/2024 at 01:40 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
