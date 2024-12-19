@@ -14798,3 +14798,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-19T05:30:57.070Z,19.150499343872,-155.48283386231,31.670000076294,2.38000011,md,26.0,216.0,0.1183,0.109999999,hv,hv74570642,2024-12-19T05:32:32.810Z,"5 km S of Pāhala, Hawaii",earthquake,0.86,1.37,0.170000002,4.0,automatic,hv,hv
 2024-12-19T05:40:47.855Z,60.2772,-152.4066,91.8,2.1,ml,,,,0.27,ak,ak024g9jgp69,2024-12-19T05:43:39.889Z,"48 km WNW of Ninilchik, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-12-19T05:31:40.087Z,39.1174,-119.0334,5.3,2.9,ml,20.0,47.26,0.052,0.1028,nn,nn00889974,2024-12-19T05:46:22.073Z,"18 km NE of Yerington, Nevada",earthquake,,2.3,0.16,8.0,reviewed,nn,nn
+2024-12-19T06:17:18.856Z,39.1311,-119.0728,9.4,1.1,ml,8.0,125.89,0.046,0.1752,nn,nn00889990,2024-12-19T06:19:35.859Z,"17 km NNE of Yerington, Nevada",earthquake,,0.5,0.36,4.0,automatic,nn,nn
+2024-12-19T06:16:16.080Z,19.256834030151,-155.37316894531,32.220001220703,2.37,ml,62.0,138.0,0.02997,0.150000006,hv,hv74570647,2024-12-19T06:19:08.780Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.41,0.579999983,0.38,30.0,automatic,hv,hv
+2024-12-19T06:07:56.706Z,39.1057,-119.0181,4.9,1.2,ml,11.0,133.07,0.065,0.0946,nn,nn00889987,2024-12-19T06:11:26.555Z,"18 km NE of Yerington, Nevada",earthquake,,1.1,0.22,4.0,automatic,nn,nn
+2024-12-19T05:54:44.064Z,39.1123,-119.0127,8.3,1.1,ml,10.0,102.92,0.085,0.1323,nn,nn00889984,2024-12-19T05:56:56.562Z,"19 km NE of Yerington, Nevada",earthquake,,1.0,0.32,5.0,automatic,nn,nn
