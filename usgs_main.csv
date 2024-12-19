@@ -14984,3 +14984,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-19T21:54:53.698Z,31.303,-103.018,4.3916,1.5,ml,7.0,129.0,0.1,0.1,tx,tx2024ywpz,2024-12-19T22:06:02.641Z,"8 km NNE of Coyanosa, Texas",earthquake,0.0,2.1481416225433,0.2,7.0,automatic,tx,tx
 2024-12-19T21:50:31.220Z,19.957166666667,-155.4705,38.61,1.89,ml,46.0,139.0,0.1413,0.17,hv,hv74571082,2024-12-19T22:18:54.530Z,"13 km S of Honoka‘a, Hawaii",earthquake,0.47,0.75,0.21456968599185,15.0,reviewed,hv,hv
 2024-12-19T09:13:48.880Z,45.007,-122.49233333333,8.23,1.14,ml,15.0,79.0,0.1381,0.18,uw,uw62060017,2024-12-19T22:03:55.710Z,"14 km ESE of Scotts Mills, Oregon",earthquake,0.25,2.21,0.14171588674032,8.0,reviewed,uw,uw
+2024-12-19T22:29:15.642Z,60.189,-150.1357,34.5,2.0,ml,,,,0.14,ak,ak024g9tin3g,2024-12-19T22:30:56.001Z,"37 km SSW of Cooper Landing, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-19T22:23:53.330Z,33.4705,-116.4935,13.05,0.59,ml,25.0,60.0,0.09225,0.12,ci,ci40825263,2024-12-19T22:28:19.584Z,"19 km ESE of Anza, CA",earthquake,0.19,0.46,0.054,16.0,automatic,ci,ci
+2024-12-19T21:54:21.050Z,38.506,-112.90883333333,3.31,0.85,md,11.0,113.0,0.01796,0.07,uu,uu80098151,2024-12-19T22:35:35.680Z,"15 km NE of Milford, Utah",earthquake,0.38,0.56,0.54561427668139,6.0,reviewed,uu,uu
+2024-12-19T21:22:35.900Z,18.1908,-68.7131,146.0,3.94,md,16.0,192.0,1.1973,0.35,pr,pr2024354000,2024-12-19T22:28:29.467Z,"23 km SSW of Boca de Yuma, Dominican Republic",earthquake,5.5,2.64,0.09,13.0,reviewed,pr,pr
+2024-12-19T07:00:48.810Z,53.947666666667,-166.5645,7.96,0.41,ml,5.0,233.0,0.07195,0.06,av,av93417786,2024-12-19T22:32:40.970Z,"6 km NNW of Dutch Harbor, Alaska",earthquake,0.49,0.76,0.17433431505764,5.0,reviewed,av,av
