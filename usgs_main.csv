@@ -14916,3 +14916,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-19T18:50:26.851Z,61.6495,-149.9025,30.5,1.9,ml,,,,0.9,ak,ak024g9r9fkt,2024-12-19T18:52:30.141Z,"4 km WNW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-19T18:48:13.364Z,31.577,-104.014,5.4293,1.8,ml,15.0,58.0,0.0,0.2,tx,tx2024ywju,2024-12-19T18:52:21.313Z,"35 km NW of Toyah, Texas",earthquake,0.0,3.0401556491852,0.1,13.0,automatic,tx,tx
 2024-12-19T18:36:16.772Z,-20.316,168.387,25.549,5.1,mww,47.0,66.0,2.448,1.19,us,us7000p04r,2024-12-19T19:00:14.040Z,"126 km SW of Isangel, Vanuatu",earthquake,8.92,5.192,0.083,14.0,reviewed,us,us
+2024-12-19T18:55:52.750Z,46.954333333333,-121.935,11.0,1.12,ml,28.0,101.0,0.03526,0.09,uw,uw62060042,2024-12-19T19:17:55.890Z,"16 km SSE of Carbonado, Washington",earthquake,0.28,0.42,0.12267444850657,18.0,reviewed,uw,uw
+2024-12-19T18:10:23.463Z,32.6731,-94.1115,5.0,2.6,mb_lg,15.0,68.0,0.395,0.66,us,us7000p04m,2024-12-19T19:16:01.040Z,"4 km SSE of Uncertain, Texas",earthquake,2.37,1.956,0.102,26.0,reviewed,us,us
