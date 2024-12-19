@@ -14893,3 +14893,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-19T16:26:11.078Z,58.9235,-153.2037,68.1,2.5,ml,,,,0.17,ak,ak024g9pxdyr,2024-12-19T16:27:50.060Z,"87 km SW of Nanwalek, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-12-19T13:46:52.070Z,36.414,-89.503833333333,6.16,1.63,md,17.0,55.0,0.03622,0.06,nm,nm60595386,2024-12-19T16:37:30.110Z,"4 km NW of Tiptonville, Tennessee",earthquake,0.18,0.44,0.12241423774284,11.0,reviewed,nm,nm
 2024-12-19T03:35:08.520Z,33.681,-116.7848333,13.87,0.47,ml,23.0,53.0,0.06615,0.11,ci,ci40824263,2024-12-19T16:32:24.999Z,"9 km SW of Idyllwild, CA",earthquake,0.22,0.41,0.092,4.0,reviewed,ci,ci
+2024-12-19T16:48:35.630Z,38.806667327881,-122.77400207519,0.58999997377396,0.71,md,9.0,111.0,0.008401,0.05,nc,nc75105376,2024-12-19T16:50:10.309Z,"4 km NNW of The Geysers, CA",earthquake,0.39,0.680000007,0.21,9.0,automatic,nc,nc
+2024-12-19T16:47:03.690Z,33.9273338,-116.8560028,13.64,1.11,ml,30.0,77.0,0.1055,0.15,ci,ci40824863,2024-12-19T16:49:22.750Z,"2 km E of Banning, CA",earthquake,0.36,1.04,0.214,10.0,automatic,ci,ci
