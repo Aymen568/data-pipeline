@@ -14861,3 +14861,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-19T12:41:12.400Z,39.1643,-119.0389,4.4,1.2,ml,11.0,122.48,0.005,0.2517,nn,nn00890014,2024-12-19T12:43:18.717Z,"22 km NNE of Yerington, Nevada",earthquake,,0.5,0.26,4.0,automatic,nn,nn
 2024-12-19T12:25:32.691Z,61.4856,-150.0871,31.4,1.5,ml,,,,0.62,ak,ak024g9njhhx,2024-12-19T12:27:33.687Z,"8 km WSW of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-19T12:15:38.016Z,32.6836,-94.0911,5.0,3.3,mb_lg,16.0,69.0,0.41,0.32,us,us7000p00m,2024-12-19T12:56:55.270Z,"4 km SE of Uncertain, Texas",earthquake,2.48,1.985,0.042,148.0,reviewed,us,us
+2024-12-19T13:15:43.391Z,39.1597,-119.0651,7.8,1.8,ml,17.0,92.66,0.022,0.1979,nn,nn00890016,2024-12-19T13:18:10.800Z,"21 km NNE of Yerington, Nevada",earthquake,,0.4,0.17,9.0,automatic,nn,nn
+2024-12-19T13:08:04.140Z,36.564666748047,-121.15616607666,3.079999923706,2.34,md,33.0,118.0,0.02456,0.1,nc,nc75105306,2024-12-19T13:17:23.183Z,"4 km  of Pinnacles, CA",earthquake,0.27,0.680000007,0.12,40.0,automatic,nc,nc
+2024-12-19T02:35:58.591Z,31.864,-101.803,8.8867,2.2,ml,30.0,62.0,0.1,0.1,tx,tx2024yvdt,2024-12-19T13:29:04.028Z,"29 km S of Stanton, Texas",earthquake,0.29937118176784,0.53140192749708,0.1,29.0,reviewed,tx,tx
