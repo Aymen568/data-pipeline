@@ -14776,3 +14776,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-19T03:42:41.887Z,61.051,-152.2524,61.8,0.9,ml,,,,0.58,ak,ak024g9ia8xo,2024-12-19T03:45:50.239Z,"60 km W of Tyonek, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-12-19T03:39:34.465Z,61.3454,-146.5296,20.1,1.8,ml,,,,0.96,ak,ak024g9i9l7q,2024-12-19T03:42:00.405Z,"25 km NNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-18T20:50:06.410Z,57.057,-135.70533333333,3.21,0.47,ml,4.0,181.0,0.01337,0.16,av,av93416521,2024-12-19T03:49:32.910Z,"22 km W of Sitka, Alaska",earthquake,0.75,1.0,0.18515667196631,4.0,reviewed,av,av
+2024-12-19T03:59:18.897Z,39.0855,-119.0425,7.6,1.1,ml,10.0,136.21,0.083,0.2337,nn,nn00889972,2024-12-19T04:01:35.826Z,"15 km NE of Yerington, Nevada",earthquake,,1.0,0.16,4.0,automatic,nn,nn
+2024-12-19T03:58:58.276Z,63.1809,-149.6999,86.4,2.0,ml,,,,0.51,ak,ak024g9idpnn,2024-12-19T04:01:26.064Z,"44 km WSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-12-19T03:58:07.600Z,38.786998748779,-122.77183532715,1.0900000333786,0.46,md,8.0,111.0,0.014,0.02,nc,nc75105166,2024-12-19T03:59:43.287Z,"2 km NW of The Geysers, CA",earthquake,0.32,0.879999995,0.24,9.0,automatic,nc,nc
+2024-12-18T21:39:46.620Z,57.136,-135.70283333333,19.83,0.61,ml,4.0,258.0,0.06451,0.11,av,av93416606,2024-12-19T04:07:38.500Z,"24 km WNW of Sitka, Alaska",earthquake,3.83,1.85,0.16955823764532,4.0,reviewed,av,av
