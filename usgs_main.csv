@@ -14890,3 +14890,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-19T15:59:39.549Z,58.4791,-154.7867,13.0,1.7,ml,,,,0.45,ak,ak024g9pj36q,2024-12-19T16:01:41.120Z,"103 km N of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-19T01:08:48.690Z,44.803333333333,-111.51916666667,12.79,-0.03,ml,4.0,141.0,0.0691,0.05,mb,mb90069118,2024-12-19T15:57:27.880Z,"26 km W of Hebgen Lake Estates, Montana",earthquake,0.51,1.31,0.23449906869698,3.0,reviewed,mb,mb
 2024-12-19T00:26:10.020Z,34.0861667,-118.1761667,10.57,1.2,ml,19.0,112.0,0.05916,0.17,ci,ci40824223,2024-12-19T16:10:44.333Z,"4 km SW of South Pasadena, CA",earthquake,0.32,0.55,0.157,16.0,reviewed,ci,ci
+2024-12-19T16:26:11.078Z,58.9235,-153.2037,68.1,2.5,ml,,,,0.17,ak,ak024g9pxdyr,2024-12-19T16:27:50.060Z,"87 km SW of Nanwalek, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-12-19T13:46:52.070Z,36.414,-89.503833333333,6.16,1.63,md,17.0,55.0,0.03622,0.06,nm,nm60595386,2024-12-19T16:37:30.110Z,"4 km NW of Tiptonville, Tennessee",earthquake,0.18,0.44,0.12241423774284,11.0,reviewed,nm,nm
+2024-12-19T03:35:08.520Z,33.681,-116.7848333,13.87,0.47,ml,23.0,53.0,0.06615,0.11,ci,ci40824263,2024-12-19T16:32:24.999Z,"9 km SW of Idyllwild, CA",earthquake,0.22,0.41,0.092,4.0,reviewed,ci,ci
