@@ -15315,3 +15315,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-20T21:40:41.740Z,31.714,-104.28,4.3013,2.0,ml,20.0,121.0,0.0,0.4,tx,tx2024yylk,2024-12-20T21:45:11.862Z,"52 km S of Whites City, New Mexico",earthquake,0.0,1.4458757638931,0.1,16.0,automatic,tx,tx
 2024-12-20T21:39:16.726Z,31.655,-104.37,4.6172,2.1,ml,16.0,70.0,0.1,0.2,tx,tx2024yyli,2024-12-20T21:53:59.938Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.3891068696976,0.1,12.0,automatic,tx,tx
 2024-12-20T05:51:22.770Z,58.2725,-155.53883333333,6.08,-0.2,ml,5.0,247.0,0.07736,0.08,av,av93419471,2024-12-20T21:45:36.860Z,"80 km SE of King Salmon, Alaska",earthquake,0.62,1.42,0.085409304328188,5.0,reviewed,av,av
+2024-12-20T22:11:24.030Z,59.8479,-151.0511,47.6,2.1,ml,,,,0.61,ak,ak024gbgy5cj,2024-12-20T22:13:43.295Z,"5 km WSW of Fox River, Alaska",earthquake,,2.9,,,automatic,ak,ak
+2024-12-20T21:57:51.570Z,40.168834686279,-124.50816345215,12.369999885559,2.2,md,6.0,288.0,0.1742,0.04,nc,nc75106021,2024-12-20T22:17:18.790Z,"26 km WSW of Petrolia, CA",earthquake,2.28,1.16999996,0.07,4.0,automatic,nc,nc
+2024-12-20T21:51:26.428Z,4.0073,125.8812,147.856,4.9,mb,31.0,68.0,3.057,0.9,us,us7000p0hq,2024-12-20T22:15:13.040Z,"161 km SSE of Sarangani, Philippines",earthquake,9.5,8.438,0.119,22.0,reviewed,us,us
+2024-12-20T17:04:58.973Z,-17.9795,167.8829,82.377,4.8,mb,35.0,227.0,4.252,0.81,us,us7000p0f3,2024-12-20T22:12:07.040Z,"52 km WSW of Port-Vila, Vanuatu",earthquake,10.58,11.12,0.093,39.0,reviewed,us,us
+2024-12-20T08:04:33.640Z,61.346333333333,-152.29233333333,3.35,-0.21,ml,9.0,139.0,0.09566,0.15,av,av93419591,2024-12-20T22:17:25.590Z,"68 km WNW of Beluga, Alaska",earthquake,0.51,0.66,0.22640056212174,9.0,reviewed,av,av
+2024-12-19T23:13:30.450Z,47.769166666667,-122.8445,19.11,0.91,ml,6.0,181.0,0.06301,0.14,uw,uw62060097,2024-12-20T22:15:14.120Z,"6 km SSE of Quilcene, Washington",earthquake,0.91,0.94,0.085041360796568,3.0,reviewed,uw,uw
