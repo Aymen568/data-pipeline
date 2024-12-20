@@ -15235,3 +15235,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-20T03:08:54.270Z,38.511,-112.8875,2.38,0.48,md,13.0,59.0,0.005858,0.15,uu,uu80098171,2024-12-20T16:00:54.670Z,"16 km NE of Milford, Utah",earthquake,0.37,0.56,0.62549059359205,6.0,reviewed,uu,uu
 2024-12-20T02:38:16.520Z,39.700166666667,-110.8145,-2.51,1.57,md,12.0,101.0,0.0632,0.19,uu,uu80098166,2024-12-20T15:56:01.410Z,"1 km NNW of Kenilworth, Utah",earthquake,0.54,0.98,0.22004020371141,11.0,reviewed,uu,uu
 2024-12-20T00:24:06.200Z,32.141,-101.068,7.4707,1.7,ml,16.0,80.0,0.2,0.1,tx,tx2024ywuw,2024-12-20T15:59:35.403Z,"24 km SSW of Westbrook, Texas",earthquake,0.7550462298638,2.797235488685,0.1,14.0,reviewed,tx,tx
+2024-12-20T16:37:27.340Z,38.818332672119,-122.82366943359,10.520000457764,0.78,md,8.0,89.0,0.01038,0.06,nc,nc75105881,2024-12-20T16:39:07.364Z,"7 km NW of The Geysers, CA",earthquake,1.48,2.02999997,0.45,9.0,automatic,nc,nc
+2024-12-20T16:31:39.186Z,63.482,-147.8141,14.7,1.6,ml,,,,0.25,ak,ak024gbdhv7i,2024-12-20T16:33:46.760Z,"57 km E of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-12-20T16:28:34.375Z,31.591,-104.536,3.7576,1.6,ml,8.0,157.0,0.1,0.1,tx,tx2024yybi,2024-12-20T16:37:44.227Z,"66 km SSW of Whites City, New Mexico",earthquake,0.0,2.7877426147461,0.1,6.0,automatic,tx,tx
+2024-12-20T16:27:11.610Z,32.9378333,-116.4603333,4.06,0.46,ml,22.0,73.0,0.05379,0.13,ci,ci40826063,2024-12-20T16:31:31.575Z,"14 km NNE of Pine Valley, CA",earthquake,0.19,0.41,0.163,10.0,automatic,ci,ci
+2024-12-20T16:16:04.534Z,32.542,-101.13,1.8156,1.8,ml,23.0,83.0,0.1,0.4,tx,tx2024yyaw,2024-12-20T16:30:08.187Z,"23 km NNW of Westbrook, Texas",earthquake,0.0,1.1907135248184,0.1,12.0,automatic,tx,tx
+2024-12-20T16:16:04.155Z,32.543,-101.143,3.917,1.8,ml,15.0,110.0,0.1,0.2,tx,tx2024yyax,2024-12-20T16:29:02.178Z,"24 km NNW of Westbrook, Texas",earthquake,0.0,1.652054309845,0.1,13.0,automatic,tx,tx
+2024-12-20T15:11:51.020Z,-11.8029,166.0345,59.462,4.7,mb,62.0,118.0,6.428,0.65,us,us7000p0ck,2024-12-20T16:24:23.040Z,"122 km SSE of Lata, Solomon Islands",earthquake,11.14,7.358,0.077,54.0,reviewed,us,us
