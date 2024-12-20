@@ -15222,3 +15222,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-20T15:32:11.467Z,61.5691,-149.8185,33.6,1.7,ml,,,,0.73,ak,ak024gbcwl6i,2024-12-20T15:34:11.404Z,"6 km S of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-20T03:54:42.060Z,45.814333333333,-112.2555,2.63,0.85,ml,8.0,68.0,0.1376,0.09,mb,mb90069233,2024-12-20T15:43:20.350Z,"13 km WSW of Whitehall, Montana",earthquake,0.27,0.84,0.24008764552865,15.0,reviewed,mb,mb
 2024-12-20T03:33:00.680Z,44.949666666667,-111.72366666667,7.91,0.69,ml,8.0,106.0,0.03465,0.09,mb,mb90069228,2024-12-20T15:35:33.270Z,"42 km SSE of Virginia City, Montana",earthquake,0.45,0.3,0.1900545806465,10.0,reviewed,mb,mb
+2024-12-20T15:47:25.484Z,61.1041,-147.4614,14.4,1.8,ml,,,,0.52,ak,ak024gbczu04,2024-12-20T15:49:36.501Z,"50 km WNW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-20T11:23:57.710Z,44.8465,-111.5565,9.6,1.04,ml,12.0,91.0,0.09138,0.14,mb,mb90069238,2024-12-20T15:54:59.550Z,"30 km WNW of Hebgen Lake Estates, Montana",earthquake,0.5,0.64,0.20259675356888,22.0,reviewed,mb,mb
