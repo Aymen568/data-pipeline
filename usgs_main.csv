@@ -15242,3 +15242,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-20T16:16:04.534Z,32.542,-101.13,1.8156,1.8,ml,23.0,83.0,0.1,0.4,tx,tx2024yyaw,2024-12-20T16:30:08.187Z,"23 km NNW of Westbrook, Texas",earthquake,0.0,1.1907135248184,0.1,12.0,automatic,tx,tx
 2024-12-20T16:16:04.155Z,32.543,-101.143,3.917,1.8,ml,15.0,110.0,0.1,0.2,tx,tx2024yyax,2024-12-20T16:29:02.178Z,"24 km NNW of Westbrook, Texas",earthquake,0.0,1.652054309845,0.1,13.0,automatic,tx,tx
 2024-12-20T15:11:51.020Z,-11.8029,166.0345,59.462,4.7,mb,62.0,118.0,6.428,0.65,us,us7000p0ck,2024-12-20T16:24:23.040Z,"122 km SSE of Lata, Solomon Islands",earthquake,11.14,7.358,0.077,54.0,reviewed,us,us
+2024-12-20T13:31:31.030Z,41.726166666667,-112.82583333333,7.3,0.95,md,9.0,241.0,0.06561,0.15,uu,uu80098196,2024-12-20T16:47:34.190Z,"28 km SSW of Snowville, Utah",earthquake,1.6,0.94,0.10187546301056,9.0,reviewed,uu,uu
+2024-12-20T12:49:51.910Z,39.705833333333,-110.8315,-3.41,1.37,ml,13.0,107.0,0.07291,0.18,uu,uu80098191,2024-12-20T16:44:50.520Z,"2 km NW of Kenilworth, Utah",earthquake,0.54,1.24,0.089499195543093,3.0,reviewed,uu,uu
