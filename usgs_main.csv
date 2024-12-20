@@ -15312,3 +15312,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-20T21:32:27.630Z,36.560333251953,-121.16883087158,2.4400000572205,1.42,md,9.0,73.0,0.01751,0.17,nc,nc75106001,2024-12-20T21:34:01.533Z,"4 km NNW of Pinnacles, CA",earthquake,0.6,1.0,0.11,7.0,automatic,nc,nc
 2024-12-20T21:09:33.220Z,5.8015,127.2143,73.025,4.9,mb,58.0,77.0,2.056,0.78,us,us7000p0h2,2024-12-20T21:36:15.040Z,"130 km ESE of Pondaguitan, Philippines",earthquake,5.09,5.943,0.062,81.0,reviewed,us,us
 2024-12-19T22:58:52.320Z,46.083833333333,-118.682,-0.39,1.72,ml,6.0,111.0,0.07053,0.09,uw,uw62060092,2024-12-20T21:43:22.130Z,"4 km N of Touchet, Washington",explosion,0.53,31.61,0.095357148660376,2.0,reviewed,uw,uw
+2024-12-20T21:40:41.740Z,31.714,-104.28,4.3013,2.0,ml,20.0,121.0,0.0,0.4,tx,tx2024yylk,2024-12-20T21:45:11.862Z,"52 km S of Whites City, New Mexico",earthquake,0.0,1.4458757638931,0.1,16.0,automatic,tx,tx
+2024-12-20T21:39:16.726Z,31.655,-104.37,4.6172,2.1,ml,16.0,70.0,0.1,0.2,tx,tx2024yyli,2024-12-20T21:53:59.938Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.3891068696976,0.1,12.0,automatic,tx,tx
+2024-12-20T05:51:22.770Z,58.2725,-155.53883333333,6.08,-0.2,ml,5.0,247.0,0.07736,0.08,av,av93419471,2024-12-20T21:45:36.860Z,"80 km SE of King Salmon, Alaska",earthquake,0.62,1.42,0.085409304328188,5.0,reviewed,av,av
