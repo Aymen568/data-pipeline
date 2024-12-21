@@ -15488,3 +15488,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-21T14:41:54.330Z,38.833999633789,-122.81733703613,1.8799999952316,1.1,md,19.0,68.0,0.01201,0.02,nc,nc75106296,2024-12-21T14:43:29.553Z,"8 km NNW of The Geysers, CA",earthquake,0.23,0.560000002,0.3,20.0,automatic,nc,nc
 2024-12-21T14:37:42.223Z,61.7076,-150.1885,25.6,1.8,ml,,,,0.36,ak,ak024gczvn0u,2024-12-21T14:39:33.337Z,"9 km WSW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-21T14:44:08.517Z,32.934,-102.122,9.8245,2.8,ml,14.0,157.0,0.4,0.5,tx,tx2024yzsx,2024-12-21T14:53:39.994Z,"0 km NNE of Welch, Texas",earthquake,0.0,8.474422454834,0.1,11.0,automatic,tx,tx
+2024-12-21T15:09:47.800Z,33.4683333,-116.5086667,12.19,1.21,ml,68.0,28.0,0.08248,0.21,ci,ci40826743,2024-12-21T15:13:36.378Z,"18 km ESE of Anza, CA",earthquake,0.16,0.39,0.134,28.0,automatic,ci,ci
+2024-12-21T14:43:36.595Z,31.6657,-104.3274,9.75,3.1,ml,31.0,59.0,0.336,0.3,us,us7000p0ln,2024-12-21T15:15:54.040Z,"56 km S of Whites City, New Mexico",earthquake,1.74,8.561,0.049,62.0,reviewed,us,us
