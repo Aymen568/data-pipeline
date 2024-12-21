@@ -15496,3 +15496,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-21T14:43:36.715Z,31.659,-104.327,4.1609,2.9,ml,20.0,69.0,0.1,0.2,tx,tx2024yzss,2024-12-21T15:20:04.171Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.3188519477844,0.2,16.0,automatic,tx,tx
 2024-12-21T13:17:32.490Z,36.7268,144.0532,22.094,4.4,mb,29.0,135.0,4.681,0.76,us,us7000p0lb,2024-12-21T15:21:12.040Z,"278 km ESE of Tomioka, Japan",earthquake,9.87,2.864,0.155,12.0,reviewed,us,us
 2024-12-21T15:30:52.654Z,-17.7101,168.0262,39.876,6.1,mww,129.0,32.0,4.526,0.59,us,us7000p0lv,2024-12-21T15:51:06.489Z,"30 km W of Port-Vila, Vanuatu",earthquake,8.69,6.469,0.038,66.0,reviewed,us,us
+2024-12-21T15:57:24.100Z,37.14733505249,-121.5256652832,9.6199998855591,1.32,md,11.0,82.0,0.06669,0.09,nc,nc75106311,2024-12-21T15:58:59.108Z,"10 km ENE of San Martin, CA",earthquake,0.51,1.38999999,0.12,11.0,automatic,nc,nc
+2024-12-21T15:53:07.500Z,35.6421661,-117.4471664,7.85,1.7,ml,27.0,56.0,0.02982,0.16,ci,ci40826767,2024-12-21T15:55:36.584Z,"14 km SSW of Searles Valley, CA",earthquake,0.32,1.02,0.196,6.0,automatic,ci,ci
+2024-12-21T15:49:49.982Z,61.3508,-152.2962,1.0,0.9,ml,,,,0.5,ak,ak024gd0jnu9,2024-12-21T15:52:07.969Z,"69 km WNW of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-21T15:26:50.051Z,-0.108,125.1662,59.106,4.8,mb,89.0,43.0,2.367,0.8,us,us7000p0lu,2024-12-21T16:07:26.040Z,"102 km SE of Modisi, Indonesia",earthquake,4.55,7.151,0.056,105.0,reviewed,us,us
+2024-12-21T14:08:17.740Z,44.807333333333,-112.90733333333,4.04,1.68,ml,24.0,89.0,0.04636,0.2,mb,mb90069343,2024-12-21T16:00:25.260Z,"31 km NW of Lima, Montana",earthquake,0.41,1.45,0.14709998956606,25.0,reviewed,mb,mb
