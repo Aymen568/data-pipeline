@@ -15429,3 +15429,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-21T07:25:11.070Z,32.0251667,-116.2033333,10.2,2.49,ml,21.0,131.0,0.2179,0.18,ci,ci40826543,2024-12-21T07:28:41.958Z,"43 km ENE of Ensenada, B.C., MX",earthquake,0.37,1.22,0.149,26.0,automatic,ci,ci
 2024-12-21T07:23:39.540Z,33.264,-116.4445,2.89,1.38,ml,74.0,23.0,0.02329,0.2,ci,ci40826535,2024-12-21T07:34:23.750Z,"6 km W of Borrego Springs, CA",earthquake,0.14,0.33,0.159,26.0,automatic,ci,ci
 2024-12-21T07:10:15.244Z,26.7644,55.1479,10.0,4.7,mb,82.0,59.0,2.046,0.66,us,us7000p0kc,2024-12-21T07:27:58.040Z,"35 km NE of Bandar-e Lengeh, Iran",earthquake,8.53,1.875,0.067,67.0,reviewed,us,us
+2024-12-21T07:27:47.191Z,32.394,-102.136,6.6569,1.0,ml,21.0,91.0,0.0,0.5,tx,tx2024yzej,2024-12-21T07:42:12.253Z,"38 km ENE of McKinney Acres, Texas",earthquake,0.0,1.7003719806671,0.2,13.0,automatic,tx,tx
