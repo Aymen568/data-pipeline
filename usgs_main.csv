@@ -15411,3 +15411,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-21T04:59:34.170Z,34.0708333,-117.2726667,16.59,1.84,ml,104.0,18.0,0.03549,0.16,ci,ci40826391,2024-12-21T05:10:47.400Z,"3 km NNW of Loma Linda, CA",earthquake,0.11,0.25,0.134,26.0,automatic,ci,ci
 2024-12-21T04:54:43.387Z,32.312,-102.149,2.9878,1.0,ml,17.0,62.0,0.1,0.4,tx,tx2024yyzi,2024-12-21T05:04:40.316Z,"35 km N of Midland, Texas",earthquake,0.0,1.2873389720917,0.2,10.0,automatic,tx,tx
 2024-12-21T04:50:22.731Z,32.095,-101.481,3.9654,1.1,ml,16.0,79.0,0.1,0.1,tx,tx2024yyze,2024-12-21T05:02:25.295Z,"10 km W of Forsan, Texas",earthquake,0.0,1.5487061738968,0.2,11.0,automatic,tx,tx
+2024-12-21T05:42:29.280Z,17.911166666667,-66.869833333333,13.62,2.67,md,8.0,228.0,0.06417,0.08,pr,pr71468998,2024-12-21T05:53:45.790Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.65,0.37,0.09313079381309,5.0,reviewed,pr,pr
