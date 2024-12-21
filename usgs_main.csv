@@ -15542,3 +15542,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-21T20:30:43.360Z,38.83466720581,-122.81950378418,1.1799999475479,0.9,md,22.0,80.0,0.01308,0.04,nc,nc75106381,2024-12-21T20:32:20.147Z,"8 km NNW of The Geysers, CA",earthquake,0.21,0.379999995,0.22,24.0,automatic,nc,nc
 2024-12-21T21:15:09.906Z,39.1232,-119.015,7.8,1.7,ml,11.0,89.7,0.049,0.117,nn,nn00890172,2024-12-21T21:17:45.603Z,"19 km NE of Yerington, Nevada",earthquake,,0.6,0.21,4.0,automatic,nn,nn
 2024-12-21T21:24:52.576Z,62.2584,-148.7773,33.1,1.7,ml,,,,0.47,ak,ak024gd3ywqx,2024-12-21T21:27:25.854Z,"53 km N of Sutton-Alpine, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-21T21:42:22.540Z,37.3939,-117.2013,0.8,0.7,ml,12.0,216.48,0.105,0.2279,nn,nn00890174,2024-12-21T21:44:46.272Z,"35 km S of Goldfield, Nevada",earthquake,,15.4,0.57,9.0,automatic,nn,nn
+2024-12-21T21:38:36.460Z,38.833000183105,-122.80933380127,2.25,0.96,md,22.0,70.0,0.009609,0.02,nc,nc75106396,2024-12-21T21:40:15.273Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.439999998,0.18,23.0,automatic,nc,nc
