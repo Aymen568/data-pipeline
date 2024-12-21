@@ -15472,3 +15472,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-21T12:07:08.703Z,37.3239,-117.5742,2.0,0.9,ml,13.0,177.27,0.107,0.2469,nn,nn00890139,2024-12-21T12:09:42.122Z,"48 km S of Silver Peak, Nevada",earthquake,,2.1,0.42,8.0,automatic,nn,nn
 2024-12-21T12:03:38.980Z,-15.4424,-173.6333,74.302,4.8,mb,39.0,111.0,2.352,0.46,us,us7000p0l5,2024-12-21T12:39:25.040Z,"59 km NNE of Hihifo, Tonga",earthquake,14.26,7.749,0.054,106.0,reviewed,us,us
 2024-12-21T11:58:28.180Z,33.254,-116.2965,10.78,1.39,ml,78.0,28.0,0.07077,0.2,ci,ci40826623,2024-12-21T12:15:16.094Z,"7 km E of Borrego Springs, CA",earthquake,0.15,0.31,0.12,25.0,automatic,ci,ci
+2024-12-21T12:54:16.140Z,37.4471,-117.2561,0.7,0.6,ml,9.0,283.3,0.147,0.1974,nn,nn00890141,2024-12-21T12:56:41.502Z,"29 km S of Goldfield, Nevada",earthquake,,70.3,0.55,4.0,automatic,nn,nn
+2024-12-21T12:39:38.602Z,59.9214,-152.7914,64.7,2.3,ml,,,,0.63,ak,ak024gcyp6ys,2024-12-21T12:42:25.342Z,"56 km WNW of Anchor Point, Alaska",earthquake,,2.3,,,automatic,ak,ak
