@@ -15485,3 +15485,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-21T13:56:17.876Z,60.9466,-149.3281,26.7,2.0,ml,,,,0.43,ak,ak024gcze857,2024-12-21T13:58:27.867Z,"8 km NE of Sunrise, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-21T13:21:13.631Z,-3.4908,127.114,35.0,4.4,mb,14.0,104.0,2.966,0.7,us,us7000p0la,2024-12-21T14:00:10.040Z,"120 km W of Ambon, Indonesia",earthquake,9.02,1.958,0.179,11.0,reviewed,us,us
 2024-12-21T14:19:51.630Z,33.658,-116.7611667,16.1,1.22,ml,65.0,26.0,0.06419,0.17,ci,ci40826719,2024-12-21T14:30:34.800Z,"10 km SSW of Idyllwild, CA",earthquake,0.15,0.27,0.236,27.0,automatic,ci,ci
+2024-12-21T14:41:54.330Z,38.833999633789,-122.81733703613,1.8799999952316,1.1,md,19.0,68.0,0.01201,0.02,nc,nc75106296,2024-12-21T14:43:29.553Z,"8 km NNW of The Geysers, CA",earthquake,0.23,0.560000002,0.3,20.0,automatic,nc,nc
+2024-12-21T14:37:42.223Z,61.7076,-150.1885,25.6,1.8,ml,,,,0.36,ak,ak024gczvn0u,2024-12-21T14:39:33.337Z,"9 km WSW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
