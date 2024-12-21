@@ -15521,3 +15521,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-21T04:03:47.459Z,36.8553,-116.261,4.2,-0.1,ml,8.0,102.27,0.04,0.0674,nn,nn00890166,2024-12-21T17:29:14.733Z,"44 km E of Beatty, Nevada",earthquake,,2.2,0.2,3.0,reviewed,nn,nn
 2024-12-21T17:39:04.111Z,37.3468,-117.1953,3.6,0.9,ml,21.0,128.07,0.07,0.3359,nn,nn00890167,2024-12-21T17:41:25.631Z,"40 km S of Goldfield, Nevada",earthquake,,1.0,0.48,11.0,automatic,nn,nn
 2024-12-21T16:29:52.364Z,38.6369,21.6091,10.0,5.0,mwr,177.0,21.0,1.477,0.56,us,us7000p0m4,2024-12-21T17:31:18.040Z,"8 km ENE of Paravóla, Greece",earthquake,4.43,1.817,0.073,18.0,reviewed,us,us
+2024-12-21T17:46:45.471Z,61.4751,-146.5169,26.3,2.1,ml,,,,0.67,ak,ak024gd1pvj7,2024-12-21T17:48:48.856Z,"39 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
