@@ -15544,3 +15544,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-21T21:24:52.576Z,62.2584,-148.7773,33.1,1.7,ml,,,,0.47,ak,ak024gd3ywqx,2024-12-21T21:27:25.854Z,"53 km N of Sutton-Alpine, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-21T21:42:22.540Z,37.3939,-117.2013,0.8,0.7,ml,12.0,216.48,0.105,0.2279,nn,nn00890174,2024-12-21T21:44:46.272Z,"35 km S of Goldfield, Nevada",earthquake,,15.4,0.57,9.0,automatic,nn,nn
 2024-12-21T21:38:36.460Z,38.833000183105,-122.80933380127,2.25,0.96,md,22.0,70.0,0.009609,0.02,nc,nc75106396,2024-12-21T21:40:15.273Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.439999998,0.18,23.0,automatic,nc,nc
+2024-12-21T22:14:40.450Z,38.821666717529,-122.84116363525,1.5299999713898,0.77,md,7.0,126.0,0.005005,0.02,nc,nc75106401,2024-12-21T22:16:15.652Z,"9 km NW of The Geysers, CA",earthquake,0.47,1.27999997,0.23,8.0,automatic,nc,nc
+2024-12-21T21:25:33.487Z,-15.2297,-75.0184,48.534,4.5,mb,32.0,143.0,3.678,0.8,us,us7000p0mw,2024-12-21T22:20:35.040Z,"10 km E of Minas de Marcona, Peru",earthquake,9.78,8.194,0.097,31.0,reviewed,us,us
