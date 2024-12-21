@@ -15435,3 +15435,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-21T07:59:21.834Z,39.133,-119.036,4.3,0.6,ml,8.0,176.88,0.036,0.0447,nn,nn00890132,2024-12-21T08:01:50.027Z,"19 km NE of Yerington, Nevada",earthquake,,0.8,0.21,2.0,automatic,nn,nn
 2024-12-21T08:28:32.780Z,38.834167480469,-122.81733703613,2.0599999427795,0.57,md,9.0,87.0,0.01216,0.01,nc,nc75106201,2024-12-21T08:30:08.218Z,"8 km NNW of The Geysers, CA",earthquake,0.34,0.939999998,0.36,9.0,automatic,nc,nc
 2024-12-21T08:27:23.550Z,33.2921667,-116.2408333,4.51,0.72,ml,50.0,43.0,0.09065,0.21,ci,ci40826567,2024-12-21T08:32:16.671Z,"13 km ENE of Borrego Springs, CA",earthquake,0.24,0.65,0.178,15.0,automatic,ci,ci
+2024-12-21T08:44:41.170Z,35.0986667,-119.1101667,12.36,1.52,ml,42.0,77.0,0.04545,0.22,ci,ci40826575,2024-12-21T08:48:29.387Z,"24 km NW of Grapevine, CA",earthquake,0.22,0.62,0.152,26.0,automatic,ci,ci
