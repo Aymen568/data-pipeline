@@ -15423,3 +15423,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-21T06:43:39.970Z,38.810001373291,-122.74166870117,0.68999999761581,1.28,md,8.0,210.0,0.01692,0.01,nc,nc75106181,2024-12-21T06:45:18.077Z,"2 km WSW of Cobb, CA",earthquake,0.96,0.699999988,0.2,8.0,automatic,nc,nc
 2024-12-21T06:57:22.502Z,63.5136,-150.8404,0.0,1.6,ml,,,,0.44,ak,ak024gcv8eze,2024-12-21T06:59:05.643Z,"44 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-21T06:54:40.180Z,35.923168182373,-120.49250030518,9.7399997711182,1.79,md,25.0,95.0,0.01946,0.1,nc,nc75106186,2024-12-21T06:56:18.298Z,"6 km NW of Parkfield, CA",earthquake,0.32,0.419999987,0.13,18.0,automatic,nc,nc
+2024-12-21T07:12:54.997Z,62.4881,-149.3029,9.2,1.7,ml,,,,0.65,ak,ak024gcvk9vf,2024-12-21T07:14:47.229Z,"41 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-21T07:11:45.344Z,45.944,-111.3664,12.859,2.9,ml,35.0,62.0,0.232,0.5,us,us7000p0ka,2024-12-21T07:17:58.040Z,"8 km NE of Logan, Montana",earthquake,1.74,8.374,0.041,80.0,reviewed,us,us
