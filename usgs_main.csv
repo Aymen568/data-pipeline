@@ -15490,3 +15490,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-21T14:44:08.517Z,32.934,-102.122,9.8245,2.8,ml,14.0,157.0,0.4,0.5,tx,tx2024yzsx,2024-12-21T14:53:39.994Z,"0 km NNE of Welch, Texas",earthquake,0.0,8.474422454834,0.1,11.0,automatic,tx,tx
 2024-12-21T15:09:47.800Z,33.4683333,-116.5086667,12.19,1.21,ml,68.0,28.0,0.08248,0.21,ci,ci40826743,2024-12-21T15:13:36.378Z,"18 km ESE of Anza, CA",earthquake,0.16,0.39,0.134,28.0,automatic,ci,ci
 2024-12-21T14:43:36.595Z,31.6657,-104.3274,9.75,3.1,ml,31.0,59.0,0.336,0.3,us,us7000p0ln,2024-12-21T15:15:54.040Z,"56 km S of Whites City, New Mexico",earthquake,1.74,8.561,0.049,62.0,reviewed,us,us
+2024-12-21T15:22:58.371Z,61.7037,-147.1428,31.1,1.8,ml,,,,0.73,ak,ak024gd0dw4t,2024-12-21T15:24:53.856Z,"26 km S of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-21T15:21:53.850Z,40.295333862305,-124.45349884033,18.0,2.16,md,13.0,295.0,0.08511,0.05,nc,nc75106301,2024-12-21T15:27:17.862Z,"15 km W of Petrolia, CA",earthquake,2.59,0.75,0.13,10.0,automatic,nc,nc
+2024-12-21T15:13:15.230Z,33.4821667,-116.5838333,5.87,0.25,ml,23.0,71.0,0.0198,0.08,ci,ci40826751,2024-12-21T15:17:24.307Z,"12 km SE of Anza, CA",earthquake,0.14,0.24,0.137,6.0,automatic,ci,ci
+2024-12-21T14:43:36.715Z,31.659,-104.327,4.1609,2.9,ml,20.0,69.0,0.1,0.2,tx,tx2024yzss,2024-12-21T15:20:04.171Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.3188519477844,0.2,16.0,automatic,tx,tx
+2024-12-21T13:17:32.490Z,36.7268,144.0532,22.094,4.4,mb,29.0,135.0,4.681,0.76,us,us7000p0lb,2024-12-21T15:21:12.040Z,"278 km ESE of Tomioka, Japan",earthquake,9.87,2.864,0.155,12.0,reviewed,us,us
