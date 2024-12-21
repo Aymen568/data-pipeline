@@ -15463,3 +15463,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-21T11:30:33.460Z,32.973,-115.567,10.94,1.55,ml,28.0,75.0,0.1481,0.22,ci,ci40826615,2024-12-21T11:34:15.270Z,"4 km W of Brawley, CA",earthquake,0.3,0.71,0.215,28.0,automatic,ci,ci
 2024-12-21T11:21:26.131Z,37.3577,-117.1924,1.4,0.8,ml,18.0,129.31,0.079,0.3252,nn,nn00890136,2024-12-21T11:23:32.996Z,"39 km S of Goldfield, Nevada",earthquake,,6.7,0.41,9.0,automatic,nn,nn
 2024-12-21T11:43:56.582Z,65.6857,-151.0209,5.7,1.9,ml,,,,0.65,ak,ak024gcy4nm2,2024-12-21T11:45:58.380Z,"44 km WNW of Rampart, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-21T12:24:10.076Z,60.2115,-152.4391,99.3,2.0,ml,,,,0.39,ak,ak024gcylx0v,2024-12-21T12:26:49.838Z,"46 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-12-21T12:21:32.310Z,32.979,-115.5728333,6.51,1.86,ml,35.0,75.0,0.05959,0.26,ci,ci40826663,2024-12-21T12:25:21.625Z,"4 km W of Brawley, CA",earthquake,0.28,0.78,0.238,25.0,automatic,ci,ci
+2024-12-21T12:18:53.630Z,31.647,-104.324,3.5962,2.4,ml,18.0,70.0,0.1,0.4,tx,tx2024yznz,2024-12-21T12:32:59.238Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.3645085096359,0.1,12.0,automatic,tx,tx
+2024-12-21T12:15:38.890Z,33.467,-116.5123333,11.55,1.18,ml,75.0,25.0,0.08003,0.22,ci,ci40826655,2024-12-21T12:20:17.243Z,"18 km ESE of Anza, CA",earthquake,0.17,0.39,0.126,26.0,automatic,ci,ci
+2024-12-21T12:11:04.280Z,36.0253333,-117.7785,1.79,1.07,ml,28.0,59.0,0.01073,0.17,ci,ci40826647,2024-12-21T12:14:30.442Z,"15 km NE of Little Lake, CA",earthquake,0.22,0.2,0.189,21.0,automatic,ci,ci
+2024-12-21T12:10:55.385Z,61.6649,-149.8031,42.8,1.7,ml,,,,0.92,ak,ak024gcyj0hu,2024-12-21T12:13:00.613Z,"3 km NNE of Houston, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2024-12-21T12:07:08.703Z,37.3239,-117.5742,2.0,0.9,ml,13.0,177.27,0.107,0.2469,nn,nn00890139,2024-12-21T12:09:42.122Z,"48 km S of Silver Peak, Nevada",earthquake,,2.1,0.42,8.0,automatic,nn,nn
+2024-12-21T12:03:38.980Z,-15.4424,-173.6333,74.302,4.8,mb,39.0,111.0,2.352,0.46,us,us7000p0l5,2024-12-21T12:39:25.040Z,"59 km NNE of Hihifo, Tonga",earthquake,14.26,7.749,0.054,106.0,reviewed,us,us
+2024-12-21T11:58:28.180Z,33.254,-116.2965,10.78,1.39,ml,78.0,28.0,0.07077,0.2,ci,ci40826623,2024-12-21T12:15:16.094Z,"7 km E of Borrego Springs, CA",earthquake,0.15,0.31,0.12,25.0,automatic,ci,ci
