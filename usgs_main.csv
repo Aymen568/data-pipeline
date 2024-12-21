@@ -15405,3 +15405,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-21T04:29:01.320Z,64.5065,-146.9105,6.8,1.2,ml,,,,0.42,ak,ak024gctvi38,2024-12-21T04:30:39.074Z,"1 km SSW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-21T04:18:05.960Z,34.1176667,-117.4283333,16.47,1.8,ml,101.0,18.0,0.02002,0.16,ci,ci40826375,2024-12-21T04:28:36.150Z,"4 km NE of Fontana, CA",earthquake,0.11,0.21,0.177,27.0,automatic,ci,ci
 2024-12-21T04:16:41.870Z,38.793834686279,-122.77716827393,2.0,1.04,md,16.0,88.0,0.008426,0.02,nc,nc75106156,2024-12-21T04:18:17.155Z,"3 km NNW of The Geysers, CA",earthquake,0.29,0.569999993,0.24,16.0,automatic,nc,nc
+2024-12-21T04:48:04.485Z,37.3397,-117.1887,2.8,0.7,ml,10.0,127.73,0.07,0.4002,nn,nn00890122,2024-12-21T04:50:19.587Z,"41 km S of Goldfield, Nevada",earthquake,,2.4,0.66,6.0,automatic,nn,nn
+2024-12-20T05:13:53.170Z,36.7984,-115.9682,3.2,-0.2,ml,6.0,261.1,0.069,0.0663,nn,nn00890120,2024-12-21T04:47:53.272Z,"36 km NW of Indian Springs, Nevada",earthquake,,6.2,0.15,5.0,reviewed,nn,nn
