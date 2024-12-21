@@ -15541,3 +15541,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-21T20:04:08.913Z,31.636,-104.467,4.5484,2.0,ml,8.0,111.0,0.0,0.2,tx,tx2024zadr,2024-12-21T20:11:39.119Z,"60 km S of Whites City, New Mexico",earthquake,0.0,2.1611778736115,0.1,6.0,automatic,tx,tx
 2024-12-21T20:30:43.360Z,38.83466720581,-122.81950378418,1.1799999475479,0.9,md,22.0,80.0,0.01308,0.04,nc,nc75106381,2024-12-21T20:32:20.147Z,"8 km NNW of The Geysers, CA",earthquake,0.21,0.379999995,0.22,24.0,automatic,nc,nc
 2024-12-21T21:15:09.906Z,39.1232,-119.015,7.8,1.7,ml,11.0,89.7,0.049,0.117,nn,nn00890172,2024-12-21T21:17:45.603Z,"19 km NE of Yerington, Nevada",earthquake,,0.6,0.21,4.0,automatic,nn,nn
+2024-12-21T21:24:52.576Z,62.2584,-148.7773,33.1,1.7,ml,,,,0.47,ak,ak024gd3ywqx,2024-12-21T21:27:25.854Z,"53 km N of Sutton-Alpine, Alaska",earthquake,,0.4,,,automatic,ak,ak
