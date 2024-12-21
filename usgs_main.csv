@@ -15417,3 +15417,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-21T06:07:25.180Z,35.9071667,-117.7455,8.11,1.23,ml,30.0,44.0,0.08725,0.16,ci,ci40826511,2024-12-21T06:10:52.892Z,"15 km ESE of Little Lake, CA",earthquake,0.17,0.57,0.199,24.0,automatic,ci,ci
 2024-12-21T05:59:35.300Z,46.376167297363,-122.34033203125,13.0,1.7126550674438,ml,28.0,65.0,,0.109999999,uw,uw62060187,2024-12-21T06:01:42.370Z,"20 km SSE of Mossyrock, Washington",earthquake,0.3,0.800000012,0.15141916275024,11.0,automatic,uw,uw
 2024-12-21T05:57:23.480Z,19.135,-64.5761,47.0,3.49,md,9.0,294.0,0.7212,0.39,pr,pr2024356000,2024-12-21T06:20:25.365Z,"91 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,7.56,16.4,0.07,4.0,reviewed,pr,pr
+2024-12-21T06:30:25.984Z,39.125,-119.0304,3.7,1.1,ml,12.0,121.6,0.044,0.1661,nn,nn00890127,2024-12-21T06:32:40.653Z,"19 km NE of Yerington, Nevada",earthquake,,0.7,0.28,3.0,automatic,nn,nn
+2024-12-21T06:27:58.537Z,39.1669,-119.0419,7.0,2.0,ml,19.0,75.01,0.003,0.2218,nn,nn00890124,2024-12-21T06:30:12.445Z,"22 km NNE of Yerington, Nevada",earthquake,,0.4,0.19,9.0,automatic,nn,nn
