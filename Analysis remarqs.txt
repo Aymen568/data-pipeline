@@ -9082,4 +9082,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.5 and occurred in/near 24 km NNW of Nikiski, Alaska on 12/22/2024 at 09:42 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 15721 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.5 and occurred in/near 24 km NNW of Nikiski, Alaska on 12/22/2024 at 09:42 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 15723 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.0 and occurred in/near 33 km E of McKinney Acres, Texas on 12/22/2024 at 10:29 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
