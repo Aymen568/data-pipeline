@@ -15732,3 +15732,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-22T23:26:35.190Z,60.033,-152.1733,68.5,2.1,ml,,,,0.31,ak,ak024gespijj,2024-12-22T23:29:11.041Z,"26 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-22T23:18:22.621Z,32.277,-101.923,7.1857,1.2,ml,22.0,56.0,0.0,0.5,tx,tx2024zcfg,2024-12-22T23:33:23.264Z,"20 km NW of Stanton, Texas",earthquake,0.0,2.4977607727051,0.1,18.0,automatic,tx,tx
 2024-12-22T23:41:51.684Z,59.9016,-152.4149,86.2,2.2,ml,,,,0.21,ak,ak024gessrk0,2024-12-22T23:44:16.983Z,"35 km WNW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-12-22T23:48:45.959Z,62.5895,-150.8226,104.8,2.3,ml,,,,1.37,ak,ak024gesu94j,2024-12-22T23:53:13.592Z,"10 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-12-22T23:48:36.020Z,35.5345,-117.4503333,8.47,0.76,ml,19.0,60.0,0.05278,0.14,ci,ci40827495,2024-12-22T23:52:00.161Z,"22 km ESE of Ridgecrest, CA",earthquake,0.19,0.47,0.184,9.0,automatic,ci,ci
+2024-12-22T23:46:01.460Z,38.84033203125,-122.87799835205,2.5299999713898,0.78,md,11.0,115.0,0.00733,0.01,nc,nc75106836,2024-12-22T23:47:38.471Z,"13 km NW of The Geysers, CA",earthquake,0.34,0.730000019,0.18,13.0,automatic,nc,nc
+2024-12-22T23:43:35.370Z,37.3418,-117.1919,3.2,1.6,ml,26.0,127.76,0.069,0.2201,nn,nn00890270,2024-12-22T23:46:08.743Z,"40 km S of Goldfield, Nevada",earthquake,,1.0,0.36,15.0,automatic,nn,nn
