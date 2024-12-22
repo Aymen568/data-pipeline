@@ -15722,3 +15722,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-22T21:21:16.620Z,17.948833333333,-66.874833333333,16.02,2.55,md,16.0,196.0,0.02642,0.11,pr,pr71469103,2024-12-22T21:56:39.980Z,"3 km SSE of Maria Antonia, Puerto Rico",earthquake,0.5,0.29,0.13520913953233,6.0,reviewed,pr,pr
 2024-12-22T22:29:13.091Z,32.358,-102.178,7.4952,1.0,ml,9.0,129.0,0.0,0.2,tx,tx2024zcdr,2024-12-22T22:41:32.852Z,"33 km E of McKinney Acres, Texas",earthquake,0.0,3.3518762588501,0.2,6.0,automatic,tx,tx
 2024-12-22T04:45:14.076Z,3.2731,126.575,50.612,4.9,mb,30.0,104.0,2.607,0.88,us,us7000p0pf,2024-12-22T22:46:29.040Z,"233 km NW of Tobelo, Indonesia",earthquake,7.4,7.743,0.117,25.0,reviewed,us,us
+2024-12-22T22:51:59.250Z,40.257167816162,-124.6558303833,16.139999389648,3.0,ml,45.0,275.0,0.2915,0.27,nc,nc75106806,2024-12-22T22:57:33.040Z,"32 km W of Petrolia, CA",earthquake,2.97,1.09000003,0.208,8.0,automatic,nc,nc
