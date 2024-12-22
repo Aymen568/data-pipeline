@@ -15564,3 +15564,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-22T00:51:05.276Z,-30.445,19.4352,10.0,5.3,mb,75.0,64.0,2.259,0.6,us,us7000p0n9,2024-12-22T01:24:50.451Z,"101 km W of Brandvlei, South Africa",earthquake,4.73,1.794,0.07,69.0,reviewed,us,us
 2024-12-22T00:00:39.010Z,64.9805,-147.3813,0.1,1.4,ml,,,,0.45,ak,ak024geeuzb1,2024-12-22T00:02:16.899Z,"11 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-21T23:57:04.707Z,62.962,-150.2946,76.1,2.1,ml,,,,1.14,ak,ak024gd5cqw6,2024-12-21T23:59:26.538Z,"57 km NNE of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-12-22T02:33:31.677Z,39.1717,-119.0424,9.3,1.6,ml,12.0,83.58,0.004,0.151,nn,nn00890182,2024-12-22T02:35:57.387Z,"23 km NNE of Yerington, Nevada",earthquake,,0.3,0.23,5.0,automatic,nn,nn
+2024-12-22T02:18:03.159Z,61.6388,-149.7103,36.4,3.0,ml,,,,0.31,ak,ak024geg5mmz,2024-12-22T02:38:29.144Z,"5 km E of Houston, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-12-22T02:12:03.240Z,38.823333740234,-122.76333618164,2.210000038147,0.72,md,7.0,125.0,0.008785,0.01,nc,nc75106476,2024-12-22T02:14:55.350Z,"3 km WNW of Cobb, CA",earthquake,0.42,0.709999979,0.05,9.0,automatic,nc,nc
+2024-12-22T02:09:20.280Z,32.9796667,-116.283,7.4,0.9,ml,39.0,46.0,0.1076,0.18,ci,ci40827151,2024-12-22T02:13:28.873Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.2,1.24,0.274,19.0,automatic,ci,ci
+2024-12-22T01:49:34.740Z,32.7983333,-116.151,9.41,1.33,ml,44.0,56.0,0.04579,0.23,ci,ci40827079,2024-12-22T02:00:28.690Z,"16 km WNW of Ocotillo, CA",earthquake,0.23,0.61,0.231,29.0,automatic,ci,ci
+2024-12-22T01:49:32.010Z,38.829334259033,-122.81033325195,1.3300000429153,1.02,md,18.0,55.0,0.005934,0.03,nc,nc75106466,2024-12-22T01:51:09.899Z,"7 km NNW of The Geysers, CA",earthquake,0.25,0.400000006,0.11,18.0,automatic,nc,nc
+2024-12-22T01:44:44.620Z,36.600833892822,-121.2311630249,7.5900001525879,3.56,ml,72.0,27.0,0.04693,0.27,nc,nc75106461,2024-12-22T02:28:42.854Z,"11 km NW of Pinnacles, CA",earthquake,0.29,0.860000014,0.212,39.0,reviewed,nc,nc
+2024-12-22T01:40:07.289Z,61.6452,-150.9022,53.1,2.1,ml,,,,0.52,ak,ak024gefox3s,2024-12-22T01:42:10.889Z,"23 km WNW of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-12-22T01:22:49.794Z,31.609,-104.378,3.9427,2.3,ml,20.0,98.0,0.1,0.2,tx,tx2024zanw,2024-12-22T01:59:28.040Z,"62 km S of Whites City, New Mexico",earthquake,0.0,1.5918118953705,0.1,15.0,automatic,tx,tx
