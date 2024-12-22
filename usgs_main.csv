@@ -15681,3 +15681,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-22T16:34:40.960Z,37.358,-117.1909,2.1,0.4,ml,12.0,235.97,0.08,0.4162,nn,nn00890231,2024-12-22T16:37:01.451Z,"39 km S of Goldfield, Nevada",earthquake,,9.9,0.45,5.0,automatic,nn,nn
 2024-12-22T16:49:18.480Z,38.832332611084,-122.81583404541,1.8999999761581,0.76,md,16.0,67.0,0.009995,0.02,nc,nc75106711,2024-12-22T16:50:56.383Z,"8 km NNW of The Geysers, CA",earthquake,0.23,0.419999987,0.13,18.0,automatic,nc,nc
 2024-12-22T17:11:23.547Z,61.3446,-149.9369,31.4,1.7,ml,,,,1.25,ak,ak024gep1o9u,2024-12-22T17:13:29.567Z,"2 km SE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-22T17:29:50.990Z,33.1726685,-116.024498,8.18,1.29,ml,24.0,66.0,0.03922,0.24,ci,ci40827343,2024-12-22T17:31:57.389Z,"10 km ENE of Ocotillo Wells, CA",earthquake,0.43,0.94,0.212,5.0,automatic,ci,ci
+2024-12-22T17:23:05.450Z,46.872833251953,-122.499168396,20.069999694824,2.0223791599274,ml,52.0,82.0,,0.119999997,uw,uw62060287,2024-12-22T17:25:58.250Z,"8 km SSE of McKenna, Washington",earthquake,0.36,0.779999971,0.26519754528999,33.0,automatic,uw,uw
+2024-12-22T17:20:12.835Z,62.9582,-150.4422,44.0,1.7,ml,,,,1.06,ak,ak024gep3kw3,2024-12-22T17:22:13.548Z,"54 km NNE of Petersville, Alaska",earthquake,,4.5,,,automatic,ak,ak
+2024-12-22T17:05:51.877Z,-9.2471,106.6506,10.0,5.0,mb,60.0,40.0,1.526,0.94,us,us7000p0rv,2024-12-22T17:23:53.040Z,"242 km SSW of Banjar, Indonesia",earthquake,6.19,1.841,0.075,57.0,reviewed,us,us
