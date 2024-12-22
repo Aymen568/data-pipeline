@@ -15661,3 +15661,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-22T14:15:23.247Z,32.404,-102.04,4.3728,1.7,ml,60.0,41.0,0.1,0.5,tx,tx2024zbni,2024-12-22T14:20:52.272Z,"33 km WSW of Ackerly, Texas",earthquake,0.0,0.74490964412689,0.1,37.0,automatic,tx,tx
 2024-12-22T14:15:17.160Z,65.095,-149.4071,3.9,1.5,ml,,,,0.89,ak,ak024gena7tw,2024-12-22T14:17:06.003Z,"6 km SSW of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-22T14:08:08.010Z,38.877334594727,-122.94799804688,4.3200001716614,1.99,md,42.0,68.0,0.03233,0.04,nc,nc75106676,2024-12-22T14:11:14.340Z,"10 km NE of Cloverdale, CA",earthquake,0.23,0.460000008,0.15,45.0,automatic,nc,nc
+2024-12-22T14:21:16.811Z,36.6723,-116.2681,0.0,0.1,ml,9.0,140.47,0.063,0.2775,nn,nn00890222,2024-12-22T14:23:01.076Z,"51 km ESE of Beatty, Nevada",earthquake,,6.8,0.26,6.0,automatic,nn,nn
+2024-12-22T09:25:42.640Z,35.302,-83.311666666667,0.25,1.75,md,8.0,135.0,0.2553,0.22,se,se60502848,2024-12-22T14:28:17.940Z,"9 km SW of Dillsboro, North Carolina",earthquake,0.8,7.12,0.095996872627332,7.0,reviewed,se,se
