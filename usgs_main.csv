@@ -15677,3 +15677,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-22T15:14:31.983Z,5.6305,61.2694,10.0,4.6,mb,40.0,93.0,11.755,1.22,us,us7000p0rq,2024-12-22T15:51:08.040Z,Carlsberg Ridge,earthquake,11.05,1.91,0.093,34.0,reviewed,us,us
 2024-12-22T16:10:47.608Z,39.1564,-119.0622,9.0,1.1,ml,9.0,88.03,0.022,0.1275,nn,nn00890229,2024-12-22T16:13:20.859Z,"20 km NNE of Yerington, Nevada",earthquake,,0.3,0.44,2.0,automatic,nn,nn
 2024-12-22T15:53:59.570Z,35.097,-119.099,12.04,1.83,ml,56.0,48.0,0.04029,0.21,ci,ci40827319,2024-12-22T15:58:31.043Z,"23 km NW of Grapevine, CA",earthquake,0.2,0.57,0.221,26.0,automatic,ci,ci
+2024-12-22T16:34:42.610Z,33.4803352,-116.4801636,13.85,1.09,ml,24.0,64.0,0.0879,0.1,ci,ci40827327,2024-12-22T16:36:52.376Z,"20 km ESE of Anza, CA",earthquake,0.31,0.99,0.248,8.0,automatic,ci,ci
+2024-12-22T16:34:40.960Z,37.358,-117.1909,2.1,0.4,ml,12.0,235.97,0.08,0.4162,nn,nn00890231,2024-12-22T16:37:01.451Z,"39 km S of Goldfield, Nevada",earthquake,,9.9,0.45,5.0,automatic,nn,nn
