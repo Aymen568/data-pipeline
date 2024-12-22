@@ -15731,3 +15731,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-22T23:27:00.402Z,39.1604,-119.0906,1.8,1.6,ml,8.0,109.42,0.041,0.0814,nn,nn00890269,2024-12-22T23:29:24.246Z,"20 km NNE of Yerington, Nevada",earthquake,,0.6,0.68,3.0,automatic,nn,nn
 2024-12-22T23:26:35.190Z,60.033,-152.1733,68.5,2.1,ml,,,,0.31,ak,ak024gespijj,2024-12-22T23:29:11.041Z,"26 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-22T23:18:22.621Z,32.277,-101.923,7.1857,1.2,ml,22.0,56.0,0.0,0.5,tx,tx2024zcfg,2024-12-22T23:33:23.264Z,"20 km NW of Stanton, Texas",earthquake,0.0,2.4977607727051,0.1,18.0,automatic,tx,tx
+2024-12-22T23:41:51.684Z,59.9016,-152.4149,86.2,2.2,ml,,,,0.21,ak,ak024gessrk0,2024-12-22T23:44:16.983Z,"35 km WNW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
