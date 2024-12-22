@@ -15642,3 +15642,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-22T11:09:10.654Z,39.1466,-119.0609,0.9,1.1,ml,9.0,124.95,0.028,0.1712,nn,nn00890211,2024-12-22T11:11:39.044Z,"19 km NNE of Yerington, Nevada",earthquake,,0.2,0.27,2.0,automatic,nn,nn
 2024-12-22T11:27:03.161Z,62.5227,-153.0812,0.0,2.1,ml,,,,0.67,ak,ak024gelkgj0,2024-12-22T11:29:30.929Z,"85 km SE of Nikolai, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-22T11:03:22.125Z,-18.0231,-178.1562,570.24,4.6,mb,42.0,132.0,2.819,0.76,us,us7000p0qg,2024-12-22T11:21:36.040Z,"267 km E of Levuka, Fiji",earthquake,14.47,9.237,0.099,30.0,reviewed,us,us
+2024-12-22T11:44:56.247Z,55.9335,-153.9664,22.3,5.7,ml,,,,0.6,ak,ak024gelo7o8,2024-12-22T11:51:42.564Z,"113 km S of Akhiok, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-12-22T11:43:33.362Z,37.372,-117.2157,0.7,0.4,ml,8.0,254.03,0.08,0.3849,nn,nn00890219,2024-12-22T11:45:48.746Z,"37 km S of Goldfield, Nevada",earthquake,,33.7,0.25,2.0,automatic,nn,nn
+2024-12-22T11:43:20.560Z,38.795833587646,-122.8073348999,3.0099999904633,1.06,md,21.0,74.0,0.008204,0.02,nc,nc75106661,2024-12-22T11:44:56.331Z,"5 km NW of The Geysers, CA",earthquake,0.27,0.5,0.23,23.0,automatic,nc,nc
+2024-12-22T11:42:20.620Z,33.0235,-116.284,4.53,0.82,ml,43.0,41.0,0.1182,0.19,ci,ci40827263,2024-12-22T11:47:05.788Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.19,0.58,0.245,21.0,automatic,ci,ci
