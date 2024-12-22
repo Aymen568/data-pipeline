@@ -15654,3 +15654,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-22T12:51:34.290Z,38.806499481201,-122.81683349609,2.9500000476837,0.75,md,8.0,132.0,0.009931,0.02,nc,nc75106671,2024-12-22T12:53:10.951Z,"6 km NW of The Geysers, CA",earthquake,0.63,1.25999999,0.34,10.0,automatic,nc,nc
 2024-12-22T12:48:50.006Z,31.747,-104.183,4.7757,1.8,ml,20.0,90.0,0.0,0.4,tx,tx2024zbkl,2024-12-22T12:56:14.945Z,"50 km SSE of Whites City, New Mexico",earthquake,0.0,1.2722390890121,0.2,13.0,automatic,tx,tx
 2024-12-22T12:47:42.457Z,31.599,-103.952,5.1141,1.6,ml,16.0,74.0,0.0,0.4,tx,tx2024zbkk,2024-12-22T12:55:11.941Z,"34 km NNW of Toyah, Texas",earthquake,0.0,2.1442091464996,0.2,13.0,automatic,tx,tx
+2024-12-22T13:09:57.640Z,31.753,-104.185,4.9083,1.7,ml,19.0,94.0,0.0,0.3,tx,tx2024zbld,2024-12-22T13:18:39.091Z,"50 km SSE of Whites City, New Mexico",earthquake,0.0,1.3044828176498,0.2,14.0,automatic,tx,tx
+2024-12-22T13:03:27.180Z,34.3375,-117.5773333,8.64,0.89,ml,38.0,76.0,0.09455,0.18,ci,ci40827279,2024-12-22T13:08:27.107Z,"6 km ESE of Wrightwood, CA",earthquake,0.21,0.55,0.238,30.0,automatic,ci,ci
+2024-12-22T12:57:09.550Z,34.0243333,-117.2278333,15.3,0.85,ml,54.0,31.0,0.08936,0.16,ci,ci40827271,2024-12-22T13:02:22.099Z,"4 km SE of Loma Linda, CA",earthquake,0.16,0.27,0.172,31.0,automatic,ci,ci
