@@ -15712,3 +15712,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-22T20:11:40.463Z,39.1333,-119.1041,1.2,1.5,ml,14.0,95.7,0.062,0.1486,nn,nn00890261,2024-12-22T20:14:14.553Z,"17 km NNE of Yerington, Nevada",earthquake,,0.8,0.46,4.0,automatic,nn,nn
 2024-12-22T20:04:14.493Z,39.1516,-119.024,3.3,1.5,ml,11.0,119.53,0.021,0.1804,nn,nn00890258,2024-12-22T20:06:23.426Z,"21 km NNE of Yerington, Nevada",earthquake,,0.5,0.34,5.0,automatic,nn,nn
 2024-12-22T19:59:12.760Z,35.7741661,-118.017334,2.17,1.43,ml,25.0,44.0,0.113,0.14,ci,ci40827407,2024-12-22T20:10:18.400Z,"21 km SSW of Little Lake, CA",earthquake,0.3,0.57,0.17,9.0,automatic,ci,ci
+2024-12-22T20:39:47.040Z,38.81583404541,-122.81700134277,-0.10999999940395,0.79,md,8.0,104.0,0.009289,0.02,nc,nc75106781,2024-12-22T20:41:22.190Z,"7 km NW of The Geysers, CA",earthquake,0.32,0.839999974,0.04,9.0,automatic,nc,nc
