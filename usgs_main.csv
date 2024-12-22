@@ -15658,3 +15658,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-22T13:03:27.180Z,34.3375,-117.5773333,8.64,0.89,ml,38.0,76.0,0.09455,0.18,ci,ci40827279,2024-12-22T13:08:27.107Z,"6 km ESE of Wrightwood, CA",earthquake,0.21,0.55,0.238,30.0,automatic,ci,ci
 2024-12-22T12:57:09.550Z,34.0243333,-117.2278333,15.3,0.85,ml,54.0,31.0,0.08936,0.16,ci,ci40827271,2024-12-22T13:02:22.099Z,"4 km SE of Loma Linda, CA",earthquake,0.16,0.27,0.172,31.0,automatic,ci,ci
 2024-12-22T13:34:53.240Z,31.748,-104.189,4.6258,2.2,ml,19.0,92.0,0.0,0.2,tx,tx2024zblz,2024-12-22T13:41:02.244Z,"50 km SSE of Whites City, New Mexico",earthquake,0.0,1.255285859108,0.2,15.0,automatic,tx,tx
+2024-12-22T14:15:23.247Z,32.404,-102.04,4.3728,1.7,ml,60.0,41.0,0.1,0.5,tx,tx2024zbni,2024-12-22T14:20:52.272Z,"33 km WSW of Ackerly, Texas",earthquake,0.0,0.74490964412689,0.1,37.0,automatic,tx,tx
+2024-12-22T14:15:17.160Z,65.095,-149.4071,3.9,1.5,ml,,,,0.89,ak,ak024gena7tw,2024-12-22T14:17:06.003Z,"6 km SSW of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-22T14:08:08.010Z,38.877334594727,-122.94799804688,4.3200001716614,1.99,md,42.0,68.0,0.03233,0.04,nc,nc75106676,2024-12-22T14:11:14.340Z,"10 km NE of Cloverdale, CA",earthquake,0.23,0.460000008,0.15,45.0,automatic,nc,nc
