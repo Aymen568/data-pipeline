@@ -15607,3 +15607,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-22T05:53:58.560Z,36.605335235596,-121.23666381836,7.2300000190735,3.11,ml,67.0,28.0,0.05319,0.23,nc,nc75106546,2024-12-22T06:07:15.871Z,"12 km NW of Pinnacles, CA",earthquake,0.25,0.75,0.199,19.0,automatic,nc,nc
 2024-12-22T05:47:31.581Z,30.879,-103.463,8.9837,1.5,ml,8.0,212.0,0.1,0.3,tx,tx2024zawo,2024-12-22T06:00:07.840Z,"29 km ESE of Balmorhea, Texas",earthquake,0.0,4.7637209892273,0.1,6.0,automatic,tx,tx
 2024-12-22T06:21:26.020Z,39.1757,-119.0469,4.6,1.6,ml,13.0,91.02,0.009,0.1314,nn,nn00890196,2024-12-22T06:23:28.637Z,"23 km NNE of Yerington, Nevada",earthquake,,0.4,0.18,3.0,automatic,nn,nn
+2024-12-22T00:13:53.780Z,19.826666666667,-156.20316666667,7.92,2.97,ml,34.0,248.0,0.2458,0.23,hv,hv74572812,2024-12-22T06:47:34.532Z,"25 km WNW of Kalaoa, Hawaii",earthquake,0.78,0.64,0.16694338895055,19.0,reviewed,hv,hv
