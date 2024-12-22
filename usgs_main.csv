@@ -15675,3 +15675,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-22T15:05:12.058Z,31.637,-104.487,5.6062,1.9,ml,8.0,130.0,0.0,0.2,tx,tx2024zboy,2024-12-22T15:27:15.893Z,"60 km S of Whites City, New Mexico",earthquake,0.0,5.8040714263916,0.1,6.0,automatic,tx,tx
 2024-12-22T15:42:10.270Z,38.821166992188,-122.8433303833,2.2000000476837,1.09,md,19.0,104.0,0.00677,0.02,nc,nc75106706,2024-12-22T15:43:46.893Z,"9 km NW of The Geysers, CA",earthquake,0.22,0.409999996,0.2,20.0,automatic,nc,nc
 2024-12-22T15:14:31.983Z,5.6305,61.2694,10.0,4.6,mb,40.0,93.0,11.755,1.22,us,us7000p0rq,2024-12-22T15:51:08.040Z,Carlsberg Ridge,earthquake,11.05,1.91,0.093,34.0,reviewed,us,us
+2024-12-22T16:10:47.608Z,39.1564,-119.0622,9.0,1.1,ml,9.0,88.03,0.022,0.1275,nn,nn00890229,2024-12-22T16:13:20.859Z,"20 km NNE of Yerington, Nevada",earthquake,,0.3,0.44,2.0,automatic,nn,nn
+2024-12-22T15:53:59.570Z,35.097,-119.099,12.04,1.83,ml,56.0,48.0,0.04029,0.21,ci,ci40827319,2024-12-22T15:58:31.043Z,"23 km NW of Grapevine, CA",earthquake,0.2,0.57,0.221,26.0,automatic,ci,ci
