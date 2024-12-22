@@ -15728,3 +15728,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-22T23:16:24.816Z,37.327,-117.2008,3.1,0.8,ml,11.0,125.83,0.055,0.299,nn,nn00890266,2024-12-22T23:18:44.931Z,"42 km S of Goldfield, Nevada",earthquake,,1.5,0.57,6.0,automatic,nn,nn
 2024-12-22T23:02:13.960Z,35.7201653,-117.5623322,7.83,1.28,ml,23.0,74.0,0.1077,0.12,ci,ci40827471,2024-12-22T23:13:13.030Z,"15 km NE of Ridgecrest, CA",earthquake,0.29,1.43,0.122,5.0,automatic,ci,ci
 2024-12-22T22:59:28.730Z,40.339168548584,-124.46099853516,10.199999809265,2.38,md,7.0,320.0,0.1086,0.04,nc,nc75106811,2024-12-22T23:07:18.811Z,"15 km WNW of Petrolia, CA",earthquake,5.49,1.74000001,0.06,5.0,automatic,nc,nc
+2024-12-22T23:27:00.402Z,39.1604,-119.0906,1.8,1.6,ml,8.0,109.42,0.041,0.0814,nn,nn00890269,2024-12-22T23:29:24.246Z,"20 km NNE of Yerington, Nevada",earthquake,,0.6,0.68,3.0,automatic,nn,nn
+2024-12-22T23:26:35.190Z,60.033,-152.1733,68.5,2.1,ml,,,,0.31,ak,ak024gespijj,2024-12-22T23:29:11.041Z,"26 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-12-22T23:18:22.621Z,32.277,-101.923,7.1857,1.2,ml,22.0,56.0,0.0,0.5,tx,tx2024zcfg,2024-12-22T23:33:23.264Z,"20 km NW of Stanton, Texas",earthquake,0.0,2.4977607727051,0.1,18.0,automatic,tx,tx
