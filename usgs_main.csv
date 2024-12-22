@@ -15637,3 +15637,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-22T10:31:09.686Z,39.1596,-119.0337,2.7,2.2,ml,20.0,65.61,0.01,0.2267,nn,nn00890209,2024-12-22T10:33:21.609Z,"22 km NNE of Yerington, Nevada",earthquake,,0.4,0.21,11.0,automatic,nn,nn
 2024-12-22T10:30:17.520Z,32.398,-102.006,4.5271,1.5,ml,53.0,39.0,0.0,0.4,tx,tx2024zbga,2024-12-22T10:39:58.415Z,"30 km WSW of Ackerly, Texas",earthquake,0.0,0.78127229213715,0.1,35.0,automatic,tx,tx
 2024-12-22T10:35:02.819Z,55.9001,-153.9919,10.0,3.7,ml,30.0,219.0,0.669,0.69,us,us7000p0qe,2024-12-22T10:43:51.040Z,"116 km S of Akhiok, Alaska",earthquake,6.41,2.002,0.066,30.0,reviewed,us,us
+2024-12-22T11:03:32.590Z,35.377,-118.6466667,5.34,1.33,ml,41.0,42.0,0.136,0.17,ci,ci40827255,2024-12-22T11:07:03.873Z,"25 km NE of Arvin, CA",earthquake,0.19,0.83,0.217,28.0,automatic,ci,ci
+2024-12-22T10:38:22.680Z,-23.852,-179.3327,533.092,4.5,mb,24.0,129.0,5.534,0.41,us,us7000p0qf,2024-12-22T10:56:25.040Z,south of the Fiji Islands,earthquake,17.44,18.048,0.128,18.0,reviewed,us,us
