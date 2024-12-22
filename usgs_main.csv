@@ -15609,3 +15609,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-22T06:21:26.020Z,39.1757,-119.0469,4.6,1.6,ml,13.0,91.02,0.009,0.1314,nn,nn00890196,2024-12-22T06:23:28.637Z,"23 km NNE of Yerington, Nevada",earthquake,,0.4,0.18,3.0,automatic,nn,nn
 2024-12-22T00:13:53.780Z,19.826666666667,-156.20316666667,7.92,2.97,ml,34.0,248.0,0.2458,0.23,hv,hv74572812,2024-12-22T06:47:34.532Z,"25 km WNW of Kalaoa, Hawaii",earthquake,0.78,0.64,0.16694338895055,19.0,reviewed,hv,hv
 2024-12-22T05:03:22.866Z,-21.0193,169.8081,82.077,4.6,mb,20.0,253.0,2.707,0.65,us,us7000p0pi,2024-12-22T06:53:12.040Z,"172 km SSE of Isangel, Vanuatu",earthquake,13.48,11.653,0.128,18.0,reviewed,us,us
+2024-12-22T07:08:31.010Z,36.602333068848,-121.23933410644,6.0,2.11,md,37.0,27.0,0.05309,0.25,nc,nc75106581,2024-12-22T07:17:18.414Z,"12 km NW of Pinnacles, CA",earthquake,0.39,1.29999995,0.11,33.0,automatic,nc,nc
