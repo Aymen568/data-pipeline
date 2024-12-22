@@ -15707,3 +15707,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-22T19:40:23.750Z,35.7736664,-118.015831,2.81,1.56,ml,25.0,72.0,0.1124,0.14,ci,ci40827399,2024-12-22T19:43:06.473Z,"21 km SSW of Little Lake, CA",earthquake,0.3,1.16,0.285,9.0,automatic,ci,ci
 2024-12-22T19:34:41.473Z,37.3159,-117.1948,4.5,0.3,ml,9.0,125.07,0.055,0.2933,nn,nn00890256,2024-12-22T19:36:52.423Z,"43 km S of Goldfield, Nevada",earthquake,,2.0,0.48,5.0,automatic,nn,nn
 2024-12-22T19:31:46.881Z,63.8961,-149.2481,2.6,1.6,ml,,,,0.97,ak,ak024geqcvmy,2024-12-22T19:34:24.303Z,"14 km WNW of Healy, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-22T20:16:39.445Z,59.7576,-152.4055,72.7,2.1,ml,,,,0.82,ak,ak024geqv2w8,2024-12-22T20:18:55.315Z,"32 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-12-22T20:15:21.530Z,38.777000427246,-122.75933074951,1.6000000238419,0.75,md,6.0,113.0,0.008029,0.01,nc,nc75106771,2024-12-22T20:16:56.708Z,"0 km W of The Geysers, CA",earthquake,1.34,1.03999996,0.18,7.0,automatic,nc,nc
+2024-12-22T20:11:40.463Z,39.1333,-119.1041,1.2,1.5,ml,14.0,95.7,0.062,0.1486,nn,nn00890261,2024-12-22T20:14:14.553Z,"17 km NNE of Yerington, Nevada",earthquake,,0.8,0.46,4.0,automatic,nn,nn
+2024-12-22T20:04:14.493Z,39.1516,-119.024,3.3,1.5,ml,11.0,119.53,0.021,0.1804,nn,nn00890258,2024-12-22T20:06:23.426Z,"21 km NNE of Yerington, Nevada",earthquake,,0.5,0.34,5.0,automatic,nn,nn
+2024-12-22T19:59:12.760Z,35.7741661,-118.017334,2.17,1.43,ml,25.0,44.0,0.113,0.14,ci,ci40827407,2024-12-22T20:10:18.400Z,"21 km SSW of Little Lake, CA",earthquake,0.3,0.57,0.17,9.0,automatic,ci,ci
