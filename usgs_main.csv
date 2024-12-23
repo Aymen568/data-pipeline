@@ -15874,3 +15874,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-23T13:51:05.421Z,59.0747,-151.8886,52.8,2.5,ml,,,,0.43,ak,ak024ggaftla,2024-12-23T13:53:01.303Z,"31 km S of Port Graham, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-12-23T13:48:29.909Z,59.5807,-153.5429,116.0,1.8,ml,,,,0.67,ak,ak024ggaf8by,2024-12-23T13:50:55.898Z,"39 km SE of Pedro Bay, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-12-23T01:28:28.229Z,36.7624,-116.102,2.9,0.2,ml,13.0,113.13,0.003,0.0695,nn,nn00890349,2024-12-23T13:54:09.220Z,"44 km WNW of Indian Springs, Nevada",earthquake,,1.3,0.06,4.0,reviewed,nn,nn
+2024-12-23T14:25:56.060Z,33.1951675,-115.965332,9.42,1.2,ml,15.0,164.0,0.02399,0.21,ci,ci40827679,2024-12-23T14:28:02.455Z,"12 km S of Salton City, CA",earthquake,0.79,1.03,0.206,8.0,automatic,ci,ci
+2024-12-23T14:24:49.212Z,63.5679,-147.3505,0.0,1.9,ml,,,,1.03,ak,ak024ggavk8p,2024-12-23T14:27:06.295Z,"79 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-23T14:07:18.220Z,32.8311667,-116.0405,8.59,1.19,ml,41.0,37.0,0.06178,0.2,ci,ci40827671,2024-12-23T14:17:49.970Z,"12 km NNW of Ocotillo, CA",earthquake,0.18,0.55,0.151,22.0,automatic,ci,ci
+2024-12-23T13:00:45.470Z,44.788,-111.325,11.95,1.13,md,14.0,130.0,0.08606,0.09,uu,uu80098401,2024-12-23T14:19:05.010Z,"10 km W of Hebgen Lake Estates, Montana",earthquake,0.56,0.53,0.30517438942323,6.0,reviewed,uu,uu
+2024-12-22T19:23:56.730Z,39.701833333333,-110.818,-3.39,2.02,ml,18.0,63.0,0.06484,0.2,uu,uu80098336,2024-12-23T14:17:46.730Z,"1 km NW of Kenilworth, Utah",earthquake,0.41,1.03,0.10832682397447,4.0,reviewed,uu,uu
