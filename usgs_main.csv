@@ -15766,3 +15766,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-23T02:51:49.260Z,34.1315,-117.8298333,5.23,1.72,ml,6.0,191.0,0.2042,0.21,ci,ci40827559,2024-12-23T03:15:07.599Z,"3 km E of Glendora, CA",earthquake,1.45,15.53,0.247,29.0,reviewed,ci,ci
 2024-12-23T01:58:57.030Z,33.7833333,-117.8243333,7.78,1.96,ml,9.0,100.0,0.1454,0.13,ci,ci40827535,2024-12-23T03:15:10.600Z,"2 km SSE of Orange, CA",earthquake,0.49,1.67,0.202,23.0,reviewed,ci,ci
 2024-12-23T03:40:11.994Z,60.6659,-152.7325,8.0,0.7,ml,,,,0.73,ak,ak024gg4f567,2024-12-23T03:42:20.416Z,"77 km W of Salamatof, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-12-23T03:50:16.642Z,37.4117,-117.236,0.0,1.1,ml,17.0,272.82,0.113,0.2906,nn,nn00890287,2024-12-23T03:52:47.421Z,"32 km S of Goldfield, Nevada",earthquake,,21.3,0.58,9.0,automatic,nn,nn
+2024-12-23T03:39:05.263Z,-16.654,28.8804,10.0,4.9,mb,53.0,72.0,1.522,0.69,us,us7000p0u1,2024-12-23T03:58:24.729Z,"17 km SSE of Kariba, Zimbabwe",earthquake,9.03,1.88,0.078,52.0,reviewed,us,us
