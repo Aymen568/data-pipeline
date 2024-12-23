@@ -15819,3 +15819,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-23T10:07:37.660Z,19.211999893189,-155.375,30.129999160767,2.21,ml,54.0,171.0,0.0331,0.150000006,hv,hv74574707,2024-12-23T10:10:43.960Z,"10 km E of Pāhala, Hawaii",earthquake,0.46,0.49000001,0.67,9.0,automatic,hv,hv
 2024-12-23T10:03:57.340Z,32.412,-102.082,6.5822,1.1,ml,21.0,91.0,0.0,0.4,tx,tx2024zdan,2024-12-23T10:15:56.572Z,"36 km WSW of Ackerly, Texas",earthquake,0.0,1.6639398336411,0.2,13.0,automatic,tx,tx
 2024-12-23T09:57:07.080Z,17.948166666667,-66.824333333333,14.99,2.16,md,7.0,211.0,0.05872,0.15,pr,pr71469158,2024-12-23T10:09:31.330Z,"5 km S of Indios, Puerto Rico",earthquake,0.64,0.84,0.20555232384139,5.0,reviewed,pr,pr
+2024-12-23T10:52:42.016Z,36.6627,-116.2538,8.9,0.0,ml,8.0,165.66,0.066,0.0359,nn,nn00890316,2024-12-23T10:54:17.984Z,"52 km ESE of Beatty, Nevada",earthquake,,1.1,0.29,4.0,automatic,nn,nn
+2024-12-23T10:50:27.506Z,39.1899,-118.9946,2.5,1.6,ml,14.0,105.52,0.027,0.1175,nn,nn00890313,2024-12-23T10:52:59.889Z,"26 km NNE of Yerington, Nevada",earthquake,,0.5,0.21,5.0,automatic,nn,nn
