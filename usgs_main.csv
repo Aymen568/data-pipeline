@@ -15773,3 +15773,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-23T04:17:08.627Z,31.578,-104.545,3.3849,1.5,ml,8.0,160.0,0.1,0.2,tx,tx2024zcpb,2024-12-23T04:24:22.076Z,"65 km NNE of Van Horn, Texas",earthquake,0.0,2.2717435359955,0.1,6.0,automatic,tx,tx
 2024-12-23T04:02:44.630Z,36.055667877197,-89.825836181641,10.760000228882,2.20000005,md,31.0,105.0,,0.129999995,nm,nm60595461,2024-12-23T04:09:48.040Z,"1 km NW of Cooter, Missouri",earthquake,0.32,1.30999994,0.709999979,25.0,reviewed,nm,nm
 2024-12-23T04:26:18.962Z,-29.1325,-70.6683,98.507,4.1,mb,20.0,126.0,0.124,0.7,us,us7000p0u8,2024-12-23T04:36:36.040Z,"62 km S of Vallenar, Chile",earthquake,5.56,5.678,0.213,6.0,reviewed,us,us
+2024-12-23T04:52:25.024Z,65.5837,-147.8848,10.9,1.3,ml,,,,0.32,ak,ak024gg536di,2024-12-23T04:54:20.431Z,"31 km ENE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-23T04:51:42.280Z,38.832332611084,-122.81566619873,1.8700000047684,1.49,md,27.0,53.0,0.009936,0.02,nc,nc75106886,2024-12-23T04:54:59.880Z,"8 km NNW of The Geysers, CA",earthquake,0.19,0.340000004,0.13,27.0,automatic,nc,nc
+2024-12-23T04:45:11.499Z,39.164,-118.9928,0.0,1.4,ml,9.0,139.68,0.036,0.2672,nn,nn00890291,2024-12-23T04:47:36.423Z,"24 km NE of Yerington, Nevada",earthquake,,0.3,0.37,4.0,automatic,nn,nn
+2024-12-23T04:42:04.866Z,37.2164,-117.0126,4.4,1.4,ml,14.0,196.88,0.417,0.2879,nn,nn00890289,2024-12-23T04:44:16.886Z,"40 km NNW of Beatty, Nevada",earthquake,,2.2,0.63,9.0,automatic,nn,nn
