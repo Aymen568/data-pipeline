@@ -15982,3 +15982,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-23T04:04:25.460Z,61.134666666667,-152.30716666667,4.04,-0.19,ml,9.0,251.0,0.06318,0.08,av,av93423691,2024-12-23T22:13:25.750Z,"63 km W of Tyonek, Alaska",earthquake,0.65,0.33,0.31192143885332,9.0,reviewed,av,av
 2024-12-23T02:15:27.914Z,31.354,-103.737,7.0099,1.6,ml,16.0,47.0,0.1,0.1,tx,tx2024zclc,2024-12-23T22:30:18.298Z,"6 km NE of Toyah, Texas",earthquake,0.47523424228855,1.0627254401701,0.2,20.0,reviewed,tx,tx
 2024-12-23T05:35:30.890Z,58.414,-154.94583333333,0.78,0.03,ml,6.0,212.0,0.08221,0.13,av,av93029094,2024-12-23T22:38:32.680Z,"98 km NNW of Karluk, Alaska",earthquake,0.62,1.7,0.24845337696156,6.0,reviewed,av,av
+2024-12-23T22:46:09.292Z,64.699,-148.0828,11.5,1.7,ml,,,,0.56,ak,ak024ggfrnr5,2024-12-23T22:47:56.855Z,"16 km S of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-23T22:45:27.177Z,38.5898,-117.2583,11.0,1.6,ml,8.0,200.6,0.623,0.1542,nn,nn00890432,2024-12-23T22:48:25.738Z,"58 km N of Tonopah, Nevada",earthquake,,3.5,0.17,5.0,automatic,nn,nn
+2024-12-23T22:39:35.919Z,64.4743,-150.6369,25.9,3.0,ml,,,,0.57,ak,ak024ggfq7sn,2024-12-23T22:41:39.308Z,"58 km S of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-23T22:27:00.880Z,39.704,-110.82883333333,-3.29,1.82,md,11.0,106.0,0.07163,0.16,uu,uu80098441,2024-12-23T22:51:19.900Z,"2 km NW of Kenilworth, Utah",earthquake,0.54,1.18,0.19213510469434,10.0,reviewed,uu,uu
