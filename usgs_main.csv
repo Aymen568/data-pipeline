@@ -15785,3 +15785,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-23T05:28:20.639Z,39.1587,-119.0694,8.5,1.4,ml,8.0,94.86,0.026,0.0825,nn,nn00890295,2024-12-23T05:31:36.272Z,"20 km NNE of Yerington, Nevada",earthquake,,0.4,0.56,4.0,automatic,nn,nn
 2024-12-23T05:11:53.525Z,31.595,-104.562,4.2834,1.5,ml,8.0,169.0,0.1,0.4,tx,tx2024zcqw,2024-12-23T05:20:34.423Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.3186962604523,0.1,6.0,automatic,tx,tx
 2024-12-23T05:56:03.563Z,63.4379,-147.5509,2.0,1.7,ml,,,,0.41,ak,ak024gg5pf6s,2024-12-23T05:57:41.561Z,"70 km E of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-23T06:28:14.750Z,38.82466506958,-122.76499938965,2.3599998950958,1.09,md,15.0,125.0,0.006953,0.03,nc,nc75106906,2024-12-23T06:29:53.239Z,"4 km WNW of Cobb, CA",earthquake,0.32,0.649999976,0.06,16.0,automatic,nc,nc
+2024-12-23T06:00:59.074Z,19.9162,-76.5153,22.241,5.9,mww,55.0,50.0,0.112,0.81,us,us7000p0uj,2024-12-23T06:31:59.930Z,"37 km S of Guisa, Cuba",earthquake,2.78,6.255,0.03,107.0,reviewed,us,us
