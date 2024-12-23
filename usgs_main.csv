@@ -15928,3 +15928,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-23T01:16:40.770Z,60.514333333333,-152.95583333333,4.87,-0.67,ml,6.0,255.0,0.04969,0.04,av,av93423566,2024-12-23T18:36:45.710Z,"82 km ENE of Port Alsworth, Alaska",earthquake,0.57,0.65,0.12363727868199,5.0,reviewed,av,av
 2024-12-23T18:47:44.028Z,35.8555,-115.4272,15.8,1.8,ml,16.0,308.22,0.914,0.3141,nn,nn00890388,2024-12-23T18:51:04.523Z,"2 km NNE of Goodsprings, Nevada",earthquake,,2.6,0.31,9.0,automatic,nn,nn
 2024-12-23T08:27:32.327Z,31.731,-104.253,7.3303,1.6,ml,10.0,76.0,0.0,0.2,tx,tx2024zcxi,2024-12-23T18:54:04.612Z,"50 km SSE of Whites City, New Mexico",earthquake,0.88819891261466,0.82053200784217,0.1,7.0,reviewed,tx,tx
+2024-12-23T19:09:29.950Z,32.8995,-116.9565,5.37,1.29,ml,32.0,91.0,0.06125,0.22,ci,ci40827775,2024-12-23T19:14:03.603Z,"6 km NW of Lakeside, CA",earthquake,0.26,0.62,0.234,29.0,automatic,ci,ci
+2024-12-23T19:07:42.017Z,61.6955,-150.2761,20.3,2.8,ml,,,,0.65,ak,ak024ggdr2ku,2024-12-23T19:09:16.845Z,"13 km WSW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-23T19:05:21.473Z,61.4138,-147.5134,19.5,2.4,ml,,,,0.62,ak,ak024ggdqlir,2024-12-23T19:07:31.593Z,"44 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-23T19:00:52.513Z,36.426,-114.998,1.2,1.6,ml,8.0,335.79,0.15,0.332,nn,nn00890391,2024-12-23T19:03:22.918Z,"20 km NNE of Nellis Air Force Base, Nevada",earthquake,,19.7,0.28,7.0,automatic,nn,nn
+2024-12-23T18:52:29.290Z,17.9745,-66.9425,10.25,2.25,md,8.0,179.0,0.0602,0.13,pr,pr71469203,2024-12-23T19:09:57.260Z,"3 km WSW of Fuig, Puerto Rico",earthquake,0.51,0.68,0.094972845665816,8.0,reviewed,pr,pr
+2024-12-23T17:57:25.583Z,19.5561,95.0905,84.036,4.9,mb,51.0,83.0,1.649,0.65,us,us6000pfbh,2024-12-23T19:06:07.040Z,"24 km NNW of Myaydo, Myanmar",earthquake,3.79,7.436,0.059,89.0,reviewed,us,us
+2024-12-22T22:45:31.470Z,44.333833333333,-114.826,5.36,1.5,ml,12.0,94.0,0.2281,0.07,mb,mb90069463,2024-12-23T19:10:32.290Z,"15 km NE of Stanley, Idaho",earthquake,0.36,1.33,0.20071799214734,15.0,reviewed,mb,mb
+2024-12-22T21:34:19.670Z,31.66,-104.327,7.561,1.5,ml,11.0,87.0,0.1,0.3,tx,tx2024zcbu,2024-12-23T19:15:44.752Z,"57 km S of Whites City, New Mexico",earthquake,1.2197361625257,1.1870326752747,0.1,7.0,reviewed,tx,tx
