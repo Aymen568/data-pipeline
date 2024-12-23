@@ -15953,3 +15953,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-23T20:43:53.194Z,59.8703,-152.2601,82.3,1.9,ml,,,,0.36,ak,ak024ggek8s7,2024-12-23T20:45:30.919Z,"26 km WNW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-12-23T19:22:40.770Z,45.958333333333,-111.3665,2.39,2.11,ml,29.0,63.0,0.2199,0.2,mb,mb90069468,2024-12-23T20:50:03.810Z,"8 km S of Ponderosa Pines, Montana",earthquake,0.28,1.23,0.18450994842366,29.0,reviewed,mb,mb
 2024-12-23T21:02:37.690Z,38.788501739502,-122.76216888428,2.3199999332428,0.75,md,10.0,81.0,0.01226,0.01,nc,nc75107111,2024-12-23T21:04:16.210Z,"1 km  of The Geysers, CA",earthquake,0.36,0.800000012,0.07,11.0,automatic,nc,nc
+2024-12-23T21:20:08.967Z,61.6278,-150.9533,67.5,1.5,ml,,,,0.15,ak,ak024ggf0ni8,2024-12-23T21:22:10.479Z,"25 km WNW of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-12-23T21:14:27.817Z,37.3649,-117.1962,0.8,1.2,ml,19.0,210.43,0.082,0.2632,nn,nn00890410,2024-12-23T21:16:57.242Z,"38 km S of Goldfield, Nevada",earthquake,,12.8,0.4,12.0,automatic,nn,nn
+2024-12-23T12:04:09.050Z,19.396666666667,-155.2915,0.58,1.87,ml,13.0,61.0,0.007035,0.15,hv,hv74574887,2024-12-23T21:21:04.390Z,"7 km SW of Volcano, Hawaii",earthquake,0.31,0.21,0.19524713760247,12.0,reviewed,hv,hv
