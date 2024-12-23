@@ -15949,3 +15949,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-23T20:29:07.233Z,36.01948547,-97.59983063,24.88773537,2.45,ml,10.0,112.9703827,0.6465889812,1.331709774,ok,ok2024zdvd,2024-12-23T20:31:51.786Z,"7 km N of Crescent, Oklahoma",earthquake,9.37369928,15.74626502,0.32,6.0,automatic,ok,ok
 2024-12-23T20:11:29.135Z,39.1043,-119.0348,5.4,1.1,ml,8.0,131.52,0.065,0.0737,nn,nn00890405,2024-12-23T20:13:53.595Z,"17 km NE of Yerington, Nevada",earthquake,,1.2,0.32,3.0,automatic,nn,nn
 2024-12-23T19:41:25.327Z,9.0015,39.9808,10.0,4.9,mb,47.0,115.0,3.777,0.87,us,us6000pfc3,2024-12-23T20:30:02.040Z,"13 km NNE of Metahāra, Ethiopia",earthquake,11.16,1.938,0.094,35.0,reviewed,us,us
+2024-12-23T20:25:24.130Z,47.872833333333,-122.04766666667,24.62,2.19,ml,34.0,36.0,0.0381,0.18,uw,uw62060367,2024-12-23T20:32:12.980Z,"3 km SW of Roosevelt, Washington",earthquake,0.38,0.39,0.16120140649885,38.0,reviewed,uw,uw
