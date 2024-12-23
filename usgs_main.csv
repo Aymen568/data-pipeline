@@ -15751,3 +15751,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-23T00:04:48.550Z,-14.3757,167.3598,235.142,4.8,mb,55.0,57.0,6.805,0.63,us,us7000p0td,2024-12-23T00:21:53.040Z,"59 km SSW of Sola, Vanuatu",earthquake,11.21,7.817,0.084,44.0,reviewed,us,us
 2024-12-23T00:00:52.350Z,33.4286667,-117.0518333,8.25,0.96,ml,51.0,32.0,0.04291,0.19,ci,ci40827503,2024-12-23T00:05:37.456Z,"7 km NNE of Pala, CA",earthquake,0.18,0.57,0.136,29.0,automatic,ci,ci
 2024-12-22T23:50:06.213Z,32.283,-101.928,4.8388,1.0,ml,15.0,73.0,0.0,0.3,tx,tx2024zcgg,2024-12-23T00:02:31.426Z,"21 km NW of Stanton, Texas",earthquake,0.0,1.3536027669907,0.2,12.0,automatic,tx,tx
+2024-12-23T02:22:12.370Z,19.403165817261,-155.29100036621,0.63999998569489,1.7,ml,20.0,45.0,0.009169,0.100000001,hv,hv74574082,2024-12-23T02:25:07.550Z,"7 km SW of Volcano, Hawaii",earthquake,0.14,0.170000002,0.28,11.0,automatic,hv,hv
+2024-12-23T02:16:29.271Z,-26.9824,-179.8416,454.024,4.6,mb,29.0,114.0,2.817,0.59,us,us7000p0tu,2024-12-23T02:30:32.040Z,south of the Fiji Islands,earthquake,17.12,9.771,0.076,52.0,reviewed,us,us
+2024-12-23T02:15:27.694Z,31.351,-103.726,6.8223,1.7,ml,10.0,97.0,0.1,0.1,tx,tx2024zckz,2024-12-23T02:26:23.346Z,"7 km ENE of Toyah, Texas",earthquake,0.0,4.3060250282288,0.2,8.0,automatic,tx,tx
+2024-12-23T01:58:13.327Z,59.1222,-152.8512,52.3,2.2,ml,,,,0.79,ak,ak024gg3c4yc,2024-12-23T02:01:01.229Z,"59 km WSW of Nanwalek, Alaska",earthquake,,2.6,,,automatic,ak,ak
+2024-12-23T01:36:09.580Z,5.5221,61.3345,10.0,4.6,mb,51.0,94.0,11.694,0.79,us,us7000p0tr,2024-12-23T01:57:18.040Z,Carlsberg Ridge,earthquake,12.95,1.918,0.084,43.0,reviewed,us,us
