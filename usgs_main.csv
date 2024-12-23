@@ -15756,3 +15756,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-23T02:15:27.694Z,31.351,-103.726,6.8223,1.7,ml,10.0,97.0,0.1,0.1,tx,tx2024zckz,2024-12-23T02:26:23.346Z,"7 km ENE of Toyah, Texas",earthquake,0.0,4.3060250282288,0.2,8.0,automatic,tx,tx
 2024-12-23T01:58:13.327Z,59.1222,-152.8512,52.3,2.2,ml,,,,0.79,ak,ak024gg3c4yc,2024-12-23T02:01:01.229Z,"59 km WSW of Nanwalek, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2024-12-23T01:36:09.580Z,5.5221,61.3345,10.0,4.6,mb,51.0,94.0,11.694,0.79,us,us7000p0tr,2024-12-23T01:57:18.040Z,Carlsberg Ridge,earthquake,12.95,1.918,0.084,43.0,reviewed,us,us
+2024-12-23T02:59:32.520Z,33.4655,-116.5053333,12.48,1.15,ml,64.0,45.0,0.08604,0.2,ci,ci40827567,2024-12-23T03:03:28.716Z,"18 km ESE of Anza, CA",earthquake,0.19,0.37,0.123,26.0,automatic,ci,ci
+2024-12-23T02:42:32.840Z,35.9486667,-117.6833333,4.44,1.07,ml,27.0,61.0,0.02675,0.16,ci,ci40827551,2024-12-23T02:46:02.658Z,"20 km E of Little Lake, CA",earthquake,0.17,0.3,0.131,17.0,automatic,ci,ci
