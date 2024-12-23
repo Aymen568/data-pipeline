@@ -15925,3 +15925,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-23T18:03:55.660Z,34.1146667,-117.4815,14.5,1.57,ml,67.0,46.0,0.03853,0.17,ci,ci40827759,2024-12-23T18:09:20.262Z,"3 km NW of Fontana, CA",earthquake,0.16,0.23,0.162,28.0,automatic,ci,ci
 2024-12-23T17:51:09.966Z,37.3457,-117.1986,4.0,1.6,ml,21.0,186.72,0.067,0.2729,nn,nn00890376,2024-12-23T17:53:34.774Z,"40 km S of Goldfield, Nevada",earthquake,,2.2,0.36,11.0,automatic,nn,nn
 2024-12-23T12:32:06.600Z,44.7785,-111.36383333333,11.28,1.31,ml,17.0,58.0,0.07029,0.11,mb,mb90069448,2024-12-23T17:57:23.670Z,"13 km W of Hebgen Lake Estates, Montana",earthquake,0.3,0.43,0.17544106714766,15.0,reviewed,mb,mb
+2024-12-23T01:16:40.770Z,60.514333333333,-152.95583333333,4.87,-0.67,ml,6.0,255.0,0.04969,0.04,av,av93423566,2024-12-23T18:36:45.710Z,"82 km ENE of Port Alsworth, Alaska",earthquake,0.57,0.65,0.12363727868199,5.0,reviewed,av,av
