@@ -15940,3 +15940,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-23T19:20:53.214Z,63.1606,-150.6238,111.8,2.1,ml,,,,0.46,ak,ak024ggdtvpl,2024-12-23T19:23:02.995Z,"69 km SE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-12-23T17:13:32.970Z,12.7807,-90.5132,10.0,4.7,mb,27.0,239.0,1.324,1.06,us,us6000pfba,2024-12-23T19:20:39.040Z,"116 km SW of Acajutla, El Salvador",earthquake,8.7,1.988,0.055,101.0,reviewed,us,us
 2024-12-23T10:14:20.820Z,19.397333333333,-155.28383333333,0.95,1.5,ml,16.0,42.0,0.009816,0.08,hv,hv74574712,2024-12-23T19:23:35.790Z,"7 km SW of Volcano, Hawaii",earthquake,0.14,0.19,0.25514353432249,12.0,reviewed,hv,hv
+2024-12-23T19:37:07.900Z,34.6396675,-117.1181641,-0.63,1.61,ml,19.0,96.0,0.2009,0.1,ci,ci40827783,2024-12-23T19:39:31.744Z,"17 km NNE of Apple Valley, CA",earthquake,0.3,0.76,0.126,7.0,automatic,ci,ci
+2024-12-23T02:49:04.240Z,57.705,-156.13083333333,3.16,1.11,ml,12.0,207.0,0.07639,0.33,av,av93423646,2024-12-23T19:37:07.390Z,"78 km ENE of Ugashik, Alaska",earthquake,1.12,0.77,0.245554066169,12.0,reviewed,av,av
