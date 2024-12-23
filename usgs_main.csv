@@ -15956,3 +15956,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-23T21:20:08.967Z,61.6278,-150.9533,67.5,1.5,ml,,,,0.15,ak,ak024ggf0ni8,2024-12-23T21:22:10.479Z,"25 km WNW of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-12-23T21:14:27.817Z,37.3649,-117.1962,0.8,1.2,ml,19.0,210.43,0.082,0.2632,nn,nn00890410,2024-12-23T21:16:57.242Z,"38 km S of Goldfield, Nevada",earthquake,,12.8,0.4,12.0,automatic,nn,nn
 2024-12-23T12:04:09.050Z,19.396666666667,-155.2915,0.58,1.87,ml,13.0,61.0,0.007035,0.15,hv,hv74574887,2024-12-23T21:21:04.390Z,"7 km SW of Volcano, Hawaii",earthquake,0.31,0.21,0.19524713760247,12.0,reviewed,hv,hv
+2024-12-23T21:14:12.370Z,17.9485,-66.9616,14.0,3.48,md,20.0,187.0,0.0852,0.19,pr,pr2024358001,2024-12-23T21:38:15.184Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.63,0.76,0.15,19.0,reviewed,pr,pr
+2024-12-23T08:50:28.390Z,33.4818333,-116.5011667,7.42,0.64,ml,15.0,78.0,0.07948,0.12,ci,ci37693692,2024-12-23T21:35:15.341Z,"18 km ESE of Anza, CA",earthquake,0.3,0.93,0.086,9.0,reviewed,ci,ci
