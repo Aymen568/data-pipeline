@@ -15950,3 +15950,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-23T20:11:29.135Z,39.1043,-119.0348,5.4,1.1,ml,8.0,131.52,0.065,0.0737,nn,nn00890405,2024-12-23T20:13:53.595Z,"17 km NE of Yerington, Nevada",earthquake,,1.2,0.32,3.0,automatic,nn,nn
 2024-12-23T19:41:25.327Z,9.0015,39.9808,10.0,4.9,mb,47.0,115.0,3.777,0.87,us,us6000pfc3,2024-12-23T20:30:02.040Z,"13 km NNE of Metahāra, Ethiopia",earthquake,11.16,1.938,0.094,35.0,reviewed,us,us
 2024-12-23T20:25:24.130Z,47.872833333333,-122.04766666667,24.62,2.19,ml,34.0,36.0,0.0381,0.18,uw,uw62060367,2024-12-23T20:32:12.980Z,"3 km SW of Roosevelt, Washington",earthquake,0.38,0.39,0.16120140649885,38.0,reviewed,uw,uw
+2024-12-23T20:43:53.194Z,59.8703,-152.2601,82.3,1.9,ml,,,,0.36,ak,ak024ggek8s7,2024-12-23T20:45:30.919Z,"26 km WNW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-12-23T19:22:40.770Z,45.958333333333,-111.3665,2.39,2.11,ml,29.0,63.0,0.2199,0.2,mb,mb90069468,2024-12-23T20:50:03.810Z,"8 km S of Ponderosa Pines, Montana",earthquake,0.28,1.23,0.18450994842366,29.0,reviewed,mb,mb
