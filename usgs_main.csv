@@ -15952,3 +15952,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-23T20:25:24.130Z,47.872833333333,-122.04766666667,24.62,2.19,ml,34.0,36.0,0.0381,0.18,uw,uw62060367,2024-12-23T20:32:12.980Z,"3 km SW of Roosevelt, Washington",earthquake,0.38,0.39,0.16120140649885,38.0,reviewed,uw,uw
 2024-12-23T20:43:53.194Z,59.8703,-152.2601,82.3,1.9,ml,,,,0.36,ak,ak024ggek8s7,2024-12-23T20:45:30.919Z,"26 km WNW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-12-23T19:22:40.770Z,45.958333333333,-111.3665,2.39,2.11,ml,29.0,63.0,0.2199,0.2,mb,mb90069468,2024-12-23T20:50:03.810Z,"8 km S of Ponderosa Pines, Montana",earthquake,0.28,1.23,0.18450994842366,29.0,reviewed,mb,mb
+2024-12-23T21:02:37.690Z,38.788501739502,-122.76216888428,2.3199999332428,0.75,md,10.0,81.0,0.01226,0.01,nc,nc75107111,2024-12-23T21:04:16.210Z,"1 km  of The Geysers, CA",earthquake,0.36,0.800000012,0.07,11.0,automatic,nc,nc
