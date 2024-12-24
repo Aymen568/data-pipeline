@@ -9296,4 +9296,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.02 and occurred in/near 1 km NNE of Colton, CA on 12/24/2024 at 08:19 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 16092 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.12 and occurred in/near 8 km NNW of The Geysers, CA on 12/24/2024 at 08:37 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 16093 recorded earthquakes.
+The most recent earthquake had a magnitude of 3.39 and occurred in/near 30 km W of El Sauzal, B.C., MX on 12/24/2024 at 08:49 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
