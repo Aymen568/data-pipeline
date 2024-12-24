@@ -16108,3 +16108,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-24T11:17:41.869Z,61.6645,-146.3673,31.0,1.8,ml,,,,0.74,ak,ak024ghwl3ca,2024-12-24T11:20:01.293Z,"42 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-24T11:13:17.850Z,32.9788333,-116.2815,7.81,1.04,ml,43.0,42.0,0.1088,0.17,ci,ci40827967,2024-12-24T11:17:35.528Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.16,1.04,0.211,23.0,automatic,ci,ci
 2024-12-24T11:28:43.538Z,31.582,-103.905,5.5028,1.9,ml,13.0,100.0,0.1,0.2,tx,tx2024zeyv,2024-12-24T11:32:35.986Z,"31 km NNW of Toyah, Texas",earthquake,0.0,3.3486211299896,0.2,11.0,automatic,tx,tx
+2024-12-24T11:49:04.780Z,35.6554985,-117.5421677,6.22,1.02,ml,13.0,83.0,0.09694,0.12,ci,ci40827975,2024-12-24T11:51:15.660Z,"13 km ENE of Ridgecrest, CA",earthquake,0.52,1.77,0.247,3.0,automatic,ci,ci
+2024-12-24T11:42:44.153Z,31.88,-101.901,3.9962,1.5,ml,46.0,43.0,0.0,0.4,tx,tx2024zezh,2024-12-24T11:55:24.635Z,"21 km SE of Midland, Texas",earthquake,0.0,0.90192723274231,0.1,31.0,automatic,tx,tx
