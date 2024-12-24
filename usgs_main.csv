@@ -16150,3 +16150,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-24T16:49:48.855Z,32.405,-102.141,6.728,1.4,ml,6.0,162.0,0.0,0.1,tx,tx2024zfjl,2024-12-24T16:51:32.885Z,"38 km ENE of McKinney Acres, Texas",earthquake,0.0,5.3873219490051,0.2,6.0,automatic,tx,tx
 2024-12-24T16:48:01.213Z,62.9473,-149.4036,56.7,2.4,ml,,,,0.69,ak,ak024ghzqteb,2024-12-24T16:49:57.039Z,"54 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-24T16:40:08.021Z,31.727,-104.092,4.5789,1.9,ml,20.0,62.0,0.1,0.2,tx,tx2024zfjc,2024-12-24T16:50:10.883Z,"46 km W of Mentone, Texas",earthquake,0.0,1.1675018072128,0.2,16.0,automatic,tx,tx
+2024-12-24T17:10:50.340Z,38.798667907715,-122.7868347168,3.4400000572205,0.27,md,9.0,127.0,0.005546,0.02,nc,nc75107436,2024-12-24T17:12:27.782Z,"4 km NW of The Geysers, CA",earthquake,0.56,1.34000003,0.04,9.0,automatic,nc,nc
+2024-12-24T17:03:43.670Z,33.698,-116.7205,17.35,1.38,ml,64.0,28.0,0.01759,0.16,ci,ci40828023,2024-12-24T17:14:57.860Z,"5 km S of Idyllwild, CA",earthquake,0.14,0.26,0.17,26.0,automatic,ci,ci
+2024-12-24T17:02:25.081Z,62.9395,-148.7799,64.2,1.9,ml,,,,0.32,ak,ak024gi02fxo,2024-12-24T17:04:15.174Z,"51 km S of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-24T17:02:24.590Z,38.797500610352,-122.74849700928,0.81000000238419,1.96,md,34.0,48.0,0.01696,0.04,nc,nc75107421,2024-12-24T17:05:36.110Z,"2 km NNE of The Geysers, CA",earthquake,0.2,0.319999993,0.14,40.0,automatic,nc,nc
+2024-12-24T17:00:24.000Z,38.841499328613,-122.87833404541,2.4900000095367,0.72,md,11.0,113.0,0.005166,0.02,nc,nc75107416,2024-12-24T17:02:01.546Z,"13 km E of Cloverdale, CA",earthquake,0.44,0.649999976,0.1,14.0,automatic,nc,nc
+2024-12-24T16:49:54.113Z,-39.0628,-72.3137,95.072,4.7,mwr,55.0,87.0,0.835,0.67,us,us6000pfgw,2024-12-24T17:17:45.040Z,"25 km NNW of Villarrica, Chile",earthquake,5.46,4.921,0.068,21.0,reviewed,us,us
+2024-12-24T16:46:57.237Z,39.1392,-119.0405,10.4,3.3,ml,30.0,55.55,0.03,0.3572,nn,nn00890496,2024-12-24T17:21:41.040Z,"20 km NNE of Yerington, Nevada",earthquake,,0.5,0.44,18.0,automatic,nn,nn
+2024-12-24T16:10:08.964Z,-39.1381,174.7839,219.078,4.2,mb,35.0,62.0,0.627,0.5,us,us6000pfgm,2024-12-24T17:06:30.040Z,"48 km ENE of Stratford, New Zealand",earthquake,7.3,5.582,0.137,15.0,reviewed,us,us
