@@ -16105,3 +16105,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-24T10:24:32.000Z,34.7091667,-119.0771667,7.54,1.13,ml,26.0,59.0,0.03253,0.22,ci,ci40827959,2024-12-24T10:32:18.879Z,"17 km SSE of Pine Mountain Club, CA",earthquake,0.33,0.69,0.281,20.0,automatic,ci,ci
 2024-12-24T10:05:28.150Z,17.973,-66.911166666667,11.58,2.42,md,5.0,184.0,0.03044,0.11,pr,pr71469293,2024-12-24T10:31:10.160Z,"0 km WNW of Guánica, Puerto Rico",earthquake,0.53,0.74,0.071769213499817,4.0,reviewed,pr,pr
 2024-12-24T10:42:54.721Z,2.5942,126.3999,70.403,4.9,mb,53.0,93.0,2.052,0.73,us,us6000pffj,2024-12-24T11:01:44.040Z,"190 km NE of Bitung, Indonesia",earthquake,7.36,7.322,0.08,50.0,reviewed,us,us
+2024-12-24T11:17:41.869Z,61.6645,-146.3673,31.0,1.8,ml,,,,0.74,ak,ak024ghwl3ca,2024-12-24T11:20:01.293Z,"42 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-24T11:13:17.850Z,32.9788333,-116.2815,7.81,1.04,ml,43.0,42.0,0.1088,0.17,ci,ci40827967,2024-12-24T11:17:35.528Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.16,1.04,0.211,23.0,automatic,ci,ci
