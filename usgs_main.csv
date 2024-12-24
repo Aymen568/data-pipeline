@@ -16104,3 +16104,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-24T09:56:46.530Z,38.834331512451,-122.7919998169,8.9499998092651,1.09,md,10.0,146.0,0.004272,0.05,nc,nc75107341,2024-12-24T09:58:26.479Z,"6 km WNW of Cobb, CA",earthquake,1.61,7.26000023,0.32,12.0,automatic,nc,nc
 2024-12-24T10:24:32.000Z,34.7091667,-119.0771667,7.54,1.13,ml,26.0,59.0,0.03253,0.22,ci,ci40827959,2024-12-24T10:32:18.879Z,"17 km SSE of Pine Mountain Club, CA",earthquake,0.33,0.69,0.281,20.0,automatic,ci,ci
 2024-12-24T10:05:28.150Z,17.973,-66.911166666667,11.58,2.42,md,5.0,184.0,0.03044,0.11,pr,pr71469293,2024-12-24T10:31:10.160Z,"0 km WNW of Guánica, Puerto Rico",earthquake,0.53,0.74,0.071769213499817,4.0,reviewed,pr,pr
+2024-12-24T10:42:54.721Z,2.5942,126.3999,70.403,4.9,mb,53.0,93.0,2.052,0.73,us,us6000pffj,2024-12-24T11:01:44.040Z,"190 km NE of Bitung, Indonesia",earthquake,7.36,7.322,0.08,50.0,reviewed,us,us
