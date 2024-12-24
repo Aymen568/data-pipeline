@@ -16173,3 +16173,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-24T06:36:02.453Z,51.354,178.8817,41.3,3.9,ml,,,,0.39,ak,ak024ghtpwwi,2024-12-24T18:41:35.204Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2024-12-24T18:50:03.453Z,39.1241,-119.059,8.8,1.6,ml,10.0,122.8,0.047,0.2341,nn,nn00890512,2024-12-24T18:52:03.865Z,"17 km NNE of Yerington, Nevada",earthquake,,0.6,0.43,5.0,automatic,nn,nn
 2024-12-24T18:22:27.172Z,34.6754,32.046,10.0,4.5,mb,104.0,116.0,1.095,0.92,us,us6000pfh6,2024-12-24T18:53:59.963Z,"35 km WSW of Chlórakas, Cyprus",earthquake,7.22,1.868,0.065,69.0,reviewed,us,us
+2024-12-24T17:51:40.930Z,44.8445,-112.399,8.39,1.28,ml,18.0,77.0,0.2512,0.1,mb,mb90069528,2024-12-24T19:01:20.160Z,"27 km NNE of Lima, Montana",earthquake,0.27,2.2,0.242769128942,19.0,reviewed,mb,mb
+2024-12-24T13:26:45.933Z,31.569,-104.186,6.5356,1.3,ml,16.0,69.0,0.1,0.2,tx,tx2024zfcv,2024-12-24T19:14:08.897Z,"46 km NW of Toyah, Texas",earthquake,1.6678815730774,1.1644246891356,0.1,18.0,reviewed,tx,tx
