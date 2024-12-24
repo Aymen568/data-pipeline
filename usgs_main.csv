@@ -16107,3 +16107,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-24T10:42:54.721Z,2.5942,126.3999,70.403,4.9,mb,53.0,93.0,2.052,0.73,us,us6000pffj,2024-12-24T11:01:44.040Z,"190 km NE of Bitung, Indonesia",earthquake,7.36,7.322,0.08,50.0,reviewed,us,us
 2024-12-24T11:17:41.869Z,61.6645,-146.3673,31.0,1.8,ml,,,,0.74,ak,ak024ghwl3ca,2024-12-24T11:20:01.293Z,"42 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-24T11:13:17.850Z,32.9788333,-116.2815,7.81,1.04,ml,43.0,42.0,0.1088,0.17,ci,ci40827967,2024-12-24T11:17:35.528Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.16,1.04,0.211,23.0,automatic,ci,ci
+2024-12-24T11:28:43.538Z,31.582,-103.905,5.5028,1.9,ml,13.0,100.0,0.1,0.2,tx,tx2024zeyv,2024-12-24T11:32:35.986Z,"31 km NNW of Toyah, Texas",earthquake,0.0,3.3486211299896,0.2,11.0,automatic,tx,tx
