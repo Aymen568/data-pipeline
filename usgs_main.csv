@@ -16141,3 +16141,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-24T15:50:15.290Z,38.834999084473,-122.8004989624,2.2200000286102,1.09,md,11.0,78.0,0.008631,0.02,nc,nc75107391,2024-12-24T15:51:52.114Z,"7 km WNW of Cobb, CA",earthquake,0.33,0.879999995,0.29,14.0,automatic,nc,nc
 2024-12-24T00:57:12.710Z,47.340833333333,-114.95533333333,8.5,0.35,ml,8.0,91.0,0.1285,0.08,mb,mb90069523,2024-12-24T15:43:10.290Z,"12 km ENE of Saint Regis, Montana",earthquake,0.42,1.21,0.49587394787467,2.0,reviewed,mb,mb
 2024-12-24T15:53:40.258Z,60.3918,-151.8921,69.8,1.6,ml,,,,0.53,ak,ak024ghz6jex,2024-12-24T15:55:05.873Z,"32 km W of Cohoe, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-12-24T16:35:38.433Z,63.495,-147.7002,6.7,1.5,ml,,,,0.56,ak,ak024ghzo3zn,2024-12-24T16:37:37.756Z,"63 km E of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-12-24T16:19:00.450Z,33.401,-116.3831667,5.54,0.61,ml,22.0,85.0,0.07262,0.14,ci,ci40828015,2024-12-24T16:24:01.159Z,"16 km N of Borrego Springs, CA",earthquake,0.19,1.07,0.075,10.0,automatic,ci,ci
