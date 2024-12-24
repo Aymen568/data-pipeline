@@ -16194,3 +16194,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-24T21:35:55.920Z,38.821666717529,-122.82382965088,2.6600000858307,0.9,md,8.0,88.0,0.008868,0.01,nc,nc75107491,2024-12-24T21:37:32.298Z,"8 km NW of The Geysers, CA",earthquake,0.51,1.13999999,0.35,9.0,automatic,nc,nc
 2024-12-24T13:47:56.013Z,40.2152,-119.7226,13.6,1.5,ml,6.0,96.39,0.6,0.1763,nn,nn00890491,2024-12-24T21:40:31.425Z,"31 km NNW of Sutcliffe, Nevada",earthquake,,2.2,0.23,4.0,reviewed,nn,nn
 2024-12-24T20:07:46.828Z,-24.4121,-67.4083,203.458,4.1,mb,24.0,108.0,1.616,0.48,us,us6000pfhm,2024-12-24T21:50:35.040Z,"112 km W of San Antonio de los Cobres, Argentina",earthquake,10.96,14.287,0.261,4.0,reviewed,us,us
+2024-12-24T22:04:23.040Z,38.778831481934,-122.84899902344,6.1799998283386,1.24,md,17.0,126.0,0.01814,0.28,nc,nc75107496,2024-12-24T22:06:02.708Z,"8 km WNW of The Geysers, CA",earthquake,2.04,3.77999997,0.24,14.0,automatic,nc,nc
+2024-12-24T21:56:14.672Z,31.633,-104.477,3.0537,1.9,ml,16.0,122.0,0.0,0.3,tx,tx2024zfto,2024-12-24T22:10:00.294Z,"60 km S of Whites City, New Mexico",earthquake,0.0,3.5173547267914,0.1,6.0,automatic,tx,tx
+2024-12-24T08:42:23.210Z,59.45,-153.26966666667,13.32,1.25,ml,10.0,209.0,0.1038,0.21,av,av93424676,2024-12-24T22:04:02.130Z,"60 km SE of Pedro Bay, Alaska",earthquake,1.88,2.76,0.11718055444637,9.0,reviewed,av,av
