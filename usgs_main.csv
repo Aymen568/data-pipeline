@@ -16135,3 +16135,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-24T15:13:37.921Z,59.9401,-151.9164,74.0,2.1,ml,,,,0.35,ak,ak024ghyxylc,2024-12-24T15:15:11.921Z,"10 km W of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-24T15:02:04.060Z,44.477833333333,-114.3565,4.43,1.28,ml,12.0,107.0,0.2467,0.15,mb,mb90069513,2024-12-24T15:16:48.190Z,"10 km WSW of Challis, Idaho",earthquake,0.4,2.56,0.20848836623931,16.0,reviewed,mb,mb
 2024-12-24T06:24:17.210Z,47.527,-113.93433333333,5.0,0.3,ml,4.0,168.0,0.2872,0.06,mb,mb90069518,2024-12-24T15:28:41.350Z,"12 km E of Ronan, Montana",earthquake,0.45,6.53,0.26214118684162,2.0,reviewed,mb,mb
+2024-12-24T15:38:30.640Z,36.596000671387,-121.23899841309,4.9400000572205,2.66,md,45.0,40.0,0.04949,0.23,nc,nc75107386,2024-12-24T15:40:05.973Z,"11 km NW of Pinnacles, CA",earthquake,0.3,1.17999995,0.11,47.0,automatic,nc,nc
+2024-12-24T15:37:45.981Z,60.6846,-151.2097,51.5,1.9,ml,,,,0.47,ak,ak024ghz34ee,2024-12-24T15:39:14.166Z,"4 km E of Nikiski, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-12-24T15:34:46.150Z,38.799331665039,-122.81033325195,3.3599998950958,0.77,md,16.0,71.0,0.01237,0.02,nc,nc75107381,2024-12-24T15:36:20.707Z,"5 km NW of The Geysers, CA",earthquake,0.38,0.579999983,0.35,15.0,automatic,nc,nc
