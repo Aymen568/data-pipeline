@@ -16193,3 +16193,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-24T20:33:34.562Z,6.3233,-74.841,71.38,4.9,mb,60.0,95.0,0.696,0.66,us,us6000pfhr,2024-12-24T21:24:24.040Z,"13 km SW of Caracolí, Colombia",earthquake,6.0,9.296,0.038,214.0,reviewed,us,us
 2024-12-24T21:35:55.920Z,38.821666717529,-122.82382965088,2.6600000858307,0.9,md,8.0,88.0,0.008868,0.01,nc,nc75107491,2024-12-24T21:37:32.298Z,"8 km NW of The Geysers, CA",earthquake,0.51,1.13999999,0.35,9.0,automatic,nc,nc
 2024-12-24T13:47:56.013Z,40.2152,-119.7226,13.6,1.5,ml,6.0,96.39,0.6,0.1763,nn,nn00890491,2024-12-24T21:40:31.425Z,"31 km NNW of Sutcliffe, Nevada",earthquake,,2.2,0.23,4.0,reviewed,nn,nn
+2024-12-24T20:07:46.828Z,-24.4121,-67.4083,203.458,4.1,mb,24.0,108.0,1.616,0.48,us,us6000pfhm,2024-12-24T21:50:35.040Z,"112 km W of San Antonio de los Cobres, Argentina",earthquake,10.96,14.287,0.261,4.0,reviewed,us,us
