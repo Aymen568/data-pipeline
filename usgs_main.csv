@@ -16122,3 +16122,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-24T13:18:23.830Z,32.979,-116.2818333,6.11,1.15,ml,43.0,52.0,0.1639,0.19,ci,ci40828007,2024-12-24T13:22:37.130Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.18,1.02,0.244,23.0,automatic,ci,ci
 2024-12-24T13:10:49.812Z,62.3564,-149.5162,43.0,1.8,ml,,,,0.64,ak,ak024ghxqh5h,2024-12-24T13:12:38.313Z,"27 km NE of Susitna North, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-12-23T20:51:01.343Z,31.615,-104.242,5.7153,1.4,ml,19.0,88.0,0.1,0.1,tx,tx2024zdvw,2024-12-24T13:35:42.248Z,"54 km NW of Toyah, Texas",earthquake,1.5191739424406,1.0805934170479,0.1,17.0,reviewed,tx,tx
+2024-12-24T13:39:46.910Z,19.146165847778,-155.50566101074,36.520000457764,2.02999997,md,55.0,139.0,0.04218,0.159999996,hv,hv74575657,2024-12-24T13:43:10.160Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.44,0.610000014,0.0299999993,3.0,automatic,hv,hv
