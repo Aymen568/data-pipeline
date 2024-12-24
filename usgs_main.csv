@@ -16158,3 +16158,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-24T16:49:54.113Z,-39.0628,-72.3137,95.072,4.7,mwr,55.0,87.0,0.835,0.67,us,us6000pfgw,2024-12-24T17:17:45.040Z,"25 km NNW of Villarrica, Chile",earthquake,5.46,4.921,0.068,21.0,reviewed,us,us
 2024-12-24T16:46:57.237Z,39.1392,-119.0405,10.4,3.3,ml,30.0,55.55,0.03,0.3572,nn,nn00890496,2024-12-24T17:21:41.040Z,"20 km NNE of Yerington, Nevada",earthquake,,0.5,0.44,18.0,automatic,nn,nn
 2024-12-24T16:10:08.964Z,-39.1381,174.7839,219.078,4.2,mb,35.0,62.0,0.627,0.5,us,us6000pfgm,2024-12-24T17:06:30.040Z,"48 km ENE of Stratford, New Zealand",earthquake,7.3,5.582,0.137,15.0,reviewed,us,us
+2024-12-24T17:29:34.397Z,64.3964,-149.5452,17.6,1.4,ml,,,,0.62,ak,ak024gi088zj,2024-12-24T17:31:41.492Z,"18 km WNW of Anderson, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-24T17:25:44.170Z,38.821666717529,-122.80899810791,2.3399999141693,0.41,md,11.0,68.0,0.00192,0.04,nc,nc75107441,2024-12-24T17:27:22.746Z,"7 km NNW of The Geysers, CA",earthquake,0.47,0.839999974,0.22,11.0,automatic,nc,nc
+2024-12-24T17:21:53.355Z,61.4799,-150.3364,34.4,1.4,ml,,,,0.24,ak,ak024gi06kpz,2024-12-24T17:23:26.085Z,"11 km SE of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
