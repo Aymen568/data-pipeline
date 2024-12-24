@@ -9292,4 +9292,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 2.88 and occurred in/near 7 km W of West Bishop, CA on 12/24/2024 at 07:40 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 16086 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.22 and occurred in/near 10 km ENE of Ocotillo Wells, CA on 12/24/2024 at 07:57 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 16091 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.02 and occurred in/near 1 km NNE of Colton, CA on 12/24/2024 at 08:19 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
