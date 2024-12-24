@@ -16058,3 +16058,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-24T04:43:16.794Z,37.3612,-117.1302,2.9,1.1,ml,13.0,133.18,0.12,0.2322,nn,nn00890465,2024-12-24T04:45:28.537Z,"39 km SSE of Goldfield, Nevada",earthquake,,1.4,0.54,8.0,automatic,nn,nn
 2024-12-24T04:40:48.827Z,37.3584,-117.1229,0.0,0.8,ml,8.0,133.28,0.124,0.2479,nn,nn00890464,2024-12-24T04:43:27.684Z,"40 km SSE of Goldfield, Nevada",earthquake,,15.1,0.68,3.0,automatic,nn,nn
 2024-12-23T09:39:46.380Z,46.197,-122.18416666667,6.73,0.27,ml,10.0,92.0,0.003332,0.14,uw,uw62060312,2024-12-24T04:42:46.880Z,"37 km NNE of Amboy, Washington",earthquake,0.49,0.65,0.17100687789262,4.0,reviewed,uw,uw
+2024-12-24T04:39:06.384Z,40.1432,23.3031,10.0,4.1,mb,35.0,41.0,0.625,0.63,us,us6000pfeh,2024-12-24T04:50:54.040Z,"6 km SSW of Néa Poteídaia, Greece",earthquake,4.31,1.951,0.261,4.0,reviewed,us,us
