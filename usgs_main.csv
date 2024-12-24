@@ -16170,3 +16170,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-24T17:58:56.114Z,39.1186,-119.0535,10.7,2.0,ml,11.0,121.84,0.052,0.1947,nn,nn00890505,2024-12-24T18:01:23.816Z,"17 km NNE of Yerington, Nevada",earthquake,,0.4,0.4,5.0,automatic,nn,nn
 2024-12-24T17:58:45.102Z,39.132,-119.0653,7.5,2.0,ml,9.0,125.88,0.042,0.1236,nn,nn00890506,2024-12-24T18:01:42.964Z,"18 km NNE of Yerington, Nevada",earthquake,,0.7,0.27,5.0,automatic,nn,nn
 2024-12-24T17:57:20.050Z,38.791999816895,-122.80766296387,3.2999999523163,0.76,md,8.0,124.0,0.005132,0.01,nc,nc75107451,2024-12-24T17:58:56.844Z,"5 km WNW of The Geysers, CA",earthquake,0.51,1.08000004,0.17,10.0,automatic,nc,nc
+2024-12-24T06:36:02.453Z,51.354,178.8817,41.3,3.9,ml,,,,0.39,ak,ak024ghtpwwi,2024-12-24T18:41:35.204Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.4,,,reviewed,ak,ak
