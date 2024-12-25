@@ -16281,3 +16281,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-24T12:05:15.572Z,8.9435,40.1637,10.0,4.5,mb,32.0,150.0,3.685,0.63,us,us6000pffp,2024-12-25T08:50:39.040Z,"4 km S of Āwash, Ethiopia",earthquake,12.78,1.958,0.115,22.0,reviewed,us,us
 2024-12-25T08:59:48.380Z,35.7748333,-117.5901667,5.59,0.96,ml,26.0,60.0,0.1384,0.18,ci,ci40828167,2024-12-25T09:08:34.692Z,"17 km W of Searles Valley, CA",earthquake,0.22,1.31,0.2,16.0,automatic,ci,ci
 2024-12-25T07:57:43.635Z,36.4578,70.4016,210.582,4.3,mb,67.0,75.0,2.197,0.44,us,us6000pfjz,2024-12-25T09:10:58.040Z,"50 km ESE of Farkhār, Afghanistan",earthquake,6.83,7.074,0.085,39.0,reviewed,us,us
+2024-12-25T09:32:21.518Z,36.7264,-117.2521,3.7,1.4,ml,11.0,160.54,0.479,0.2442,nn,nn00890535,2024-12-25T09:34:40.891Z,"47 km NW of Furnace Creek, California",earthquake,,13.9,0.25,7.0,automatic,nn,nn
+2024-12-25T09:26:56.234Z,60.5297,-147.6296,15.9,2.2,ml,,,,0.57,ak,ak024gjizj6f,2024-12-25T09:29:01.426Z,"55 km NNE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
