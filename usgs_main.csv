@@ -16361,3 +16361,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-25T21:27:01.040Z,39.1656,-119.0566,7.2,1.5,ml,16.0,95.33,0.014,0.1529,nn,nn00890564,2024-12-25T21:29:09.575Z,"21 km NNE of Yerington, Nevada",earthquake,,0.5,0.36,6.0,automatic,nn,nn
 2024-12-25T21:19:50.813Z,36.6372,-115.7407,6.5,0.6,ml,15.0,164.02,0.18,0.1165,nn,nn00890560,2024-12-25T21:21:51.147Z,"9 km NW of Indian Springs, Nevada",earthquake,,1.3,0.26,8.0,automatic,nn,nn
 2024-12-25T19:38:51.654Z,-3.2423,146.0968,10.0,4.7,mb,23.0,56.0,1.74,1.06,us,us6000pflg,2024-12-25T21:32:04.040Z,"186 km SW of Lorengau, Papua New Guinea",earthquake,7.93,1.921,0.127,19.0,reviewed,us,us
+2024-12-25T21:50:03.058Z,60.1755,-151.606,50.3,1.6,ml,,,,0.44,ak,ak024gjq9rip,2024-12-25T21:52:32.791Z,"13 km WSW of Clam Gulch, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-12-25T21:39:27.455Z,50.5227,-130.6748,10.0,4.9,mb,24.0,220.0,1.625,0.8,us,us6000pflq,2024-12-25T21:54:48.040Z,"254 km W of Port McNeill, Canada",earthquake,3.03,2.013,0.04,198.0,reviewed,us,us
+2024-12-25T13:30:22.034Z,36.7228,-116.0858,4.8,-0.1,ml,11.0,156.69,0.02,0.0396,nn,nn00890569,2024-12-25T21:44:33.238Z,"40 km WNW of Indian Springs, Nevada",earthquake,,2.1,0.06,3.0,reviewed,nn,nn
