@@ -9526,4 +9526,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 0.93 and occurred in/near 22 km N of Ridgecrest, CA on 12/25/2024 at 05:41 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 16333 recorded earthquakes.
 The most recent earthquake had a magnitude of 0.93 and occurred in/near 22 km N of Ridgecrest, CA on 12/25/2024 at 05:41 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 16336 recorded earthquakes.
+The most recent earthquake had a magnitude of 0.7 and occurred in/near 15 km NE of Yerington, Nevada on 12/25/2024 at 06:21 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
