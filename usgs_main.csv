@@ -16279,3 +16279,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-24T09:11:50.244Z,10.6835,-68.7163,10.0,4.6,mb,132.0,26.0,2.205,0.56,us,us6000pff9,2024-12-25T08:34:33.040Z,"10 km NNW of Yumare, Venezuela",earthquake,5.95,1.873,0.044,156.0,reviewed,us,us
 2024-12-25T08:47:08.910Z,37.511001586914,-118.82382965088,3.960000038147,1.63,md,20.0,221.0,0.079,0.05,nc,nc75107716,2024-12-25T08:48:48.227Z,"14 km WSW of Toms Place, CA",earthquake,0.6,1.20000005,0.1,19.0,automatic,nc,nc
 2024-12-24T12:05:15.572Z,8.9435,40.1637,10.0,4.5,mb,32.0,150.0,3.685,0.63,us,us6000pffp,2024-12-25T08:50:39.040Z,"4 km S of Āwash, Ethiopia",earthquake,12.78,1.958,0.115,22.0,reviewed,us,us
+2024-12-25T08:59:48.380Z,35.7748333,-117.5901667,5.59,0.96,ml,26.0,60.0,0.1384,0.18,ci,ci40828167,2024-12-25T09:08:34.692Z,"17 km W of Searles Valley, CA",earthquake,0.22,1.31,0.2,16.0,automatic,ci,ci
+2024-12-25T07:57:43.635Z,36.4578,70.4016,210.582,4.3,mb,67.0,75.0,2.197,0.44,us,us6000pfjz,2024-12-25T09:10:58.040Z,"50 km ESE of Farkhār, Afghanistan",earthquake,6.83,7.074,0.085,39.0,reviewed,us,us
