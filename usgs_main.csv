@@ -16364,3 +16364,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-25T21:50:03.058Z,60.1755,-151.606,50.3,1.6,ml,,,,0.44,ak,ak024gjq9rip,2024-12-25T21:52:32.791Z,"13 km WSW of Clam Gulch, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-12-25T21:39:27.455Z,50.5227,-130.6748,10.0,4.9,mb,24.0,220.0,1.625,0.8,us,us6000pflq,2024-12-25T21:54:48.040Z,"254 km W of Port McNeill, Canada",earthquake,3.03,2.013,0.04,198.0,reviewed,us,us
 2024-12-25T13:30:22.034Z,36.7228,-116.0858,4.8,-0.1,ml,11.0,156.69,0.02,0.0396,nn,nn00890569,2024-12-25T21:44:33.238Z,"40 km WNW of Indian Springs, Nevada",earthquake,,2.1,0.06,3.0,reviewed,nn,nn
+2024-12-25T13:12:26.288Z,36.7608,-115.9411,1.5,0.1,ml,8.0,192.24,0.038,0.1472,nn,nn00890575,2024-12-25T22:06:27.479Z,"32 km NW of Indian Springs, Nevada",earthquake,,8.4,0.15,5.0,reviewed,nn,nn
