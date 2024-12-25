@@ -16274,3 +16274,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-25T08:03:44.340Z,34.0178333,-117.5861667,5.18,0.7,ml,25.0,63.0,0.02429,0.11,ci,ci40828143,2024-12-25T08:07:40.902Z,"6 km SE of Ontario, CA",earthquake,0.15,0.27,0.19,21.0,automatic,ci,ci
 2024-12-25T06:54:53.671Z,-5.6483,151.2956,75.1,4.5,mb,25.0,124.0,1.686,0.56,us,us6000pfjq,2024-12-25T08:10:54.040Z,"128 km E of Kimbe, Papua New Guinea",earthquake,12.62,5.684,0.116,22.0,reviewed,us,us
 2024-12-24T09:08:30.038Z,36.6617,71.0766,219.337,4.2,mb,52.0,94.0,2.507,1.17,us,us6000pff8,2024-12-25T08:15:48.040Z,"31 km SE of Jurm, Afghanistan",earthquake,9.14,9.775,0.107,24.0,reviewed,us,us
+2024-12-25T08:37:49.740Z,33.5418333,-116.721,3.68,0.68,ml,17.0,75.0,0.02716,0.09,ci,ci40828159,2024-12-25T08:41:56.521Z,"5 km WSW of Anza, CA",earthquake,0.3,0.55,0.258,15.0,automatic,ci,ci
+2024-12-24T09:45:49.120Z,8.8402,40.0744,10.0,4.5,mb,21.0,145.0,3.82,0.38,us,us6000pfff,2024-12-25T08:42:36.040Z,"18 km ESE of Metahāra, Ethiopia",earthquake,11.16,1.961,0.164,11.0,reviewed,us,us
+2024-12-24T09:11:50.244Z,10.6835,-68.7163,10.0,4.6,mb,132.0,26.0,2.205,0.56,us,us6000pff9,2024-12-25T08:34:33.040Z,"10 km NNW of Yumare, Venezuela",earthquake,5.95,1.873,0.044,156.0,reviewed,us,us
