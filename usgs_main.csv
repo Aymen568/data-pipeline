@@ -16260,3 +16260,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-25T05:27:11.886Z,62.8694,-148.9557,56.3,2.0,ml,,,,0.5,ak,ak024gjglx1w,2024-12-25T05:28:59.266Z,"58 km S of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-25T05:39:57.580Z,37.53133392334,-118.82933044434,5.4800000190735,1.08,md,8.0,214.0,0.05859,0.01,nc,nc75107656,2024-12-25T05:41:32.827Z,"14 km W of Toms Place, CA",earthquake,0.96,1.49000001,0.16,8.0,automatic,nc,nc
 2024-12-25T05:59:47.032Z,64.71,-148.9675,20.1,1.1,ml,,,,0.27,ak,ak024gjgsuof,2024-12-25T06:01:07.597Z,"13 km NNE of Four Mile Road, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-12-25T06:35:04.180Z,39.1444,-119.0831,6.5,1.2,ml,9.0,137.27,0.042,0.0243,nn,nn00890530,2024-12-25T06:37:08.775Z,"18 km NNE of Yerington, Nevada",earthquake,,0.5,0.38,4.0,automatic,nn,nn

@@ -9440,4 +9440,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.08 and occurred in/near 14 km W of Toms Place, CA on 12/25/2024 at 05:39 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 16261 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.1 and occurred in/near 13 km NNE of Four Mile Road, Alaska on 12/25/2024 at 05:59 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 16262 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.2 and occurred in/near 18 km NNE of Yerington, Nevada on 12/25/2024 at 06:35 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
