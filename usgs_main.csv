@@ -16285,3 +16285,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-25T09:26:56.234Z,60.5297,-147.6296,15.9,2.2,ml,,,,0.57,ak,ak024gjizj6f,2024-12-25T09:29:01.426Z,"55 km NNE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-25T09:47:20.998Z,61.7063,-148.8375,17.6,0.3,ml,,,,0.44,ak,ak024gjj3yhv,2024-12-25T09:48:32.741Z,"8 km SSW of Sutton-Alpine, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-25T09:42:33.345Z,32.129,-101.476,4.2895,1.0,ml,13.0,78.0,0.1,0.5,tx,tx2024zgrc,2024-12-25T09:46:12.859Z,"10 km WNW of Forsan, Texas",earthquake,0.0,1.6909937858582,0.3,8.0,automatic,tx,tx
+2024-12-25T10:11:29.574Z,39.0933,-119.0578,8.8,0.8,ml,8.0,131.71,0.077,0.0464,nn,nn00890540,2024-12-25T10:13:30.133Z,"15 km NE of Yerington, Nevada",earthquake,,0.8,0.0,1.0,automatic,nn,nn
+2024-12-25T10:05:25.520Z,38.822498321533,-122.84516906738,2.1099998950958,1.07,md,16.0,104.0,0.007944,0.05,nc,nc75107741,2024-12-25T10:07:03.379Z,"9 km NW of The Geysers, CA",earthquake,0.28,0.469999999,0.14,18.0,automatic,nc,nc
+2024-12-25T10:05:14.555Z,39.1784,-119.0556,4.2,1.0,ml,11.0,105.18,0.016,0.1821,nn,nn00890537,2024-12-25T10:07:40.928Z,"23 km NNE of Yerington, Nevada",earthquake,,0.5,0.0,1.0,automatic,nn,nn
+2024-12-25T10:01:07.950Z,38.813331604004,-122.81466674805,3.0499999523163,1.07,md,15.0,51.0,0.01067,0.02,nc,nc75107731,2024-12-25T10:02:44.495Z,"6 km NW of The Geysers, CA",earthquake,0.34,1.11000001,0.24,16.0,automatic,nc,nc
