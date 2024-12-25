@@ -16310,3 +16310,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-25T13:43:50.030Z,40.326000213623,-124.40116882324,14.170000076294,1.96,md,6.0,298.0,0.1174,0.06,nc,nc75107811,2024-12-25T13:45:23.703Z,"10 km WNW of Petrolia, CA",earthquake,5.32,2.41000009,0.14,4.0,automatic,nc,nc
 2024-12-25T13:52:29.480Z,36.1048333,-117.8991667,1.76,1.32,ml,25.0,71.0,0.03807,0.19,ci,ci40828207,2024-12-25T13:56:11.688Z,"8 km NNE of Coso Junction, CA",earthquake,0.23,0.33,0.164,23.0,automatic,ci,ci
 2024-12-25T13:35:45.050Z,18.007,-66.9421,11.0,3.06,md,15.0,131.0,0.0705,0.2,pr,pr2024360001,2024-12-25T14:08:34.840Z,"3 km NW of Fuig, Puerto Rico",earthquake,0.45,0.64,0.2,8.0,reviewed,pr,pr
+2024-12-25T14:19:52.710Z,33.9135,-117.8316667,4.54,1.46,ml,60.0,60.0,0.02774,0.23,ci,ci40828215,2024-12-25T14:24:47.830Z,"3 km NNW of Yorba Linda, CA",earthquake,0.21,0.37,0.138,30.0,automatic,ci,ci
