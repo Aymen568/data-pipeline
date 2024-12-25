@@ -16342,3 +16342,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-25T18:48:10.378Z,61.6414,-150.0499,35.8,1.7,ml,,,,0.42,ak,ak024gjoh1u5,2024-12-25T18:50:15.968Z,"11 km S of Willow, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-12-25T18:47:43.690Z,38.832832336426,-122.80300140381,1.8400000333786,0.43,md,7.0,95.0,0.01092,0.01,nc,nc75107876,2024-12-25T18:49:18.789Z,"7 km WNW of Cobb, CA",earthquake,0.43,1.11000001,0.32,7.0,automatic,nc,nc
 2024-12-25T18:42:58.940Z,33.9383333,-117.0733333,29.19,1.24,ml,14.0,168.0,0.2543,0.3,ci,ci40828255,2024-12-25T18:46:47.169Z,"6 km SSW of Calimesa, CA",earthquake,2.18,1.45,0.278,24.0,automatic,ci,ci
+2024-12-25T19:06:47.745Z,31.659,-104.459,6.7851,1.8,ml,11.0,166.0,0.0,0.3,tx,tx2024zhjl,2024-12-25T19:10:44.177Z,"57 km S of Whites City, New Mexico",earthquake,0.0,3.4824676513672,0.2,9.0,automatic,tx,tx
+2024-12-25T17:47:53.956Z,11.1993,-85.7653,94.353,4.6,mb,38.0,137.0,0.544,0.88,us,us6000pfl4,2024-12-25T19:04:41.496Z,"12 km ESE of San Juan del Sur, Nicaragua",earthquake,5.9,8.793,0.054,103.0,reviewed,us,us
