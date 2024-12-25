@@ -16283,3 +16283,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-25T07:57:43.635Z,36.4578,70.4016,210.582,4.3,mb,67.0,75.0,2.197,0.44,us,us6000pfjz,2024-12-25T09:10:58.040Z,"50 km ESE of Farkhār, Afghanistan",earthquake,6.83,7.074,0.085,39.0,reviewed,us,us
 2024-12-25T09:32:21.518Z,36.7264,-117.2521,3.7,1.4,ml,11.0,160.54,0.479,0.2442,nn,nn00890535,2024-12-25T09:34:40.891Z,"47 km NW of Furnace Creek, California",earthquake,,13.9,0.25,7.0,automatic,nn,nn
 2024-12-25T09:26:56.234Z,60.5297,-147.6296,15.9,2.2,ml,,,,0.57,ak,ak024gjizj6f,2024-12-25T09:29:01.426Z,"55 km NNE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-25T09:47:20.998Z,61.7063,-148.8375,17.6,0.3,ml,,,,0.44,ak,ak024gjj3yhv,2024-12-25T09:48:32.741Z,"8 km SSW of Sutton-Alpine, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-25T09:42:33.345Z,32.129,-101.476,4.2895,1.0,ml,13.0,78.0,0.1,0.5,tx,tx2024zgrc,2024-12-25T09:46:12.859Z,"10 km WNW of Forsan, Texas",earthquake,0.0,1.6909937858582,0.3,8.0,automatic,tx,tx
