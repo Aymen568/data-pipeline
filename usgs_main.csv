@@ -16292,3 +16292,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-25T10:22:39.321Z,39.1544,-119.0879,0.3,0.9,ml,9.0,101.75,0.041,0.1727,nn,nn00890541,2024-12-25T10:25:10.301Z,"19 km NNE of Yerington, Nevada",earthquake,,0.3,0.12,2.0,automatic,nn,nn
 2024-12-25T10:44:27.400Z,62.8942,-149.5827,74.6,2.0,ml,,,,0.54,ak,ak024gjjorg4,2024-12-25T10:46:45.369Z,"56 km NNE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-25T10:51:49.400Z,36.586833953857,-121.16850280762,8.2399997711182,1.38,md,11.0,109.0,0.02033,0.14,nc,nc75107751,2024-12-25T10:53:24.087Z,"7 km  of Pinnacles, CA",earthquake,0.62,1.17999995,0.21,8.0,automatic,nc,nc
+2024-12-25T09:20:53.240Z,19.5603,-65.691,86.0,4.1,md,17.0,239.0,1.4099,0.36,pr,pr2024360000,2024-12-25T11:15:03.853Z,"126 km N of Suárez, Puerto Rico",earthquake,3.59,8.119,0.13,12.0,reviewed,pr,pr
