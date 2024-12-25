@@ -16328,3 +16328,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-25T16:43:53.190Z,40.316833496094,-124.59400177002,18.040000915527,2.68,md,17.0,284.0,0.1944,0.06,nc,nc75107836,2024-12-25T16:45:29.491Z,"26 km W of Petrolia, CA",earthquake,1.97,0.639999986,0.19,19.0,automatic,nc,nc
 2024-12-25T16:37:50.820Z,33.8063333,-117.627,4.79,1.11,ml,28.0,62.0,0.01855,0.23,ci,ci40828239,2024-12-25T16:41:51.781Z,"9 km SW of Corona, CA",earthquake,0.28,0.46,0.324,34.0,automatic,ci,ci
 2024-12-25T12:37:42.778Z,62.4889,-149.7435,11.7,1.1,ml,,,,0.91,ak,ak024gjku53y,2024-12-25T16:46:53.765Z,"19 km ENE of Chase, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2024-12-25T16:52:26.717Z,62.6265,-150.4196,61.9,2.4,ml,,,,0.59,ak,ak024gjnb2qm,2024-12-25T16:54:06.946Z,"22 km NE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
