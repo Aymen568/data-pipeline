@@ -16355,3 +16355,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-25T20:33:13.468Z,39.0948,-119.0122,7.7,2.1,ml,21.0,69.69,0.077,0.1489,nn,nn00890553,2024-12-25T20:35:41.525Z,"17 km NE of Yerington, Nevada",earthquake,,0.7,0.3,11.0,automatic,nn,nn
 2024-12-25T20:26:51.355Z,63.2347,-150.4512,121.3,2.4,ml,,,,0.55,ak,ak024gjpjafa,2024-12-25T20:28:53.546Z,"72 km ESE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-25T16:09:53.004Z,-34.2819,-178.3026,10.0,4.8,mb,25.0,122.0,4.276,0.99,us,us6000pfkw,2024-12-25T20:28:09.040Z,south of the Kermadec Islands,earthquake,11.46,1.952,0.131,18.0,reviewed,us,us
+2024-12-25T21:09:41.008Z,60.5641,-147.6825,18.8,2.0,ml,,,,0.65,ak,ak024gjq1238,2024-12-25T21:11:30.611Z,"58 km NNE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-25T21:02:03.260Z,37.542999267578,-118.81316375732,-2.3199999332428,0.51,md,9.0,209.0,0.04863,0.19,nc,nc75107941,2024-12-25T21:03:40.162Z,"12 km W of Toms Place, CA",earthquake,1.35,1.41999996,0.09,6.0,automatic,nc,nc
+2024-12-25T20:38:58.050Z,18.056166666667,-66.831166666667,23.21,2.01,md,9.0,110.0,0.09051,0.1,pr,pr71469393,2024-12-25T21:05:49.630Z,"3 km NE of Yauco, Puerto Rico",earthquake,0.4,0.92,0.0099834137170065,4.0,reviewed,pr,pr
