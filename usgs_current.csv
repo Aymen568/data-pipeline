@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-26T22:43:52.070Z,36.29033279419,-119.67883300781,18.930000305176,2.82,md,26,53,0.1214,0.29,nc,nc75108326,2024-12-26T22:45:28.980Z,"4 km SE of Armona, CA",earthquake,0.48,0.629999995,0.23,23,automatic,nc,nc
 2024-12-26T22:23:34.810Z,38.823165893555,-122.84233093262,1.6900000572205,0.68,md,15,73,0.005703,0.01,nc,nc75108321,2024-12-26T22:25:12.821Z,"9 km NW of The Geysers, CA",earthquake,0.24,0.460000008,0.16,16,automatic,nc,nc
 2024-12-26T22:20:53.041Z,60.4528,-151.9783,79.9,1.7,ml,,,,0.18,ak,ak024gle87zs,2024-12-26T22:22:12.859Z,"38 km W of Kalifornsky, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-12-26T22:20:45.736Z,62.9467,-149.4641,60,1.5,ml,,,,0.26,ak,ak024gle87fh,2024-12-26T22:22:15.235Z,"55 km SSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -189,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-25T23:10:39.666Z,31.697,-104.506,6.0999,1.9,ml,22,66,0,0.2,tx,tx2024zhrm,2024-12-26T13:07:40.900Z,"54 km SSW of Whites City, New Mexico",earthquake,0.88783213438062,0.5921467170238,0.2,14,reviewed,tx,tx
 2024-12-25T23:06:36.350Z,60.044,-153.03366666667,0.98,-0.57,ml,4,212,0.02012,0.07,av,av93426141,2024-12-26T19:45:30.420Z,"66 km ENE of Pedro Bay, Alaska",earthquake,0.91,0.34,0.24811405849472,4,reviewed,av,av
 2024-12-25T22:59:53.286Z,61.0201,-151.4195,62.3,2,ml,,,,0.25,ak,ak024gjqx8g0,2024-12-25T23:01:38.315Z,"16 km WSW of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2024-12-25T22:51:59.914Z,37.3634,-117.2094,0.1,0.5,ml,9,145.34,0.075,0.3616,nn,nn00890576,2024-12-25T22:54:36.987Z,"38 km S of Goldfield, Nevada",earthquake,,13.6,0.01,2,automatic,nn,nn

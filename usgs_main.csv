@@ -16566,3 +16566,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-26T22:20:53.041Z,60.4528,-151.9783,79.9,1.7,ml,,,,0.18,ak,ak024gle87zs,2024-12-26T22:22:12.859Z,"38 km W of Kalifornsky, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-12-26T22:20:45.736Z,62.9467,-149.4641,60.0,1.5,ml,,,,0.26,ak,ak024gle87fh,2024-12-26T22:22:15.235Z,"55 km SSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-12-26T00:55:41.380Z,61.342166666667,-152.28733333333,5.15,-0.72,ml,5.0,196.0,0.09289,0.1,av,av93426216,2024-12-26T22:38:40.630Z,"68 km WNW of Beluga, Alaska",earthquake,1.61,4.56,0.23302272927376,5.0,reviewed,av,av
+2024-12-26T22:43:52.070Z,36.29033279419,-119.67883300781,18.930000305176,2.82,md,26.0,53.0,0.1214,0.29,nc,nc75108326,2024-12-26T22:45:28.980Z,"4 km SE of Armona, CA",earthquake,0.48,0.629999995,0.23,23.0,automatic,nc,nc
