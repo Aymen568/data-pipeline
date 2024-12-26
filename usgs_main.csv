@@ -16510,3 +16510,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-26T12:50:14.000Z,44.3245,-115.19316666667,4.2,1.88,ml,12.0,72.0,0.3312,0.27,mb,mb90069578,2024-12-26T15:55:46.910Z,"23 km WNW of Stanley, Idaho",earthquake,0.88,1.89,0.21114686051513,14.0,reviewed,mb,mb
 2024-12-26T16:33:10.940Z,38.831832885742,-122.81649780273,1.539999961853,0.74,md,9.0,83.0,0.009806,0.01,nc,nc75108236,2024-12-26T16:34:47.190Z,"8 km NNW of The Geysers, CA",earthquake,0.34,1.71000004,0.29,12.0,automatic,nc,nc
 2024-12-26T16:21:28.468Z,59.0774,-153.9781,121.2,2.3,ml,,,,0.34,ak,ak024glans7a,2024-12-26T16:23:22.314Z,"60 km SE of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-12-26T17:02:25.380Z,33.172,-116.0321667,6.55,0.94,ml,37.0,33.0,0.04567,0.21,ci,ci40828527,2024-12-26T17:06:58.027Z,"10 km ENE of Ocotillo Wells, CA",earthquake,0.23,0.63,0.151,15.0,automatic,ci,ci
+2024-12-26T16:53:37.050Z,38.833499908447,-122.81466674805,1.8999999761581,1.08,md,17.0,55.0,0.01071,0.01,nc,nc75108241,2024-12-26T16:55:12.347Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.689999998,0.32,19.0,automatic,nc,nc
+2024-12-26T16:52:47.344Z,59.7035,-139.3924,8.6,2.5,ml,,,,0.72,ak,ak024glaugu6,2024-12-26T16:54:56.339Z,"25 km NE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-26T13:28:16.801Z,36.8092,-113.476,13.4,1.2,ml,8.0,189.61,0.275,0.1566,nn,nn00890593,2024-12-26T17:03:55.283Z,"34 km SSE of Saint George, Utah",earthquake,,4.3,0.4,5.0,reviewed,nn,nn
+2024-12-26T01:56:20.810Z,44.9265,-111.76416666667,15.49,1.31,ml,23.0,55.0,0.07153,0.14,mb,mb90069598,2024-12-26T17:05:22.780Z,"43 km SSE of Virginia City, Montana",earthquake,0.26,0.46,0.16628483695912,18.0,reviewed,mb,mb
