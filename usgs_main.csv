@@ -16562,3 +16562,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-26T21:32:14.190Z,37.650833129883,-122.06733703613,4.1399998664856,1.27,md,7.0,116.0,0.08401,0.02,nc,nc75108306,2024-12-26T21:33:53.352Z,"1 km ENE of Hayward, CA",earthquake,0.34,0.910000026,0.03,3.0,automatic,nc,nc
 2024-12-26T21:44:06.230Z,59.005,-153.0563,32.8,2.2,ml,,,,0.43,ak,ak024gldrtyn,2024-12-26T21:46:23.671Z,"75 km WSW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-26T22:02:12.440Z,38.782333374023,-122.76599884033,3.3399999141693,1.68,md,35.0,72.0,0.0116,0.05,nc,nc75108311,2024-12-26T22:05:26.940Z,"1 km NW of The Geysers, CA",earthquake,0.24,0.400000006,0.14,36.0,automatic,nc,nc
+2024-12-26T22:23:34.810Z,38.823165893555,-122.84233093262,1.6900000572205,0.68,md,15.0,73.0,0.005703,0.01,nc,nc75108321,2024-12-26T22:25:12.821Z,"9 km NW of The Geysers, CA",earthquake,0.24,0.460000008,0.16,16.0,automatic,nc,nc
+2024-12-26T22:20:53.041Z,60.4528,-151.9783,79.9,1.7,ml,,,,0.18,ak,ak024gle87zs,2024-12-26T22:22:12.859Z,"38 km W of Kalifornsky, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-12-26T22:20:45.736Z,62.9467,-149.4641,60.0,1.5,ml,,,,0.26,ak,ak024gle87fh,2024-12-26T22:22:15.235Z,"55 km SSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
