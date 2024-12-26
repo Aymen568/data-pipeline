@@ -9712,4 +9712,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.47 and occurred in/near 13 km W of Mojave, CA on 12/26/2024 at 08:45 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 16556 recorded earthquakes.
 The most recent earthquake had a magnitude of 0.55 and occurred in/near 14 km SE of Anza, CA on 12/26/2024 at 08:58 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 16560 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.17 and occurred in/near 11 km NNE of Cabazon, CA on 12/26/2024 at 09:18 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
