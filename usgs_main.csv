@@ -16460,3 +16460,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-26T10:54:26.347Z,60.9348,-147.621,25.3,2.1,ml,,,,1.04,ak,ak024gl7a90r,2024-12-26T10:57:40.604Z,"51 km W of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-26T10:52:04.070Z,32.7401667,-115.3325,16.94,1.34,ml,15.0,257.0,0.1162,0.26,ci,ci40828423,2024-12-26T10:56:09.342Z,"9 km SSE of Holtville, CA",earthquake,1.22,1.01,0.213,18.0,automatic,ci,ci
 2024-12-26T11:14:20.430Z,35.955,-117.6861667,2.27,1.66,ml,29.0,39.0,0.02989,0.18,ci,ci40828455,2024-12-26T11:17:57.971Z,"20 km E of Little Lake, CA",earthquake,0.2,0.32,0.234,25.0,automatic,ci,ci
+2024-12-26T11:30:54.869Z,60.0309,-151.723,43.7,1.9,ml,,,,0.67,ak,ak024gl7qln2,2024-12-26T11:33:06.900Z,"3 km SW of Ninilchik, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2024-12-26T11:28:02.841Z,61.5895,-148.2652,20.8,1.4,ml,,,,0.28,ak,ak024gl7q270,2024-12-26T11:29:30.146Z,"25 km SSE of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
