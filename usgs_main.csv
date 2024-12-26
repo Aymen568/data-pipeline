@@ -16401,3 +16401,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-26T03:24:24.705Z,63.4005,-151.0573,27.3,2.0,ml,,,,1.04,ak,ak024gl2xs6e,2024-12-26T03:29:59.789Z,"36 km ESE of Denali National Park, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2024-12-26T03:53:46.860Z,38.802333831787,-122.80966949463,0.99000000953674,0.85,md,15.0,62.0,0.01256,0.02,nc,nc75108031,2024-12-26T03:55:21.878Z,"5 km NW of The Geysers, CA",earthquake,0.2,0.5,0.18,16.0,automatic,nc,nc
 2024-12-26T03:31:06.319Z,31.69,-104.36,6.6624,1.7,ml,18.0,67.0,0.1,0.4,tx,tx2024ziae,2024-12-26T03:50:12.950Z,"53 km S of Whites City, New Mexico",earthquake,0.0,2.5417504310608,0.2,13.0,automatic,tx,tx
+2024-12-26T03:50:13.327Z,31.63,-104.467,4.3707,1.8,ml,13.0,121.0,0.0,0.2,tx,tx2024zias,2024-12-26T04:21:44.154Z,"61 km S of Whites City, New Mexico",earthquake,0.0,1.9193264245987,0.1,11.0,automatic,tx,tx
