@@ -16523,3 +16523,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-25T21:06:36.900Z,51.918833333333,179.61433333333,6.86,1.45,ml,5.0,133.0,0.01415,0.17,av,av93426061,2024-12-26T17:14:14.240Z,"258 km W of Adak, Alaska",earthquake,0.68,0.99,0.30114090393597,5.0,reviewed,av,av
 2024-12-26T17:31:00.222Z,63.2192,-150.3968,108.4,2.6,ml,,,,0.55,ak,ak024glbb7nq,2024-12-26T17:33:13.956Z,"75 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-26T17:45:45.692Z,59.3996,-154.1662,7.8,2.1,ml,,,,0.29,ak,ak024glbeeax,2024-12-26T17:47:21.982Z,"25 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-26T17:59:43.887Z,37.2998,-117.1446,3.6,1.1,ml,13.0,298.66,0.331,0.3053,nn,nn00890604,2024-12-26T18:02:11.001Z,"46 km S of Goldfield, Nevada",earthquake,,10.6,0.48,8.0,automatic,nn,nn
+2024-12-26T16:28:59.217Z,9.0593,39.9837,10.0,4.5,mb,19.0,126.0,3.737,1.05,us,us6000pfqt,2024-12-26T17:57:23.269Z,"19 km NNE of Metahāra, Ethiopia",earthquake,13.73,1.952,0.171,12.0,reviewed,us,us
+2024-12-26T07:35:10.970Z,44.701666666667,-114.2415,4.38,1.32,ml,12.0,68.0,0.35,0.19,mb,mb90069633,2024-12-26T18:07:04.330Z,"21 km N of Challis, Idaho",earthquake,0.61,6.16,0.20196398142795,16.0,reviewed,mb,mb
+2024-12-25T21:56:21.900Z,46.156666666667,-111.49516666667,2.78,0.78,ml,8.0,99.0,0.1974,0.11,mb,mb90069628,2024-12-26T17:57:36.730Z,"4 km WSW of Toston, Montana",earthquake,0.38,1.42,0.20444189238965,7.0,reviewed,mb,mb
