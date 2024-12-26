@@ -16431,3 +16431,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-26T07:08:31.170Z,64.7354,-151.3035,2.1,2.0,ml,,,,0.67,ak,ak024gl583n1,2024-12-26T07:11:12.531Z,"43 km SW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-26T07:24:40.749Z,39.1383,-119.0716,7.1,1.4,ml,10.0,127.03,0.04,0.058,nn,nn00890585,2024-12-26T07:26:45.119Z,"18 km NNE of Yerington, Nevada",earthquake,,0.8,0.46,4.0,automatic,nn,nn
 2024-12-26T07:17:32.696Z,31.595,-104.53,3.6274,1.6,ml,7.0,154.0,0.1,0.1,tx,tx2024zihn,2024-12-26T07:20:09.693Z,"66 km SSW of Whites City, New Mexico",earthquake,0.0,2.9643156528473,0.1,7.0,automatic,tx,tx
+2024-12-26T07:37:34.543Z,57.5923,-155.7329,95.2,1.9,ml,,,,0.04,ak,ak024gl5ebny,2024-12-26T07:39:45.222Z,"76 km W of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2024-12-26T07:28:14.825Z,32.482,-101.654,3.879,0.9,ml,22.0,44.0,0.1,0.5,tx,tx2024zihw,2024-12-26T07:33:47.771Z,"7 km SE of Ackerly, Texas",earthquake,0.0,1.1494015455246,0.2,13.0,automatic,tx,tx
