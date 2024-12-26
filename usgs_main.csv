@@ -16474,3 +16474,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-26T12:56:02.150Z,38.791332244873,-122.76132965088,1.3300000429153,2.0,md,41.0,44.0,0.009365,0.06,nc,nc75108166,2024-12-26T13:07:18.020Z,"2 km  of The Geysers, CA",earthquake,0.17,0.25999999,0.11,40.0,automatic,nc,nc
 2024-12-26T12:51:25.760Z,38.830833435059,-122.81800079346,1.3400000333786,0.8,md,10.0,79.0,0.01537,0.02,nc,nc75108161,2024-12-26T12:53:02.689Z,"8 km NNW of The Geysers, CA",earthquake,0.35,1.13999999,0.16,11.0,automatic,nc,nc
 2024-12-25T20:03:21.918Z,31.5884,-104.5634,5.128,2.5,mb_lg,14.0,189.0,0.096,0.55,us,us6000pfli,2024-12-26T12:49:20.419Z,"65 km NNE of Van Horn, Texas",earthquake,1.54,5.803,0.124,17.0,reviewed,us,us
+2024-12-26T13:26:17.231Z,60.4111,-143.2348,20.0,1.8,ml,,,,0.29,ak,ak024gl8wj2z,2024-12-26T13:28:09.758Z,"115 km S of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-26T13:21:49.830Z,34.0371667,-117.2156667,4.34,1.07,ml,56.0,22.0,0.08395,0.19,ci,ci40828471,2024-12-26T13:26:20.209Z,"4 km SW of Redlands, CA",earthquake,0.16,0.45,0.198,27.0,automatic,ci,ci
+2024-12-26T13:18:53.625Z,61.0446,-148.9817,19.7,1.9,ml,,,,0.62,ak,ak024gl8uw5u,2024-12-26T13:21:12.882Z,"15 km NE of Girdwood, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-26T13:17:04.400Z,40.316165924072,-124.43800354004,10.069999694824,2.51,md,7.0,300.0,0.07805,0.05,nc,nc75108171,2024-12-26T13:22:15.135Z,"13 km W of Petrolia, CA",earthquake,3.13,1.09000003,0.21,6.0,automatic,nc,nc
+2024-12-26T13:15:28.582Z,60.6839,-151.74,73.8,1.6,ml,,,,0.28,ak,ak024gl8u72y,2024-12-26T13:17:36.940Z,"24 km WNW of Salamatof, Alaska",earthquake,,1.3,,,automatic,ak,ak
