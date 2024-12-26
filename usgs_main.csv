@@ -16418,3 +16418,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-26T05:20:00.150Z,38.836833953857,-122.8004989624,2.0499999523163,0.7,md,11.0,64.0,0.008085,0.01,nc,nc75108061,2024-12-26T05:21:35.710Z,"7 km WNW of Cobb, CA",earthquake,0.39,0.910000026,0.36,11.0,automatic,nc,nc
 2024-12-26T05:18:08.092Z,60.4459,-143.2243,16.1,2.1,ml,,,,0.66,ak,ak024gl43bt5,2024-12-26T05:19:55.690Z,"111 km S of McCarthy, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-12-25T09:18:57.399Z,51.4193,-175.908,35.0,3.9,mb,41.0,207.0,0.541,0.67,us,us6000pfkz,2024-12-26T05:18:14.040Z,"71 km SE of Adak, Alaska",earthquake,4.06,2.002,0.142,13.0,reviewed,us,us
+2024-12-26T06:15:41.940Z,38.827835083008,-122.80400085449,1.4700000286102,1.26,md,23.0,37.0,0.006493,0.01,nc,nc75108081,2024-12-26T06:17:15.901Z,"7 km NNW of The Geysers, CA",earthquake,0.18,0.389999986,0.2,25.0,automatic,nc,nc
+2024-12-26T06:11:47.410Z,33.459,-116.5978333,10.84,2.44,ml,106.0,22.0,0.03579,0.2,ci,ci40828383,2024-12-26T06:16:29.726Z,"13 km SSE of Anza, CA",earthquake,0.11,0.34,0.275,25.0,automatic,ci,ci
+2024-12-26T06:01:57.024Z,32.241,-101.272,3.8257,1.1,ml,5.0,126.0,0.1,0.1,tx,tx2024zifc,2024-12-26T06:17:09.257Z,"6 km SSE of Coahoma, Texas",earthquake,0.0,2.7519826889038,0.2,5.0,automatic,tx,tx
+2024-12-26T05:57:03.069Z,31.711,-104.618,3.1338,1.9,ml,7.0,215.0,0.1,0.1,tx,tx2024ziex,2024-12-26T06:00:08.939Z,"56 km SSW of Whites City, New Mexico",earthquake,0.0,2.8459594249725,0.2,7.0,automatic,tx,tx
+2024-12-26T05:55:25.373Z,6.4497,126.0366,68.796,4.6,mb,28.0,111.0,0.765,0.72,us,us6000pfnl,2024-12-26T06:13:05.040Z,"8 km WSW of Tiblawan, Philippines",earthquake,7.81,8.56,0.122,20.0,reviewed,us,us
