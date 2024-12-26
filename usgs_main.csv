@@ -16393,3 +16393,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-26T02:27:24.240Z,32.9105,-115.7301667,6.74,1.18,ml,30.0,64.0,0.05982,0.21,ci,ci40828343,2024-12-26T02:31:02.603Z,"17 km WNW of Imperial, CA",earthquake,0.26,0.52,0.15,20.0,automatic,ci,ci
 2024-12-26T02:17:09.890Z,33.1675,-116.037,5.91,1.07,ml,28.0,145.0,0.05006,0.19,ci,ci40828335,2024-12-26T02:21:41.460Z,"9 km ENE of Ocotillo Wells, CA",earthquake,0.52,1.36,0.139,29.0,automatic,ci,ci
 2024-12-26T02:15:57.180Z,17.792666666667,-66.9085,36.04,3.0,md,17.0,241.0,0.1786,0.23,pr,pr71469408,2024-12-26T02:48:18.370Z,"19 km S of Guánica, Puerto Rico",earthquake,0.79,0.87,0.16856178439476,13.0,reviewed,pr,pr
+2024-12-26T03:17:11.311Z,58.1306,-154.6569,7.8,1.0,ml,,,,0.13,ak,ak024gl2w94r,2024-12-26T03:19:14.613Z,"63 km N of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-12-26T03:13:51.450Z,37.2936,-117.0008,4.1,0.2,ml,7.0,214.6,0.455,0.1294,nn,nn00890577,2024-12-26T03:15:52.924Z,"47 km NNW of Beatty, Nevada",earthquake,,2.8,0.38,4.0,automatic,nn,nn
+2024-12-26T03:12:52.568Z,61.6013,-150.9685,67.4,1.6,ml,,,,0.34,ak,ak024gl2v9qg,2024-12-26T03:15:00.825Z,"25 km WNW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-12-26T03:06:55.300Z,38.758335113525,-122.85483551025,21.729999542236,1.07,md,6.0,207.0,0.04186,0.22,nc,nc75108026,2024-12-26T03:08:31.709Z,"9 km W of The Geysers, CA",earthquake,9.85,8.60999966,0.73,3.0,automatic,nc,nc
