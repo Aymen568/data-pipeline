@@ -16406,3 +16406,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-26T04:12:40.470Z,18.223333333333,-66.426333333333,65.02,2.78,md,10.0,166.0,0.2072,0.27,pr,pr71469433,2024-12-26T04:35:19.300Z,"3 km W of Orocovis, Puerto Rico",earthquake,2.29,1.52,0.10197077557105,5.0,reviewed,pr,pr
 2024-12-26T03:41:04.220Z,19.5616,-65.5923,87.0,4.01,md,18.0,241.0,1.2917,0.47,pr,pr2024361000,2024-12-26T04:37:17.040Z,"128 km NNE of Suárez, Puerto Rico",earthquake,4.28,9.62,0.11,15.0,reviewed,pr,pr
 2024-12-26T04:41:15.630Z,34.0888333,-116.4175,10.02,1.22,ml,48.0,30.0,0.03005,0.16,ci,ci40828359,2024-12-26T04:45:55.697Z,"3 km SSE of Yucca Valley, CA",earthquake,0.15,0.32,0.192,29.0,automatic,ci,ci
+2024-12-26T05:06:55.229Z,63.4182,-151.1941,3.4,2.1,ml,,,,0.67,ak,ak024gl40uuq,2024-12-26T05:09:31.328Z,"29 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-26T05:05:56.000Z,38.2063331604,-122.17183685303,8.0299997329712,1.64,md,15.0,102.0,0.02709,0.13,nc,nc75108056,2024-12-26T05:08:36.708Z,"5 km SSW of Green Valley, CA",earthquake,0.57,0.829999983,0.05,14.0,automatic,nc,nc
+2024-12-26T05:04:28.739Z,64.7303,-148.9512,14.7,1.4,ml,,,,0.16,ak,ak024gl40ddl,2024-12-26T05:05:50.504Z,"16 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-26T04:54:20.452Z,31.642,-104.283,4.5382,1.9,ml,18.0,68.0,0.0,0.2,tx,tx2024zicv,2024-12-26T05:06:03.425Z,"59 km NW of Toyah, Texas",earthquake,0.0,1.3018091917038,0.1,14.0,automatic,tx,tx
+2024-12-26T04:52:27.437Z,60.4522,-143.2178,17.5,3.6,ml,,,,0.36,ak,ak024gl3p81j,2024-12-26T05:07:56.040Z,"110 km S of McCarthy, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2024-12-26T04:49:57.130Z,35.4418333,-118.6581667,5.69,1.63,ml,30.0,37.0,0.1003,0.16,ci,ci40828367,2024-12-26T04:53:32.513Z,"22 km SW of Bodfish, CA",earthquake,0.18,1.07,0.27,27.0,automatic,ci,ci
+2024-12-26T04:19:24.080Z,18.112666666667,-66.113666666667,26.41,2.24,md,13.0,148.0,0.03474,0.1,pr,pr71469438,2024-12-26T04:55:39.120Z,"1 km SSW of G. L. Garcia, Puerto Rico",earthquake,0.49,0.56,0.1946806472945,6.0,reviewed,pr,pr
