@@ -16389,3 +16389,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-26T01:06:30.737Z,61.4892,-149.7853,34.1,2.0,ml,,,,0.32,ak,ak024gl1n2jl,2024-12-26T01:08:48.685Z,"4 km NW of Knik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-26T01:01:03.837Z,32.295,-101.826,4.1804,1.5,ml,55.0,33.0,0.0,0.4,tx,tx2024zhvd,2024-12-26T01:15:54.502Z,"18 km N of Stanton, Texas",earthquake,0.0,0.75286859273911,0.2,33.0,automatic,tx,tx
 2024-12-26T00:52:42.394Z,7.4255,-75.3359,70.0,5.0,mww,69.0,43.0,1.751,1.15,us,us6000pfmi,2024-12-26T02:11:53.826Z,"15 km NNE of Valdivia, Colombia",earthquake,5.24,1.539,0.098,10.0,reviewed,us,us
+2024-12-26T02:49:40.558Z,60.2788,-150.8661,66.1,1.9,ml,,,,0.36,ak,ak024gl2hqp3,2024-12-26T02:51:38.895Z,"23 km ESE of Kasilof, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-12-26T02:27:24.240Z,32.9105,-115.7301667,6.74,1.18,ml,30.0,64.0,0.05982,0.21,ci,ci40828343,2024-12-26T02:31:02.603Z,"17 km WNW of Imperial, CA",earthquake,0.26,0.52,0.15,20.0,automatic,ci,ci
+2024-12-26T02:17:09.890Z,33.1675,-116.037,5.91,1.07,ml,28.0,145.0,0.05006,0.19,ci,ci40828335,2024-12-26T02:21:41.460Z,"9 km ENE of Ocotillo Wells, CA",earthquake,0.52,1.36,0.139,29.0,automatic,ci,ci
+2024-12-26T02:15:57.180Z,17.792666666667,-66.9085,36.04,3.0,md,17.0,241.0,0.1786,0.23,pr,pr71469408,2024-12-26T02:48:18.370Z,"19 km S of Guánica, Puerto Rico",earthquake,0.79,0.87,0.16856178439476,13.0,reviewed,pr,pr
