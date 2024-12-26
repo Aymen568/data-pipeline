@@ -16537,3 +16537,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-26T18:49:26.470Z,38.79033279419,-122.81449890137,3.6800000667572,0.63,md,10.0,135.0,0.02097,0.07,nc,nc75108261,2024-12-26T18:51:02.825Z,"5 km WNW of The Geysers, CA",earthquake,0.71,1.23000002,0.32,10.0,automatic,nc,nc
 2024-12-26T18:47:52.570Z,38.81266784668,-122.81050109863,1.3899999856949,0.43,md,7.0,106.0,0.01072,0.04,nc,nc75108256,2024-12-26T18:49:28.453Z,"6 km NW of The Geysers, CA",earthquake,0.57,1.38,0.16,7.0,automatic,nc,nc
 2024-12-26T18:24:50.134Z,-22.3586,173.246,35.0,4.6,mb,25.0,135.0,5.369,0.67,us,us6000pfre,2024-12-26T18:48:18.040Z,southeast of the Loyalty Islands,earthquake,11.87,1.962,0.125,20.0,reviewed,us,us
+2024-12-26T19:05:48.120Z,32.003,-102.219,4.8819,2.0,ml,6.0,154.0,0.0,0.4,tx,tx2024zjex,2024-12-26T19:16:32.536Z,"13 km W of Midland, Texas",earthquake,0.0,2.2254939079285,0.2,7.0,automatic,tx,tx
+2024-12-26T18:57:37.714Z,63.3254,-150.0495,93.2,1.9,ml,,,,0.4,ak,ak024glc2dxe,2024-12-26T19:00:14.000Z,"55 km W of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
