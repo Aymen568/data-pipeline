@@ -16550,3 +16550,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-26T20:15:46.356Z,57.0993,-155.2558,5.7,2.8,ml,,,,0.5,ak,ak024gld09or,2024-12-26T20:17:35.047Z,"68 km WNW of Akhiok, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-26T19:57:59.304Z,-2.6285,99.7137,10.0,4.6,mb,33.0,181.0,3.665,0.38,us,us6000pfrq,2024-12-26T20:17:54.040Z,"67 km SSE of Tuapejat, Indonesia",earthquake,7.37,1.931,0.119,21.0,reviewed,us,us
 2024-12-26T00:48:58.860Z,61.318833333333,-152.238,-3.16,-0.43,ml,6.0,202.0,0.06687,0.16,av,av93426211,2024-12-26T20:16:24.740Z,"65 km WNW of Beluga, Alaska",earthquake,0.76,2.23,0.12522142774846,6.0,reviewed,av,av
+2024-12-26T20:45:13.720Z,35.0433333,-118.3201667,4.97,1.47,ml,44.0,40.0,0.05546,0.25,ci,ci40828599,2024-12-26T20:50:19.159Z,"13 km W of Mojave, CA",earthquake,0.29,0.82,0.147,30.0,automatic,ci,ci
