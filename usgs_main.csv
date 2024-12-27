@@ -16824,3 +16824,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-27T21:10:13.786Z,31.782,-102.007,4.48,1.2,ml,18.0,67.0,0.1,0.4,tx,tx2024zlen,2024-12-27T21:20:56.830Z,"24 km SSE of Midland, Texas",earthquake,0.0,1.474311709404,0.1,11.0,automatic,tx,tx
 2024-12-27T21:03:20.540Z,38.794334411621,-122.75450134277,0.81000000238419,1.01,md,5.0,102.0,0.007486,0.01,nc,nc75108681,2024-12-27T21:04:55.804Z,"2 km NNE of The Geysers, CA",earthquake,0.4,0.910000026,0.26,8.0,automatic,nc,nc
 2024-12-27T05:10:42.130Z,58.037,-155.2675,7.48,0.17,ml,7.0,218.0,0.02427,0.16,av,av93427326,2024-12-27T21:03:18.900Z,"71 km NW of Karluk, Alaska",earthquake,0.53,0.71,0.22330268727857,7.0,reviewed,av,av
+2024-12-27T21:21:13.226Z,61.1073,-151.2951,57.6,1.8,ml,,,,0.63,ak,ak024gn169iy,2024-12-27T21:23:23.441Z,"9 km WNW of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-12-27T21:19:29.418Z,63.4974,-147.8457,91.1,1.4,ml,,,,0.16,ak,ak024gn15vcd,2024-12-27T21:21:01.440Z,"56 km ENE of Cantwell, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2024-12-27T06:03:52.420Z,58.354833333333,-154.83183333333,3.23,0.17,ml,10.0,170.0,0.03251,0.13,av,av93427356,2024-12-27T21:22:34.240Z,"90 km NNW of Karluk, Alaska",earthquake,0.45,0.63,0.20853546093925,10.0,reviewed,av,av
