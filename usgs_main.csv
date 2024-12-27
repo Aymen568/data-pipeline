@@ -16770,3 +16770,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-27T16:55:53.103Z,35.3371,140.5967,42.201,4.6,mb,32.0,125.0,2.28,0.86,us,us6000pfy9,2024-12-27T17:12:20.040Z,"20 km E of Ichinomiya, Japan",earthquake,8.2,8.046,0.112,24.0,reviewed,us,us
 2024-12-27T10:57:33.990Z,44.734166666667,-111.74216666667,11.61,0.75,ml,9.0,111.0,0.05468,0.08,mb,mb90069703,2024-12-27T17:08:27.370Z,"43 km W of Hebgen Lake Estates, Montana",earthquake,0.89,0.41,0.32253052934348,7.0,reviewed,mb,mb
 2024-12-26T18:28:31.710Z,46.890333333333,-112.53033333333,10.7,0.91,ml,9.0,126.0,0.05917,0.03,mb,mb90069708,2024-12-27T17:21:00.620Z,"13 km ESE of Lincoln, Montana",earthquake,0.31,0.57,0.30778467066706,6.0,reviewed,mb,mb
+2024-12-27T15:46:45.871Z,43.0384,146.866,42.17,4.6,mb,49.0,170.0,2.926,1.03,us,us6000pfxu,2024-12-27T17:33:22.040Z,"85 km S of Shikotan, Russia",earthquake,9.77,8.098,0.065,71.0,reviewed,us,us
+2024-12-27T13:41:46.344Z,39.1607,-119.0506,1.6,2.1,ml,9.0,49.33,0.012,0.1705,nn,nn00890657,2024-12-27T17:33:15.164Z,"21 km NNE of Yerington, Nevada",earthquake,,4.3,0.13,2.0,reviewed,nn,nn
