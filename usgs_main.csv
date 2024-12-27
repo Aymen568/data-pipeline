@@ -16670,3 +16670,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-27T07:13:51.420Z,38.815166473389,-122.80383300781,2.4100000858307,1.08,md,7.0,167.0,0.009554,0.02,nc,nc75108471,2024-12-27T07:15:29.347Z,"6 km NNW of The Geysers, CA",earthquake,0.82,1.24000001,0.28,9.0,automatic,nc,nc
 2024-12-27T07:12:32.894Z,60.1778,-151.6958,64.5,3.7,ml,,,,0.41,ak,ak024gmssb5w,2024-12-27T07:21:55.477Z,"14 km N of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-27T07:00:41.083Z,31.657,-104.438,3.8571,1.7,ml,20.0,100.0,0.0,0.3,tx,tx2024zkcm,2024-12-27T07:21:53.123Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.3547430038452,0.1,16.0,automatic,tx,tx
+2024-12-27T07:35:14.222Z,32.429,-102.083,5.2583,1.2,ml,26.0,142.0,0.0,0.5,tx,tx2024zkdp,2024-12-27T07:49:11.265Z,"35 km SSW of Los Ybanez, Texas",earthquake,0.0,1.3950200080872,0.2,17.0,automatic,tx,tx
