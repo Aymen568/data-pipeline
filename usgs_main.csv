@@ -16638,3 +16638,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-27T04:13:23.341Z,31.652,-104.354,4.5022,1.9,ml,18.0,70.0,0.1,0.3,tx,tx2024zjwz,2024-12-27T04:22:08.594Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.2995260953903,0.2,14.0,automatic,tx,tx
 2024-12-26T20:44:31.380Z,58.125,-155.19933333333,4.53,0.01,ml,12.0,132.0,0.02124,0.15,av,av93426956,2024-12-27T04:34:37.890Z,"76 km NW of Karluk, Alaska",earthquake,0.27,0.51,0.47845381461166,12.0,reviewed,av,av
 2024-12-26T20:37:27.930Z,54.117,-165.98583333333,3.24,-0.57,ml,4.0,206.0,0.01651,0.04,av,av93029254,2024-12-27T04:30:46.680Z,"13 km W of Akutan, Alaska",earthquake,0.39,0.37,0.182847718945,4.0,reviewed,av,av
+2024-12-27T04:42:26.062Z,60.1675,-141.3914,12.3,1.9,ml,,,,0.71,ak,ak024gmr6f9q,2024-12-27T04:43:54.156Z,"116 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-27T04:37:27.540Z,39.1228,-119.0784,0.1,1.4,ml,8.0,122.66,0.055,0.2904,nn,nn00890633,2024-12-27T04:40:49.421Z,"16 km NNE of Yerington, Nevada",earthquake,,0.4,0.69,3.0,automatic,nn,nn
+2024-12-27T04:33:33.295Z,62.1551,-148.0014,34.9,1.7,ml,,,,0.61,ak,ak024gmr4idt,2024-12-27T04:36:01.227Z,"42 km NNW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
