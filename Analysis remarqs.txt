@@ -9796,4 +9796,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.4 and occurred in/near 6 km ESE of Tyonek, Alaska on 12/27/2024 at 10:27 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 16695 recorded earthquakes.
 The most recent earthquake had a magnitude of 0.55 and occurred in/near 3 km NW of The Geysers, CA on 12/27/2024 at 10:45 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 16698 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.5 and occurred in/near 15 km NE of Yerington, Nevada on 12/27/2024 at 11:03 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
