@@ -16775,3 +16775,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-27T17:52:10.126Z,31.55,-104.033,6.5917,1.9,ml,16.0,87.0,0.0,0.2,tx,tx2024zkxz,2024-12-27T17:55:59.936Z,"34 km NW of Toyah, Texas",earthquake,0.0,2.6480522155762,0.1,12.0,automatic,tx,tx
 2024-12-27T17:49:19.680Z,36.93399810791,-121.43166351318,8.1099996566772,2.11,md,31.0,59.0,0.06911,0.11,nc,nc75108626,2024-12-27T17:52:24.010Z,"10 km  of Hollister, CA",earthquake,0.22,0.620000005,0.09,34.0,automatic,nc,nc
 2024-12-27T17:47:47.500Z,34.024,-117.595,3.04,1.72,ml,75.0,22.0,0.01373,0.18,ci,ci40829031,2024-12-27T17:54:04.614Z,"4 km SE of Ontario, CA",earthquake,0.11,0.14,0.126,27.0,automatic,ci,ci
+2024-12-27T18:23:54.040Z,38.784168243408,-122.7628326416,3.7200000286102,0.75,md,10.0,110.0,0.01362,0.02,nc,nc75108636,2024-12-27T18:25:29.640Z,"1 km NNW of The Geysers, CA",earthquake,0.52,0.949999988,0.36,11.0,automatic,nc,nc
+2024-12-27T18:23:41.193Z,58.7884,-154.4177,110.8,1.8,ml,,,,0.22,ak,ak024gmzegav,2024-12-27T18:26:29.395Z,"75 km SSE of Kokhanok, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-12-27T18:13:56.357Z,32.262,-101.841,5.3184,2.1,ml,9.0,118.0,0.0,0.5,tx,tx2024zkys,2024-12-27T18:22:40.087Z,"15 km NNW of Stanton, Texas",earthquake,0.0,3.7568418979645,0.1,6.0,automatic,tx,tx
+2024-12-27T18:00:11.777Z,63.1506,-150.7667,26.4,1.7,ml,,,,0.89,ak,ak024gmz9gk9,2024-12-27T18:02:35.125Z,"64 km SE of Denali National Park, Alaska",earthquake,,2.0,,,automatic,ak,ak
+2024-12-27T17:30:08.866Z,2.0242,126.4133,58.248,4.4,mb,35.0,113.0,1.567,0.93,us,us6000pfyc,2024-12-27T18:01:24.040Z,"156 km ENE of Bitung, Indonesia",earthquake,10.7,8.079,0.103,28.0,reviewed,us,us
