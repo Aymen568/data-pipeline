@@ -16690,3 +16690,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-27T09:33:34.390Z,33.7103333,-116.8323333,17.09,1.75,ml,56.0,37.0,0.07972,0.22,ci,ci40828799,2024-12-27T09:40:01.115Z,"7 km SE of Valle Vista, CA",earthquake,0.22,0.4,0.246,27.0,automatic,ci,ci
 2024-12-27T09:33:27.490Z,33.7126667,-116.8341667,17.57,1.6,ml,62.0,20.0,0.07898,0.17,ci,ci40828791,2024-12-27T09:44:03.020Z,"7 km SE of Valle Vista, CA",earthquake,0.18,0.41,0.284,27.0,automatic,ci,ci
 2024-12-27T09:30:55.517Z,12.1637,143.973,19.132,5.3,mb,84.0,114.0,1.664,0.44,us,us6000pfvi,2024-12-27T09:43:41.040Z,"143 km SSW of Merizo Village, Guam",earthquake,8.06,4.678,0.081,51.0,reviewed,us,us
+2024-12-27T10:08:22.430Z,40.370166778565,-124.91466522217,-0.10999999940395,3.44,ml,37.0,261.0,0.4527,0.58,nc,nc75108511,2024-12-27T10:17:15.628Z,"54 km WNW of Petrolia, CA",earthquake,7.53,14.0799999,0.41,14.0,automatic,nc,nc
