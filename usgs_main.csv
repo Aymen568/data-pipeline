@@ -16654,3 +16654,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-26T23:07:00.820Z,58.2345,-155.13933333333,-1.35,-0.39,ml,5.0,225.0,0.05324,0.06,av,av93427076,2024-12-27T05:14:59.240Z,"84 km NNW of Karluk, Alaska",earthquake,0.46,4.94,0.11529783832814,5.0,reviewed,av,av
 2024-12-26T21:34:21.730Z,58.246666666667,-154.87883333333,4.98,0.19,ml,6.0,185.0,0.09085,0.2,av,av93427011,2024-12-27T05:07:27.080Z,"79 km NNW of Karluk, Alaska",earthquake,0.72,2.73,0.16623839382312,6.0,reviewed,av,av
 2024-12-27T05:24:45.559Z,59.7621,-151.7791,34.6,1.8,ml,,,,0.37,ak,ak024gmro1hn,2024-12-27T05:26:49.659Z,"3 km ESE of Anchor Point, Alaska",earthquake,,2.0,,,automatic,ak,ak
+2024-12-27T05:45:20.956Z,36.6903,-116.3517,15.9,0.3,ml,16.0,178.9,0.043,0.3061,nn,nn00890634,2024-12-27T05:47:11.864Z,"43 km SE of Beatty, Nevada",earthquake,,1.0,0.36,6.0,automatic,nn,nn
+2024-12-27T05:30:07.667Z,34.1574,-38.6804,10.0,5.9,mww,111.0,95.0,11.251,0.55,us,us6000pfuq,2024-12-27T05:48:40.293Z,northern Mid-Atlantic Ridge,earthquake,11.1,1.886,0.069,20.0,reviewed,us,us
+2024-12-27T05:30:06.690Z,31.719,-104.302,4.3151,1.8,ml,15.0,67.0,0.1,0.2,tx,tx2024zjzm,2024-12-27T05:47:32.444Z,"51 km S of Whites City, New Mexico",earthquake,0.0,1.3123785257339,0.2,13.0,automatic,tx,tx
