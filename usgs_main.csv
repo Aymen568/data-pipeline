@@ -16808,3 +16808,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-27T03:03:08.940Z,61.327,-152.3115,-2.33,-0.22,ml,9.0,129.0,0.09756,0.3,av,av93427211,2024-12-27T20:10:53.190Z,"69 km WNW of Beluga, Alaska",earthquake,0.54,2.6,0.11237337314594,8.0,reviewed,av,av
 2024-12-27T20:23:45.550Z,38.80016708374,-122.81683349609,2.0599999427795,0.75,md,6.0,133.0,0.01298,0.01,nc,nc75108676,2024-12-27T20:25:20.926Z,"6 km NW of The Geysers, CA",earthquake,1.95,2.30999994,0.07,8.0,automatic,nc,nc
 2024-12-27T20:01:49.790Z,46.006666666667,-112.46566666667,-2.0,1.48,ml,9.0,84.0,0.06356,0.09,mb,mb90069713,2024-12-27T20:28:12.570Z,"5 km E of Butte, Montana",quarry blast,0.39,31.61,0.27750349732355,16.0,reviewed,mb,mb
+2024-12-27T20:43:57.729Z,60.2588,-152.2881,86.6,1.3,ml,,,,0.26,ak,ak024gn0pn3w,2024-12-27T20:46:31.525Z,"41 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-12-27T20:36:49.348Z,61.64,-149.6627,32.9,1.6,ml,,,,0.25,ak,ak024gn0o4g6,2024-12-27T20:38:15.412Z,"3 km WNW of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-27T20:33:50.230Z,31.54,-103.697,6.7588,1.9,ml,10.0,88.0,0.0,0.7,tx,tx2024zldh,2024-12-27T20:38:52.941Z,"20 km SSW of Mentone, Texas",earthquake,0.0,3.7866103649139,0.2,8.0,automatic,tx,tx
+2024-12-27T04:12:07.960Z,51.750166666667,-177.44683333333,-1.77,1.95,ml,11.0,187.0,0.132,0.26,av,av93427271,2024-12-27T20:39:36.850Z,"57 km WSW of Adak, Alaska",earthquake,1.23,0.75,0.22322259885698,11.0,reviewed,av,av
