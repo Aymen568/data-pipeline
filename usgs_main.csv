@@ -16781,3 +16781,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-27T18:00:11.777Z,63.1506,-150.7667,26.4,1.7,ml,,,,0.89,ak,ak024gmz9gk9,2024-12-27T18:02:35.125Z,"64 km SE of Denali National Park, Alaska",earthquake,,2.0,,,automatic,ak,ak
 2024-12-27T17:30:08.866Z,2.0242,126.4133,58.248,4.4,mb,35.0,113.0,1.567,0.93,us,us6000pfyc,2024-12-27T18:01:24.040Z,"156 km ENE of Bitung, Indonesia",earthquake,10.7,8.079,0.103,28.0,reviewed,us,us
 2024-12-27T18:15:39.231Z,-22.1524,-68.5844,110.927,4.7,mwr,57.0,40.0,0.706,1.01,us,us6000pfyg,2024-12-27T18:31:54.040Z,"48 km NE of Calama, Chile",earthquake,4.02,4.441,0.059,28.0,reviewed,us,us
+2024-12-27T18:40:57.713Z,32.402,-102.062,4.5108,1.4,ml,35.0,47.0,0.0,0.4,tx,tx2024zkzp,2024-12-27T18:54:07.307Z,"35 km WSW of Ackerly, Texas",earthquake,0.0,0.92579233646393,0.1,20.0,automatic,tx,tx
