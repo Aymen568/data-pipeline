@@ -16681,3 +16681,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-27T08:24:28.870Z,38.799835205078,-122.73500061035,1.7200000286102,1.19,md,13.0,107.0,0.01933,0.02,nc,nc75108491,2024-12-27T08:26:03.571Z,"3 km SW of Cobb, CA",earthquake,0.27,0.600000024,0.13,12.0,automatic,nc,nc
 2024-12-27T08:09:04.210Z,33.1638333,-116.0323333,6.11,1.51,ml,65.0,21.0,0.04679,0.22,ci,ci40828759,2024-12-27T08:19:39.690Z,"10 km ENE of Ocotillo Wells, CA",earthquake,0.17,0.6,0.176,28.0,automatic,ci,ci
 2024-12-27T08:43:06.258Z,58.4475,-153.8818,69.3,2.5,ml,,,,0.35,ak,ak024gmtkbvl,2024-12-27T08:45:49.172Z,"71 km NW of Aleneva, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-12-27T08:54:49.920Z,38.81583404541,-122.82666778565,1.8700000047684,0.79,md,7.0,101.0,0.007227,0.01,nc,nc75108501,2024-12-27T08:56:24.102Z,"7 km NW of The Geysers, CA",earthquake,0.59,1.09000003,0.17,9.0,automatic,nc,nc
