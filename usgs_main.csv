@@ -16641,3 +16641,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-27T04:42:26.062Z,60.1675,-141.3914,12.3,1.9,ml,,,,0.71,ak,ak024gmr6f9q,2024-12-27T04:43:54.156Z,"116 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-27T04:37:27.540Z,39.1228,-119.0784,0.1,1.4,ml,8.0,122.66,0.055,0.2904,nn,nn00890633,2024-12-27T04:40:49.421Z,"16 km NNE of Yerington, Nevada",earthquake,,0.4,0.69,3.0,automatic,nn,nn
 2024-12-27T04:33:33.295Z,62.1551,-148.0014,34.9,1.7,ml,,,,0.61,ak,ak024gmr4idt,2024-12-27T04:36:01.227Z,"42 km NNW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-27T04:13:47.140Z,-24.0615,-66.9891,241.664,4.2,mb,33.0,93.0,1.553,0.87,us,us6000pfud,2024-12-27T04:49:57.040Z,"70 km WNW of San Antonio de los Cobres, Argentina",earthquake,9.44,11.292,0.236,5.0,reviewed,us,us
+2024-12-26T21:25:15.780Z,61.314166666667,-152.2645,1.27,-0.42,ml,9.0,123.0,0.07198,0.12,av,av93426996,2024-12-27T04:59:34.840Z,"66 km WNW of Beluga, Alaska",earthquake,0.3,0.96,0.20754936740981,10.0,reviewed,av,av
+2024-12-26T20:57:51.140Z,58.176666666667,-155.334,1.5,-0.25,ml,5.0,138.0,0.03358,0.07,av,av93426976,2024-12-27T04:53:43.100Z,"85 km NW of Karluk, Alaska",earthquake,0.27,0.9,0.24907237217911,5.0,reviewed,av,av
