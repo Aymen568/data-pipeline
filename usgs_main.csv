@@ -16662,3 +16662,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-27T06:16:11.740Z,35.881,-117.6921667,8.43,0.86,ml,21.0,52.0,0.07488,0.23,ci,ci40828751,2024-12-27T06:19:39.232Z,"20 km ESE of Little Lake, CA",earthquake,0.3,0.87,0.128,15.0,automatic,ci,ci
 2024-12-27T06:09:42.013Z,61.011,-145.7873,41.4,1.6,ml,,,,0.85,ak,ak024gms692t,2024-12-27T06:11:53.357Z,"33 km ESE of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-27T06:02:12.026Z,18.981,145.0204,606.829,4.3,mb,68.0,104.0,3.791,0.64,us,us6000pfuu,2024-12-27T06:15:20.040Z,"Pagan region, Northern Mariana Islands",earthquake,6.44,9.591,0.061,75.0,reviewed,us,us
+2024-12-27T06:45:26.685Z,39.1522,-119.0471,7.3,1.4,ml,8.0,117.74,0.018,0.1105,nn,nn00890636,2024-12-27T06:47:20.171Z,"21 km NNE of Yerington, Nevada",earthquake,,0.6,0.06,2.0,automatic,nn,nn
+2024-12-27T06:36:03.273Z,62.1106,-151.5338,35.0,2.0,ml,,,,1.22,ak,ak024gmsbyfb,2024-12-27T06:37:46.816Z,"15 km NNW of Skwentna, Alaska",earthquake,,4.6,,,automatic,ak,ak
