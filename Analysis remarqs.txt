@@ -9734,4 +9734,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 2.0 and occurred in/near 15 km SE of Clam Gulch, Alaska on 12/26/2024 at 11:17 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 16584 recorded earthquakes.
 The most recent earthquake had a magnitude of 0.75 and occurred in/near 5 km NNE of Windsor, CA on 12/26/2024 at 11:44 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 16593 recorded earthquakes.
+The most recent earthquake had a magnitude of 0.77 and occurred in/near 6 km NW of The Geysers, CA on 12/27/2024 at 12:33 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
