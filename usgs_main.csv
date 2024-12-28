@@ -16984,3 +16984,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-28T09:03:34.370Z,61.2824,-152.2877,11.6,1.4,ml,,,,0.15,ak,ak024gohgli5,2024-12-28T09:04:47.320Z,"66 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-28T09:01:26.558Z,61.287,-152.2765,5.1,0.9,ml,,,,0.84,ak,ak024gohg5gv,2024-12-28T09:02:36.573Z,"65 km WNW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-28T08:59:52.027Z,61.2838,-151.5206,77.2,1.2,ml,,,,0.73,ak,ak024goh77cy,2024-12-28T09:01:27.511Z,"28 km NW of Beluga, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-12-28T09:23:35.996Z,61.273,-152.2371,0.0,0.9,ml,,,,0.66,ak,ak024gohkvy7,2024-12-28T09:25:36.888Z,"63 km WNW of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-12-28T09:23:23.840Z,33.3544998,-116.3688354,11.85,1.01,ml,23.0,68.0,0.05019,0.12,ci,ci40829271,2024-12-28T09:26:58.725Z,"11 km N of Borrego Springs, CA",earthquake,0.35,0.74,0.092,4.0,automatic,ci,ci
+2024-12-28T09:14:30.320Z,35.6998329,-117.5168304,6.84,1.31,ml,14.0,137.0,0.08335,0.11,ci,ci40829263,2024-12-28T09:16:33.597Z,"13 km SW of Searles Valley, CA",earthquake,0.44,1.35,0.222,3.0,automatic,ci,ci
+2024-12-28T09:11:38.060Z,19.176000595093,-155.50967407227,28.620000839233,1.78999996,md,56.0,90.0,0.0494,0.150000006,hv,hv74578702,2024-12-28T09:14:59.770Z,"4 km SW of Pāhala, Hawaii",earthquake,0.43,0.660000026,0.0199999996,3.0,automatic,hv,hv
