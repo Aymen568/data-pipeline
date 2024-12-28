@@ -17038,3 +17038,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-28T13:40:41.644Z,61.1041,-152.2603,36.6,0.6,ml,,,,0.83,ak,ak024gok29z8,2024-12-28T13:41:54.960Z,"60 km W of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-28T13:39:57.703Z,36.8836,-116.3368,13.0,-0.5,ml,8.0,119.22,0.07,0.0433,nn,nn00890729,2024-12-28T13:41:50.129Z,"37 km E of Beatty, Nevada",earthquake,,2.0,0.09,3.0,automatic,nn,nn
 2024-12-28T13:49:25.110Z,33.6165,-116.7911667,13.75,0.79,ml,34.0,46.0,0.04914,0.18,ci,ci40829367,2024-12-28T13:54:21.097Z,"13 km WNW of Anza, CA",earthquake,0.23,0.44,0.198,23.0,automatic,ci,ci
+2024-12-28T13:30:38.410Z,46.0325,-111.404,5.67,1.36,ml,13.0,153.0,0.1781,0.1,mb,mb90069728,2024-12-28T14:17:14.120Z,"2 km W of Ponderosa Pines, Montana",earthquake,0.37,3.85,0.2231102754264,15.0,reviewed,mb,mb
