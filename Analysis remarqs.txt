@@ -9950,4 +9950,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.92 and occurred in/near 12 km E of Lake Isabella, CA on 12/28/2024 at 09:11 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 16989 recorded earthquakes.
 The most recent earthquake had a magnitude of 0.9 and occurred in/near 63 km WNW of Tyonek, Alaska on 12/28/2024 at 09:23 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 16990 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.23 and occurred in/near 18 km NNE of Borrego Springs, CA on 12/28/2024 at 09:37 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
