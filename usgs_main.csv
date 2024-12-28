@@ -17070,3 +17070,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-28T16:17:26.707Z,39.1241,-119.0491,6.8,1.4,ml,11.0,89.67,0.046,0.1885,nn,nn00890746,2024-12-28T16:20:02.969Z,"18 km NNE of Yerington, Nevada",earthquake,,0.6,0.41,6.0,automatic,nn,nn
 2024-12-28T16:41:53.330Z,38.792835235596,-122.77649688721,1.6200000047684,0.75,md,11.0,100.0,0.008932,0.04,nc,nc75108951,2024-12-28T16:43:29.498Z,"2 km NW of The Geysers, CA",earthquake,0.4,0.629999995,0.03,12.0,automatic,nc,nc
 2024-12-28T17:12:09.367Z,63.2748,-151.3409,4.0,1.5,ml,,,,0.65,ak,ak024gom9xuw,2024-12-28T17:14:32.842Z,"35 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-28T17:24:40.600Z,35.6833344,-117.4683304,7.29,1.11,ml,11.0,143.0,0.04063,0.08,ci,ci40829423,2024-12-28T17:26:44.021Z,"11 km SSW of Searles Valley, CA",earthquake,0.66,0.92,0.21,4.0,automatic,ci,ci
+2024-12-28T17:20:13.453Z,59.7841,-151.9678,58.4,1.6,ml,,,,0.3,ak,ak024gombnwh,2024-12-28T17:22:04.258Z,"7 km W of Anchor Point, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-12-28T17:19:44.518Z,37.351,-117.1413,3.9,0.7,ml,9.0,137.68,0.108,0.1762,nn,nn00890748,2024-12-28T17:21:52.854Z,"40 km SSE of Goldfield, Nevada",earthquake,,13.2,0.6,5.0,automatic,nn,nn
