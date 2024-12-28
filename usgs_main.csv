@@ -17042,3 +17042,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-28T14:39:20.830Z,63.1925,-150.4618,4.2,1.9,ml,,,,0.5,ak,ak024gokng9f,2024-12-28T14:41:24.988Z,"74 km ESE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-28T14:37:59.534Z,37.3264,-117.2013,3.1,0.9,ml,11.0,131.98,0.054,0.3078,nn,nn00890731,2024-12-28T14:40:11.969Z,"42 km S of Goldfield, Nevada",earthquake,,0.9,0.5,5.0,automatic,nn,nn
 2024-12-28T14:37:33.747Z,59.37,-152.8869,69.6,1.7,ml,,,,0.36,ak,ak024gokn1tq,2024-12-28T14:39:18.808Z,"54 km W of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-12-28T14:45:43.076Z,37.3525,-117.2104,9.9,1.6,ml,28.0,120.3,0.066,0.351,nn,nn00890734,2024-12-28T14:48:29.794Z,"39 km S of Goldfield, Nevada",earthquake,,0.5,0.27,16.0,automatic,nn,nn
+2024-12-27T20:14:34.843Z,-23.4938,-66.925,224.809,4.2,mb,23.0,94.0,1.273,0.48,us,us6000pfzz,2024-12-28T14:46:41.040Z,"101 km NW of San Antonio de los Cobres, Argentina",earthquake,10.5,5.456,0.186,8.0,reviewed,us,us
