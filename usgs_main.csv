@@ -17053,3 +17053,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-28T15:21:29.900Z,38.791332244873,-122.77866363525,2.0999999046326,1.09,md,11.0,109.0,0.007463,0.03,nc,nc75108916,2024-12-28T15:23:04.888Z,"2 km NW of The Geysers, CA",earthquake,0.4,1.0,0.21,10.0,automatic,nc,nc
 2024-12-28T15:18:16.404Z,65.465,-149.972,4.2,1.2,ml,,,,0.61,ak,ak024gol4dhk,2024-12-28T15:21:33.328Z,"10 km ESE of Rampart, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-28T15:17:48.720Z,38.790832519531,-122.77799987793,1.7599999904633,1.52,md,30.0,80.0,0.01732,0.03,nc,nc75108911,2024-12-28T15:20:52.060Z,"2 km NW of The Geysers, CA",earthquake,0.2,0.330000013,0.12,31.0,automatic,nc,nc
+2024-12-28T15:37:00.710Z,38.807167053223,-122.74849700928,21.840000152588,1.46,md,10.0,211.0,0.01093,0.16,nc,nc75108926,2024-12-28T15:38:33.875Z,"3 km WSW of Cobb, CA",earthquake,3.96,13.79,0.09,4.0,automatic,nc,nc
+2024-12-28T15:36:02.639Z,61.2853,-152.2214,0.0,1.4,ml,,,,0.77,ak,ak024gol87am,2024-12-28T15:37:55.551Z,"63 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
