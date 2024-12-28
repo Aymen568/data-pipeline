@@ -16954,3 +16954,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-28T05:46:23.850Z,38.776332855225,-122.74266815185,0.0,0.88,md,10.0,69.0,0.008313,0.05,nc,nc75108796,2024-12-28T05:48:01.670Z,"1 km ESE of The Geysers, CA",earthquake,0.25,0.610000014,0.22,10.0,automatic,nc,nc
 2024-12-28T05:33:19.570Z,19.0945,-66.5258,42.0,3.66,md,21.0,259.0,0.6174,0.32,pr,pr2024363002,2024-12-28T05:51:46.238Z,"70 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.55,5.39,0.08,15.0,reviewed,pr,pr
 2024-12-28T05:12:12.727Z,9.2758,40.0229,10.0,4.6,mb,19.0,255.0,3.569,0.4,us,us6000pg3e,2024-12-28T05:46:17.040Z,"36 km NNW of Āwash, Ethiopia",earthquake,13.87,2.017,0.172,10.0,reviewed,us,us
+2024-12-28T05:46:43.362Z,-5.1258,102.5012,35.809,4.5,mb,33.0,104.0,3.112,0.73,us,us6000pg3q,2024-12-28T06:07:06.040Z,"147 km SW of Pagar Alam, Indonesia",earthquake,6.38,8.967,0.121,20.0,reviewed,us,us
+2024-12-27T15:13:27.800Z,46.1945,-122.18866666667,6.14,0.66,ml,19.0,62.0,0.005496,0.11,uw,uw62060697,2024-12-28T06:11:26.260Z,"37 km NNE of Amboy, Washington",earthquake,0.27,0.36,0.12828682621028,10.0,reviewed,uw,uw
