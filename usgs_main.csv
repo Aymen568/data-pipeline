@@ -17092,3 +17092,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-28T18:24:08.890Z,17.959833333333,-66.9675,14.64,1.94,md,3.0,199.0,0.07365,0.04,pr,pr71469618,2024-12-28T18:33:42.420Z,"6 km WSW of Fuig, Puerto Rico",earthquake,2.74,1.11,0.015066215447764,3.0,reviewed,pr,pr
 2024-12-28T18:11:44.410Z,-5.7052,149.1729,145.472,4.4,mb,40.0,150.0,4.06,0.82,us,us6000pg6c,2024-12-28T18:32:58.040Z,"69 km NW of Kandrian, Papua New Guinea",earthquake,11.09,7.804,0.098,30.0,reviewed,us,us
 2024-12-28T18:45:50.223Z,39.0883,-119.1073,3.7,0.9,ml,8.0,124.79,0.097,0.1345,nn,nn00890757,2024-12-28T18:48:13.194Z,"12 km NNE of Yerington, Nevada",earthquake,,1.0,0.0,1.0,automatic,nn,nn
+2024-12-28T18:50:55.980Z,38.836334228516,-122.79483032227,2.0699999332428,1.54,md,29.0,48.0,0.00407,0.02,nc,nc75108991,2024-12-28T18:53:57.910Z,"6 km WNW of Cobb, CA",earthquake,0.2,0.319999993,0.18,32.0,automatic,nc,nc
