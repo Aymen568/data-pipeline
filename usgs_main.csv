@@ -17055,3 +17055,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-28T15:17:48.720Z,38.790832519531,-122.77799987793,1.7599999904633,1.52,md,30.0,80.0,0.01732,0.03,nc,nc75108911,2024-12-28T15:20:52.060Z,"2 km NW of The Geysers, CA",earthquake,0.2,0.330000013,0.12,31.0,automatic,nc,nc
 2024-12-28T15:37:00.710Z,38.807167053223,-122.74849700928,21.840000152588,1.46,md,10.0,211.0,0.01093,0.16,nc,nc75108926,2024-12-28T15:38:33.875Z,"3 km WSW of Cobb, CA",earthquake,3.96,13.79,0.09,4.0,automatic,nc,nc
 2024-12-28T15:36:02.639Z,61.2853,-152.2214,0.0,1.4,ml,,,,0.77,ak,ak024gol87am,2024-12-28T15:37:55.551Z,"63 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-28T15:51:05.876Z,62.2289,-148.5692,36.0,1.8,ml,,,,0.43,ak,ak024golbfaz,2024-12-28T15:53:04.733Z,"48 km N of Chickaloon, Alaska",earthquake,,4.6,,,automatic,ak,ak
+2024-12-28T15:48:57.250Z,36.604331970215,-121.20500183106,6.1500000953674,1.39,md,11.0,75.0,0.03619,0.27,nc,nc75108931,2024-12-28T15:50:34.836Z,"10 km NNW of Pinnacles, CA",earthquake,0.91,2.22000003,0.38,9.0,automatic,nc,nc
+2024-12-28T06:43:36.847Z,61.0253,-152.4612,106.7,1.4,ml,,,,0.58,ak,ak024gofwwpf,2024-12-28T15:42:00.349Z,"71 km W of Tyonek, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2024-12-27T17:18:09.878Z,9.0786,39.8964,10.0,4.4,mb,36.0,104.0,3.79,0.72,us,us6000pg15,2024-12-28T15:46:52.040Z,"19 km N of Metahāra, Ethiopia",earthquake,10.88,1.909,0.105,26.0,reviewed,us,us
