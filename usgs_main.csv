@@ -17039,3 +17039,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-28T13:39:57.703Z,36.8836,-116.3368,13.0,-0.5,ml,8.0,119.22,0.07,0.0433,nn,nn00890729,2024-12-28T13:41:50.129Z,"37 km E of Beatty, Nevada",earthquake,,2.0,0.09,3.0,automatic,nn,nn
 2024-12-28T13:49:25.110Z,33.6165,-116.7911667,13.75,0.79,ml,34.0,46.0,0.04914,0.18,ci,ci40829367,2024-12-28T13:54:21.097Z,"13 km WNW of Anza, CA",earthquake,0.23,0.44,0.198,23.0,automatic,ci,ci
 2024-12-28T13:30:38.410Z,46.0325,-111.404,5.67,1.36,ml,13.0,153.0,0.1781,0.1,mb,mb90069728,2024-12-28T14:17:14.120Z,"2 km W of Ponderosa Pines, Montana",earthquake,0.37,3.85,0.2231102754264,15.0,reviewed,mb,mb
+2024-12-28T14:39:20.830Z,63.1925,-150.4618,4.2,1.9,ml,,,,0.5,ak,ak024gokng9f,2024-12-28T14:41:24.988Z,"74 km ESE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-28T14:37:59.534Z,37.3264,-117.2013,3.1,0.9,ml,11.0,131.98,0.054,0.3078,nn,nn00890731,2024-12-28T14:40:11.969Z,"42 km S of Goldfield, Nevada",earthquake,,0.9,0.5,5.0,automatic,nn,nn
+2024-12-28T14:37:33.747Z,59.37,-152.8869,69.6,1.7,ml,,,,0.36,ak,ak024gokn1tq,2024-12-28T14:39:18.808Z,"54 km W of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
