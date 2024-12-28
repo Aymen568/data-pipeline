@@ -17037,3 +17037,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-28T13:03:02.356Z,39.1732,-119.0198,5.9,1.7,ml,15.0,85.9,0.015,0.1528,nn,nn00890723,2024-12-28T13:05:12.822Z,"24 km NNE of Yerington, Nevada",earthquake,,0.3,0.23,4.0,automatic,nn,nn
 2024-12-28T13:40:41.644Z,61.1041,-152.2603,36.6,0.6,ml,,,,0.83,ak,ak024gok29z8,2024-12-28T13:41:54.960Z,"60 km W of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-28T13:39:57.703Z,36.8836,-116.3368,13.0,-0.5,ml,8.0,119.22,0.07,0.0433,nn,nn00890729,2024-12-28T13:41:50.129Z,"37 km E of Beatty, Nevada",earthquake,,2.0,0.09,3.0,automatic,nn,nn
+2024-12-28T13:49:25.110Z,33.6165,-116.7911667,13.75,0.79,ml,34.0,46.0,0.04914,0.18,ci,ci40829367,2024-12-28T13:54:21.097Z,"13 km WNW of Anza, CA",earthquake,0.23,0.44,0.198,23.0,automatic,ci,ci
