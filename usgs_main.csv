@@ -16922,3 +16922,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-27T20:57:09.900Z,53.365833333333,-168.16883333333,6.23,0.95,ml,5.0,206.0,0.01024,0.05,av,av93029324,2024-12-28T03:33:52.400Z,"66 km NE of Nikolski, Alaska",earthquake,0.55,0.66,0.14786456641757,5.0,reviewed,av,av
 2024-12-28T03:39:24.130Z,33.4875,-116.4501667,12.7,1.27,ml,62.0,60.0,0.1241,0.2,ci,ci40829191,2024-12-28T03:44:51.742Z,"22 km ESE of Anza, CA",earthquake,0.17,0.38,0.156,27.0,automatic,ci,ci
 2024-12-28T03:26:30.113Z,51.4196,178.5244,49.806,4.0,mb,80.0,268.0,0.489,0.92,us,us6000pg31,2024-12-28T03:42:15.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,12.22,10.226,0.068,58.0,reviewed,us,us
+2024-12-28T03:52:19.868Z,61.4731,-149.9445,37.5,1.6,ml,,,,0.35,ak,ak024goe6gua,2024-12-28T03:54:40.858Z,"5 km S of Big Lake, Alaska",earthquake,,1.7,,,automatic,ak,ak
