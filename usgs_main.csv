@@ -17069,3 +17069,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-28T16:19:14.429Z,61.2917,-152.2275,0.1,0.6,ml,,,,0.55,ak,ak024golq0nm,2024-12-28T16:21:08.612Z,"63 km WNW of Tyonek, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-12-28T16:17:26.707Z,39.1241,-119.0491,6.8,1.4,ml,11.0,89.67,0.046,0.1885,nn,nn00890746,2024-12-28T16:20:02.969Z,"18 km NNE of Yerington, Nevada",earthquake,,0.6,0.41,6.0,automatic,nn,nn
 2024-12-28T16:41:53.330Z,38.792835235596,-122.77649688721,1.6200000047684,0.75,md,11.0,100.0,0.008932,0.04,nc,nc75108951,2024-12-28T16:43:29.498Z,"2 km NW of The Geysers, CA",earthquake,0.4,0.629999995,0.03,12.0,automatic,nc,nc
+2024-12-28T17:12:09.367Z,63.2748,-151.3409,4.0,1.5,ml,,,,0.65,ak,ak024gom9xuw,2024-12-28T17:14:32.842Z,"35 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
