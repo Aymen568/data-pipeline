@@ -16948,3 +16948,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-27T23:52:33.140Z,58.232166666667,-155.50883333333,7.78,-0.99,ml,4.0,264.0,0.03417,0.05,av,av93428431,2024-12-28T05:04:48.480Z,"84 km SE of King Salmon, Alaska",earthquake,1.29,0.86,0.15606914103923,4.0,reviewed,av,av
 2024-12-27T23:07:30.030Z,61.2795,-152.253,4.03,-0.59,ml,5.0,192.0,0.04939,0.07,av,av93428396,2024-12-28T05:09:39.920Z,"64 km WNW of Tyonek, Alaska",earthquake,0.49,0.3,0.22151615519224,6.0,reviewed,av,av
 2024-12-27T06:16:40.028Z,46.0876,-75.3972,15.826,1.9,ml,11.0,113.0,0.602,0.44,us,us6000pg3a,2024-12-28T05:05:44.040Z,"25 km WNW of Notre-Dame-du-Mont-Carmel, Canada",earthquake,3.12,12.437,0.115,10.0,reviewed,us,us
+2024-12-28T05:11:21.540Z,19.2135,-66.536666666667,18.86,3.23,md,21.0,272.0,0.7325,0.27,pr,pr71469558,2024-12-28T05:29:15.690Z,"83 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,2.91,5.95,0.15859494926439,13.0,reviewed,pr,pr
+2024-12-28T05:09:39.895Z,-13.8413,-14.2982,10.0,5.0,mb,30.0,84.0,8.531,0.82,us,us6000pg3f,2024-12-28T05:29:04.040Z,southern Mid-Atlantic Ridge,earthquake,12.64,1.9,0.105,29.0,reviewed,us,us
