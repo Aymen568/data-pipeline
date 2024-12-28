@@ -17151,3 +17151,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-28T21:30:01.460Z,61.3095,-152.27266666667,-2.44,0.3,ml,8.0,173.0,0.06978,0.17,av,av93029379,2024-12-28T22:56:29.870Z,"66 km WNW of Beluga, Alaska",earthquake,0.47,2.06,0.19447624671681,8.0,reviewed,av,av
 2024-12-28T23:05:17.394Z,62.4601,-148.2853,33.6,2.3,ml,,,,0.6,ak,ak024gopt23f,2024-12-28T23:07:15.576Z,"74 km N of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-28T21:18:30.150Z,61.226666666667,-152.29616666667,10.51,-0.83,ml,9.0,104.0,0.03769,0.31,av,av93029384,2024-12-28T23:01:31.350Z,"64 km WNW of Tyonek, Alaska",earthquake,1.45,0.97,0.1753124142689,9.0,reviewed,av,av
+2024-12-28T23:30:40.816Z,61.3876,-147.4039,20.0,1.4,ml,,,,0.67,ak,ak024gopygsx,2024-12-28T23:32:44.457Z,"48 km SSE of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-28T23:28:19.035Z,63.0269,-150.7246,99.2,1.7,ml,,,,1.83,ak,ak024gopxzov,2024-12-28T23:30:49.239Z,"59 km N of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-12-28T23:24:25.230Z,34.0261667,-117.5998333,5.34,1.57,ml,71.0,25.0,0.009363,0.16,ci,ci40829567,2024-12-28T23:29:17.076Z,"4 km SE of Ontario, CA",earthquake,0.12,0.2,0.091,26.0,automatic,ci,ci
