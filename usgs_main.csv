@@ -17048,3 +17048,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-28T15:00:12.227Z,60.0348,-153.0037,120.8,3.4,ml,,,,0.39,ak,ak024gol0iao,2024-12-28T15:09:57.110Z,"67 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-28T14:59:36.404Z,61.231,-152.218,0.0,3.1,ml,,,,0.68,ak,ak024gokrrq9,2024-12-28T15:12:47.128Z,"60 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-28T14:57:11.332Z,31.609,-103.95,7.0808,1.8,ml,16.0,76.0,0.0,0.6,tx,tx2024zmnr,2024-12-28T15:07:23.005Z,"34 km WSW of Mentone, Texas",earthquake,0.0,2.1388409137726,0.2,13.0,automatic,tx,tx
+2024-12-28T15:29:10.720Z,38.835498809815,-122.81900024414,2.2300000190735,0.71,md,15.0,67.0,0.01324,0.02,nc,nc75108921,2024-12-28T15:30:48.585Z,"8 km WNW of Cobb, CA",earthquake,0.25,0.839999974,0.09,15.0,automatic,nc,nc
+2024-12-28T15:28:26.875Z,39.1319,-118.9856,8.7,1.4,ml,11.0,89.18,0.055,0.1725,nn,nn00890739,2024-12-28T15:31:02.653Z,"22 km NE of Yerington, Nevada",earthquake,,0.6,0.17,4.0,automatic,nn,nn
+2024-12-28T15:21:29.900Z,38.791332244873,-122.77866363525,2.0999999046326,1.09,md,11.0,109.0,0.007463,0.03,nc,nc75108916,2024-12-28T15:23:04.888Z,"2 km NW of The Geysers, CA",earthquake,0.4,1.0,0.21,10.0,automatic,nc,nc
+2024-12-28T15:18:16.404Z,65.465,-149.972,4.2,1.2,ml,,,,0.61,ak,ak024gol4dhk,2024-12-28T15:21:33.328Z,"10 km ESE of Rampart, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-12-28T15:17:48.720Z,38.790832519531,-122.77799987793,1.7599999904633,1.52,md,30.0,80.0,0.01732,0.03,nc,nc75108911,2024-12-28T15:20:52.060Z,"2 km NW of The Geysers, CA",earthquake,0.2,0.330000013,0.12,31.0,automatic,nc,nc
