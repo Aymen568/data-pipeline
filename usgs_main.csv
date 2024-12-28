@@ -17128,3 +17128,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-28T21:24:24.161Z,64.1011,-149.7021,4.1,1.4,ml,,,,0.51,ak,ak024gooqa0g,2024-12-28T21:26:43.048Z,"30 km WNW of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-28T21:42:06.595Z,64.686,-148.0135,6.9,0.9,ml,,,,0.77,ak,ak024goou3jn,2024-12-28T21:44:02.084Z,"17 km SW of South Van Horn, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-28T21:41:49.261Z,59.9709,-151.637,71.6,2.1,ml,,,,0.26,ak,ak024gootz4e,2024-12-28T21:43:20.486Z,"5 km ENE of Happy Valley, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-12-28T21:54:46.175Z,37.3061,-117.2201,5.7,0.7,ml,8.0,186.52,0.033,0.2456,nn,nn00890773,2024-12-28T21:56:55.367Z,"44 km S of Goldfield, Nevada",earthquake,,0.7,0.46,4.0,automatic,nn,nn
+2024-12-28T00:49:36.420Z,61.278333333333,-152.257,2.96,-0.39,ml,8.0,109.0,0.05094,0.09,av,av93428481,2024-12-28T21:57:38.120Z,"64 km WNW of Tyonek, Alaska",earthquake,0.34,0.44,0.22954845320531,9.0,reviewed,av,av
+2024-12-28T00:38:54.470Z,61.3155,-152.292,0.57,-0.25,ml,8.0,147.0,0.06858,0.07,av,av93428466,2024-12-28T21:54:37.160Z,"67 km WNW of Beluga, Alaska",earthquake,0.25,2.0,0.17507305426888,10.0,reviewed,av,av
