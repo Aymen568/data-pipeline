@@ -17137,3 +17137,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-28T19:52:22.424Z,32.769,-100.662,8.2275,3.0,ml,19.0,50.0,0.1,0.1,tx,tx2024zmxl,2024-12-28T21:58:53.681Z,"17 km NNE of Hermleigh, Texas",earthquake,0.64348206203104,1.0470980247364,0.1,37.0,reviewed,tx,tx
 2024-12-28T19:46:42.468Z,32.764,-100.662,7.7881,2.6,ml,19.0,80.0,0.1,0.1,tx,tx2024zmxg,2024-12-28T22:09:14.749Z,"16 km NNE of Hermleigh, Texas",earthquake,1.0247455891082,1.1726889936638,0.1,43.0,reviewed,tx,tx
 2024-12-28T02:04:35.770Z,61.296833333333,-152.274,2.58,-0.3,ml,8.0,137.0,0.0607,0.07,av,av93428546,2024-12-28T22:09:16.290Z,"66 km WNW of Tyonek, Alaska",earthquake,0.3,0.66,0.18188785519578,9.0,reviewed,av,av
+2024-12-28T22:19:59.429Z,63.4673,-151.3283,0.1,1.1,ml,,,,0.4,ak,ak024gopapra,2024-12-28T22:21:42.443Z,"21 km ESE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-28T22:16:18.744Z,31.536,-104.2,3.0569,1.6,ml,13.0,102.0,0.1,0.4,tx,tx2024zncf,2024-12-28T22:28:48.923Z,"45 km WNW of Toyah, Texas",earthquake,0.0,2.0258986949921,0.3,11.0,automatic,tx,tx
+2024-12-28T21:55:08.793Z,0.3295,122.0384,142.114,4.6,mb,58.0,97.0,1.477,0.95,us,us6000pg76,2024-12-28T22:32:10.040Z,"116 km WSW of Gorontalo, Indonesia",earthquake,4.62,7.329,0.076,54.0,reviewed,us,us
+2024-12-28T10:06:03.850Z,61.302666666667,-152.27116666667,1.57,0.54,ml,9.0,139.0,0.06552,0.09,av,av93029374,2024-12-28T22:33:08.270Z,"66 km WNW of Beluga, Alaska",earthquake,0.31,1.4,0.23750373709877,9.0,reviewed,av,av
+2024-12-28T10:05:56.630Z,61.313833333333,-152.2735,-2.24,0.17,ml,9.0,145.0,0.07273,0.13,av,av93429291,2024-12-28T22:28:21.920Z,"66 km WNW of Beluga, Alaska",earthquake,0.39,1.51,0.15289997979401,9.0,reviewed,av,av
