@@ -17126,3 +17126,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-28T21:30:27.230Z,33.8465004,-116.7876663,15.93,1.62,ml,59.0,24.0,0.0152,0.18,ci,ci40829543,2024-12-28T21:32:44.072Z,"8 km S of Cabazon, CA",earthquake,0.22,0.53,0.261,27.0,automatic,ci,ci
 2024-12-28T21:29:38.863Z,61.311,-152.2893,4.4,0.7,ml,,,,0.36,ak,ak024goordq6,2024-12-28T21:31:19.462Z,"67 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-28T21:24:24.161Z,64.1011,-149.7021,4.1,1.4,ml,,,,0.51,ak,ak024gooqa0g,2024-12-28T21:26:43.048Z,"30 km WNW of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-28T21:42:06.595Z,64.686,-148.0135,6.9,0.9,ml,,,,0.77,ak,ak024goou3jn,2024-12-28T21:44:02.084Z,"17 km SW of South Van Horn, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-12-28T21:41:49.261Z,59.9709,-151.637,71.6,2.1,ml,,,,0.26,ak,ak024gootz4e,2024-12-28T21:43:20.486Z,"5 km ENE of Happy Valley, Alaska",earthquake,,1.2,,,automatic,ak,ak
