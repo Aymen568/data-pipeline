@@ -17374,3 +17374,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-29T22:08:18.724Z,61.6816,-149.5115,34.6,2.1,ml,,,,0.41,ak,ak024gqcrm8g,2024-12-29T22:15:12.002Z,"7 km NW of Tanaina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-29T21:11:34.300Z,44.399666666667,-124.42433333333,29.67,2.68,ml,17.0,180.0,0.2499,0.17,uw,uw62060867,2024-12-29T22:07:41.590Z,"27 km WNW of Yachats, Oregon",earthquake,0.38,0.35,0.099779363782774,11.0,reviewed,uw,uw
 2024-12-29T22:27:53.600Z,38.813499450684,-122.81649780273,2.7000000476837,1.29,md,27.0,51.0,0.01093,0.03,nc,nc75109441,2024-12-29T22:29:28.736Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.379999995,0.2,27.0,automatic,nc,nc
+2024-12-29T22:36:34.520Z,33.2231667,-116.7413333,11.36,1.31,ml,56.0,21.0,0.01941,0.19,ci,ci40829911,2024-12-29T22:46:55.090Z,"3 km SE of Lake Henshaw, CA",earthquake,0.17,0.49,0.148,28.0,automatic,ci,ci
+2024-12-29T22:20:43.019Z,9.4374,39.9994,10.0,5.1,mww,34.0,232.0,3.488,0.86,us,us6000pgct,2024-12-29T22:43:31.102Z,"52 km SSE of Debre Sīna, Ethiopia",earthquake,13.15,1.979,0.11,8.0,reviewed,us,us
