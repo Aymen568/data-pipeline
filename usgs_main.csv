@@ -17292,3 +17292,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-29T13:23:14.570Z,33.9643333,-117.1556667,17.29,1.43,ml,80.0,14.0,0.0221,0.17,ci,ci40829775,2024-12-29T13:33:48.710Z,"8 km ENE of Moreno Valley, CA",earthquake,0.12,0.3,0.17,26.0,automatic,ci,ci
 2024-12-29T13:14:30.537Z,31.546,-104.202,3.8946,1.6,ml,17.0,78.0,0.1,0.2,tx,tx2024zofv,2024-12-29T13:31:19.751Z,"46 km WNW of Toyah, Texas",earthquake,0.0,1.5953207015991,0.2,13.0,automatic,tx,tx
 2024-12-29T13:02:31.760Z,47.0115,-76.2326,10.0,4.2,mb,46.0,67.0,1.405,0.69,us,us6000pgab,2024-12-29T13:34:48.461Z,"59 km NNW of Saint-Boniface, Canada",earthquake,3.78,1.95,0.121,19.0,reviewed,us,us
+2024-12-29T13:53:00.120Z,38.800834655762,-122.77333068848,2.8399999141693,1.07,md,6.0,154.0,0.01859,0.0,nc,nc75109296,2024-12-29T13:54:32.230Z,"3 km NNW of The Geysers, CA",earthquake,0.74,2.98000002,0.19,8.0,automatic,nc,nc
