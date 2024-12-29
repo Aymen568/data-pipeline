@@ -17211,3 +17211,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-29T04:33:53.602Z,31.887,-101.734,3.276,1.2,ml,23.0,53.0,0.0,0.5,tx,tx2024znoq,2024-12-29T04:41:17.086Z,"24 km W of Garden City, Texas",earthquake,0.0,1.2608940601349,0.3,13.0,automatic,tx,tx
 2024-12-29T04:51:26.440Z,38.842166900635,-122.82299804688,2.4400000572205,0.59,md,11.0,92.0,0.01039,0.03,nc,nc75109181,2024-12-29T04:53:04.575Z,"9 km WNW of Cobb, CA",earthquake,0.38,1.00999999,0.4,12.0,automatic,nc,nc
 2024-12-29T04:49:33.601Z,61.3085,-152.2956,6.9,0.4,ml,,,,0.57,ak,ak024gq2amuo,2024-12-29T04:51:43.275Z,"67 km WNW of Beluga, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-12-29T05:17:24.290Z,38.842834472656,-122.83433532715,0.93999999761581,0.72,md,7.0,122.0,0.004334,0.01,nc,nc75109186,2024-12-29T05:18:58.301Z,"10 km WNW of Cobb, CA",earthquake,1.61,0.560000002,0.29,9.0,automatic,nc,nc
+2024-12-29T05:17:15.323Z,37.3301,-117.2524,12.7,0.6,ml,11.0,129.27,0.03,0.5696,nn,nn00890795,2024-12-29T05:19:07.188Z,"42 km S of Goldfield, Nevada",earthquake,,0.5,0.34,3.0,automatic,nn,nn
