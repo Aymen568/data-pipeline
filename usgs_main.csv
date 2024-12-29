@@ -17185,3 +17185,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-29T01:59:53.700Z,34.6421667,-116.2888333,5.37,1.87,ml,33.0,41.0,0.1204,0.19,ci,ci40829607,2024-12-29T02:03:29.915Z,"15 km SW of Ludlow, CA",earthquake,0.17,1.05,0.129,27.0,automatic,ci,ci
 2024-12-29T01:47:06.379Z,60.5622,-144.8979,14.4,1.6,ml,,,,0.76,ak,ak024gq0hui5,2024-12-29T01:49:07.896Z,"47 km E of Cordova, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-12-29T01:46:00.460Z,38.832164764404,-122.81950378418,1.8899999856949,0.27,md,6.0,81.0,0.01144,0.01,nc,nc75109121,2024-12-29T01:47:38.959Z,"8 km NNW of The Geysers, CA",earthquake,0.6,1.73000002,0.17,8.0,automatic,nc,nc
+2024-12-29T03:08:55.532Z,63.5952,-150.8779,9.9,1.5,ml,,,,1.12,ak,ak024gq1ggkx,2024-12-29T03:11:19.830Z,"42 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-29T03:06:50.520Z,32.54,-116.7496667,3.96,1.14,ml,22.0,173.0,0.06968,0.15,ci,ci40829639,2024-12-29T03:10:20.966Z,"11 km WSW of Tecate, B.C., MX",earthquake,0.41,0.55,0.166,16.0,automatic,ci,ci
+2024-12-29T02:57:34.810Z,33.2018333,-116.3783333,10.98,1.27,ml,17.0,112.0,0.07375,0.15,ci,ci40829631,2024-12-29T03:04:21.248Z,"6 km S of Borrego Springs, CA",earthquake,0.41,0.79,0.171,27.0,automatic,ci,ci
+2024-12-29T02:57:34.700Z,33.1913333,-116.3901667,12.14,1.26,ml,69.0,30.0,0.07993,0.19,ci,ci40829623,2024-12-29T03:08:11.110Z,"7 km S of Borrego Springs, CA",earthquake,0.15,0.45,0.19,26.0,automatic,ci,ci
+2024-12-28T20:01:32.508Z,50.1864,178.4873,11.7,3.5,ml,,,,0.68,ak,ak024goo02zk,2024-12-29T03:09:42.569Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,6.9,,,reviewed,ak,ak
+2024-12-28T17:33:46.451Z,56.4009,-152.897,6.5,2.7,ml,,,,0.64,ak,ak024gomeihk,2024-12-29T02:56:29.201Z,"92 km SSE of Old Harbor, Alaska",earthquake,,1.3,,,reviewed,ak,ak
