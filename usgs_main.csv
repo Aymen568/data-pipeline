@@ -17219,3 +17219,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-28T06:22:39.616Z,0.3372,129.6526,10.0,4.3,mb,19.0,106.0,2.326,0.75,us,us6000pg3r,2024-12-29T05:26:16.040Z,"114 km NW of Waisai, Indonesia",earthquake,6.66,1.921,0.142,14.0,reviewed,us,us
 2024-12-29T05:36:49.123Z,61.682,-150.5326,29.9,1.3,ml,,,,0.76,ak,ak024gq2tbct,2024-12-29T05:39:18.160Z,"15 km N of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-29T05:19:53.808Z,41.6424,141.2908,98.295,4.4,mb,56.0,116.0,0.869,0.88,us,us6000pg8l,2024-12-29T05:43:56.040Z,"34 km ENE of Ōma, Japan",earthquake,9.01,11.267,0.086,39.0,reviewed,us,us
+2024-12-29T05:50:26.999Z,60.4013,-147.748,17.9,1.7,ml,,,,0.38,ak,ak024gq2w9nv,2024-12-29T05:52:44.118Z,"40 km NNE of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-12-28T20:04:24.660Z,55.0455,-162.23733333333,1.28,1.37,ml,9.0,152.0,0.06636,0.15,av,av93430126,2024-12-29T05:48:11.070Z,"5 km ESE of King Cove, Alaska",earthquake,0.37,1.13,0.1821168797266,12.0,reviewed,av,av
+2024-12-28T09:00:02.600Z,61.299833333333,-152.27016666667,0.98,0.31,ml,9.0,118.0,0.06403,0.06,av,av93429121,2024-12-29T05:52:23.300Z,"66 km WNW of Tyonek, Alaska",earthquake,0.25,1.0,0.21827159184347,9.0,reviewed,av,av
