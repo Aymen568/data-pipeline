@@ -17306,3 +17306,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-29T14:38:18.211Z,37.3536,-117.2079,7.8,1.0,ml,20.0,133.95,0.068,0.3919,nn,nn00890805,2024-12-29T14:40:43.772Z,"39 km S of Goldfield, Nevada",earthquake,,0.7,0.42,6.0,automatic,nn,nn
 2024-12-29T14:45:23.720Z,38.834331512451,-122.81800079346,1.7799999713898,1.05,md,13.0,61.0,0.01255,0.02,nc,nc75109316,2024-12-29T14:47:01.249Z,"8 km NNW of The Geysers, CA",earthquake,0.28,0.670000017,0.37,14.0,automatic,nc,nc
 2024-12-29T14:44:07.560Z,33.499,-116.4903333,13.33,0.71,ml,38.0,62.0,0.09358,0.16,ci,ci40829799,2024-12-29T14:48:16.518Z,"18 km ESE of Anza, CA",earthquake,0.2,0.41,0.128,20.0,automatic,ci,ci
+2024-12-29T15:10:00.796Z,62.2149,-152.2357,0.0,1.6,ml,,,,0.76,ak,ak024gq8lz1r,2024-12-29T15:12:39.275Z,"50 km WNW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-12-29T15:08:07.781Z,61.4485,-151.9521,121.0,1.4,ml,,,,0.49,ak,ak024gq8lk5m,2024-12-29T15:10:05.180Z,"57 km NW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-12-29T14:54:11.584Z,36.7329,-116.2783,9.8,0.3,ml,15.0,89.97,0.037,0.1918,nn,nn00890809,2024-12-29T14:55:52.485Z,"47 km ESE of Beatty, Nevada",earthquake,,0.8,0.21,11.0,automatic,nn,nn
+2024-12-29T14:14:30.080Z,19.001666666667,-68.444333333333,27.23,3.44,md,18.0,335.0,1.371,0.39,pr,pr71469663,2024-12-29T15:01:20.790Z,"45 km NNE of Otra Banda, Dominican Republic",earthquake,3.03,27.48,0.092707157763876,17.0,reviewed,pr,pr
