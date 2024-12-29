@@ -17300,3 +17300,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-29T13:57:25.419Z,31.589,-104.492,3.6392,2.1,ml,17.0,138.0,0.1,0.2,tx,tx2024zohg,2024-12-29T14:05:32.954Z,"65 km S of Whites City, New Mexico",earthquake,0.0,2.0223867893219,0.1,12.0,automatic,tx,tx
 2024-12-29T13:55:56.670Z,33.3848333,-116.3935,8.66,2.74,ml,107.0,17.0,0.06201,0.2,ci,ci40829783,2024-12-29T14:07:37.447Z,"14 km N of Borrego Springs, CA",earthquake,0.11,0.39,0.206,26.0,automatic,ci,ci
 2024-12-29T13:18:16.832Z,23.3049,126.3837,24.44,4.4,mb,35.0,135.0,2.24,1.38,us,us6000pgag,2024-12-29T14:09:01.040Z,"197 km SSE of Miyakojima, Japan",earthquake,10.27,5.396,0.114,22.0,reviewed,us,us
+2024-12-29T14:27:13.446Z,36.715,-116.3056,13.0,0.1,ml,13.0,108.92,0.019,0.1553,nn,nn00890804,2024-12-29T14:29:10.803Z,"45 km ESE of Beatty, Nevada",earthquake,,1.0,0.16,8.0,automatic,nn,nn
+2024-12-29T14:22:23.960Z,40.180500030518,-124.37566375732,15.069999694824,2.68,md,9.0,303.0,0.1519,0.11,nc,nc75109311,2024-12-29T14:32:16.464Z,"18 km SW of Petrolia, CA",earthquake,3.64,0.939999998,0.11,9.0,automatic,nc,nc
+2024-12-29T14:18:48.898Z,59.534,-153.0231,87.7,2.1,ml,,,,0.36,ak,ak024gq82cvk,2024-12-29T14:30:14.040Z,"65 km WNW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
