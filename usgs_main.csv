@@ -17328,3 +17328,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-29T17:10:44.665Z,9.1111,40.1732,10.0,4.9,mb,75.0,66.0,3.563,0.68,us,us6000pgbj,2024-12-29T17:28:02.661Z,"14 km N of Āwash, Ethiopia",earthquake,9.2,1.848,0.064,76.0,reviewed,us,us
 2024-12-29T16:21:35.798Z,9.0668,40.1933,10.0,4.4,mb,22.0,259.0,3.579,1.0,us,us6000pgbg,2024-12-29T17:33:06.040Z,"9 km NNE of Āwash, Ethiopia",earthquake,7.35,2.012,0.123,19.0,reviewed,us,us
 2024-12-29T15:22:08.172Z,23.398,121.8325,10.0,4.5,mb,25.0,101.0,0.492,0.84,us,us6000pgb5,2024-12-29T17:39:18.040Z,"68 km SSE of Hualien City, Taiwan",earthquake,4.25,1.914,0.15,13.0,reviewed,us,us
+2024-12-29T17:44:34.420Z,38.80916595459,-122.78099822998,1.5700000524521,1.01,md,16.0,94.0,0.004094,0.02,nc,nc75109351,2024-12-29T17:46:12.468Z,"4 km NNW of The Geysers, CA",earthquake,0.26,0.469999999,0.17,16.0,automatic,nc,nc
+2024-12-29T17:43:58.070Z,58.1957,-153.0399,65.1,1.8,ml,,,,0.16,ak,ak024gqa01b3,2024-12-29T17:46:03.676Z,"16 km NNW of Aleneva, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2024-12-29T16:47:56.038Z,36.6231,71.3135,228.939,4.0,mb,60.0,101.0,2.655,0.94,us,us6000pgbh,2024-12-29T17:51:55.040Z,"20 km WSW of Ashkāsham, Afghanistan",earthquake,8.38,8.317,0.081,41.0,reviewed,us,us
+2024-12-29T14:37:33.378Z,56.2538,-149.3011,10.0,2.8,ml,25.0,237.0,2.36,0.77,us,us6000pgaw,2024-12-29T17:42:35.040Z,"236 km SE of Chiniak, Alaska",earthquake,10.49,2.018,0.06,36.0,reviewed,us,us
