@@ -17324,3 +17324,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-29T07:19:13.852Z,9.2182,40.0833,10.0,4.4,mb,30.0,131.0,3.559,0.69,us,us6000pg9d,2024-12-29T16:33:41.040Z,"27 km NNW of Āwash, Ethiopia",earthquake,13.7,1.952,0.123,19.0,reviewed,us,us
 2024-12-29T17:04:47.978Z,62.3322,-151.3929,87.9,1.7,ml,,,,0.81,ak,ak024gq9rnlp,2024-12-29T17:07:37.355Z,"37 km WSW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-29T16:56:12.268Z,59.8971,-153.2341,113.0,1.9,ml,,,,0.23,ak,ak024gq9hah6,2024-12-29T16:58:09.792Z,"50 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-12-29T17:25:05.250Z,38.844501495361,-122.83149719238,1.4199999570847,1.08,md,14.0,130.0,0.006676,0.03,nc,nc75109346,2024-12-29T17:26:43.322Z,"10 km WNW of Cobb, CA",earthquake,0.31,0.629999995,0.34,15.0,automatic,nc,nc
+2024-12-29T17:10:44.665Z,9.1111,40.1732,10.0,4.9,mb,75.0,66.0,3.563,0.68,us,us6000pgbj,2024-12-29T17:28:02.661Z,"14 km N of Āwash, Ethiopia",earthquake,9.2,1.848,0.064,76.0,reviewed,us,us
