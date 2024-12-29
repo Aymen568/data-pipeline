@@ -17332,3 +17332,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-29T17:43:58.070Z,58.1957,-153.0399,65.1,1.8,ml,,,,0.16,ak,ak024gqa01b3,2024-12-29T17:46:03.676Z,"16 km NNW of Aleneva, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-12-29T16:47:56.038Z,36.6231,71.3135,228.939,4.0,mb,60.0,101.0,2.655,0.94,us,us6000pgbh,2024-12-29T17:51:55.040Z,"20 km WSW of Ashkāsham, Afghanistan",earthquake,8.38,8.317,0.081,41.0,reviewed,us,us
 2024-12-29T14:37:33.378Z,56.2538,-149.3011,10.0,2.8,ml,25.0,237.0,2.36,0.77,us,us6000pgaw,2024-12-29T17:42:35.040Z,"236 km SE of Chiniak, Alaska",earthquake,10.49,2.018,0.06,36.0,reviewed,us,us
+2024-12-29T17:56:34.650Z,33.8878333,-116.8786667,12.76,1.24,ml,52.0,27.0,0.08662,0.16,ci,ci40829831,2024-12-29T18:07:33.010Z,"4 km S of Banning, CA",earthquake,0.15,0.46,0.122,26.0,automatic,ci,ci
+2024-12-29T17:35:39.797Z,36.0792,70.8359,93.226,4.3,mb,49.0,97.0,2.091,0.86,us,us6000pgbm,2024-12-29T17:59:20.040Z,"73 km N of Pārūn, Afghanistan",earthquake,7.77,8.186,0.094,32.0,reviewed,us,us
+2024-12-29T17:21:31.196Z,9.1378,40.0074,10.0,4.3,mb,35.0,111.0,3.668,0.8,us,us6000pgbn,2024-12-29T18:07:00.040Z,"24 km NW of Āwash, Ethiopia",earthquake,7.78,1.922,0.109,24.0,reviewed,us,us
