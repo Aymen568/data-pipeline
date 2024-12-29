@@ -17362,3 +17362,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-29T21:06:25.070Z,40.270999908447,-124.49983215332,20.959999084473,2.73,md,5.0,296.0,0.2621,0.0,nc,nc75109416,2024-12-29T21:07:48.869Z,"19 km W of Petrolia, CA",earthquake,4.71,1.16999996,0.03,4.0,automatic,nc,nc
 2024-12-29T21:05:21.920Z,37.740833282471,-119.34549713135,-2.0599999427795,2.09,md,24.0,152.0,0.2373,0.08,nc,nc75109411,2024-12-29T21:06:58.960Z,"20 km E of Yosemite Valley, CA",earthquake,0.52,7.05999994,0.25,23.0,automatic,nc,nc
 2024-12-29T20:14:17.976Z,41.007,50.2267,10.0,4.4,mb,58.0,81.0,1.839,0.82,us,us6000pgc4,2024-12-29T20:54:58.040Z,"51 km NNE of Bilajer, Azerbaijan",earthquake,8.55,1.88,0.077,49.0,reviewed,us,us
+2024-12-29T21:08:25.777Z,37.9646,-117.9266,7.0,2.0,ml,16.0,118.35,0.239,0.2909,nn,nn00890836,2024-12-29T21:11:26.070Z,"34 km NW of Silver Peak, Nevada",earthquake,,0.7,0.21,10.0,automatic,nn,nn
+2024-12-29T20:34:33.953Z,15.9366,-98.8533,10.0,4.8,mb,102.0,171.0,1.64,0.93,us,us6000pgc6,2024-12-29T21:15:32.040Z,"62 km SW of Santiago Tepextla, Mexico",earthquake,10.04,1.93,0.033,281.0,reviewed,us,us
