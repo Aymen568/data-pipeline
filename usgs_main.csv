@@ -17264,3 +17264,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-29T10:21:06.558Z,30.973,-103.532,4.8534,1.7,ml,11.0,73.0,0.1,0.6,tx,tx2024zoac,2024-12-29T10:26:04.895Z,"20 km E of Balmorhea, Texas",earthquake,0.0,1.6091139316559,0.2,9.0,automatic,tx,tx
 2024-12-29T10:18:51.928Z,61.1582,-147.2143,0.0,1.7,ml,,,,0.6,ak,ak024gq5omp4,2024-12-29T10:20:54.920Z,"43 km NW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-29T10:17:30.770Z,38.801834106445,-122.77816772461,3.1900000572205,1.75,md,33.0,64.0,0.01152,0.05,nc,nc75109261,2024-12-29T10:20:37.370Z,"3 km NNW of The Geysers, CA",earthquake,0.25,0.400000006,0.14,33.0,automatic,nc,nc
+2024-12-29T10:08:27.990Z,17.945666666667,-66.944333333333,5.75,2.23,md,15.0,212.0,0.04302,0.07,pr,pr71469643,2024-12-29T10:40:19.520Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.4,0.21,0.19210277307454,8.0,reviewed,pr,pr
