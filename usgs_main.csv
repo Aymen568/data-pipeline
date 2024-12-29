@@ -17213,3 +17213,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-29T04:49:33.601Z,61.3085,-152.2956,6.9,0.4,ml,,,,0.57,ak,ak024gq2amuo,2024-12-29T04:51:43.275Z,"67 km WNW of Beluga, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-12-29T05:17:24.290Z,38.842834472656,-122.83433532715,0.93999999761581,0.72,md,7.0,122.0,0.004334,0.01,nc,nc75109186,2024-12-29T05:18:58.301Z,"10 km WNW of Cobb, CA",earthquake,1.61,0.560000002,0.29,9.0,automatic,nc,nc
 2024-12-29T05:17:15.323Z,37.3301,-117.2524,12.7,0.6,ml,11.0,129.27,0.03,0.5696,nn,nn00890795,2024-12-29T05:19:07.188Z,"42 km S of Goldfield, Nevada",earthquake,,0.5,0.34,3.0,automatic,nn,nn
+2024-12-29T05:30:58.323Z,63.1253,-150.6181,116.2,1.5,ml,,,,0.23,ak,ak024gq2s1rc,2024-12-29T05:33:06.328Z,"70 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-12-29T05:23:58.130Z,61.2359,-151.7374,82.7,1.7,ml,,,,0.54,ak,ak024gq2qjqd,2024-12-29T05:26:08.023Z,"36 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-28T07:43:17.995Z,9.7506,40.0356,10.0,4.5,mb,29.0,116.0,3.281,0.66,us,us6000pg3w,2024-12-29T05:30:30.040Z,"26 km SSE of Abomsa, Ethiopia",earthquake,9.08,1.92,0.124,19.0,reviewed,us,us
+2024-12-28T06:22:39.616Z,0.3372,129.6526,10.0,4.3,mb,19.0,106.0,2.326,0.75,us,us6000pg3r,2024-12-29T05:26:16.040Z,"114 km NW of Waisai, Indonesia",earthquake,6.66,1.921,0.142,14.0,reviewed,us,us
