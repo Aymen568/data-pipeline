@@ -17637,3 +17637,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T22:00:24.000Z,39.458168029785,-122.89199829102,0.31000000238419,1.59,md,7.0,150.0,0.06754,0.09,nc,nc75109971,2024-12-30T22:02:00.387Z,"8 km ENE of Lake Pillsbury, CA",earthquake,0.52,9.28999996,0.12,3.0,automatic,nc,nc
 2024-12-30T21:55:44.210Z,38.778667449951,-122.76233673096,0.61000001430511,0.73,md,7.0,87.0,0.008371,0.05,nc,nc75109961,2024-12-30T21:57:20.794Z,"1 km WNW of The Geysers, CA",earthquake,0.37,0.860000014,0.29,7.0,automatic,nc,nc
 2024-12-30T12:20:39.744Z,36.7184,-116.2579,2.8,0.1,ml,24.0,100.67,0.024,0.1393,nn,nn00890945,2024-12-30T22:00:41.851Z,"49 km ESE of Beatty, Nevada",earthquake,,1.5,0.27,4.0,reviewed,nn,nn
+2024-12-30T22:13:36.447Z,39.1605,-119.0526,3.8,1.4,ml,10.0,84.36,0.04,0.1503,nn,nn00890950,2024-12-30T22:16:12.753Z,"21 km NNE of Yerington, Nevada",earthquake,,0.6,0.22,6.0,automatic,nn,nn
+2024-12-30T22:09:13.642Z,39.0936,-118.9702,9.4,1.4,ml,12.0,107.32,0.092,0.126,nn,nn00890948,2024-12-30T22:11:33.238Z,"20 km NE of Yerington, Nevada",earthquake,,0.7,0.12,7.0,automatic,nn,nn
