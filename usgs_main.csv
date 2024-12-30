@@ -17589,3 +17589,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T19:22:25.813Z,38.5445,-119.4875,0.0,1.5,ml,10.0,158.98,0.362,0.1563,nn,nn00890908,2024-12-30T19:24:49.905Z,"2 km SE of Coleville, California",earthquake,,6.2,0.4,6.0,automatic,nn,nn
 2024-12-30T19:35:28.693Z,39.1475,-119.0441,7.0,1.0,ml,8.0,125.87,0.022,0.0393,nn,nn00890910,2024-12-30T19:37:39.316Z,"20 km NNE of Yerington, Nevada",earthquake,,0.6,0.27,4.0,automatic,nn,nn
 2024-12-30T19:30:16.519Z,66.3371,-157.4832,34.2,2.8,ml,,,,0.74,ak,ak024gryndhv,2024-12-30T19:33:40.115Z,"63 km SSW of Shungnak, Alaska",earthquake,,3.9,,,automatic,ak,ak
+2024-12-30T19:21:33.138Z,5.0161,127.5195,123.142,4.4,mb,28.0,71.0,2.808,0.54,us,us6000pgix,2024-12-30T19:54:32.040Z,"210 km SE of Pondaguitan, Philippines",earthquake,10.41,7.12,0.123,20.0,reviewed,us,us
+2024-12-30T18:49:23.429Z,35.4965,-98.03166667,4.26,1.67,ml,18.0,78.0,0.07198587392,0.26,ok,ok2024zqmj,2024-12-30T19:48:58.036Z,"8 km WSW of El Reno, Oklahoma",earthquake,,1.7,0.2,8.0,reviewed,ok,ok
