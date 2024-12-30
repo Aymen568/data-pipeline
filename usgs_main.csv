@@ -17415,3 +17415,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T04:25:53.936Z,63.012,-149.4661,75.3,1.6,ml,,,,0.55,ak,ak024grpovq9,2024-12-30T04:27:40.179Z,"49 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-30T04:19:18.680Z,38.832164764404,-122.87666320801,2.0499999523163,0.47,md,9.0,174.0,0.008045,0.02,nc,nc75109581,2024-12-30T04:20:55.989Z,"12 km NW of The Geysers, CA",earthquake,0.81,0.5,0.33,10.0,automatic,nc,nc
 2024-12-29T22:11:48.316Z,62.1992,-147.5258,120.5,1.2,ml,,,,1.01,ak,ak024gqcsahv,2024-12-30T04:00:31.633Z,"34 km NNW of Eureka Roadhouse, Alaska",earthquake,,1.5,,,reviewed,ak,ak
+2024-12-30T04:30:42.446Z,60.9098,-150.9088,15.2,1.8,ml,,,,0.26,ak,ak024grppxf8,2024-12-30T04:32:45.415Z,"12 km W of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-30T04:27:17.860Z,40.26216506958,-124.60749816894,15.39999961853,2.67,ml,18.0,283.0,0.2402,0.13,nc,nc75109591,2024-12-30T04:42:16.302Z,"28 km W of Petrolia, CA",earthquake,3.07,1.42999995,1.62,5.0,automatic,nc,nc
+2024-12-29T21:22:05.658Z,44.3082,-115.1696,13.813,2.8,ml,17.0,64.0,0.308,0.63,us,us6000pgcf,2024-12-30T04:35:09.040Z,"21 km WNW of Stanley, Idaho",earthquake,1.67,7.75,0.041,78.0,reviewed,us,us
