@@ -17628,3 +17628,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T09:51:04.390Z,61.300666666667,-152.26283333333,-3.17,-0.73,ml,9.0,117.0,0.06291,0.14,av,av93432796,2024-12-30T21:11:55.460Z,"65 km WNW of Beluga, Alaska",earthquake,0.4,1.8,0.098890984362809,9.0,reviewed,av,av
 2024-12-30T08:19:57.320Z,61.288833333333,-152.25866666667,4.19,-0.66,ml,7.0,181.0,0.05528,0.25,av,av93432691,2024-12-30T21:04:07.890Z,"65 km WNW of Tyonek, Alaska",earthquake,0.9,1.58,0.25117543408404,7.0,reviewed,av,av
 2024-12-30T07:58:05.550Z,61.256,-152.26516666667,11.07,-0.33,ml,3.0,165.0,0.05091,0.05,av,av93432641,2024-12-30T20:56:23.920Z,"64 km WNW of Tyonek, Alaska",earthquake,0.59,0.75,0.059128016189439,3.0,reviewed,av,av
+2024-12-30T21:19:12.688Z,60.5716,-152.0044,96.6,1.9,ml,,,,0.57,ak,ak024grzrvj8,2024-12-30T21:21:31.706Z,"37 km W of Salamatof, Alaska",earthquake,,1.4,,,automatic,ak,ak
