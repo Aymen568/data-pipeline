@@ -17581,3 +17581,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T13:19:07.976Z,39.4014,-119.9147,10.4,1.0,ml,7.0,102.83,0.112,0.1335,nn,nn00890903,2024-12-30T19:04:52.244Z,"9 km E of Floriston, California",earthquake,,3.2,0.0,2.0,reviewed,nn,nn
 2024-12-30T19:10:08.989Z,39.1601,-119.0411,5.8,2.5,ml,17.0,67.02,0.009,0.0971,nn,nn00890904,2024-12-30T19:12:33.712Z,"22 km NNE of Yerington, Nevada",earthquake,,0.4,0.14,9.0,automatic,nn,nn
 2024-12-30T08:07:58.525Z,41.9242,-119.6225,0.3,2.0,ml,4.0,213.0,0.507,0.0581,nn,nn00890906,2024-12-30T19:20:12.003Z,"44 km E of Fort Bidwell, California",earthquake,,3.2,0.32,3.0,reviewed,nn,nn
+2024-12-30T19:29:07.230Z,38.828498840332,-122.82199859619,1.6100000143051,0.99,md,8.0,114.0,0.01062,0.01,nc,nc75109851,2024-12-30T19:30:43.214Z,"8 km NNW of The Geysers, CA",earthquake,0.38,0.800000012,0.43,8.0,automatic,nc,nc
+2024-12-30T19:28:05.370Z,38.823665618896,-122.84266662598,1.9299999475479,1.08,md,13.0,73.0,0.00599,0.01,nc,nc75109846,2024-12-30T19:29:43.209Z,"9 km NW of The Geysers, CA",earthquake,0.26,0.409999996,0.23,13.0,automatic,nc,nc
+2024-12-30T19:27:32.240Z,38.799167633057,-122.78433227539,3.5499999523163,1.06,md,19.0,68.0,0.006604,0.02,nc,nc75109841,2024-12-30T19:29:08.652Z,"3 km NNW of The Geysers, CA",earthquake,0.28,0.540000021,0.14,20.0,automatic,nc,nc
+2024-12-30T19:25:27.955Z,31.545,-104.193,3.2544,1.9,ml,15.0,100.0,0.1,0.4,tx,tx2024zqno,2024-12-30T19:32:08.374Z,"45 km NW of Toyah, Texas",earthquake,0.0,1.7856937646866,0.2,13.0,automatic,tx,tx
+2024-12-30T19:23:22.940Z,62.9758,-150.9908,122.4,2.4,ml,,,,0.4,ak,ak024grylvxl,2024-12-30T19:25:27.923Z,"54 km NNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-12-30T19:22:25.813Z,38.5445,-119.4875,0.0,1.5,ml,10.0,158.98,0.362,0.1563,nn,nn00890908,2024-12-30T19:24:49.905Z,"2 km SE of Coleville, California",earthquake,,6.2,0.4,6.0,automatic,nn,nn
