@@ -17429,3 +17429,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-29T21:52:58.186Z,40.133,77.5017,38.529,4.2,mb,32.0,121.0,1.611,0.88,us,us6000pgcp,2024-12-30T05:32:54.040Z,"136 km WNW of Tumxuk, China",earthquake,6.64,10.583,0.147,13.0,reviewed,us,us
 2024-12-30T05:41:27.561Z,63.3272,-151.4883,1.8,1.8,ml,,,,0.9,ak,ak024grqdor8,2024-12-30T05:43:26.563Z,"26 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-30T05:27:04.684Z,41.9584,-119.6094,17.261,3.2,ml,56.0,90.0,0.303,0.65,us,us6000pgen,2024-12-30T05:40:49.937Z,"46 km ENE of Fort Bidwell, California",earthquake,2.07,6.531,0.03,146.0,reviewed,us,us
+2024-12-30T05:46:08.971Z,31.598,-104.482,6.7923,1.6,ml,14.0,133.0,0.1,0.5,tx,tx2024zpmo,2024-12-30T05:50:35.396Z,"64 km S of Whites City, New Mexico",earthquake,0.0,4.7146854400635,0.1,12.0,automatic,tx,tx
+2024-12-30T05:40:49.444Z,-29.9318,-72.0574,10.0,5.5,mb,65.0,142.0,0.711,1.06,us,us6000pget,2024-12-30T05:56:25.040Z,"69 km W of Coquimbo, Chile",earthquake,2.41,1.849,0.032,344.0,reviewed,us,us
+2024-12-30T05:11:58.059Z,9.0411,40.0925,10.0,4.4,mb,27.0,249.0,3.669,0.68,us,us6000pges,2024-12-30T05:52:00.087Z,"10 km NW of Āwash, Ethiopia",earthquake,15.31,1.909,0.117,21.0,reviewed,us,us
