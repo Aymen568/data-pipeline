@@ -17571,3 +17571,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T17:55:50.380Z,39.509333333333,-110.34383333333,-1.45,1.3,md,7.0,138.0,0.08635,0.04,uu,uu80098866,2024-12-30T18:21:09.370Z,"6 km SE of Sunnyside, Utah",earthquake,0.48,0.24,0.1355225941703,7.0,reviewed,uu,uu
 2024-12-30T17:13:52.543Z,59.9847,-139.2546,15.9,1.6,ml,,,,0.9,ak,ak024grxcxwi,2024-12-30T18:34:10.550Z,"55 km NNE of Yakutat, Alaska",earthquake,,1.4,,,reviewed,ak,ak
 2024-12-30T15:01:22.951Z,52.7155,-168.2334,30.7,3.5,ml,,,,0.69,ak,ak024grw3fxd,2024-12-30T18:19:08.114Z,"49 km ESE of Nikolski, Alaska",earthquake,,2.4,,,reviewed,ak,ak
+2024-12-30T18:44:42.850Z,33.2183342,-116.3718338,2.64,1.23,ml,12.0,135.0,0.2071,0.38,ci,ci40830255,2024-12-30T18:46:45.271Z,"4 km S of Borrego Springs, CA",earthquake,1.17,23.41,0.31,11.0,automatic,ci,ci
+2024-12-30T18:44:26.550Z,33.4585,-116.4766667,11.66,0.82,ml,16.0,64.0,0.111,0.14,ci,ci40830247,2024-12-30T18:49:53.680Z,"21 km ESE of Anza, CA",earthquake,0.27,0.67,0.145,24.0,automatic,ci,ci
+2024-12-30T18:41:02.595Z,64.7044,-149.6764,0.0,1.7,ml,,,,1.0,ak,ak024gry49oz,2024-12-30T18:43:21.457Z,"28 km WNW of Four Mile Road, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-12-30T16:42:27.724Z,41.9116,-119.5732,5.2,1.6,ml,4.0,216.55,0.543,0.1463,nn,nn00890900,2024-12-30T18:46:15.144Z,"48 km E of Fort Bidwell, California",earthquake,,37.5,0.37,2.0,reviewed,nn,nn
