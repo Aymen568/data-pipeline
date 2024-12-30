@@ -17579,3 +17579,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T18:55:13.200Z,32.7876667,-116.799,11.51,1.42,ml,7.0,86.0,0.1101,0.13,ci,ci40830271,2024-12-30T18:58:36.770Z,"6 km SSW of Alpine, CA",earthquake,0.69,2.89,0.428,9.0,automatic,ci,ci
 2024-12-30T15:01:23.876Z,52.7456,-168.303,39.456,3.6,mb,24.0,223.0,0.404,0.69,us,us6000pgik,2024-12-30T18:55:56.040Z,"43 km ESE of Nikolski, Alaska",earthquake,5.6,13.368,0.188,7.0,reviewed,us,us
 2024-12-30T13:19:07.976Z,39.4014,-119.9147,10.4,1.0,ml,7.0,102.83,0.112,0.1335,nn,nn00890903,2024-12-30T19:04:52.244Z,"9 km E of Floriston, California",earthquake,,3.2,0.0,2.0,reviewed,nn,nn
+2024-12-30T19:10:08.989Z,39.1601,-119.0411,5.8,2.5,ml,17.0,67.02,0.009,0.0971,nn,nn00890904,2024-12-30T19:12:33.712Z,"22 km NNE of Yerington, Nevada",earthquake,,0.4,0.14,9.0,automatic,nn,nn
+2024-12-30T08:07:58.525Z,41.9242,-119.6225,0.3,2.0,ml,4.0,213.0,0.507,0.0581,nn,nn00890906,2024-12-30T19:20:12.003Z,"44 km E of Fort Bidwell, California",earthquake,,3.2,0.32,3.0,reviewed,nn,nn
