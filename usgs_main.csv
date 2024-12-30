@@ -17575,3 +17575,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T18:44:26.550Z,33.4585,-116.4766667,11.66,0.82,ml,16.0,64.0,0.111,0.14,ci,ci40830247,2024-12-30T18:49:53.680Z,"21 km ESE of Anza, CA",earthquake,0.27,0.67,0.145,24.0,automatic,ci,ci
 2024-12-30T18:41:02.595Z,64.7044,-149.6764,0.0,1.7,ml,,,,1.0,ak,ak024gry49oz,2024-12-30T18:43:21.457Z,"28 km WNW of Four Mile Road, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-30T16:42:27.724Z,41.9116,-119.5732,5.2,1.6,ml,4.0,216.55,0.543,0.1463,nn,nn00890900,2024-12-30T18:46:15.144Z,"48 km E of Fort Bidwell, California",earthquake,,37.5,0.37,2.0,reviewed,nn,nn
+2024-12-30T18:57:30.860Z,37.57500076294,-119.14266967773,3.8499999046326,1.53,md,8.0,201.0,0.07048,0.09,nc,nc75109826,2024-12-30T18:59:09.341Z,"16 km WSW of Mammoth Lakes, CA",earthquake,0.9,1.36000001,0.21,8.0,automatic,nc,nc
+2024-12-30T18:55:13.200Z,32.7876667,-116.799,11.51,1.42,ml,7.0,86.0,0.1101,0.13,ci,ci40830271,2024-12-30T18:58:36.770Z,"6 km SSW of Alpine, CA",earthquake,0.69,2.89,0.428,9.0,automatic,ci,ci
+2024-12-30T15:01:23.876Z,52.7456,-168.303,39.456,3.6,mb,24.0,223.0,0.404,0.69,us,us6000pgik,2024-12-30T18:55:56.040Z,"43 km ESE of Nikolski, Alaska",earthquake,5.6,13.368,0.188,7.0,reviewed,us,us
+2024-12-30T13:19:07.976Z,39.4014,-119.9147,10.4,1.0,ml,7.0,102.83,0.112,0.1335,nn,nn00890903,2024-12-30T19:04:52.244Z,"9 km E of Floriston, California",earthquake,,3.2,0.0,2.0,reviewed,nn,nn
