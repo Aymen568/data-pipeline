@@ -17537,3 +17537,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T15:27:54.584Z,12.224,141.5148,68.222,4.8,mb,74.0,46.0,3.54,0.71,us,us6000pghx,2024-12-30T16:40:28.040Z,"292 km NNE of Fais, Micronesia",earthquake,9.64,6.835,0.066,72.0,reviewed,us,us
 2024-12-30T16:42:01.842Z,60.0707,-139.6649,0.0,1.9,ml,,,,1.4,ak,ak024grwxm54,2024-12-30T16:44:05.330Z,"58 km N of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-30T14:55:32.382Z,41.9164,-119.5621,11.291,2.6,ml,28.0,98.0,0.357,0.49,us,us6000pghs,2024-12-30T16:46:51.040Z,"49 km E of Fort Bidwell, California",earthquake,2.06,6.79,0.039,88.0,reviewed,us,us
+2024-12-30T17:05:38.110Z,36.233501434326,-89.495002746582,9.079999923706,2.07999992,md,13.0,95.0,,0.0799999982,nm,nm60595736,2024-12-30T17:10:16.590Z,"3 km S of Ridgely, Tennessee",earthquake,0.35,0.810000002,0.289999992,10.0,reviewed,nm,nm
+2024-12-30T17:04:59.690Z,38.820499420166,-122.84283447266,2.1800000667572,0.75,md,8.0,112.0,0.006633,0.01,nc,nc75109786,2024-12-30T17:06:34.794Z,"9 km NW of The Geysers, CA",earthquake,0.41,1.0,0.26,9.0,automatic,nc,nc
+2024-12-30T16:59:42.050Z,33.9773333,-116.692,13.76,1.45,ml,62.0,25.0,0.07116,0.16,ci,ci40830167,2024-12-30T17:04:38.183Z,"11 km NE of Cabazon, CA",earthquake,0.13,0.3,0.177,27.0,automatic,ci,ci
+2024-12-30T14:55:32.490Z,41.9208,-119.5789,1.3,2.6,ml,7.0,142.91,0.539,0.1813,nn,nn00890891,2024-12-30T17:10:46.779Z,"47 km E of Fort Bidwell, California",earthquake,,2.6,0.29,5.0,reviewed,nn,nn
