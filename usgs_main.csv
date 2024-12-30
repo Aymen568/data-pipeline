@@ -17411,3 +17411,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T03:16:15.490Z,38.82149887085,-122.84283447266,2.25,1.07,md,18.0,103.0,0.006307,0.02,nc,nc75109561,2024-12-30T03:17:51.544Z,"9 km NW of The Geysers, CA",earthquake,0.25,0.469999999,0.06,21.0,automatic,nc,nc
 2024-12-30T03:15:00.930Z,35.46866667,-98.03016667,6.11,1.8,ml,76.0,37.0,0.04409134777,0.53,ok,ok2024zphn,2024-12-30T03:29:16.124Z,"9 km SW of El Reno, Oklahoma",earthquake,,1.0,0.27,35.0,reviewed,ok,ok
 2024-12-30T03:12:42.891Z,58.1618,-155.5362,73.1,0.9,ml,,,,1.02,ak,ak024grp0myp,2024-12-30T03:16:18.370Z,"88 km SE of King Salmon, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-12-30T03:39:44.730Z,35.3448334,-117.7949982,6.4,1.96,ml,35.0,90.0,0.08771,0.17,ci,ci40829975,2024-12-30T03:41:53.147Z,"15 km WSW of Johannesburg, CA",earthquake,0.27,0.72,0.237,17.0,automatic,ci,ci
