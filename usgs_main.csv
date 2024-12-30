@@ -17522,3 +17522,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T13:20:20.750Z,44.469,-115.21433333333,3.63,1.75,ml,9.0,74.0,0.4487,0.11,mb,mb90069748,2024-12-30T14:57:32.560Z,"35 km NW of Stanley, Idaho",earthquake,0.39,2.89,0.14048784672688,13.0,reviewed,mb,mb
 2024-12-29T23:02:39.540Z,38.516333333333,-112.89033333333,2.52,0.9,md,8.0,159.0,0.008133,0.08,uu,uu80098791,2024-12-30T14:58:32.780Z,"16 km NE of Milford, Utah",earthquake,0.52,0.75,0.50859013335966,2.0,reviewed,uu,uu
 2024-12-29T19:54:05.800Z,45.779833333333,-111.62983333333,13.2,1.04,ml,10.0,141.0,0.1829,0.18,mb,mb90069753,2024-12-30T15:09:10.570Z,"5 km SSE of Willow Creek, Montana",earthquake,0.51,1.64,0.19085684013003,12.0,reviewed,mb,mb
+2024-12-30T15:19:51.491Z,64.7869,-147.4902,36.3,1.1,ml,,,,0.86,ak,ak024grw7cwd,2024-12-30T15:21:43.358Z,"2 km SE of Badger, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-12-30T05:02:01.580Z,35.4605,-98.02966667,6.52,1.94,ml,87.0,39.0,0.03599293696,0.6,ok,ok2024zplb,2024-12-30T15:21:50.156Z,"10 km SW of El Reno, Oklahoma",earthquake,,1.0,0.29,39.0,reviewed,ok,ok
