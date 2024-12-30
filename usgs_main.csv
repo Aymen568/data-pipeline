@@ -17446,3 +17446,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T06:56:21.930Z,38.82500076294,-122.82033538818,4.1300001144409,0.23,md,7.0,178.0,0.008174,0.03,nc,nc75109641,2024-12-30T06:57:57.301Z,"8 km NW of The Geysers, CA",earthquake,1.24,3.69000006,0.11,7.0,automatic,nc,nc
 2024-12-30T06:49:29.690Z,33.6766667,-116.7893333,15.38,0.92,ml,37.0,45.0,0.06741,0.15,ci,ci40830015,2024-12-30T06:54:48.044Z,"10 km SW of Idyllwild, CA",earthquake,0.17,0.33,0.216,29.0,automatic,ci,ci
 2024-12-30T06:49:26.740Z,38.786499023438,-122.76950073242,3.1800000667572,0.75,md,10.0,102.0,0.01586,0.02,nc,nc75109636,2024-12-30T06:51:02.285Z,"2 km NW of The Geysers, CA",earthquake,0.4,1.09000003,0.1,11.0,automatic,nc,nc
+2024-12-30T07:14:19.470Z,34.1781667,-116.6671667,10.66,1.04,ml,39.0,51.0,0.1402,0.13,ci,ci40830023,2024-12-30T07:18:04.180Z,"17 km NNW of Morongo Valley, CA",earthquake,0.14,0.68,0.159,30.0,automatic,ci,ci
+2024-12-30T07:01:30.069Z,59.9182,-151.4982,41.5,3.4,ml,,,,0.47,ak,ak024grrbzih,2024-12-30T07:21:33.771Z,"13 km NNE of Nikolaevsk, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-12-30T06:55:56.899Z,31.71,-104.6,1.8038,1.7,ml,10.0,200.0,0.1,0.4,tx,tx2024zpov,2024-12-30T07:19:03.211Z,"55 km SSW of Whites City, New Mexico",earthquake,0.0,3.4831502437592,0.2,8.0,automatic,tx,tx
