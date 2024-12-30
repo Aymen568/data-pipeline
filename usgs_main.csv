@@ -17480,3 +17480,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T10:09:39.314Z,60.9864,-147.2033,19.1,1.8,ml,,,,0.44,ak,ak024grt60rv,2024-12-30T10:11:52.497Z,"31 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-30T10:02:26.131Z,31.682,-104.487,9.9241,1.7,ml,8.0,93.0,0.0,0.4,tx,tx2024zpuz,2024-12-30T10:23:11.502Z,"55 km S of Whites City, New Mexico",earthquake,0.0,3.1479823589325,0.3,6.0,automatic,tx,tx
 2024-12-30T10:43:05.370Z,38.541500091553,-122.29399871826,1.2999999523163,1.23,md,9.0,97.0,0.04473,0.12,nc,nc75109676,2024-12-30T10:44:41.570Z,"14 km ESE of Angwin, CA",earthquake,0.45,1.63,0.23,8.0,automatic,nc,nc
+2024-12-30T11:06:00.630Z,19.192832946777,-155.49200439453,30.340000152588,2.57,ml,63.0,68.0,0.04673,0.170000002,hv,hv74580202,2024-12-30T11:09:56.480Z,"1 km SW of Pāhala, Hawaii",earthquake,0.41,0.550000012,0.24,17.0,automatic,hv,hv
+2024-12-30T10:47:35.824Z,32.408,-101.393,4.0182,1.2,ml,21.0,71.0,0.0,0.3,tx,tx2024zpwm,2024-12-30T10:59:36.765Z,"14 km NNW of Sand Springs, Texas",earthquake,0.0,1.182479262352,0.1,13.0,automatic,tx,tx
