@@ -17646,3 +17646,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T22:54:35.228Z,36.7456,-116.2519,5.3,-0.3,ml,12.0,80.71,0.036,0.1549,nn,nn00890953,2024-12-30T22:56:35.355Z,"48 km ESE of Beatty, Nevada",earthquake,,0.9,0.24,6.0,automatic,nn,nn
 2024-12-30T22:54:32.228Z,39.1103,-118.9761,7.8,1.4,ml,13.0,123.37,0.076,0.1956,nn,nn00890954,2024-12-30T22:56:53.728Z,"21 km NE of Yerington, Nevada",earthquake,,0.7,0.18,5.0,automatic,nn,nn
 2024-12-30T22:21:03.990Z,49.317333333333,-120.49583333333,-0.48,1.93,ml,10.0,201.0,0.6087,0.52,uw,uw62069326,2024-12-30T23:11:00.550Z,"15 km S of Princeton, Canada",explosion,4.59,31.61,0.12514746071267,5.0,reviewed,uw,uw
+2024-12-30T23:00:44.820Z,17.92,-66.974666666667,16.05,2.37,md,10.0,234.0,0.08247,0.09,pr,pr71469753,2024-12-30T23:16:11.880Z,"9 km SW of Guánica, Puerto Rico",earthquake,0.52,0.58,0.057841143143918,4.0,reviewed,pr,pr
