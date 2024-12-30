@@ -17432,3 +17432,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T05:46:08.971Z,31.598,-104.482,6.7923,1.6,ml,14.0,133.0,0.1,0.5,tx,tx2024zpmo,2024-12-30T05:50:35.396Z,"64 km S of Whites City, New Mexico",earthquake,0.0,4.7146854400635,0.1,12.0,automatic,tx,tx
 2024-12-30T05:40:49.444Z,-29.9318,-72.0574,10.0,5.5,mb,65.0,142.0,0.711,1.06,us,us6000pget,2024-12-30T05:56:25.040Z,"69 km W of Coquimbo, Chile",earthquake,2.41,1.849,0.032,344.0,reviewed,us,us
 2024-12-30T05:11:58.059Z,9.0411,40.0925,10.0,4.4,mb,27.0,249.0,3.669,0.68,us,us6000pges,2024-12-30T05:52:00.087Z,"10 km NW of Āwash, Ethiopia",earthquake,15.31,1.909,0.117,21.0,reviewed,us,us
+2024-12-30T06:20:31.924Z,39.1146,-119.0279,7.3,1.6,ml,15.0,100.42,0.055,0.1523,nn,nn00890856,2024-12-30T06:22:34.713Z,"18 km NE of Yerington, Nevada",earthquake,,0.6,0.21,6.0,automatic,nn,nn
+2024-12-30T06:12:12.660Z,38.831832885742,-122.81833648682,1.75,0.26,md,10.0,69.0,0.01061,0.01,nc,nc75109626,2024-12-30T06:13:51.094Z,"8 km NNW of The Geysers, CA",earthquake,0.38,1.09000003,0.14,11.0,automatic,nc,nc
+2024-12-30T06:08:43.351Z,61.9344,-149.4839,21.0,1.9,ml,,,,0.78,ak,ak024grqs2u6,2024-12-30T06:11:03.015Z,"24 km NNW of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-30T06:00:56.811Z,61.2575,-152.4705,197.9,2.1,ml,,,,0.75,ak,ak024grqqe9d,2024-12-30T06:03:42.970Z,"74 km WNW of Tyonek, Alaska",earthquake,,3.9,,,automatic,ak,ak
+2024-12-30T05:57:49.229Z,61.6706,-149.5457,35.4,1.5,ml,,,,0.47,ak,ak024grqh5vu,2024-12-30T05:59:44.613Z,"5 km NNE of Meadow Lakes, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-12-30T05:49:03.779Z,-17.5658,168.1966,73.329,5.1,mww,47.0,96.0,2.312,0.87,us,us6000pgf9,2024-12-30T06:24:08.867Z,"22 km NNW of Port-Vila, Vanuatu",earthquake,9.92,7.415,0.08,15.0,reviewed,us,us
+2024-12-30T05:41:07.347Z,-29.9598,-71.9768,10.0,5.5,mww,44.0,72.0,0.642,1.11,us,us6000pgf5,2024-12-30T06:24:30.514Z,"61 km W of Coquimbo, Chile",earthquake,4.45,1.846,0.058,29.0,reviewed,us,us
+2024-12-30T05:27:04.352Z,41.9226,-119.5873,3.4,3.3,ml,7.0,142.39,0.533,0.2381,nn,nn00890853,2024-12-30T06:04:42.434Z,"47 km E of Fort Bidwell, California",earthquake,,3.0,0.33,5.0,reviewed,nn,nn
