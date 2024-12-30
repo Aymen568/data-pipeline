@@ -17509,3 +17509,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T08:30:46.127Z,8.6227,39.8402,10.0,4.4,mb,20.0,141.0,4.137,0.57,us,us6000pggc,2024-12-30T14:31:27.040Z,"31 km SSW of Metahāra, Ethiopia",earthquake,12.64,1.978,0.162,11.0,reviewed,us,us
 2024-12-30T05:02:01.242Z,35.4777,-98.0198,5.0,2.1,mb_lg,39.0,87.0,0.054,0.33,us,us6000pgei,2024-12-30T14:24:46.158Z,"8 km SW of El Reno, Oklahoma",earthquake,1.47,1.556,0.17,9.0,reviewed,us,us
 2024-12-30T03:57:24.650Z,37.413,-113.85833333333,7.88,1.03,md,5.0,169.0,0.04873,0.18,uu,uu80098831,2024-12-30T14:21:42.460Z,"16 km WNW of Veyo, Utah",earthquake,2.5,3.57,0.093684341564101,5.0,reviewed,uu,uu
+2024-12-30T02:05:27.100Z,38.147333333333,-112.63666666667,3.89,1.83,ml,13.0,89.0,0.3578,0.26,uu,uu80098826,2024-12-30T14:34:17.200Z,"14 km S of Beaver, Utah",earthquake,0.83,4.75,0.098736562989685,8.0,reviewed,uu,uu
