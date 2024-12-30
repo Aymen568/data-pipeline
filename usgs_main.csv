@@ -17647,3 +17647,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T22:54:32.228Z,39.1103,-118.9761,7.8,1.4,ml,13.0,123.37,0.076,0.1956,nn,nn00890954,2024-12-30T22:56:53.728Z,"21 km NE of Yerington, Nevada",earthquake,,0.7,0.18,5.0,automatic,nn,nn
 2024-12-30T22:21:03.990Z,49.317333333333,-120.49583333333,-0.48,1.93,ml,10.0,201.0,0.6087,0.52,uw,uw62069326,2024-12-30T23:11:00.550Z,"15 km S of Princeton, Canada",explosion,4.59,31.61,0.12514746071267,5.0,reviewed,uw,uw
 2024-12-30T23:00:44.820Z,17.92,-66.974666666667,16.05,2.37,md,10.0,234.0,0.08247,0.09,pr,pr71469753,2024-12-30T23:16:11.880Z,"9 km SW of Guánica, Puerto Rico",earthquake,0.52,0.58,0.057841143143918,4.0,reviewed,pr,pr
+2024-12-30T23:48:41.250Z,38.791999816895,-122.73366546631,1.7599999904633,1.04,md,14.0,93.0,0.009071,0.02,nc,nc75110001,2024-12-30T23:50:16.035Z,"3 km ENE of The Geysers, CA",earthquake,0.28,0.560000002,0.17,15.0,automatic,nc,nc
+2024-12-30T23:46:15.587Z,59.9682,-153.3117,129.4,2.3,ml,,,,0.29,ak,ak024gs14jau,2024-12-30T23:48:42.666Z,"48 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-12-30T23:39:36.737Z,61.6048,-146.229,28.6,1.6,ml,,,,0.92,ak,ak024gs132wy,2024-12-30T23:42:32.800Z,"51 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-30T23:30:54.885Z,8.4184,39.9434,10.0,4.7,mb,42.0,286.0,4.212,0.71,us,us6000pgkb,2024-12-30T23:46:05.231Z,"51 km ENE of Sīrē, Ethiopia",earthquake,11.38,2.018,0.093,35.0,reviewed,us,us
