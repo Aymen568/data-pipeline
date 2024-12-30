@@ -17534,3 +17534,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T15:25:58.132Z,-24.1824,-69.5355,87.842,4.5,mb,32.0,99.0,0.977,0.91,us,us6000pghw,2024-12-30T16:19:35.040Z,"105 km ESE of Antofagasta, Chile",earthquake,4.62,8.658,0.145,14.0,reviewed,us,us
 2024-12-30T15:20:17.760Z,31.1606674,-116.4185028,9.53,3.04,ml,6.0,276.0,0.236,0.08,ci,ci40830119,2024-12-30T16:09:45.030Z,"63 km SSE of Maneadero, B.C., MX",earthquake,0.97,1.33,0.151,25.0,reviewed,ci,ci
 2024-12-30T14:55:33.120Z,41.925166666667,-119.55733333333,-1.46,2.95,ml,8.0,212.0,0.3537,0.51,uw,uw62060967,2024-12-30T16:15:41.600Z,"49 km E of Fort Bidwell, California",earthquake,2.19,5.23,0.1268235989816,3.0,reviewed,uw,uw
+2024-12-30T15:27:54.584Z,12.224,141.5148,68.222,4.8,mb,74.0,46.0,3.54,0.71,us,us6000pghx,2024-12-30T16:40:28.040Z,"292 km NNE of Fais, Micronesia",earthquake,9.64,6.835,0.066,72.0,reviewed,us,us
