@@ -17639,3 +17639,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T12:20:39.744Z,36.7184,-116.2579,2.8,0.1,ml,24.0,100.67,0.024,0.1393,nn,nn00890945,2024-12-30T22:00:41.851Z,"49 km ESE of Beatty, Nevada",earthquake,,1.5,0.27,4.0,reviewed,nn,nn
 2024-12-30T22:13:36.447Z,39.1605,-119.0526,3.8,1.4,ml,10.0,84.36,0.04,0.1503,nn,nn00890950,2024-12-30T22:16:12.753Z,"21 km NNE of Yerington, Nevada",earthquake,,0.6,0.22,6.0,automatic,nn,nn
 2024-12-30T22:09:13.642Z,39.0936,-118.9702,9.4,1.4,ml,12.0,107.32,0.092,0.126,nn,nn00890948,2024-12-30T22:11:33.238Z,"20 km NE of Yerington, Nevada",earthquake,,0.7,0.12,7.0,automatic,nn,nn
+2024-12-30T22:30:21.970Z,38.821998596191,-122.81133270264,2.6800000667572,1.26,md,24.0,41.0,0.001706,0.01,nc,nc75109976,2024-12-30T22:32:01.054Z,"7 km NNW of The Geysers, CA",earthquake,0.21,0.479999989,0.18,27.0,automatic,nc,nc
+2024-12-30T22:20:57.300Z,17.988666666667,-66.989666666667,7.07,2.12,md,6.0,153.0,0.05534,0.12,pr,pr71469743,2024-12-30T22:38:03.950Z,"6 km ENE of La Parguera, Puerto Rico",earthquake,1.1,0.83,0.29378404717055,6.0,reviewed,pr,pr
+2024-12-30T22:13:22.088Z,9.8216,40.3074,10.0,4.8,mb,34.0,135.0,3.019,0.53,us,us6000pgjz,2024-12-30T22:34:38.696Z,"39 km ESE of Abomsa, Ethiopia",earthquake,13.02,1.973,0.097,33.0,reviewed,us,us
