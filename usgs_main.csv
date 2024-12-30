@@ -17499,3 +17499,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T12:53:29.560Z,19.188667297363,-155.48916625977,31.360000610352,2.39,ml,57.0,73.0,0.04181,0.140000001,hv,hv74580302,2024-12-30T12:56:45.350Z,"1 km SW of Pāhala, Hawaii",earthquake,0.36,0.560000002,0.48,18.0,automatic,hv,hv
 2024-12-30T12:50:25.170Z,36.1296667,-117.8593333,4.22,1.85,ml,29.0,50.0,0.01259,0.19,ci,ci40830079,2024-12-30T12:53:48.585Z,"12 km NE of Coso Junction, CA",earthquake,0.23,0.34,0.207,25.0,automatic,ci,ci
 2024-12-30T13:24:36.870Z,31.306,-103.026,6.7294,1.7,ml,8.0,124.0,0.0,0.5,tx,tx2024zqbr,2024-12-30T13:28:30.763Z,"7 km NNE of Coyanosa, Texas",earthquake,0.0,4.4220113754272,0.1,6.0,automatic,tx,tx
+2024-12-30T13:29:48.166Z,39.0753,-119.0245,8.3,1.1,ml,10.0,108.12,0.094,0.0524,nn,nn00890882,2024-12-30T13:32:17.146Z,"15 km NE of Yerington, Nevada",earthquake,,1.0,0.16,3.0,automatic,nn,nn
