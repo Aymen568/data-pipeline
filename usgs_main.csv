@@ -17629,3 +17629,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T08:19:57.320Z,61.288833333333,-152.25866666667,4.19,-0.66,ml,7.0,181.0,0.05528,0.25,av,av93432691,2024-12-30T21:04:07.890Z,"65 km WNW of Tyonek, Alaska",earthquake,0.9,1.58,0.25117543408404,7.0,reviewed,av,av
 2024-12-30T07:58:05.550Z,61.256,-152.26516666667,11.07,-0.33,ml,3.0,165.0,0.05091,0.05,av,av93432641,2024-12-30T20:56:23.920Z,"64 km WNW of Tyonek, Alaska",earthquake,0.59,0.75,0.059128016189439,3.0,reviewed,av,av
 2024-12-30T21:19:12.688Z,60.5716,-152.0044,96.6,1.9,ml,,,,0.57,ak,ak024grzrvj8,2024-12-30T21:21:31.706Z,"37 km W of Salamatof, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-12-30T21:30:28.330Z,38.820667266846,-122.84166717529,2.0199999809265,0.75,md,9.0,126.0,0.005732,0.01,nc,nc75109951,2024-12-30T21:32:05.208Z,"9 km NW of The Geysers, CA",earthquake,0.42,1.20000005,0.32,10.0,automatic,nc,nc
+2024-12-30T21:29:30.462Z,59.7902,-152.85,106.9,2.3,ml,,,,0.32,ak,ak024grzu237,2024-12-30T21:31:20.119Z,"57 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
