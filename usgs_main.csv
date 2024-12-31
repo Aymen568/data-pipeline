@@ -17711,3 +17711,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T21:48:54.381Z,36.7224,70.9675,225.12,4.0,mb,31.0,90.0,2.406,0.35,us,us6000pgjv,2024-12-31T05:31:43.040Z,"19 km SE of Jurm, Afghanistan",earthquake,9.04,6.2,0.144,13.0,reviewed,us,us
 2024-12-31T05:38:57.187Z,61.749,-146.5089,20.0,1.8,ml,,,,0.82,ak,ak024gtdwgdy,2024-12-31T05:40:51.686Z,"30 km SSE of Nelchina, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-31T05:33:23.110Z,37.52216720581,-121.54566955566,7.3099999427795,1.42,md,14.0,109.0,0.0778,0.11,nc,nc75110071,2024-12-31T05:35:01.960Z,"26 km SW of Tracy, CA",earthquake,0.44,1.40999997,0.17,11.0,automatic,nc,nc
+2024-12-31T05:49:16.870Z,38.82833480835,-122.78700256348,1.789999961853,0.22,md,6.0,129.0,0.01039,0.03,nc,nc75110091,2024-12-31T05:50:51.993Z,"6 km WNW of Cobb, CA",earthquake,1.36,0.550000012,0.08,7.0,automatic,nc,nc
+2024-12-31T05:49:14.024Z,64.4118,-147.4217,2.6,1.7,ml,,,,0.65,ak,ak024gtdypxf,2024-12-31T05:52:03.405Z,"27 km WSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-30T17:38:37.610Z,46.638666666667,-121.94483333333,6.37,0.82,ml,32.0,155.0,0.07398,0.07,uw,uw62060987,2024-12-31T05:50:23.650Z,"14 km SSE of Ashford, Washington",earthquake,0.28,0.35,0.071421201451977,10.0,reviewed,uw,uw
