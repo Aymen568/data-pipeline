@@ -17731,3 +17731,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-31T06:49:24.580Z,17.888,-66.762,5.42,2.67,md,10.0,244.0,0.1343,0.13,pr,pr71469763,2024-12-31T07:02:08.210Z,"12 km SSW of Tallaboa, Puerto Rico",earthquake,0.66,0.47,0.025079306942407,5.0,reviewed,pr,pr
 2024-12-31T06:42:08.216Z,31.706,-104.594,2.3666,1.7,ml,9.0,198.0,0.1,0.1,tx,tx2024zrjx,2024-12-31T07:00:20.234Z,"55 km SSW of Whites City, New Mexico",earthquake,0.0,3.3079044818878,0.3,7.0,automatic,tx,tx
 2024-12-30T12:20:00.904Z,8.4312,39.8921,10.0,4.5,mb,29.0,242.0,4.237,0.4,us,us6000pghc,2024-12-31T07:13:31.040Z,"46 km ENE of Sīrē, Ethiopia",earthquake,14.16,1.998,0.116,22.0,reviewed,us,us
+2024-12-31T07:23:43.130Z,38.75566482544,-122.72299957275,2.8800001144409,1.57,md,29.0,50.0,0.006096,0.06,nc,nc75110116,2024-12-31T07:25:18.622Z,"3 km WSW of Anderson Springs, CA",earthquake,0.27,0.400000006,0.13,30.0,automatic,nc,nc
+2024-12-31T06:57:10.380Z,18.1425,-68.3616,83.0,3.58,md,8.0,207.0,1.2594,0.37,pr,pr2024366000,2024-12-31T07:20:19.365Z,"36 km SE of Boca de Yuma, Dominican Republic",earthquake,4.79,3.32,0.03,6.0,reviewed,pr,pr
