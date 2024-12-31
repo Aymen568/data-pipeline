@@ -17788,3 +17788,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-31T09:03:18.480Z,37.81,-90.961,3.26,2.05,md,11.0,79.0,1.113,0.44,nm,nm60502868,2024-12-31T14:26:49.070Z,"17 km WNW of Caledonia, Missouri",earthquake,0.72,1.72,0.10464191737104,8.0,reviewed,nm,nm
 2024-12-31T13:38:45.900Z,18.664166666667,-67.444666666667,10.85,3.16,md,10.0,193.0,0.3719,0.17,pr,pr71469818,2024-12-31T14:42:03.550Z,"40 km NW of Aguadilla, Puerto Rico",earthquake,1.35,0.69,0.085044764509457,7.0,reviewed,pr,pr
 2024-12-31T13:07:48.024Z,32.14,-101.075,8.8623,1.8,ml,25.0,76.0,0.2,0.1,tx,tx2024zrwq,2024-12-31T14:42:57.536Z,"24 km SSW of Westbrook, Texas",earthquake,0.56352251704305,1.3754699005999,0.2,20.0,reviewed,tx,tx
+2024-12-31T14:55:25.706Z,32.406,-102.057,6.4304,1.3,ml,27.0,84.0,0.0,0.3,tx,tx2024zsax,2024-12-31T15:06:40.042Z,"34 km WSW of Ackerly, Texas",earthquake,0.0,1.5701615810394,0.1,18.0,automatic,tx,tx
+2024-12-31T07:20:03.346Z,8.9474,39.9384,10.0,4.3,mb,24.0,258.0,3.845,0.58,us,us6000pglz,2024-12-31T15:05:44.217Z,"5 km NNE of Metahāra, Ethiopia",earthquake,13.43,1.971,0.134,16.0,reviewed,us,us
+2024-12-31T05:44:31.948Z,9.1861,39.9108,10.0,4.5,mb,27.0,175.0,3.711,0.64,us,us6000pgll,2024-12-31T14:59:46.769Z,"31 km N of Metahāra, Ethiopia",earthquake,10.15,1.952,0.128,18.0,reviewed,us,us
