@@ -17861,3 +17861,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-31T20:21:36.164Z,63.3888,-148.4011,245.1,2.2,ml,,,,0.65,ak,ak024gtmqa2o,2024-12-31T20:27:32.456Z,"27 km E of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-12-31T20:09:41.058Z,-6.6407,150.5681,10.0,5.1,mb,58.0,46.0,2.906,0.73,us,us6000pgqb,2024-12-31T20:39:48.040Z,"122 km ESE of Kandrian, Papua New Guinea",earthquake,10.23,0.93,0.072,63.0,reviewed,us,us
 2024-12-31T16:47:42.670Z,44.656833333333,-111.93383333333,0.91,0.16,ml,9.0,157.0,0.2047,0.05,mb,mb90069883,2024-12-31T20:35:42.160Z,"38 km NNE of Spencer, Idaho",earthquake,0.31,1.04,0.093601317704606,3.0,reviewed,mb,mb
+2024-12-31T20:39:38.410Z,19.379999160767,-155.05349731445,-0.64999997615814,1.75,ml,18.0,197.0,0.03022,0.180000007,hv,hv74581442,2024-12-31T20:42:58.000Z,"12 km SE of Fern Forest, Hawaii",earthquake,0.54,0.209999993,2.97,3.0,automatic,hv,hv
+2024-12-31T18:29:10.770Z,45.16,-112.4305,-2.0,0.83,ml,9.0,204.0,0.234,0.06,mb,mb90069898,2024-12-31T20:50:41.000Z,"17 km ESE of Dillon, Montana",quarry blast,0.66,31.61,0.17837859698533,12.0,reviewed,mb,mb
