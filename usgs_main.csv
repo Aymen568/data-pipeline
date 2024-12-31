@@ -17721,3 +17721,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T23:40:33.457Z,-17.6128,-178.4011,568.031,4.6,mb,65.0,115.0,2.412,0.66,us,us6000pgkd,2024-12-31T06:04:04.040Z,"247 km ENE of Levuka, Fiji",earthquake,15.53,8.68,0.093,35.0,reviewed,us,us
 2024-12-31T06:31:58.960Z,38.832000732422,-122.81500244141,1.789999961853,1.33,md,28.0,52.0,0.009416,0.02,nc,nc75110106,2024-12-31T06:33:33.342Z,"8 km NNW of The Geysers, CA",earthquake,0.18,0.310000002,0.14,29.0,automatic,nc,nc
 2024-12-31T06:20:04.423Z,31.694,-104.574,2.9041,1.6,ml,7.0,200.0,0.0,0.2,tx,tx2024zrjf,2024-12-31T06:43:12.244Z,"56 km SSW of Whites City, New Mexico",earthquake,0.0,3.6731984615326,0.2,7.0,automatic,tx,tx
+2024-12-31T06:51:52.445Z,39.0936,-118.9933,6.9,1.0,ml,9.0,147.17,0.083,0.0436,nn,nn00890998,2024-12-31T06:54:12.484Z,"18 km NE of Yerington, Nevada",earthquake,,0.8,0.22,4.0,automatic,nn,nn
+2024-12-31T06:51:34.158Z,63.3739,-148.945,97.0,1.6,ml,,,,0.34,ak,ak024gtekmiv,2024-12-31T06:53:36.654Z,"2 km S of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-12-30T23:56:32.962Z,-5.7433,148.8255,152.898,4.6,mb,47.0,108.0,3.666,0.51,us,us6000pgkh,2024-12-31T06:46:02.040Z,"94 km WNW of Kandrian, Papua New Guinea",earthquake,9.02,7.748,0.092,35.0,reviewed,us,us
