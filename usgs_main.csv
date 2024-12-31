@@ -17826,3 +17826,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-31T09:18:25.240Z,47.893,-114.75,10.74,0.44,ml,4.0,170.0,0.04857,0.12,mb,mb90069858,2024-12-31T17:34:55.920Z,"13 km NW of Niarada, Montana",earthquake,2.08,3.35,0.14436985136833,2.0,reviewed,mb,mb
 2024-12-31T17:44:20.500Z,38.822334289551,-122.81116485596,2.8099999427795,0.77,md,16.0,61.0,0.001359,0.02,nc,nc75110336,2024-12-31T17:45:54.696Z,"7 km NNW of The Geysers, CA",earthquake,0.29,0.699999988,0.12,18.0,automatic,nc,nc
 2024-12-31T15:42:50.500Z,44.743166666667,-110.77783333333,6.88,0.83,md,13.0,90.0,0.05003,0.16,uu,uu80098921,2024-12-31T17:41:00.610Z,"26 km SSW of Mammoth, Wyoming",earthquake,0.48,1.12,0.25778686710766,8.0,reviewed,uu,uu
+2024-12-31T17:54:28.690Z,34.6066667,-116.844,1.26,1.15,ml,27.0,59.0,0.1798,0.11,ci,ci40830863,2024-12-31T17:58:09.950Z,"21 km NNE of Lucerne Valley, CA",earthquake,0.15,0.37,0.142,20.0,automatic,ci,ci
+2024-12-31T17:51:19.970Z,31.714,-104.268,4.26,2.1,ml,18.0,52.0,0.0,0.2,tx,tx2024zsge,2024-12-31T17:55:35.198Z,"52 km SSE of Whites City, New Mexico",earthquake,0.0,1.2161854505539,0.2,13.0,automatic,tx,tx
+2024-12-31T17:12:27.655Z,40.552,-126.8678,14.372,2.7,ml,12.0,290.0,2.099,0.55,us,us6000pgpc,2024-12-31T17:57:13.040Z,"220 km W of Ferndale, California",earthquake,11.22,9.922,0.049,54.0,reviewed,us,us
+2024-12-31T17:09:38.534Z,-4.0126,151.6442,8.42,5.0,mb,54.0,82.0,0.548,0.97,us,us6000pgpd,2024-12-31T17:50:56.040Z,"61 km WNW of Rabaul, Papua New Guinea",earthquake,7.22,0.717,0.078,52.0,reviewed,us,us
