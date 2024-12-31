@@ -17850,3 +17850,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-31T19:31:57.250Z,38.813331604004,-122.82466888428,2.2000000476837,0.8,md,18.0,56.0,0.005681,0.02,nc,nc75110401,2024-12-31T19:33:35.426Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.529999971,0.2,19.0,automatic,nc,nc
 2024-12-31T19:26:17.740Z,38.825164794922,-122.78483581543,1.0900000333786,1.02,md,13.0,88.0,0.0128,0.03,nc,nc75110391,2024-12-31T19:29:05.572Z,"5 km WNW of Cobb, CA",earthquake,0.26,0.479999989,0.3,14.0,automatic,nc,nc
 2024-12-31T19:18:38.701Z,9.134,40.1818,10.0,4.8,mb,74.0,55.0,3.542,0.8,us,us6000pgpw,2024-12-31T19:36:47.966Z,"16 km N of Āwash, Ethiopia",earthquake,9.45,1.872,0.06,85.0,reviewed,us,us
+2024-12-31T18:37:27.710Z,9.7378,40.0018,10.0,4.3,mb,32.0,129.0,3.316,0.77,us,us6000pgpl,2024-12-31T19:43:45.040Z,"27 km S of Abomsa, Ethiopia",earthquake,11.74,1.951,0.116,21.0,reviewed,us,us
