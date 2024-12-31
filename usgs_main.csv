@@ -17707,3 +17707,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-31T04:27:22.125Z,39.0957,-118.9681,8.2,1.9,ml,17.0,104.37,0.092,0.1636,nn,nn00890994,2024-12-31T04:29:43.909Z,"20 km NE of Yerington, Nevada",earthquake,,0.7,0.26,9.0,automatic,nn,nn
 2024-12-31T04:41:50.910Z,40.254333496094,-124.58567047119,28.510000228882,2.11,md,4.0,316.0,0.1891,0.06,nc,nc75110061,2024-12-31T04:47:20.251Z,"27 km W of Petrolia, CA",earthquake,8.58,6.05999994,0.02,5.0,automatic,nc,nc
 2024-12-31T04:57:02.590Z,33.8123333,-116.51,8.83,0.58,ml,29.0,67.0,0.03546,0.12,ci,ci40830543,2024-12-31T05:01:04.341Z,"2 km SE of Palm Springs, CA",earthquake,0.17,0.82,0.189,13.0,automatic,ci,ci
+2024-12-31T05:23:07.686Z,61.3014,-152.2676,3.7,0.9,ml,,,,0.13,ak,ak024gtdt4ts,2024-12-31T05:24:35.178Z,"66 km WNW of Beluga, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2024-12-30T21:48:54.381Z,36.7224,70.9675,225.12,4.0,mb,31.0,90.0,2.406,0.35,us,us6000pgjv,2024-12-31T05:31:43.040Z,"19 km SE of Jurm, Afghanistan",earthquake,9.04,6.2,0.144,13.0,reviewed,us,us
