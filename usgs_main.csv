@@ -17780,3 +17780,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-31T12:48:04.290Z,38.383335113525,-122.5813369751,1.9099999666214,1.8,md,15.0,74.0,0.03457,0.06,nc,nc75110251,2024-12-31T13:07:14.660Z,"5 km SW of Kenwood, CA",earthquake,0.3,0.670000017,0.21,13.0,automatic,nc,nc
 2024-12-31T12:44:26.530Z,34.4515,-119.1855,0.95,1.27,ml,21.0,57.0,0.04225,0.24,ci,ci40830679,2024-12-31T12:49:29.356Z,"5 km E of Ojai, CA",earthquake,0.31,0.61,0.309,31.0,automatic,ci,ci
 2024-12-31T00:37:54.809Z,36.7686,-116.0977,3.4,-0.2,ml,10.0,120.31,0.01,0.0437,nn,nn00891014,2024-12-31T12:51:39.212Z,"44 km WNW of Indian Springs, Nevada",earthquake,,1.2,0.12,3.0,reviewed,nn,nn
+2024-12-31T13:13:45.138Z,32.006,-102.261,4.449,1.0,ml,25.0,69.0,0.0,0.5,tx,tx2024zrww,2024-12-31T13:27:19.388Z,"11 km E of Gardendale, Texas",earthquake,0.0,1.0624994039536,0.1,16.0,automatic,tx,tx
+2024-12-31T12:59:46.650Z,17.976,-66.864166666667,16.1,2.18,md,7.0,154.0,0.005333,0.25,pr,pr71469808,2024-12-31T13:15:17.130Z,"2 km E of Maria Antonia, Puerto Rico",earthquake,1.34,0.99,0.11680730185436,6.0,reviewed,pr,pr
