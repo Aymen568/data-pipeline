@@ -17748,3 +17748,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-31T09:05:55.610Z,36.096,-117.8751667,2.4,1.31,ml,23.0,60.0,0.0271,0.14,ci,ci40830623,2024-12-31T09:09:22.210Z,"9 km NE of Coso Junction, CA",earthquake,0.15,0.21,0.236,22.0,automatic,ci,ci
 2024-12-31T09:28:58.702Z,59.7369,-153.2011,102.7,2.8,ml,,,,0.82,ak,ak024gtg81ez,2024-12-31T09:32:12.378Z,"51 km E of Pedro Bay, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-12-31T09:27:56.040Z,34.4368333,-119.1888333,4.06,1.24,ml,24.0,67.0,0.04243,0.24,ci,ci40830631,2024-12-31T09:32:19.311Z,"5 km ESE of Ojai, CA",earthquake,0.33,0.65,0.212,27.0,automatic,ci,ci
+2024-12-31T09:40:41.016Z,60.8379,-149.9471,36.0,1.3,ml,,,,0.55,ak,ak024gtgakzp,2024-12-31T09:42:51.146Z,"18 km WSW of Hope, Alaska",earthquake,,1.2,,,automatic,ak,ak
