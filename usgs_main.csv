@@ -17744,3 +17744,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-31T08:37:39.456Z,32.09,-101.482,3.1084,2.1,ml,57.0,68.0,0.1,0.3,tx,tx2024zrns,2024-12-31T08:46:47.610Z,"11 km WSW of Forsan, Texas",earthquake,0.0,0.94077175855637,0.1,33.0,automatic,tx,tx
 2024-12-31T08:55:50.728Z,38.747,-119.2056,1.0,1.7,ml,13.0,122.15,0.24,0.0945,nn,nn00891002,2024-12-31T08:58:14.889Z,"12 km ESE of Smith, Nevada",earthquake,,29.3,0.23,8.0,automatic,nn,nn
 2024-12-31T08:55:13.700Z,38.829166412354,-122.82283020019,3.2000000476837,0.76,md,9.0,77.0,0.01128,0.05,nc,nc75110136,2024-12-31T08:56:48.306Z,"8 km NNW of The Geysers, CA",earthquake,0.6,1.44000006,0.17,10.0,automatic,nc,nc
+2024-12-31T09:24:32.609Z,39.1567,-119.0441,10.9,1.5,ml,15.0,117.14,0.013,0.1475,nn,nn00891006,2024-12-31T09:26:46.223Z,"21 km NNE of Yerington, Nevada",earthquake,,0.4,0.18,8.0,automatic,nn,nn
+2024-12-31T09:05:55.610Z,36.096,-117.8751667,2.4,1.31,ml,23.0,60.0,0.0271,0.14,ci,ci40830623,2024-12-31T09:09:22.210Z,"9 km NE of Coso Junction, CA",earthquake,0.15,0.21,0.236,22.0,automatic,ci,ci
