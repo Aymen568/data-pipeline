@@ -17762,3 +17762,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-31T11:00:25.360Z,33.5873333,-116.8033333,8.52,0.53,ml,26.0,51.0,0.05646,0.13,ci,ci40830655,2024-12-31T11:04:57.172Z,"12 km WNW of Anza, CA",earthquake,0.18,0.4,0.124,11.0,automatic,ci,ci
 2024-12-31T10:55:36.767Z,39.1229,-119.0447,9.5,1.2,ml,11.0,132.41,0.046,0.1435,nn,nn00891011,2024-12-31T10:57:45.127Z,"18 km NE of Yerington, Nevada",earthquake,,0.7,0.38,6.0,automatic,nn,nn
 2024-12-31T11:13:12.830Z,37.532165527344,-118.83200073242,5.8899998664856,0.94,md,8.0,216.0,0.05781,0.01,nc,nc75110196,2024-12-31T11:14:48.057Z,"14 km W of Toms Place, CA",earthquake,1.62,2.41000009,0.15,9.0,automatic,nc,nc
+2024-12-31T11:34:14.770Z,33.3988342,-116.4323349,11.31,1.15,ml,40.0,48.0,0.1089,0.18,ci,ci40830671,2024-12-31T11:36:20.186Z,"17 km NNW of Borrego Springs, CA",earthquake,0.27,0.91,0.191,12.0,automatic,ci,ci
+2024-12-31T11:33:34.630Z,35.7015,-117.5083333,6.63,0.85,ml,23.0,55.0,0.07788,0.16,ci,ci40830663,2024-12-31T11:36:59.934Z,"12 km SW of Searles Valley, CA",earthquake,0.22,0.72,0.08,9.0,automatic,ci,ci
+2024-12-31T11:29:06.878Z,61.0523,-147.263,97.3,1.6,ml,,,,0.77,ak,ak024gthf0ov,2024-12-31T11:30:56.750Z,"37 km WNW of Tatitlek, Alaska",earthquake,,1.4,,,automatic,ak,ak
