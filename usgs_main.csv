@@ -17701,3 +17701,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-31T03:53:27.063Z,38.1845,-117.8016,1.3,1.4,ml,8.0,168.54,0.145,0.1905,nn,nn00890993,2024-12-31T03:56:01.040Z,"35 km SE of Mina, Nevada",earthquake,,2.9,0.28,4.0,automatic,nn,nn
 2024-12-31T03:51:27.960Z,39.0975,-118.9749,9.8,1.2,ml,12.0,139.46,0.107,0.1314,nn,nn00890990,2024-12-31T03:54:01.654Z,"20 km NE of Yerington, Nevada",earthquake,,0.8,0.22,4.0,automatic,nn,nn
 2024-12-31T03:51:03.460Z,38.985500335693,-122.97566986084,17.969999313354,1.63,md,8.0,182.0,0.07576,0.01,nc,nc75110056,2024-12-31T03:52:40.723Z,"8 km SW of Lakeport, CA",earthquake,0.62,0.649999976,0.15,3.0,automatic,nc,nc
+2024-12-31T04:12:00.040Z,33.3813333,-116.8973333,15.16,1.17,ml,58.0,26.0,0.04009,0.16,ci,ci40830519,2024-12-31T04:22:36.280Z,"4 km NW of Palomar Observatory, CA",earthquake,0.14,0.31,0.142,26.0,automatic,ci,ci
+2024-12-31T04:06:28.084Z,63.0768,-150.5626,12.1,1.9,ml,,,,1.35,ak,ak024gtd43mg,2024-12-31T04:08:44.216Z,"65 km N of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
