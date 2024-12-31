@@ -17693,3 +17693,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-31T03:03:25.267Z,39.1742,-119.0338,4.6,1.3,ml,11.0,110.66,0.007,0.1301,nn,nn00890985,2024-12-31T03:05:31.049Z,"23 km NNE of Yerington, Nevada",earthquake,,0.4,0.25,5.0,automatic,nn,nn
 2024-12-31T02:57:22.533Z,-15.7418,-75.4796,10.0,4.5,mb,29.0,159.0,3.959,0.97,us,us6000pgl3,2024-12-31T03:14:57.040Z,"53 km SW of San Juan, Peru",earthquake,6.26,1.893,0.091,35.0,reviewed,us,us
 2024-12-31T02:57:12.110Z,33.3078333,-116.86,19.43,0.75,ml,11.0,155.0,0.1788,0.25,ci,ci40830511,2024-12-31T03:01:24.954Z,"5 km S of Palomar Observatory, CA",earthquake,1.64,2.94,0.197,10.0,automatic,ci,ci
+2024-12-31T03:28:34.860Z,38.82149887085,-122.76233673096,1.7599999904633,0.27,md,9.0,123.0,0.01074,0.01,nc,nc75110041,2024-12-31T03:30:10.605Z,"3 km W of Cobb, CA",earthquake,0.37,0.660000026,0.14,10.0,automatic,nc,nc
+2024-12-31T03:19:01.668Z,39.0942,-118.965,9.7,1.2,ml,11.0,149.45,0.094,0.2326,nn,nn00890988,2024-12-31T03:21:21.328Z,"20 km NW of Schurz, Nevada",earthquake,,0.7,0.18,7.0,automatic,nn,nn
+2024-12-31T03:14:40.523Z,-18.7892,169.5139,239.124,4.2,mb,29.0,142.0,3.991,0.52,us,us6000pgl7,2024-12-31T03:34:24.040Z,"86 km NNE of Isangel, Vanuatu",earthquake,11.61,10.17,0.115,21.0,reviewed,us,us
