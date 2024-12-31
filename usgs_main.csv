@@ -17724,3 +17724,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-31T06:51:52.445Z,39.0936,-118.9933,6.9,1.0,ml,9.0,147.17,0.083,0.0436,nn,nn00890998,2024-12-31T06:54:12.484Z,"18 km NE of Yerington, Nevada",earthquake,,0.8,0.22,4.0,automatic,nn,nn
 2024-12-31T06:51:34.158Z,63.3739,-148.945,97.0,1.6,ml,,,,0.34,ak,ak024gtekmiv,2024-12-31T06:53:36.654Z,"2 km S of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-30T23:56:32.962Z,-5.7433,148.8255,152.898,4.6,mb,47.0,108.0,3.666,0.51,us,us6000pgkh,2024-12-31T06:46:02.040Z,"94 km WNW of Kandrian, Papua New Guinea",earthquake,9.02,7.748,0.092,35.0,reviewed,us,us
+2024-12-31T07:16:02.470Z,33.7128334,-116.7724991,15.49,1.39,ml,50.0,41.0,0.05053,0.16,ci,ci40830591,2024-12-31T07:18:06.896Z,"6 km WSW of Idyllwild, CA",earthquake,0.21,0.4,0.227,14.0,automatic,ci,ci
+2024-12-31T06:58:10.586Z,31.709,-104.536,9.2576,1.6,ml,8.0,180.0,0.0,0.4,tx,tx2024zrkk,2024-12-31T07:09:50.299Z,"53 km SSW of Whites City, New Mexico",earthquake,0.0,5.6319122314453,0.3,6.0,automatic,tx,tx
+2024-12-31T06:56:26.170Z,38.815498352051,-122.81833648682,0.98000001907349,1.06,md,16.0,59.0,0.01019,0.02,nc,nc75110111,2024-12-31T06:58:02.515Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.460000008,0.39,18.0,automatic,nc,nc
+2024-12-31T06:54:49.255Z,64.4038,-147.4615,12.7,1.4,ml,,,,0.67,ak,ak024gtelau5,2024-12-31T06:57:01.837Z,"30 km WSW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-12-31T06:49:24.580Z,17.888,-66.762,5.42,2.67,md,10.0,244.0,0.1343,0.13,pr,pr71469763,2024-12-31T07:02:08.210Z,"12 km SSW of Tallaboa, Puerto Rico",earthquake,0.66,0.47,0.025079306942407,5.0,reviewed,pr,pr
+2024-12-31T06:42:08.216Z,31.706,-104.594,2.3666,1.7,ml,9.0,198.0,0.1,0.1,tx,tx2024zrjx,2024-12-31T07:00:20.234Z,"55 km SSW of Whites City, New Mexico",earthquake,0.0,3.3079044818878,0.3,7.0,automatic,tx,tx
+2024-12-30T12:20:00.904Z,8.4312,39.8921,10.0,4.5,mb,29.0,242.0,4.237,0.4,us,us6000pghc,2024-12-31T07:13:31.040Z,"46 km ENE of Sīrē, Ethiopia",earthquake,14.16,1.998,0.116,22.0,reviewed,us,us
