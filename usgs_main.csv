@@ -17857,3 +17857,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-31T20:15:00.300Z,38.792999267578,-122.77866363525,1.7799999713898,0.95,md,12.0,91.0,0.007234,0.03,nc,nc75110416,2024-12-31T20:16:34.765Z,"3 km NW of The Geysers, CA",earthquake,0.28,0.600000024,0.18,13.0,automatic,nc,nc
 2024-12-31T20:12:19.300Z,35.058,-118.3378333,0.07,1.17,ml,28.0,42.0,0.06731,0.18,ci,ci40830967,2024-12-31T20:17:08.646Z,"13 km SE of Tehachapi, CA",earthquake,0.23,0.56,0.165,28.0,automatic,ci,ci
 2024-12-31T18:52:07.239Z,24.3008,121.7217,25.648,3.9,mwr,48.0,55.0,0.172,0.73,us,us6000pgpr,2024-12-31T20:20:57.040Z,"37 km NNE of Hualien City, Taiwan",earthquake,1.63,4.704,0.062,25.0,reviewed,us,us
+2024-12-31T20:27:18.180Z,33.4076667,-117.2195,26.1,1.14,ml,17.0,132.0,0.3723,0.32,ci,ci40830991,2024-12-31T20:31:16.193Z,"4 km NE of Fallbrook, CA",earthquake,1.03,1.71,0.198,29.0,automatic,ci,ci
+2024-12-31T20:21:36.164Z,63.3888,-148.4011,245.1,2.2,ml,,,,0.65,ak,ak024gtmqa2o,2024-12-31T20:27:32.456Z,"27 km E of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-12-31T20:09:41.058Z,-6.6407,150.5681,10.0,5.1,mb,58.0,46.0,2.906,0.73,us,us6000pgqb,2024-12-31T20:39:48.040Z,"122 km ESE of Kandrian, Papua New Guinea",earthquake,10.23,0.93,0.072,63.0,reviewed,us,us
+2024-12-31T16:47:42.670Z,44.656833333333,-111.93383333333,0.91,0.16,ml,9.0,157.0,0.2047,0.05,mb,mb90069883,2024-12-31T20:35:42.160Z,"38 km NNE of Spencer, Idaho",earthquake,0.31,1.04,0.093601317704606,3.0,reviewed,mb,mb
