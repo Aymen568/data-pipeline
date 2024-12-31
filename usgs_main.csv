@@ -17793,3 +17793,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-31T05:44:31.948Z,9.1861,39.9108,10.0,4.5,mb,27.0,175.0,3.711,0.64,us,us6000pgll,2024-12-31T14:59:46.769Z,"31 km N of Metahāra, Ethiopia",earthquake,10.15,1.952,0.128,18.0,reviewed,us,us
 2024-12-31T15:22:39.193Z,62.1188,-148.645,35.0,1.8,ml,,,,0.44,ak,ak024gtjrblb,2024-12-31T15:24:26.681Z,"37 km NNW of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-31T15:18:12.213Z,60.0808,-147.9281,17.3,2.4,ml,,,,0.43,ak,ak024gtjqen9,2024-12-31T15:19:47.586Z,"4 km ENE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-31T15:31:09.760Z,38.780834197998,-122.76433563232,2.539999961853,0.75,md,9.0,102.0,0.01016,0.1,nc,nc75110281,2024-12-31T15:32:43.692Z,"1 km NW of The Geysers, CA",earthquake,0.69,1.15999997,0.16,9.0,automatic,nc,nc
+2024-12-31T13:17:39.410Z,44.709166666667,-111.01816666667,9.6,0.54,md,12.0,111.0,0.05088,0.1,uu,uu80098916,2024-12-31T15:36:15.850Z,"8 km NE of West Yellowstone, Montana",earthquake,0.42,0.86,0.25325137009336,6.0,reviewed,uu,uu
