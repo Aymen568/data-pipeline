@@ -17746,3 +17746,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-31T08:55:13.700Z,38.829166412354,-122.82283020019,3.2000000476837,0.76,md,9.0,77.0,0.01128,0.05,nc,nc75110136,2024-12-31T08:56:48.306Z,"8 km NNW of The Geysers, CA",earthquake,0.6,1.44000006,0.17,10.0,automatic,nc,nc
 2024-12-31T09:24:32.609Z,39.1567,-119.0441,10.9,1.5,ml,15.0,117.14,0.013,0.1475,nn,nn00891006,2024-12-31T09:26:46.223Z,"21 km NNE of Yerington, Nevada",earthquake,,0.4,0.18,8.0,automatic,nn,nn
 2024-12-31T09:05:55.610Z,36.096,-117.8751667,2.4,1.31,ml,23.0,60.0,0.0271,0.14,ci,ci40830623,2024-12-31T09:09:22.210Z,"9 km NE of Coso Junction, CA",earthquake,0.15,0.21,0.236,22.0,automatic,ci,ci
+2024-12-31T09:28:58.702Z,59.7369,-153.2011,102.7,2.8,ml,,,,0.82,ak,ak024gtg81ez,2024-12-31T09:32:12.378Z,"51 km E of Pedro Bay, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-12-31T09:27:56.040Z,34.4368333,-119.1888333,4.06,1.24,ml,24.0,67.0,0.04243,0.24,ci,ci40830631,2024-12-31T09:32:19.311Z,"5 km ESE of Ojai, CA",earthquake,0.33,0.65,0.212,27.0,automatic,ci,ci
