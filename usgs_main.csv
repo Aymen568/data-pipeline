@@ -17821,3 +17821,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-31T15:18:02.777Z,30.1812,57.6817,10.0,4.2,mb,73.0,62.0,5.378,0.61,us,us6000pgnx,2024-12-31T17:15:23.040Z,"59 km E of Kerman, Iran",earthquake,6.66,1.667,0.065,72.0,reviewed,us,us
 2024-12-31T11:33:21.530Z,58.8065,-150.6448,44.4,2.1,ml,,,,0.52,ak,ak024gthfwtz,2024-12-31T17:09:16.935Z,"91 km SE of Port Graham, Alaska",earthquake,,1.9,,,reviewed,ak,ak
 2024-12-31T09:56:14.210Z,41.442,-112.17683333333,11.1,1.35,ml,27.0,70.0,0.1286,0.28,uu,uu80098906,2024-12-31T17:19:19.110Z,"12 km WNW of Willard, Utah",earthquake,0.43,1.16,0.071988607093227,3.0,reviewed,uu,uu
+2024-12-31T17:29:13.055Z,64.3694,-147.1235,10.8,1.3,ml,,,,0.51,ak,ak024gtkzmsp,2024-12-31T17:31:30.433Z,"20 km SSW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-31T12:29:56.040Z,38.178666666667,-112.67366666667,3.61,2.07,ml,16.0,66.0,0.3163,0.18,uu,uu80098911,2024-12-31T17:35:56.530Z,"11 km SSW of Beaver, Utah",earthquake,0.38,10.0,0.10639313427333,18.0,reviewed,uu,uu
+2024-12-31T09:18:25.240Z,47.893,-114.75,10.74,0.44,ml,4.0,170.0,0.04857,0.12,mb,mb90069858,2024-12-31T17:34:55.920Z,"13 km NW of Niarada, Montana",earthquake,2.08,3.35,0.14436985136833,2.0,reviewed,mb,mb
