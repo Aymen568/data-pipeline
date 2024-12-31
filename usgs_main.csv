@@ -17782,3 +17782,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-31T00:37:54.809Z,36.7686,-116.0977,3.4,-0.2,ml,10.0,120.31,0.01,0.0437,nn,nn00891014,2024-12-31T12:51:39.212Z,"44 km WNW of Indian Springs, Nevada",earthquake,,1.2,0.12,3.0,reviewed,nn,nn
 2024-12-31T13:13:45.138Z,32.006,-102.261,4.449,1.0,ml,25.0,69.0,0.0,0.5,tx,tx2024zrww,2024-12-31T13:27:19.388Z,"11 km E of Gardendale, Texas",earthquake,0.0,1.0624994039536,0.1,16.0,automatic,tx,tx
 2024-12-31T12:59:46.650Z,17.976,-66.864166666667,16.1,2.18,md,7.0,154.0,0.005333,0.25,pr,pr71469808,2024-12-31T13:15:17.130Z,"2 km E of Maria Antonia, Puerto Rico",earthquake,1.34,0.99,0.11680730185436,6.0,reviewed,pr,pr
+2024-12-31T13:17:12.322Z,31.662,-104.331,4.6253,1.7,ml,16.0,69.0,0.1,0.2,tx,tx2024zrxd,2024-12-31T13:30:28.405Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.4169620275497,0.1,12.0,automatic,tx,tx
