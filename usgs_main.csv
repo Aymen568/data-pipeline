@@ -18171,3 +18171,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-01T23:28:42.474Z,31.585,-104.555,3.6581,1.8,ml,8.0,165.0,0.1,0.2,tx,tx2025abur,2025-01-01T23:36:58.496Z,"65 km NNE of Van Horn, Texas",earthquake,0.0,2.2746438980102,0.1,6.0,automatic,tx,tx
 2025-01-01T23:28:15.820Z,33.388,-116.4391667,11.05,1.99,ml,92.0,13.0,0.1086,0.21,ci,ci40831823,2025-01-01T23:38:50.050Z,"16 km NNW of Borrego Springs, CA",earthquake,0.13,0.28,0.147,26.0,automatic,ci,ci
 2025-01-01T23:26:24.900Z,33.3878333,-116.436,11.03,1.72,ml,79.0,17.0,0.1088,0.2,ci,ci40831815,2025-01-01T23:36:56.860Z,"16 km NNW of Borrego Springs, CA",earthquake,0.15,0.3,0.187,26.0,automatic,ci,ci
+2025-01-01T23:31:44.500Z,34.1995,-117.5075,2.83,0.98,ml,26.0,86.0,0.01046,0.21,ci,ci40831839,2025-01-01T23:40:05.162Z,"7 km S of Lytle Creek, CA",earthquake,0.29,0.33,0.253,30.0,automatic,ci,ci
+2025-01-01T23:31:15.976Z,32.397,-102.059,4.4137,1.6,ml,51.0,45.0,0.0,0.4,tx,tx2025abuv,2025-01-01T23:44:07.146Z,"35 km WSW of Ackerly, Texas",earthquake,0.0,0.81752800941467,0.1,31.0,automatic,tx,tx
