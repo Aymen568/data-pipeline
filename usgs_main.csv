@@ -18052,3 +18052,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-01T13:48:26.511Z,-56.3923,-26.6927,77.676,6.2,mww,39.0,81.0,5.975,0.89,us,us6000pgv4,2025-01-01T14:11:33.292Z,South Sandwich Islands region,earthquake,11.67,8.622,0.061,26.0,reviewed,us,us
 2025-01-01T14:23:19.390Z,33.9373333,-117.2021667,12.41,0.96,ml,49.0,69.0,0.02641,0.17,ci,ci40831431,2025-01-01T14:28:05.029Z,"3 km ENE of Moreno Valley, CA",earthquake,0.17,0.36,0.268,29.0,automatic,ci,ci
 2025-01-01T14:20:17.490Z,33.9365,-117.2011667,12.54,1.26,ml,62.0,61.0,0.02597,0.17,ci,ci40831423,2025-01-01T14:30:45.390Z,"3 km ENE of Moreno Valley, CA",earthquake,0.14,0.33,0.138,24.0,automatic,ci,ci
+2025-01-01T14:37:22.270Z,33.683,-116.7956667,14.3,0.83,ml,49.0,30.0,0.06845,0.17,ci,ci40831439,2025-01-01T14:41:58.402Z,"10 km SW of Idyllwild, CA",earthquake,0.17,0.3,0.215,29.0,automatic,ci,ci
