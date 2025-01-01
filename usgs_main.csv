@@ -18147,3 +18147,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-01T20:57:55.148Z,42.2517,-100.6392,5.0,3.0,mb_lg,22.0,51.0,0.869,0.55,us,us6000pgxv,2025-01-01T21:08:56.587Z,"4 km SSW of Brownlee, Nebraska",earthquake,5.07,2.003,0.05,104.0,reviewed,us,us
 2025-01-01T20:57:03.840Z,40.284000396729,-125.08850097656,0.18000000715256,2.82,md,21.0,297.0,0.5706,0.18,nc,nc75110981,2025-01-01T21:07:15.061Z,"68 km W of Petrolia, CA",earthquake,5.63,10.25,0.13,15.0,automatic,nc,nc
 2025-01-01T20:51:28.950Z,19.204166412354,-155.38250732422,30.389999389648,3.04,ml,62.0,160.0,0.03606,0.159999996,hv,hv74581922,2025-01-01T21:06:27.148Z,"10 km E of Pāhala, Hawaii",earthquake,0.37,0.449999988,0.33,43.0,automatic,hv,hv
+2025-01-01T21:06:24.290Z,31.588,-104.559,3.7138,1.8,ml,7.0,167.0,0.1,0.1,tx,tx2025abqd,2025-01-01T21:24:03.995Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.2834360599518,0.2,7.0,automatic,tx,tx
