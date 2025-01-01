@@ -18095,3 +18095,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-01T16:17:50.621Z,31.717,-101.684,2.9226,2.1,ml,56.0,62.0,0.1,0.4,tx,tx2025abgh,2025-01-01T16:35:20.169Z,"25 km SW of Garden City, Texas",earthquake,0.0,0.93921506404877,0.1,31.0,automatic,tx,tx
 2025-01-01T16:10:06.641Z,32.407,-102.066,7.2998,3.0,ml,31.0,76.0,0.0,0.1,tx,tx2025abga,2025-01-01T16:35:15.160Z,"35 km WSW of Ackerly, Texas",earthquake,0.40414358273828,0.64280483628173,0.1,14.0,reviewed,tx,tx
 2025-01-01T16:04:36.130Z,18.0328,-66.4861,15.0,3.24,md,20.0,162.0,0.1021,0.16,pr,pr2025001000,2025-01-01T16:36:23.509Z,"2 km WSW of Río Cañas Abajo, Puerto Rico",earthquake,0.42,0.52,0.15,11.0,reviewed,pr,pr
+2025-01-01T16:46:33.120Z,32.7756653,-115.4355011,11.1,1.95,ml,34.0,61.0,0.03106,0.32,ci,ci40831671,2025-01-01T16:48:47.074Z,"6 km SW of Holtville, CA",earthquake,0.53,0.63,0.266,25.0,automatic,ci,ci
+2025-01-01T16:40:52.170Z,32.7815,-115.435,10.88,1.6,ml,31.0,59.0,0.02575,0.32,ci,ci40831663,2025-01-01T16:44:42.723Z,"6 km WSW of Holtville, CA",earthquake,0.52,0.64,0.193,27.0,automatic,ci,ci
+2025-01-01T16:38:16.743Z,37.4122,-117.1194,7.2,0.8,ml,9.0,203.37,0.415,0.2231,nn,nn00891136,2025-01-01T16:40:26.084Z,"34 km SSE of Goldfield, Nevada",earthquake,,111.2,0.43,6.0,automatic,nn,nn
+2025-01-01T15:26:08.916Z,9.1873,40.1358,10.0,4.9,mb,47.0,65.0,3.54,0.91,us,us6000pgw3,2025-01-01T16:40:49.592Z,"22 km N of Āwash, Ethiopia",earthquake,9.64,1.862,0.065,74.0,reviewed,us,us
