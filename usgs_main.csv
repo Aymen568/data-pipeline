@@ -17960,3 +17960,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-01T05:00:28.000Z,34.2755,-118.4478333,11.46,0.88,ml,28.0,68.0,0.0268,0.16,ci,ci40831191,2025-01-01T05:05:05.937Z,"2 km SSW of San Fernando, CA",earthquake,0.26,0.43,0.218,34.0,automatic,ci,ci
 2025-01-01T04:39:17.189Z,-20.8846,169.3326,10.0,5.6,mww,48.0,81.0,2.456,1.31,us,us6000pgsd,2025-01-01T05:07:28.040Z,"148 km S of Isangel, Vanuatu",earthquake,8.49,1.926,0.068,21.0,reviewed,us,us
 2025-01-01T04:37:23.202Z,-17.6668,168.1998,62.726,4.8,mb,30.0,141.0,2.405,0.99,us,us6000pgse,2025-01-01T05:06:44.373Z,"14 km WNW of Port-Vila, Vanuatu",earthquake,9.84,8.658,0.116,23.0,reviewed,us,us
+2025-01-01T05:15:26.040Z,35.715168,-117.5558319,7.02,1.1,ml,16.0,83.0,0.1186,0.16,ci,ci40831199,2025-01-01T05:17:40.462Z,"15 km WSW of Searles Valley, CA",earthquake,0.53,1.38,0.151,5.0,automatic,ci,ci
+2025-01-01T05:07:50.240Z,19.495666503906,-155.12716674805,11.0,1.91,ml,43.0,83.0,0.09672,0.200000003,hv,hv74581682,2025-01-01T05:10:53.150Z,"2 km WNW of Eden Roc, Hawaii",earthquake,0.32,0.5,0.42,4.0,automatic,hv,hv
+2025-01-01T04:22:38.279Z,43.1919,-127.1594,10.0,3.2,ml,42.0,260.0,1.829,0.48,us,us6000pgs8,2025-01-01T05:20:55.040Z,"222 km W of Langlois, Oregon",earthquake,9.34,2.018,0.035,110.0,reviewed,us,us
