@@ -18119,3 +18119,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-01T18:13:46.589Z,37.3746,-117.1372,0.0,1.2,ml,17.0,197.83,0.123,0.2814,nn,nn00891151,2025-01-01T18:16:10.566Z,"38 km SSE of Goldfield, Nevada",earthquake,,13.5,0.28,12.0,automatic,nn,nn
 2025-01-01T18:11:04.824Z,63.3172,-149.6809,93.2,1.9,ml,,,,0.34,ak,ak0251ybikv,2025-01-01T18:12:21.515Z,"37 km WSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-01-01T18:07:31.716Z,59.6474,-152.2838,73.2,2.2,ml,,,,0.31,ak,ak0251yapub,2025-01-01T18:09:35.590Z,"29 km WSW of Anchor Point, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-01-01T18:36:49.424Z,31.584,-104.568,3.3742,2.0,ml,8.0,170.0,0.1,0.1,tx,tx2025abkw,2025-01-01T18:40:03.980Z,"65 km NNE of Van Horn, Texas",earthquake,0.0,2.9758770465851,0.1,6.0,automatic,tx,tx
+2025-01-01T18:29:39.330Z,33.6951667,-117.4296667,10.37,1.12,ml,49.0,48.0,0.05839,0.23,ci,ci40831711,2025-01-01T18:40:31.600Z,"10 km WNW of Lake Elsinore, CA",earthquake,0.25,0.44,0.221,30.0,automatic,ci,ci
+2025-01-01T18:27:51.448Z,-36.0834,-100.6015,10.0,5.1,mb,134.0,48.0,11.618,0.56,us,us6000pgx1,2025-01-01T18:44:24.040Z,southeast of Easter Island,earthquake,11.37,1.879,0.04,204.0,reviewed,us,us
