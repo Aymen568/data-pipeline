@@ -18091,3 +18091,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-01T15:53:17.940Z,32.7513333,-115.4046667,16.77,1.7,ml,16.0,211.0,0.1241,0.25,ci,ci40831607,2025-01-01T15:56:54.803Z,"7 km SSW of Holtville, CA",earthquake,0.93,1.31,0.227,26.0,automatic,ci,ci
 2025-01-01T15:51:13.820Z,35.705,-117.515,6.77,0.54,ml,17.0,69.0,0.08431,0.14,ci,ci40831599,2025-01-01T15:54:38.797Z,"12 km SW of Searles Valley, CA",earthquake,0.28,0.78,0.145,9.0,automatic,ci,ci
 2025-01-01T12:50:50.860Z,46.805,-111.59383333333,12.14,2.09,ml,11.0,158.0,0.1886,0.12,mb,mb90069918,2025-01-01T16:15:22.190Z,"29 km ENE of Helena Valley Northeast, Montana",earthquake,0.58,0.8,0.18158865247863,27.0,reviewed,mb,mb
+2025-01-01T16:23:48.080Z,40.216499328613,-121.1181640625,-0.56999999284744,2.66,md,25.0,45.0,0.2004,0.31,nc,nc75110861,2025-01-01T16:34:48.492Z,"3 km E of Prattville, CA",earthquake,0.59,14.7299995,0.11,19.0,automatic,nc,nc
+2025-01-01T16:17:50.621Z,31.717,-101.684,2.9226,2.1,ml,56.0,62.0,0.1,0.4,tx,tx2025abgh,2025-01-01T16:35:20.169Z,"25 km SW of Garden City, Texas",earthquake,0.0,0.93921506404877,0.1,31.0,automatic,tx,tx
+2025-01-01T16:10:06.641Z,32.407,-102.066,7.2998,3.0,ml,31.0,76.0,0.0,0.1,tx,tx2025abga,2025-01-01T16:35:15.160Z,"35 km WSW of Ackerly, Texas",earthquake,0.40414358273828,0.64280483628173,0.1,14.0,reviewed,tx,tx
+2025-01-01T16:04:36.130Z,18.0328,-66.4861,15.0,3.24,md,20.0,162.0,0.1021,0.16,pr,pr2025001000,2025-01-01T16:36:23.509Z,"2 km WSW of Río Cañas Abajo, Puerto Rico",earthquake,0.42,0.52,0.15,11.0,reviewed,pr,pr
