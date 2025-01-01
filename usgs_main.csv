@@ -18152,3 +18152,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-01T21:12:36.420Z,18.061,-66.478833333333,16.02,2.26,md,12.0,154.0,0.03384,0.22,pr,pr71469948,2025-01-01T21:31:25.610Z,"2 km NNW of Río Cañas Abajo, Puerto Rico",earthquake,0.56,0.66,0.10587877155122,6.0,reviewed,pr,pr
 2025-01-01T21:48:09.270Z,64.184,-149.9429,0.0,2.0,ml,,,,0.59,ak,ak02520bra7,2025-01-01T21:50:01.549Z,"37 km WSW of Clear, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-01T21:27:41.271Z,-42.4613,-15.9053,10.0,5.2,mb,102.0,38.0,6.054,0.53,us,us6000pgy5,2025-01-01T21:44:10.040Z,Tristan da Cunha region,earthquake,5.77,1.835,0.06,93.0,reviewed,us,us
+2025-01-01T22:06:21.840Z,38.815498352051,-122.82250213623,2.289999961853,1.17,md,16.0,98.0,0.008428,0.02,nc,nc75110996,2025-01-01T22:07:57.806Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.430000007,0.18,17.0,automatic,nc,nc
+2025-01-01T21:59:01.550Z,33.6661667,-116.717,13.95,0.45,ml,22.0,85.0,0.048,0.11,ci,ci40831767,2025-01-01T22:03:26.232Z,"8 km S of Idyllwild, CA",earthquake,0.26,0.44,0.179,9.0,automatic,ci,ci
