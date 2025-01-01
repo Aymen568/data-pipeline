@@ -18122,3 +18122,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-01T18:36:49.424Z,31.584,-104.568,3.3742,2.0,ml,8.0,170.0,0.1,0.1,tx,tx2025abkw,2025-01-01T18:40:03.980Z,"65 km NNE of Van Horn, Texas",earthquake,0.0,2.9758770465851,0.1,6.0,automatic,tx,tx
 2025-01-01T18:29:39.330Z,33.6951667,-117.4296667,10.37,1.12,ml,49.0,48.0,0.05839,0.23,ci,ci40831711,2025-01-01T18:40:31.600Z,"10 km WNW of Lake Elsinore, CA",earthquake,0.25,0.44,0.221,30.0,automatic,ci,ci
 2025-01-01T18:27:51.448Z,-36.0834,-100.6015,10.0,5.1,mb,134.0,48.0,11.618,0.56,us,us6000pgx1,2025-01-01T18:44:24.040Z,southeast of Easter Island,earthquake,11.37,1.879,0.04,204.0,reviewed,us,us
+2025-01-01T18:52:02.020Z,36.1691667,-117.8333333,8.23,1.55,ml,27.0,59.0,0.05435,0.15,ci,ci40831719,2025-01-01T18:55:38.727Z,"17 km NE of Coso Junction, CA",earthquake,0.24,0.41,0.3,26.0,automatic,ci,ci
+2025-01-01T18:43:10.743Z,31.594,-104.557,4.376,2.4,ml,8.0,166.0,0.1,0.3,tx,tx2025ablb,2025-01-01T18:51:14.047Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.3426542282105,0.1,6.0,automatic,tx,tx
+2025-01-01T15:08:16.511Z,8.3544,39.9675,10.0,4.6,mb,86.0,218.0,4.243,0.51,us,us6000pgw0,2025-01-01T18:55:32.040Z,"53 km E of Sīrē, Ethiopia",earthquake,12.76,1.972,0.065,73.0,reviewed,us,us
