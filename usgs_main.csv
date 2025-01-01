@@ -18125,3 +18125,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-01T18:52:02.020Z,36.1691667,-117.8333333,8.23,1.55,ml,27.0,59.0,0.05435,0.15,ci,ci40831719,2025-01-01T18:55:38.727Z,"17 km NE of Coso Junction, CA",earthquake,0.24,0.41,0.3,26.0,automatic,ci,ci
 2025-01-01T18:43:10.743Z,31.594,-104.557,4.376,2.4,ml,8.0,166.0,0.1,0.3,tx,tx2025ablb,2025-01-01T18:51:14.047Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.3426542282105,0.1,6.0,automatic,tx,tx
 2025-01-01T15:08:16.511Z,8.3544,39.9675,10.0,4.6,mb,86.0,218.0,4.243,0.51,us,us6000pgw0,2025-01-01T18:55:32.040Z,"53 km E of Sīrē, Ethiopia",earthquake,12.76,1.972,0.065,73.0,reviewed,us,us
+2025-01-01T19:14:55.320Z,40.319332122803,-124.44233703613,6.8299999237061,1.97,md,11.0,302.0,0.08229,0.06,nc,nc75110926,2025-01-01T19:16:28.502Z,"13 km W of Petrolia, CA",earthquake,3.75,0.779999971,0.18,11.0,automatic,nc,nc
+2025-01-01T19:08:48.227Z,37.3822,-117.1257,1.1,0.9,ml,11.0,199.06,0.135,0.2472,nn,nn00891157,2025-01-01T19:10:59.173Z,"37 km SSE of Goldfield, Nevada",earthquake,,7.2,0.28,8.0,automatic,nn,nn
+2025-01-01T19:03:09.901Z,37.3755,-117.1327,0.0,0.8,ml,8.0,198.02,0.127,0.2319,nn,nn00891156,2025-01-01T19:05:17.480Z,"38 km SSE of Goldfield, Nevada",earthquake,,19.9,0.34,4.0,automatic,nn,nn
+2025-01-01T18:54:37.794Z,37.3886,-117.1324,0.2,0.6,ml,8.0,199.87,0.135,0.2858,nn,nn00891155,2025-01-01T18:56:47.237Z,"36 km SSE of Goldfield, Nevada",earthquake,,20.6,0.3,3.0,automatic,nn,nn
