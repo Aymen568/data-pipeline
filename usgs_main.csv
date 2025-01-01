@@ -17996,3 +17996,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-01T08:52:19.435Z,38.169,-117.8936,7.8,1.1,ml,9.0,124.14,0.078,0.2135,nn,nn00891096,2025-01-01T08:55:02.210Z,"30 km SE of Mina, Nevada",earthquake,,0.5,0.6,5.0,automatic,nn,nn
 2025-01-01T08:51:04.573Z,61.0137,-152.3652,16.7,1.4,ml,,,,0.39,ak,ak0251slnh8,2025-01-01T08:53:17.716Z,"66 km W of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-01-01T08:49:40.710Z,33.9626667,-117.1526667,17.19,1.27,ml,74.0,22.0,0.02263,0.17,ci,ci40831287,2025-01-01T08:54:23.640Z,"8 km ENE of Moreno Valley, CA",earthquake,0.13,0.32,0.209,27.0,automatic,ci,ci
+2025-01-01T09:15:46.410Z,32.9316667,-116.2333333,9.11,0.84,ml,43.0,43.0,0.1544,0.19,ci,ci40831303,2025-01-01T09:20:22.764Z,"25 km SSW of Ocotillo Wells, CA",earthquake,0.2,0.79,0.141,15.0,automatic,ci,ci
+2025-01-01T09:04:57.957Z,61.213,-147.9888,13.1,2.0,ml,,,,0.92,ak,ak0251sx89v,2025-01-01T09:07:27.161Z,"56 km ESE of Knik River, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-01-01T08:51:53.530Z,17.949333333333,-66.939,9.89,2.43,md,9.0,209.0,0.06235,0.15,pr,pr71469878,2025-01-01T09:03:01.440Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.64,0.66,0.10239175048875,6.0,reviewed,pr,pr
