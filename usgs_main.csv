@@ -17987,3 +17987,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-01T08:27:46.689Z,31.593,-104.554,4.026,2.0,ml,8.0,165.0,0.1,0.2,tx,tx2025aaqu,2025-01-01T08:34:36.052Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.3447277545929,0.2,6.0,automatic,tx,tx
 2025-01-01T08:11:54.130Z,33.2668333,-116.2151667,11.02,1.16,ml,61.0,47.0,0.08079,0.19,ci,ci40831255,2025-01-01T08:16:10.450Z,"15 km E of Borrego Springs, CA",earthquake,0.18,0.35,0.107,26.0,automatic,ci,ci
 2025-01-01T08:09:47.730Z,9.0989,40.14,10.0,4.8,mb,52.0,196.0,3.596,0.66,us,us6000pgtj,2025-01-01T08:25:40.040Z,"13 km NNW of Āwash, Ethiopia",earthquake,13.53,1.97,0.089,39.0,reviewed,us,us
+2025-01-01T08:44:33.598Z,60.0117,-152.8943,115.2,2.1,ml,,,,0.26,ak,ak0251skbfj,2025-01-01T08:46:21.534Z,"65 km WNW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-01-01T08:41:54.980Z,38.83466720581,-122.8184967041,2.0299999713898,0.76,md,15.0,72.0,0.01304,0.02,nc,nc75110736,2025-01-01T08:43:31.997Z,"8 km NNW of The Geysers, CA",earthquake,0.24,0.800000012,0.14,17.0,automatic,nc,nc
+2025-01-01T08:41:35.790Z,38.83466720581,-122.81733703613,1.7699999809265,1.41,md,24.0,49.0,0.01471,0.03,nc,nc75110731,2025-01-01T08:43:12.431Z,"8 km NNW of The Geysers, CA",earthquake,0.19,0.400000006,0.12,25.0,automatic,nc,nc
+2025-01-01T08:37:51.600Z,33.4208333,-116.617,9.47,0.21,ml,33.0,61.0,0.0747,0.18,ci,ci40831279,2025-01-01T08:42:26.932Z,"16 km N of Warner Springs, CA",earthquake,0.25,0.54,0.225,6.0,automatic,ci,ci
