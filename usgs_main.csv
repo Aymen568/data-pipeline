@@ -18050,3 +18050,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-01T13:59:36.810Z,38.791168212891,-122.77783203125,1.8899999856949,1.11,md,19.0,80.0,0.008134,0.02,nc,nc75110811,2025-01-01T14:01:12.582Z,"2 km NW of The Geysers, CA",earthquake,0.24,0.409999996,0.12,22.0,automatic,nc,nc
 2025-01-01T13:59:29.059Z,39.1194,-119.0462,6.8,1.5,ml,16.0,121.85,0.05,0.1373,nn,nn00891114,2025-01-01T14:01:37.006Z,"17 km NE of Yerington, Nevada",earthquake,,0.6,0.13,9.0,automatic,nn,nn
 2025-01-01T13:48:26.511Z,-56.3923,-26.6927,77.676,6.2,mww,39.0,81.0,5.975,0.89,us,us6000pgv4,2025-01-01T14:11:33.292Z,South Sandwich Islands region,earthquake,11.67,8.622,0.061,26.0,reviewed,us,us
+2025-01-01T14:23:19.390Z,33.9373333,-117.2021667,12.41,0.96,ml,49.0,69.0,0.02641,0.17,ci,ci40831431,2025-01-01T14:28:05.029Z,"3 km ENE of Moreno Valley, CA",earthquake,0.17,0.36,0.268,29.0,automatic,ci,ci
+2025-01-01T14:20:17.490Z,33.9365,-117.2011667,12.54,1.26,ml,62.0,61.0,0.02597,0.17,ci,ci40831423,2025-01-01T14:30:45.390Z,"3 km ENE of Moreno Valley, CA",earthquake,0.14,0.33,0.138,24.0,automatic,ci,ci
