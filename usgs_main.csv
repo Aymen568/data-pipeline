@@ -18018,3 +18018,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-01T10:50:56.834Z,38.7566,-119.21,15.5,2.0,ml,15.0,120.74,0.23,0.2458,nn,nn00891099,2025-01-01T10:53:15.060Z,"11 km ESE of Smith, Nevada",earthquake,,0.8,0.24,7.0,automatic,nn,nn
 2025-01-01T11:16:42.690Z,36.088,-117.8666667,1.62,0.81,ml,22.0,80.0,0.03103,0.14,ci,ci40831367,2025-01-01T11:20:04.894Z,"9 km ENE of Coso Junction, CA",earthquake,0.18,0.22,0.072,15.0,automatic,ci,ci
 2025-01-01T11:09:24.080Z,57.888,-152.7642,35.3,2.8,ml,,,,0.42,ak,ak0251u53fp,2025-01-01T11:12:44.137Z,"7 km ENE of Port Lions, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-01-01T11:33:18.710Z,33.7666664,-115.9438324,1.2,1.76,ml,60.0,47.0,0.1073,0.23,ci,ci40831375,2025-01-01T11:35:44.436Z,"23 km NE of Thermal, CA",earthquake,0.23,0.53,0.156,26.0,automatic,ci,ci
+2025-01-01T11:29:38.739Z,38.7414,-119.2055,0.1,1.2,ml,10.0,150.63,0.245,0.163,nn,nn00891100,2025-01-01T11:31:43.638Z,"12 km ESE of Smith, Nevada",earthquake,,39.3,0.41,5.0,automatic,nn,nn
+2025-01-01T11:26:50.233Z,61.4654,-149.9685,32.9,1.8,ml,,,,0.7,ak,ak0251u8sn3,2025-01-01T11:28:49.740Z,"6 km S of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-01-01T11:26:13.310Z,39.280166625977,-123.27366638184,4.0100002288818,1.74,md,13.0,64.0,0.07731,0.06,nc,nc75110791,2025-01-01T11:27:51.392Z,"6 km WNW of Redwood Valley, CA",earthquake,0.27,3.01999998,0.18,10.0,automatic,nc,nc
+2025-01-01T10:02:44.056Z,27.8981,57.3592,65.071,4.3,mb,39.0,150.0,3.118,0.59,us,us6000pgu7,2025-01-01T11:35:48.040Z,"89 km NNE of Mīnāb, Iran",earthquake,10.49,12.136,0.08,44.0,reviewed,us,us
