@@ -18115,3 +18115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-01T17:36:15.840Z,32.755,-115.425,8.38,2.08,ml,32.0,63.0,0.05343,0.3,ci,ci40831703,2025-01-01T17:40:48.272Z,"8 km SW of Holtville, CA",earthquake,0.43,0.98,0.16,28.0,automatic,ci,ci
 2025-01-01T17:23:13.400Z,31.664,-104.475,6.8609,1.5,ml,4.0,180.0,0.0,0.1,tx,tx2025abik,2025-01-01T17:43:41.604Z,"57 km S of Whites City, New Mexico",earthquake,0.0,5.74471616745,0.2,4.0,automatic,tx,tx
 2025-01-01T16:09:29.490Z,17.9775,-66.995666666667,5.49,2.66,md,14.0,160.0,0.04691,0.3,pr,pr71469918,2025-01-01T17:53:36.260Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.73,0.63,0.16436882422382,9.0,reviewed,pr,pr
+2025-01-01T18:20:53.320Z,38.835334777832,-122.79783630371,2.2200000286102,0.51,md,8.0,96.0,0.006608,0.02,nc,nc75110896,2025-01-01T18:22:28.612Z,"7 km WNW of Cobb, CA",earthquake,0.52,1.35000002,0.35,8.0,automatic,nc,nc
+2025-01-01T18:13:46.589Z,37.3746,-117.1372,0.0,1.2,ml,17.0,197.83,0.123,0.2814,nn,nn00891151,2025-01-01T18:16:10.566Z,"38 km SSE of Goldfield, Nevada",earthquake,,13.5,0.28,12.0,automatic,nn,nn
+2025-01-01T18:11:04.824Z,63.3172,-149.6809,93.2,1.9,ml,,,,0.34,ak,ak0251ybikv,2025-01-01T18:12:21.515Z,"37 km WSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-01-01T18:07:31.716Z,59.6474,-152.2838,73.2,2.2,ml,,,,0.31,ak,ak0251yapub,2025-01-01T18:09:35.590Z,"29 km WSW of Anchor Point, Alaska",earthquake,,1.1,,,automatic,ak,ak
