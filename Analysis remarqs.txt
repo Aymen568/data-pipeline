@@ -10632,4 +10632,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 0.7 and occurred in/near 34 km SSE of Goldfield, Nevada on 01/01/2025 at 01:06 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 18046 recorded earthquakes.
 The most recent earthquake had a magnitude of 2.2 and occurred in/near 58 km NNE of Petersville, Alaska on 01/01/2025 at 01:27 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 18047 recorded earthquakes.
+The most recent earthquake had a magnitude of 2.7 and occurred in/near 66 km WSW of Nanwalek, Alaska on 01/01/2025 at 01:35 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
