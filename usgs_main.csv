@@ -18025,3 +18025,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-01T10:02:44.056Z,27.8981,57.3592,65.071,4.3,mb,39.0,150.0,3.118,0.59,us,us6000pgu7,2025-01-01T11:35:48.040Z,"89 km NNE of Mīnāb, Iran",earthquake,10.49,12.136,0.08,44.0,reviewed,us,us
 2025-01-01T11:39:56.226Z,58.38,-154.1035,20.3,1.9,ml,,,,0.83,ak,ak0251ubleu,2025-01-01T11:41:39.204Z,"78 km WNW of Aleneva, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-01-01T11:37:35.104Z,57.7614,-151.3397,35.4,3.1,ml,,,,0.34,ak,ak0251ub4cm,2025-01-01T11:40:08.705Z,"58 km ENE of Chiniak, Alaska",earthquake,,5.5,,,automatic,ak,ak
+2025-01-01T11:48:56.680Z,33.9738333,-117.0781667,13.53,0.8,ml,40.0,45.0,0.1333,0.15,ci,ci40831383,2025-01-01T11:53:26.538Z,"3 km SW of Calimesa, CA",earthquake,0.18,0.58,0.377,21.0,automatic,ci,ci
