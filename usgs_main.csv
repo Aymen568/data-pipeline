@@ -18166,3 +18166,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-01T23:19:31.786Z,61.0779,-152.2532,50.2,0.7,ml,,,,0.61,ak,ak02521cggq,2025-01-01T23:21:12.056Z,"60 km W of Tyonek, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-01-01T23:14:58.520Z,38.830833435059,-122.82050323486,2.5899999141693,0.71,md,14.0,51.0,0.01372,0.07,nc,nc75111011,2025-01-01T23:16:33.153Z,"8 km NNW of The Geysers, CA",earthquake,0.36,0.899999976,0.1,13.0,automatic,nc,nc
 2025-01-01T23:12:53.030Z,33.3878333,-116.4376667,11.92,1.45,ml,71.0,18.0,0.1097,0.2,ci,ci40831791,2025-01-01T23:18:01.040Z,"16 km NNW of Borrego Springs, CA",earthquake,0.15,0.5,0.148,26.0,automatic,ci,ci
+2025-01-01T23:36:54.690Z,33.3896675,-116.4420013,10.97,2.02,ml,77.0,45.0,0.107,0.22,ci,ci40831847,2025-01-01T23:38:58.155Z,"16 km NNW of Borrego Springs, CA",earthquake,0.2,0.45,0.224,24.0,automatic,ci,ci
+2025-01-01T23:31:34.690Z,34.2598343,-118.1900024,27.08,1.46,ml,23.0,138.0,0.3086,0.46,ci,ci40831831,2025-01-01T23:38:03.150Z,"5 km NE of La Crescenta-Montrose, CA",earthquake,1.18,1.92,0.154,7.0,automatic,ci,ci
+2025-01-01T23:28:42.474Z,31.585,-104.555,3.6581,1.8,ml,8.0,165.0,0.1,0.2,tx,tx2025abur,2025-01-01T23:36:58.496Z,"65 km NNE of Van Horn, Texas",earthquake,0.0,2.2746438980102,0.1,6.0,automatic,tx,tx
+2025-01-01T23:28:15.820Z,33.388,-116.4391667,11.05,1.99,ml,92.0,13.0,0.1086,0.21,ci,ci40831823,2025-01-01T23:38:50.050Z,"16 km NNW of Borrego Springs, CA",earthquake,0.13,0.28,0.147,26.0,automatic,ci,ci
+2025-01-01T23:26:24.900Z,33.3878333,-116.436,11.03,1.72,ml,79.0,17.0,0.1088,0.2,ci,ci40831815,2025-01-01T23:36:56.860Z,"16 km NNW of Borrego Springs, CA",earthquake,0.15,0.3,0.187,26.0,automatic,ci,ci
