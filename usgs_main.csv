@@ -18013,3 +18013,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-01T09:09:01.246Z,-32.3841,-69.739,115.474,4.4,mb,25.0,134.0,1.071,0.46,us,us6000pgtu,2025-01-01T10:03:43.040Z,"94 km ENE of Los Andes, Chile",earthquake,6.7,5.782,0.19,8.0,reviewed,us,us
 2025-01-01T10:36:47.780Z,34.0298347,-117.2133331,13.8,1.84,ml,101.0,42.0,0.084,0.18,ci,ci40831343,2025-01-01T10:38:51.332Z,"4 km SW of Redlands, CA",earthquake,0.16,0.36,0.207,26.0,automatic,ci,ci
 2025-01-01T10:18:01.173Z,-56.1957,-27.4908,132.923,4.7,mb,41.0,78.0,18.469,0.7,us,us6000pgub,2025-01-01T10:35:37.040Z,South Sandwich Islands region,earthquake,13.0,7.605,0.087,40.0,reviewed,us,us
+2025-01-01T10:42:28.740Z,32.997,-116.4428333,7.34,1.05,ml,53.0,30.0,0.08017,0.18,ci,ci40831351,2025-01-01T10:46:47.028Z,"17 km ESE of Julian, CA",earthquake,0.17,0.7,0.211,26.0,automatic,ci,ci
