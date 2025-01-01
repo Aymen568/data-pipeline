@@ -17981,3 +17981,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-01T07:27:20.970Z,35.752,-117.5718333,5.89,0.46,ml,15.0,77.0,0.1485,0.16,ci,ci40831223,2025-01-01T07:30:46.164Z,"15 km W of Searles Valley, CA",earthquake,0.36,2.06,0.098,9.0,automatic,ci,ci
 2025-01-01T07:19:09.482Z,31.038,-103.693,5.3488,2.0,ml,13.0,66.0,0.1,0.4,tx,tx2025aaom,2025-01-01T07:32:08.274Z,"7 km NE of Balmorhea, Texas",earthquake,0.0,3.103590965271,0.2,11.0,automatic,tx,tx
 2025-01-01T06:45:49.427Z,9.1019,40.0786,10.0,4.4,mb,22.0,258.0,3.639,0.84,us,us6000pgt2,2025-01-01T07:32:06.249Z,"16 km NW of Āwash, Ethiopia",earthquake,15.88,2.017,0.149,13.0,reviewed,us,us
+2025-01-01T07:41:39.640Z,33.9885,-116.9003333,9.24,1.05,ml,59.0,23.0,0.08987,0.16,ci,ci40831231,2025-01-01T07:46:54.534Z,"7 km NNW of Banning, CA",earthquake,0.13,0.36,0.223,27.0,automatic,ci,ci
