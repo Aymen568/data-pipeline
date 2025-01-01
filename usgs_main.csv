@@ -18046,3 +18046,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-01T13:11:18.872Z,37.3592,-117.1387,2.2,0.8,ml,8.0,195.61,0.113,0.1615,nn,nn00891112,2025-01-01T13:13:24.046Z,"39 km SSE of Goldfield, Nevada",earthquake,,1.9,0.4,4.0,automatic,nn,nn
 2025-01-01T13:08:03.096Z,37.3692,-117.1305,3.2,1.7,ml,27.0,105.39,0.124,0.2358,nn,nn00891109,2025-01-01T13:10:41.824Z,"38 km SSE of Goldfield, Nevada",earthquake,,2.4,0.24,18.0,automatic,nn,nn
 2025-01-01T13:35:51.263Z,59.2286,-153.0539,83.9,2.7,ml,,,,0.26,ak,ak0251vhl4b,2025-01-01T13:37:31.225Z,"66 km WSW of Nanwalek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-01-01T14:07:46.000Z,33.3440018,-117.9171677,3.14,2.36,ml,87.0,135.0,0.2547,0.28,ci,ci40831415,2025-01-01T14:09:49.588Z,"24 km SW of Dana Point, CA",earthquake,0.39,0.95,0.229,24.0,automatic,ci,ci
+2025-01-01T13:59:36.810Z,38.791168212891,-122.77783203125,1.8899999856949,1.11,md,19.0,80.0,0.008134,0.02,nc,nc75110811,2025-01-01T14:01:12.582Z,"2 km NW of The Geysers, CA",earthquake,0.24,0.409999996,0.12,22.0,automatic,nc,nc
+2025-01-01T13:59:29.059Z,39.1194,-119.0462,6.8,1.5,ml,16.0,121.85,0.05,0.1373,nn,nn00891114,2025-01-01T14:01:37.006Z,"17 km NE of Yerington, Nevada",earthquake,,0.6,0.13,9.0,automatic,nn,nn
+2025-01-01T13:48:26.511Z,-56.3923,-26.6927,77.676,6.2,mww,39.0,81.0,5.975,0.89,us,us6000pgv4,2025-01-01T14:11:33.292Z,South Sandwich Islands region,earthquake,11.67,8.622,0.061,26.0,reviewed,us,us
