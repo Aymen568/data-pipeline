@@ -18026,3 +18026,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-01T11:39:56.226Z,58.38,-154.1035,20.3,1.9,ml,,,,0.83,ak,ak0251ubleu,2025-01-01T11:41:39.204Z,"78 km WNW of Aleneva, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-01-01T11:37:35.104Z,57.7614,-151.3397,35.4,3.1,ml,,,,0.34,ak,ak0251ub4cm,2025-01-01T11:40:08.705Z,"58 km ENE of Chiniak, Alaska",earthquake,,5.5,,,automatic,ak,ak
 2025-01-01T11:48:56.680Z,33.9738333,-117.0781667,13.53,0.8,ml,40.0,45.0,0.1333,0.15,ci,ci40831383,2025-01-01T11:53:26.538Z,"3 km SW of Calimesa, CA",earthquake,0.18,0.58,0.377,21.0,automatic,ci,ci
+2025-01-01T12:31:15.770Z,34.032,-117.592,5.77,0.68,ml,32.0,65.0,0.0372,0.2,ci,ci40831399,2025-01-01T12:35:29.189Z,"4 km SE of Ontario, CA",earthquake,0.27,0.74,0.162,28.0,automatic,ci,ci
+2025-01-01T12:26:39.710Z,32.944,-115.5316667,9.98,1.4,ml,33.0,38.0,0.04894,0.28,ci,ci40831391,2025-01-01T12:30:26.724Z,"4 km S of Brawley, CA",earthquake,0.33,0.69,0.279,29.0,automatic,ci,ci
+2025-01-01T12:25:51.540Z,39.1445,-119.0465,5.6,1.3,ml,10.0,119.57,0.025,0.0829,nn,nn00891104,2025-01-01T12:28:03.834Z,"20 km NNE of Yerington, Nevada",earthquake,,0.5,0.28,5.0,automatic,nn,nn
+2025-01-01T12:24:17.243Z,31.5744,-104.5295,5.0,3.0,ml,17.0,94.0,0.097,0.37,us,us6000pgur,2025-01-01T12:41:02.040Z,"65 km NNE of Van Horn, Texas",earthquake,1.12,1.796,0.056,42.0,reviewed,us,us
+2025-01-01T12:24:07.309Z,31.573,-104.611,0.3329,2.7,ml,6.0,182.0,0.2,0.4,tx,tx2025aayp,2025-01-01T12:35:37.040Z,"62 km NNE of Van Horn, Texas",earthquake,0.0,3.2441182136536,0.1,6.0,automatic,tx,tx
+2025-01-01T12:07:02.143Z,39.1666,-119.0387,5.7,1.9,ml,19.0,95.92,0.002,0.1426,nn,nn00891102,2025-01-01T12:09:27.241Z,"22 km NNE of Yerington, Nevada",earthquake,,0.4,0.24,10.0,automatic,nn,nn
+2025-01-01T11:41:34.020Z,17.9485,-66.948,12.8,1.81,md,6.0,213.0,0.07056,0.09,pr,pr71469888,2025-01-01T11:58:21.930Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.76,0.42,0.06373158823418,4.0,reviewed,pr,pr
