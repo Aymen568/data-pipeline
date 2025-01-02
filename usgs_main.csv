@@ -18277,3 +18277,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-02T03:18:26.949Z,61.201,-152.1024,15.9,0.8,ml,,,,0.55,ak,ak0253cywqn,2025-01-02T03:20:50.306Z,"54 km WNW of Tyonek, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-01-02T03:18:16.160Z,34.3688333,-120.156,1.08,2.29,ml,34.0,133.0,0.1178,0.25,ci,ci40831935,2025-01-02T03:21:44.159Z,"25 km S of Solvang, CA",earthquake,0.39,0.72,0.213,27.0,automatic,ci,ci
 2025-01-02T03:17:56.869Z,9.0652,40.0418,10.0,4.2,mb,21.0,141.0,3.69,0.75,us,us6000pgzy,2025-01-02T03:37:46.040Z,"16 km WNW of Āwash, Ethiopia",earthquake,8.29,1.797,0.167,10.0,reviewed,us,us
+2025-01-02T03:48:24.897Z,64.7296,-146.8112,10.6,1.1,ml,,,,0.2,ak,ak0253d5c3d,2025-01-02T03:50:02.452Z,"13 km ENE of Eielson Air Force Base, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-01-02T03:39:48.390Z,38.826667785645,-122.79316711426,1.4800000190735,1.1,md,17.0,45.0,0.01193,0.02,nc,nc75111626,2025-01-02T03:41:23.494Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.430000007,0.06,21.0,automatic,nc,nc
+2025-01-02T03:38:26.140Z,38.823665618896,-122.79066467285,1.2599999904633,0.77,md,7.0,117.0,0.01299,0.01,nc,nc75111616,2025-01-02T03:40:03.368Z,"6 km WNW of Cobb, CA",earthquake,0.5,0.879999995,0.18,10.0,automatic,nc,nc
