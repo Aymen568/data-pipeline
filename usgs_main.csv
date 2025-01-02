@@ -18538,3 +18538,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-02T18:45:50.190Z,45.321666666667,-121.6955,4.57,1.08,ml,12.0,89.0,0.01753,0.07,uw,uw62069531,2025-01-02T22:06:13.020Z,"5 km ENE of Government Camp, Oregon",earthquake,0.26,0.35,0.083244868372725,8.0,reviewed,uw,uw
 2025-01-02T18:23:54.790Z,45.320333333333,-121.701,5.01,0.35,ml,11.0,140.0,0.01674,0.08,uw,uw62069526,2025-01-02T21:56:51.510Z,"4 km ENE of Government Camp, Oregon",earthquake,0.28,0.34,0.12336335128607,3.0,reviewed,uw,uw
 2025-01-02T18:20:18.370Z,45.3295,-121.72466666667,10.93,0.1,md,8.0,134.0,0.01186,0.13,uw,uw62069521,2025-01-02T22:00:59.950Z,"3 km NE of Government Camp, Oregon",earthquake,0.55,0.71,0.21451721262084,8.0,reviewed,uw,uw
+2025-01-02T22:20:05.040Z,39.1118,-118.9715,7.8,1.4,ml,10.0,135.94,0.077,0.2086,nn,nn00891265,2025-01-02T22:22:21.120Z,"21 km NE of Yerington, Nevada",earthquake,,1.0,0.18,3.0,automatic,nn,nn
+2025-01-02T18:51:46.940Z,45.3205,-121.69683333333,4.69,0.89,ml,11.0,140.0,0.01796,0.07,uw,uw62069536,2025-01-02T22:14:28.430Z,"4 km ENE of Government Camp, Oregon",earthquake,0.29,0.36,0.060895901310664,7.0,reviewed,uw,uw
