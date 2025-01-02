@@ -18522,3 +18522,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-02T20:30:31.840Z,33.7738333,-117.4581667,7.94,1.59,ml,17.0,83.0,0.04486,0.12,ci,ci40832511,2025-01-02T20:38:44.090Z,"13 km SSE of Home Gardens, CA",earthquake,0.22,0.42,0.443,37.0,automatic,ci,ci
 2025-01-02T20:30:19.531Z,65.1407,-151.5668,9.2,1.3,ml,,,,0.43,ak,ak0253n5u2q,2025-01-02T20:32:08.558Z,"24 km E of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-02T19:34:37.342Z,30.6549,142.0813,10.0,4.5,mb,45.0,125.0,3.12,0.75,us,us6000phaa,2025-01-02T20:39:57.040Z,"Izu Islands, Japan region",earthquake,4.85,1.886,0.097,31.0,reviewed,us,us
+2025-01-02T10:46:42.882Z,58.6694,-154.2851,8.7,1.1,ml,,,,0.62,ak,ak0253haysb,2025-01-02T20:52:06.553Z,"90 km SSE of Kokhanok, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2025-01-02T08:39:14.535Z,52.7262,-169.258,37.4,3.7,ml,,,,0.89,ak,ak0253g2jzg,2025-01-02T20:50:22.865Z,"35 km SW of Nikolski, Alaska",earthquake,,0.5,,,reviewed,ak,ak
