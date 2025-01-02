@@ -18183,3 +18183,16 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-02T00:06:53.881Z,63.3165,-145.236,8.7,1.5,ml,,,,0.73,ak,ak0253b43fw,2025-01-02T00:09:16.142Z,"31 km NE of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-01-01T23:55:13.678Z,32.4,-102.054,4.3762,1.5,ml,41.0,44.0,0.0,0.3,tx,tx2025abvp,2025-01-02T00:05:02.350Z,"34 km WSW of Ackerly, Texas",earthquake,0.0,0.8450413942337,0.1,30.0,automatic,tx,tx
 2025-01-01T23:50:56.116Z,58.4279,-154.3288,5.0,2.1,ml,,,,0.39,ak,ak02521j5jf,2025-01-01T23:53:36.609Z,"92 km WNW of Aleneva, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-01-02T02:00:58.710Z,38.835498809815,-122.80066680908,1.8400000333786,0.21,md,10.0,75.0,0.00857,0.02,nc,nc75111096,2025-01-02T02:02:33.564Z,"7 km WNW of Cobb, CA",earthquake,0.37,1.04999995,0.14,10.0,automatic,nc,nc
+2025-01-02T01:58:16.600Z,38.821666717529,-122.84383392334,2.0899999141693,0.38,md,10.0,88.0,0.007028,0.02,nc,nc75111091,2025-01-02T01:59:52.424Z,"9 km NW of The Geysers, CA",earthquake,0.34,0.75,0.27,10.0,automatic,nc,nc
+2025-01-02T01:54:03.220Z,38.838500976562,-122.86616516113,1.3200000524521,0.28,md,6.0,133.0,0.002431,0.02,nc,nc75111086,2025-01-02T01:55:37.034Z,"12 km NW of The Geysers, CA",earthquake,0.5,0.980000019,0.18,8.0,automatic,nc,nc
+2025-01-02T01:29:08.381Z,61.6943,-151.921,103.7,1.8,ml,,,,0.6,ak,ak0253bud06,2025-01-02T01:31:01.616Z,"42 km SW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-01-02T01:27:33.263Z,61.3549,-150.7375,35.6,1.9,ml,,,,0.53,ak,ak0253btzhd,2025-01-02T01:30:04.761Z,"24 km SSW of Susitna, Alaska",earthquake,,2.8,,,automatic,ak,ak
+2025-01-02T01:26:38.531Z,63.3934,-147.7323,250.0,1.7,ml,,,,1.04,ak,ak0253bts6b,2025-01-02T01:29:06.184Z,"60 km E of Cantwell, Alaska",earthquake,,5.1,,,automatic,ak,ak
+2025-01-02T01:21:31.096Z,37.3278,-117.1316,2.6,0.8,ml,8.0,191.22,0.106,0.1472,nn,nn00891176,2025-01-02T01:23:51.755Z,"43 km SSE of Goldfield, Nevada",earthquake,,1.9,0.33,5.0,automatic,nn,nn
+2025-01-02T01:19:03.342Z,61.0157,-152.4548,126.7,1.6,ml,,,,0.51,ak,ak0253bs7ge,2025-01-02T01:21:10.058Z,"71 km W of Tyonek, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2025-01-02T01:11:02.680Z,-21.0347,-173.7041,10.0,5.1,mb,24.0,271.0,17.573,0.96,us,us6000pgz5,2025-01-02T01:31:56.040Z,"134 km ENE of ‘Ohonua, Tonga",earthquake,9.32,2.017,0.104,30.0,reviewed,us,us
+2025-01-02T01:06:56.990Z,38.74433517456,-122.69116973877,1.3600000143051,1.29,md,9.0,93.0,0.02464,0.02,nc,nc75111081,2025-01-02T01:37:14.817Z,"3 km S of Anderson Springs, CA",earthquake,0.39,0.850000024,0.26,11.0,automatic,nc,nc
+2025-01-02T00:36:25.330Z,17.951833333333,-66.797,8.71,2.12,md,8.0,212.0,0.07089,0.05,pr,pr71469958,2025-01-02T00:48:27.770Z,"5 km SSE of Indios, Puerto Rico",earthquake,0.51,1.06,0.067607884640617,6.0,reviewed,pr,pr
+2025-01-01T21:21:51.629Z,36.6755,-116.1219,1.1,-0.4,ml,12.0,142.19,0.028,0.0887,nn,nn00891179,2025-01-02T01:41:32.068Z,"42 km WNW of Indian Springs, Nevada",earthquake,,4.4,0.16,3.0,reviewed,nn,nn
+2025-01-01T11:41:29.869Z,36.7785,-116.103,2.1,-0.2,ml,12.0,144.3,0.018,0.065,nn,nn00891178,2025-01-02T01:35:17.943Z,"45 km WNW of Indian Springs, Nevada",earthquake,,1.2,0.12,2.0,reviewed,nn,nn
