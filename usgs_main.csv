@@ -18403,3 +18403,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-02T12:41:09.880Z,38.810501098633,-122.78450012207,1.2000000476837,1.26,md,16.0,79.0,0.004058,0.02,nc,nc75111981,2025-01-02T12:57:15.528Z,"4 km NNW of The Geysers, CA",earthquake,0.25,0.389999986,0.18,18.0,automatic,nc,nc
 2025-01-02T12:36:05.956Z,61.4867,-150.0069,31.5,1.4,ml,,,,0.72,ak,ak0253ifmhf,2025-01-02T12:38:53.032Z,"4 km SW of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-02T10:17:40.327Z,8.8889,39.8628,10.0,4.5,mb,17.0,146.0,3.939,1.01,us,us6000ph2v,2025-01-02T12:26:30.040Z,"6 km WSW of Metahāra, Ethiopia",earthquake,10.35,1.969,0.171,10.0,reviewed,us,us
+2025-01-02T13:18:47.255Z,62.3297,-149.1535,0.0,2.4,ml,,,,0.93,ak,ak0253ixabt,2025-01-02T13:20:33.516Z,"40 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-01-02T13:02:48.350Z,35.114,-119.123,7.0,1.22,ml,32.0,87.0,0.2437,0.24,ci,ci40832223,2025-01-02T13:06:22.576Z,"25 km SW of Lamont, CA",earthquake,0.35,3.46,0.189,27.0,automatic,ci,ci
+2025-01-02T13:01:13.150Z,38.823333740234,-122.79666900635,2.789999961853,0.76,md,9.0,104.0,0.01047,0.01,nc,nc75111991,2025-01-02T13:02:51.849Z,"6 km NNW of The Geysers, CA",earthquake,0.38,0.910000026,0.06,12.0,automatic,nc,nc
+2025-01-02T13:00:58.264Z,60.8132,-148.7038,45.2,2.0,ml,,,,1.27,ak,ak0253itgci,2025-01-02T13:12:00.710Z,"4 km NNW of Whittier, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2025-01-02T12:59:01.839Z,61.3028,-152.3076,0.1,0.4,ml,,,,0.36,ak,ak0253ikjmv,2025-01-02T13:00:41.055Z,"68 km WNW of Tyonek, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2025-01-02T12:57:50.361Z,38.1184,-118.0128,0.7,1.6,ml,8.0,124.78,0.084,0.1481,nn,nn00891218,2025-01-02T13:00:45.201Z,"31 km SSE of Mina, Nevada",earthquake,,4.3,0.17,3.0,automatic,nn,nn
+2025-01-02T08:39:02.699Z,51.5773,-168.6185,10.0,3.8,mb,45.0,231.0,1.405,1.71,us,us6000ph1l,2025-01-02T13:17:46.040Z,"152 km S of Nikolski, Alaska",earthquake,10.39,2.012,0.12,18.0,reviewed,us,us
+2025-01-02T05:08:24.770Z,51.4576,-177.9471,23.724,3.8,ml,26.0,197.0,0.3,0.57,us,us6000ph17,2025-01-02T13:13:29.040Z,"101 km WSW of Adak, Alaska",earthquake,4.77,10.128,0.085,18.0,reviewed,us,us
