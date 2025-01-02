@@ -18423,3 +18423,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-02T14:43:15.890Z,38.829166412354,-122.77866363525,1.5099999904633,1.08,md,17.0,71.0,0.006958,0.03,nc,nc75112021,2025-01-02T14:44:51.250Z,"5 km WNW of Cobb, CA",earthquake,0.23,0.400000006,0.18,18.0,automatic,nc,nc
 2025-01-02T14:41:15.611Z,61.1911,-152.2098,37.5,0.8,ml,,,,0.71,ak,ak0253jnlbx,2025-01-02T14:43:49.362Z,"59 km WNW of Tyonek, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-01-02T14:12:59.592Z,31.514,-104.143,4.4256,1.6,ml,18.0,75.0,0.1,0.4,tx,tx2025acxq,2025-01-02T14:46:14.438Z,"39 km WNW of Toyah, Texas",earthquake,0.0,1.5441715717316,0.2,14.0,automatic,tx,tx
+2025-01-02T15:07:00.397Z,60.35,-152.3197,116.4,1.6,ml,,,,0.69,ak,ak0253k1p3r,2025-01-02T15:08:42.205Z,"49 km NW of Ninilchik, Alaska",earthquake,,5.0,,,automatic,ak,ak
+2025-01-02T15:01:25.610Z,60.279,-151.4366,40.0,1.8,ml,,,,1.23,ak,ak0253k0gr5,2025-01-02T15:04:22.032Z,"5 km NNW of Clam Gulch, Alaska",earthquake,,19.3,,,automatic,ak,ak
+2025-01-02T15:01:07.887Z,32.117,-101.477,3.9093,1.0,ml,7.0,198.0,0.1,0.2,tx,tx2025aczg,2025-01-02T15:06:21.556Z,"10 km W of Forsan, Texas",earthquake,0.0,2.6748781204224,0.3,6.0,automatic,tx,tx
+2025-01-02T15:00:18.705Z,61.2918,-152.2676,6.3,1.0,ml,,,,0.15,ak,ak0253k08i6,2025-01-02T15:01:37.791Z,"65 km WNW of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-01-02T14:57:45.385Z,61.2895,-152.2756,9.5,1.6,ml,,,,0.19,ak,ak0253jr2ru,2025-01-02T14:59:01.754Z,"66 km WNW of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-01-02T14:56:16.921Z,61.4247,-151.8747,73.0,0.7,ml,,,,0.53,ak,ak0253jqsv0,2025-01-02T14:57:58.356Z,"52 km NW of Beluga, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2025-01-02T14:54:32.391Z,37.2818,-117.3213,5.6,0.7,ml,10.0,149.36,0.052,0.1578,nn,nn00891221,2025-01-02T14:56:36.371Z,"47 km S of Goldfield, Nevada",earthquake,,0.7,0.2,8.0,automatic,nn,nn
+2025-01-02T14:50:42.631Z,61.7472,-151.3305,27.5,1.9,ml,,,,0.63,ak,ak0253jpkjr,2025-01-02T14:53:35.459Z,"27 km S of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
