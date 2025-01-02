@@ -18540,3 +18540,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-02T18:20:18.370Z,45.3295,-121.72466666667,10.93,0.1,md,8.0,134.0,0.01186,0.13,uw,uw62069521,2025-01-02T22:00:59.950Z,"3 km NE of Government Camp, Oregon",earthquake,0.55,0.71,0.21451721262084,8.0,reviewed,uw,uw
 2025-01-02T22:20:05.040Z,39.1118,-118.9715,7.8,1.4,ml,10.0,135.94,0.077,0.2086,nn,nn00891265,2025-01-02T22:22:21.120Z,"21 km NE of Yerington, Nevada",earthquake,,1.0,0.18,3.0,automatic,nn,nn
 2025-01-02T18:51:46.940Z,45.3205,-121.69683333333,4.69,0.89,ml,11.0,140.0,0.01796,0.07,uw,uw62069536,2025-01-02T22:14:28.430Z,"4 km ENE of Government Camp, Oregon",earthquake,0.29,0.36,0.060895901310664,7.0,reviewed,uw,uw
+2025-01-02T22:33:45.950Z,31.69,-101.997,3.939,1.4,ml,32.0,58.0,0.1,0.5,tx,tx2025adoe,2025-01-02T22:41:17.643Z,"34 km SSE of Midland, Texas",earthquake,0.0,1.1068224906921,0.2,19.0,automatic,tx,tx
+2025-01-02T22:22:48.759Z,9.1297,40.1663,10.0,4.7,mb,41.0,116.0,3.556,0.95,us,us6000phbi,2025-01-02T22:40:35.040Z,"16 km N of Āwash, Ethiopia",earthquake,11.42,1.917,0.078,49.0,reviewed,us,us
+2025-01-02T19:19:57.790Z,46.834333333333,-121.94183333333,9.67,-0.24,md,11.0,184.0,0.008828,0.11,uw,uw62069541,2025-01-02T22:40:57.190Z,"10 km NE of Ashford, Washington",earthquake,0.56,0.6,0.15854677691761,10.0,reviewed,uw,uw
