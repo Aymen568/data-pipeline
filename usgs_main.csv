@@ -18449,3 +18449,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-02T16:45:35.520Z,33.8836667,-116.8595,16.01,0.8,ml,25.0,64.0,0.07189,0.21,ci,ci40832367,2025-01-02T16:50:23.866Z,"5 km SSE of Banning, CA",earthquake,0.34,0.83,0.238,17.0,automatic,ci,ci
 2025-01-02T16:37:32.960Z,32.7701667,-115.7081667,6.6,2.27,ml,41.0,81.0,0.07369,0.27,ci,ci40832359,2025-01-02T16:48:34.410Z,"14 km W of El Centro, CA",earthquake,0.26,0.81,0.162,27.0,automatic,ci,ci
 2025-01-02T16:26:07.078Z,9.0821,40.1239,10.0,4.6,mb,73.0,74.0,3.619,0.93,us,us6000ph8u,2025-01-02T16:48:45.728Z,"11 km NNW of Āwash, Ethiopia",earthquake,9.05,1.889,0.064,73.0,reviewed,us,us
+2025-01-02T17:04:45.765Z,37.3702,-117.1285,0.0,0.9,ml,10.0,197.33,0.126,0.1748,nn,nn00891226,2025-01-02T17:06:47.326Z,"38 km SSE of Goldfield, Nevada",earthquake,,15.6,0.45,6.0,automatic,nn,nn
+2025-01-02T15:57:07.989Z,-3.8782,151.5939,22.478,5.0,mww,95.0,41.0,0.648,0.84,us,us6000ph9f,2025-01-02T16:54:14.040Z,"72 km WNW of Rabaul, Papua New Guinea",earthquake,7.42,4.727,0.086,13.0,reviewed,us,us
