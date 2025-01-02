@@ -18331,3 +18331,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-02T06:33:56.590Z,35.8633333,-117.6613333,8.4,0.62,ml,17.0,77.0,0.08486,0.13,ci,ci40832063,2025-01-02T06:37:17.357Z,"24 km ESE of Little Lake, CA",earthquake,0.24,0.6,0.104,11.0,automatic,ci,ci
 2025-01-02T06:33:26.408Z,37.3557,-117.1519,1.7,1.1,ml,15.0,194.91,0.103,0.4198,nn,nn00891196,2025-01-02T06:35:52.700Z,"39 km S of Goldfield, Nevada",earthquake,,6.4,0.26,10.0,automatic,nn,nn
 2025-01-02T06:33:04.500Z,38.82149887085,-122.79650115967,0.91000002622604,1.6,md,29.0,39.0,0.01354,0.04,nc,nc75111801,2025-01-02T06:35:56.260Z,"6 km NNW of The Geysers, CA",earthquake,0.16,0.270000011,0.16,30.0,automatic,nc,nc
+2025-01-02T06:51:45.044Z,37.3588,-117.1398,3.4,1.1,ml,11.0,195.53,0.113,0.2097,nn,nn00891205,2025-01-02T06:53:52.557Z,"39 km SSE of Goldfield, Nevada",earthquake,,1.3,0.31,7.0,automatic,nn,nn
+2025-01-02T06:50:01.304Z,37.371,-117.1318,2.2,0.8,ml,9.0,197.39,0.124,0.2301,nn,nn00891204,2025-01-02T06:52:11.599Z,"38 km SSE of Goldfield, Nevada",earthquake,,1.9,0.4,6.0,automatic,nn,nn
