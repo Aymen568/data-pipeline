@@ -18310,3 +18310,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-02T05:20:17.470Z,36.1008333,-117.6161667,0.92,0.91,ml,24.0,68.0,0.1424,0.13,ci,ci40832007,2025-01-02T05:23:39.953Z,"30 km ENE of Coso Junction, CA",earthquake,0.19,0.31,0.128,11.0,automatic,ci,ci
 2025-01-02T05:18:33.500Z,38.835498809815,-122.78916931152,1.8999999761581,1.84,md,40.0,57.0,0.003047,0.03,nc,nc75111746,2025-01-02T05:28:36.117Z,"6 km WNW of Cobb, CA",earthquake,0.16,0.25999999,0.15,36.0,automatic,nc,nc
 2025-01-02T05:26:06.040Z,17.932833333333,-68.076,50.77,3.43,md,10.0,218.0,0.9227,0.36,pr,pr71469963,2025-01-02T05:46:36.100Z,"74 km SE of Boca de Yuma, Dominican Republic",earthquake,3.29,6.44,0.041645759597218,5.0,reviewed,pr,pr
+2025-01-02T05:50:17.540Z,33.3571667,-116.3796667,12.49,0.94,ml,52.0,34.0,0.03212,0.2,ci,ci40832047,2025-01-02T05:54:34.116Z,"11 km N of Borrego Springs, CA",earthquake,0.19,0.46,0.199,27.0,automatic,ci,ci
+2025-01-02T05:48:42.790Z,35.7301667,-117.5563333,2.14,0.41,ml,19.0,73.0,0.126,0.15,ci,ci40832039,2025-01-02T05:52:38.941Z,"14 km WSW of Searles Valley, CA",earthquake,0.22,0.58,0.119,8.0,automatic,ci,ci
+2025-01-02T05:32:24.488Z,-0.098,125.24,65.306,5.0,mb,84.0,54.0,2.295,0.95,us,us6000ph0e,2025-01-02T05:48:45.040Z,"108 km SE of Modisi, Indonesia",earthquake,6.84,6.89,0.079,52.0,reviewed,us,us
