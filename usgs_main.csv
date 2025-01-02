@@ -18399,3 +18399,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-02T12:22:10.467Z,37.3549,-117.5623,0.0,1.0,ml,11.0,341.01,0.869,0.347,nn,nn00891217,2025-01-02T12:24:45.132Z,"44 km S of Silver Peak, Nevada",earthquake,,71.5,0.53,4.0,automatic,nn,nn
 2025-01-02T12:17:50.990Z,38.823665618896,-122.79983520508,-0.89999997615814,0.8,md,10.0,83.0,0.008002,0.04,nc,nc75111971,2025-01-02T12:19:26.312Z,"6 km NNW of The Geysers, CA",earthquake,0.19,0.879999995,0.19,11.0,automatic,nc,nc
 2025-01-02T12:04:31.710Z,31.714,-104.264,4.2475,1.7,ml,17.0,55.0,0.0,0.2,tx,tx2025actk,2025-01-02T12:09:32.278Z,"52 km SSE of Whites City, New Mexico",earthquake,0.0,1.2274482250214,0.2,12.0,automatic,tx,tx
+2025-01-02T12:47:30.057Z,31.714,-104.272,4.2478,1.9,ml,20.0,119.0,0.0,0.3,tx,tx2025acuy,2025-01-02T12:57:28.705Z,"52 km S of Whites City, New Mexico",earthquake,0.0,1.9082316160202,0.2,15.0,automatic,tx,tx
+2025-01-02T12:41:09.880Z,38.810501098633,-122.78450012207,1.2000000476837,1.26,md,16.0,79.0,0.004058,0.02,nc,nc75111981,2025-01-02T12:57:15.528Z,"4 km NNW of The Geysers, CA",earthquake,0.25,0.389999986,0.18,18.0,automatic,nc,nc
+2025-01-02T12:36:05.956Z,61.4867,-150.0069,31.5,1.4,ml,,,,0.72,ak,ak0253ifmhf,2025-01-02T12:38:53.032Z,"4 km SW of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-01-02T10:17:40.327Z,8.8889,39.8628,10.0,4.5,mb,17.0,146.0,3.939,1.01,us,us6000ph2v,2025-01-02T12:26:30.040Z,"6 km WSW of Metahāra, Ethiopia",earthquake,10.35,1.969,0.171,10.0,reviewed,us,us
