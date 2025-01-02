@@ -18524,3 +18524,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-02T19:34:37.342Z,30.6549,142.0813,10.0,4.5,mb,45.0,125.0,3.12,0.75,us,us6000phaa,2025-01-02T20:39:57.040Z,"Izu Islands, Japan region",earthquake,4.85,1.886,0.097,31.0,reviewed,us,us
 2025-01-02T10:46:42.882Z,58.6694,-154.2851,8.7,1.1,ml,,,,0.62,ak,ak0253haysb,2025-01-02T20:52:06.553Z,"90 km SSE of Kokhanok, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2025-01-02T08:39:14.535Z,52.7262,-169.258,37.4,3.7,ml,,,,0.89,ak,ak0253g2jzg,2025-01-02T20:50:22.865Z,"35 km SW of Nikolski, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2025-01-02T21:01:05.810Z,33.885,-117.0893333,11.24,1.12,ml,11.0,105.0,0.191,0.28,ci,ci40832535,2025-01-02T21:04:42.533Z,"11 km NNE of Nuevo, CA",earthquake,0.73,3.3,0.164,34.0,automatic,ci,ci
+2025-01-02T20:59:33.030Z,36.518165588379,-121.14416503906,4.8899998664856,1.52,md,7.0,219.0,0.06291,0.15,nc,nc75112186,2025-01-02T21:01:07.873Z,"2 km SSW of Pinnacles, CA",earthquake,1.32,2.43000007,0.4,11.0,automatic,nc,nc
+2025-01-02T20:43:35.403Z,-21.7179,-69.0813,104.566,6.1,mww,106.0,55.0,0.168,1.24,us,us6000phap,2025-01-02T21:10:35.541Z,"83 km N of Calama, Chile",earthquake,4.99,4.528,0.037,69.0,reviewed,us,us
