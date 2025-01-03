@@ -18606,3 +18606,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T04:03:07.033Z,62.1596,-150.4865,75.0,1.7,ml,,,,0.37,ak,ak025510fm1,2025-01-03T04:06:06.027Z,"21 km SW of Trapper Creek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-01-03T03:57:17.780Z,38.817333221435,-122.82066345215,1.9900000095367,1.07,md,21.0,55.0,0.01076,0.06,nc,nc75112301,2025-01-03T03:58:55.915Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.439999998,0.16,20.0,automatic,nc,nc
 2025-01-03T03:54:21.970Z,37.3863,-117.1387,0.5,1.2,ml,19.0,199.47,0.13,0.3058,nn,nn00891297,2025-01-03T03:56:41.769Z,"36 km SSE of Goldfield, Nevada",earthquake,,12.9,0.22,15.0,automatic,nn,nn
+2025-01-03T04:30:48.497Z,39.1601,-119.0445,2.6,1.4,ml,11.0,116.36,0.01,0.0651,nn,nn00891301,2025-01-03T04:32:50.646Z,"21 km NNE of Yerington, Nevada",earthquake,,0.4,0.18,4.0,automatic,nn,nn
+2025-01-03T04:22:55.010Z,39.1126,-119.0269,5.8,1.2,ml,13.0,130.16,0.057,0.1006,nn,nn00891299,2025-01-03T04:25:11.116Z,"18 km NE of Yerington, Nevada",earthquake,,0.7,0.22,5.0,automatic,nn,nn
