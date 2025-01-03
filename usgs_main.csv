@@ -18687,3 +18687,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T09:32:07.510Z,36.558833333333,-89.6465,7.47,2.18,md,38.0,47.0,0.03401,0.09,nm,nm60596036,2025-01-03T13:35:06.250Z,"4 km WSW of Howardville, Missouri",earthquake,0.14,0.32,0.15682659831595,34.0,reviewed,nm,nm
 2025-01-03T13:50:35.908Z,63.0634,-149.0746,17.5,1.2,ml,,,,0.37,ak,ak02556ngx2,2025-01-03T13:53:41.436Z,"37 km S of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-03T13:41:51.310Z,33.1403333,-116.6426667,4.77,0.75,ml,33.0,33.0,0.05878,0.19,ci,ci40833023,2025-01-03T13:46:35.286Z,"8 km NNW of Julian, CA",earthquake,0.24,0.45,0.109,15.0,automatic,ci,ci
+2025-01-03T14:10:37.115Z,64.9507,-151.1497,11.7,1.5,ml,,,,0.51,ak,ak025570bz3,2025-01-03T14:12:45.552Z,"24 km WSW of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-01-03T14:05:08.060Z,38.830665588379,-122.81816864014,1.9400000572205,0.82,md,10.0,135.0,0.009627,0.02,nc,nc75112456,2025-01-03T14:06:41.699Z,"8 km NNW of The Geysers, CA",earthquake,0.38,0.649999976,0.27,13.0,automatic,nc,nc
+2025-01-03T14:03:27.350Z,40.410331726074,-125.12999725342,3.6199998855591,3.6,ml,64.0,264.0,0.6083,0.33,nc,nc75112451,2025-01-03T14:13:37.201Z,"72 km WNW of Petrolia, CA",earthquake,2.81,5.63999987,0.307,9.0,reviewed,nc,nc
+2025-01-03T14:02:35.421Z,65.1415,-148.4643,0.0,1.1,ml,,,,0.91,ak,ak02556ym46,2025-01-03T14:04:22.063Z,"39 km NNW of Ester, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-01-03T13:57:51.180Z,38.795833587646,-122.78500366211,4.8600001335144,0.56,md,8.0,74.0,0.003495,0.02,nc,nc75112446,2025-01-03T13:59:27.297Z,"3 km NW of The Geysers, CA",earthquake,1.04,3.30999994,0.15,8.0,automatic,nc,nc
+2025-01-03T13:55:45.553Z,62.7712,-150.9233,129.6,1.6,ml,,,,0.44,ak,ak02556ok8r,2025-01-03T13:58:00.749Z,"31 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-01-02T21:08:38.250Z,36.6865,-116.147,3.3,-0.3,ml,11.0,197.5,0.005,0.0242,nn,nn00891330,2025-01-03T14:13:36.173Z,"44 km WNW of Indian Springs, Nevada",earthquake,,1.3,0.17,3.0,reviewed,nn,nn
+2025-01-02T18:03:37.720Z,36.5855,-116.261,6.6,-0.1,ml,13.0,243.08,0.087,0.0603,nn,nn00891329,2025-01-03T14:10:26.516Z,"48 km NNW of Pahrump, Nevada",earthquake,,2.3,0.12,3.0,reviewed,nn,nn
