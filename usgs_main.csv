@@ -18598,3 +18598,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T02:58:21.593Z,39.2581,-120.1238,10.6,0.7,ml,8.0,119.69,0.05,0.0731,nn,nn00891285,2025-01-03T03:00:09.317Z,"5 km NW of Carnelian Bay, California",earthquake,,0.8,0.35,5.0,automatic,nn,nn
 2025-01-03T02:52:35.692Z,9.4006,39.9227,10.0,4.5,mb,40.0,135.0,3.57,0.91,us,us6000phcx,2025-01-03T03:05:24.040Z,"52 km SSE of Debre Sīna, Ethiopia",earthquake,12.53,1.944,0.096,32.0,reviewed,us,us
 2025-01-03T02:50:28.919Z,31.675,-104.468,7.5773,1.9,ml,6.0,173.0,0.0,0.7,tx,tx2025adwq,2025-01-03T03:24:46.843Z,"56 km S of Whites City, New Mexico",earthquake,0.0,4.139413356781,0.2,5.0,automatic,tx,tx
+2025-01-03T03:38:51.725Z,60.9171,-151.9398,66.5,1.1,ml,,,,0.69,ak,ak02550mlhw,2025-01-03T03:41:01.138Z,"43 km NW of Nikiski, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-01-03T03:29:12.367Z,31.683,-104.167,4.21,1.7,ml,19.0,96.0,0.1,0.3,tx,tx2025adxx,2025-01-03T03:37:58.826Z,"53 km W of Mentone, Texas",earthquake,0.0,1.3358221054077,0.2,15.0,automatic,tx,tx
+2025-01-03T03:27:07.224Z,37.3665,-117.1364,0.0,0.5,ml,10.0,196.69,0.119,0.2068,nn,nn00891294,2025-01-03T03:29:09.647Z,"38 km SSE of Goldfield, Nevada",earthquake,,15.5,0.27,5.0,automatic,nn,nn
