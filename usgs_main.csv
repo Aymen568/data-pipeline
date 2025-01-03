@@ -18624,3 +18624,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T05:52:23.110Z,39.020668029785,-123.32917022705,3.2599999904633,1.57,md,13.0,79.0,0.03648,0.04,nc,nc75112346,2025-01-03T06:17:17.613Z,"3 km E of Boonville, CA",earthquake,0.24,0.709999979,0.16,10.0,automatic,nc,nc
 2025-01-03T06:35:10.437Z,32.097,-101.467,3.2001,2.6,ml,68.0,69.0,0.1,0.4,tx,tx2025aeeb,2025-01-03T06:41:59.148Z,"9 km W of Forsan, Texas",earthquake,0.0,0.81642812490463,0.2,41.0,automatic,tx,tx
 2025-01-03T06:39:57.462Z,37.3647,-117.1296,0.5,0.9,ml,9.0,196.52,0.123,0.0947,nn,nn00891309,2025-01-03T06:42:10.779Z,"39 km SSE of Goldfield, Nevada",earthquake,,15.1,0.42,6.0,automatic,nn,nn
+2025-01-03T06:59:02.985Z,31.605,-104.283,4.782,1.5,ml,18.0,72.0,0.1,0.4,tx,tx2025aeev,2025-01-03T07:06:41.927Z,"56 km NW of Toyah, Texas",earthquake,0.0,1.4669592380524,0.2,13.0,automatic,tx,tx
