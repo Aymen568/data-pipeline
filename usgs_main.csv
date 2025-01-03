@@ -18739,3 +18739,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T18:33:54.020Z,34.2426667,-116.8091667,1.46,1.53,ml,57.0,30.0,0.09448,0.15,ci,ci40833223,2025-01-03T18:37:57.572Z,"4 km ESE of Big Bear City, CA",earthquake,0.13,0.32,0.141,31.0,automatic,ci,ci
 2025-01-03T18:24:23.972Z,37.3769,-117.1365,4.3,1.6,ml,24.0,198.16,0.125,0.2402,nn,nn00891344,2025-01-03T18:26:53.590Z,"37 km SSE of Goldfield, Nevada",earthquake,,1.5,0.17,16.0,automatic,nn,nn
 2025-01-03T18:40:17.783Z,31.671,-104.404,4.6613,1.9,ml,16.0,70.0,0.0,0.3,tx,tx2025afbz,2025-01-03T18:49:26.394Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.4228836297989,0.1,13.0,automatic,tx,tx
+2025-01-03T19:04:09.836Z,60.0636,-153.0217,124.5,2.0,ml,,,,0.64,ak,ak02559y5lj,2025-01-03T19:06:23.666Z,"68 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-01-03T18:43:38.908Z,30.865,-103.439,2.9955,1.8,ml,12.0,71.0,0.1,0.4,tx,tx2025afce,2025-01-03T18:53:25.420Z,"32 km ESE of Balmorhea, Texas",earthquake,0.0,1.7678221464157,0.2,9.0,automatic,tx,tx
+2025-01-03T00:50:30.080Z,47.6065,-122.60416666667,21.07,1.67,ml,34.0,62.0,0.05313,0.16,uw,uw62069566,2025-01-03T18:54:43.010Z,"2 km N of Enetai, Washington",earthquake,0.28,0.51,0.14379866576234,12.0,reviewed,uw,uw
