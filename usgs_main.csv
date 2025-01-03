@@ -18659,3 +18659,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T10:38:33.404Z,62.1572,-147.7136,33.9,1.6,ml,,,,0.76,ak,ak02554slbg,2025-01-03T10:40:50.236Z,"37 km NW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-03T10:32:13.610Z,32.3271667,-115.3921667,0.19,1.62,ml,18.0,98.0,0.2055,0.19,ci,ci40832975,2025-01-03T10:35:50.483Z,"19 km W of Delta, B.C., MX",earthquake,0.32,0.66,0.204,21.0,automatic,ci,ci
 2025-01-03T08:29:22.467Z,61.198,-147.6343,0.0,1.2,ml,,,,0.21,ak,ak02553jsjy,2025-01-03T10:36:27.825Z,"63 km NW of Tatitlek, Alaska",ice quake,,0.0,,,reviewed,ak,ak
+2025-01-03T11:07:55.150Z,33.3093338,-116.2166672,6.76,1.04,ml,30.0,141.0,0.09408,0.23,ci,ci40832983,2025-01-03T11:10:01.556Z,"16 km ENE of Borrego Springs, CA",earthquake,0.47,1.41,0.242,4.0,automatic,ci,ci
+2025-01-03T10:54:22.620Z,38.814167022705,-122.82466888428,2.2200000286102,0.79,md,17.0,55.0,0.006357,0.02,nc,nc75112401,2025-01-03T10:56:00.984Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.479999989,0.17,16.0,automatic,nc,nc
