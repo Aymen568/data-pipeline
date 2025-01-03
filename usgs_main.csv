@@ -18754,3 +18754,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T20:26:05.810Z,40.327331542969,-124.97799682617,6.0700001716614,2.86,md,32.0,265.0,0.5024,0.27,nc,nc75112576,2025-01-03T20:32:15.477Z,"59 km WNW of Petrolia, CA",earthquake,4.39,3.76999998,0.11,20.0,automatic,nc,nc
 2025-01-03T20:41:17.276Z,63.125,-151.5,0.0,1.9,ml,,,,0.92,ak,ak0255arj9r,2025-01-03T20:43:53.004Z,"47 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-03T18:52:10.698Z,-31.8146,-71.4778,48.998,4.3,mb,50.0,138.0,0.485,0.61,us,us6000phph,2025-01-03T20:35:22.040Z,"35 km SW of Illapel, Chile",earthquake,4.37,7.668,0.1,31.0,reviewed,us,us
+2025-01-03T20:54:50.027Z,60.9236,-141.0588,0.2,2.5,ml,,,,0.86,ak,ak0255aue3u,2025-01-03T20:56:53.301Z,"115 km ESE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-01-03T20:43:55.899Z,31.598,-103.985,5.2337,1.8,ml,15.0,59.0,0.0,0.5,tx,tx2025afgb,2025-01-03T20:49:39.804Z,"36 km NNW of Toyah, Texas",earthquake,0.0,2.5073485374451,0.2,13.0,automatic,tx,tx
