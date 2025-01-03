@@ -18636,3 +18636,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T08:17:01.166Z,31.693,-101.966,3.9592,1.5,ml,25.0,72.0,0.1,0.4,tx,tx2025aehl,2025-01-03T08:22:32.082Z,"35 km SSE of Midland, Texas",earthquake,0.0,1.271452665329,0.1,17.0,automatic,tx,tx
 2025-01-03T08:11:36.820Z,33.7653333,-115.9533333,-0.02,1.1,ml,42.0,67.0,0.1109,0.19,ci,ci40832911,2025-01-03T08:15:35.730Z,"22 km NE of Thermal, CA",earthquake,0.19,0.32,0.122,26.0,automatic,ci,ci
 2025-01-03T08:41:06.590Z,33.0051667,-116.3633333,5.32,0.53,ml,34.0,86.0,0.05184,0.16,ci,ci40832935,2025-01-03T08:45:36.578Z,"24 km ESE of Julian, CA",earthquake,0.19,0.59,0.207,9.0,automatic,ci,ci
+2025-01-03T08:53:38.065Z,39.161,-119.095,3.5,0.6,ml,8.0,133.07,0.044,0.093,nn,nn00891311,2025-01-03T08:55:41.626Z,"20 km NNE of Yerington, Nevada",earthquake,,0.8,0.21,2.0,automatic,nn,nn
+2025-01-03T08:53:30.915Z,59.7145,-153.4788,118.9,2.0,ml,,,,0.62,ak,ak02553oxnn,2025-01-03T08:56:33.263Z,"36 km ESE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
