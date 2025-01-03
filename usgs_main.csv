@@ -18602,3 +18602,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T03:29:12.367Z,31.683,-104.167,4.21,1.7,ml,19.0,96.0,0.1,0.3,tx,tx2025adxx,2025-01-03T03:37:58.826Z,"53 km W of Mentone, Texas",earthquake,0.0,1.3358221054077,0.2,15.0,automatic,tx,tx
 2025-01-03T03:27:07.224Z,37.3665,-117.1364,0.0,0.5,ml,10.0,196.69,0.119,0.2068,nn,nn00891294,2025-01-03T03:29:09.647Z,"38 km SSE of Goldfield, Nevada",earthquake,,15.5,0.27,5.0,automatic,nn,nn
 2025-01-03T03:46:16.259Z,64.5204,-147.0266,17.7,0.9,ml,,,,0.43,ak,ak02550o8hc,2025-01-03T03:48:33.307Z,"5 km W of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-01-03T04:19:00.042Z,61.8178,-149.4661,35.6,1.9,ml,,,,0.43,ak,ak025513uic,2025-01-03T04:20:27.913Z,"14 km NW of Fishhook, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2025-01-03T04:03:07.033Z,62.1596,-150.4865,75.0,1.7,ml,,,,0.37,ak,ak025510fm1,2025-01-03T04:06:06.027Z,"21 km SW of Trapper Creek, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-01-03T03:57:17.780Z,38.817333221435,-122.82066345215,1.9900000095367,1.07,md,21.0,55.0,0.01076,0.06,nc,nc75112301,2025-01-03T03:58:55.915Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.439999998,0.16,20.0,automatic,nc,nc
+2025-01-03T03:54:21.970Z,37.3863,-117.1387,0.5,1.2,ml,19.0,199.47,0.13,0.3058,nn,nn00891297,2025-01-03T03:56:41.769Z,"36 km SSE of Goldfield, Nevada",earthquake,,12.9,0.22,15.0,automatic,nn,nn
