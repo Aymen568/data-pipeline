@@ -18776,3 +18776,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T21:59:30.980Z,63.0522,-151.3547,0.0,1.9,ml,,,,0.83,ak,ak0255bgutm,2025-01-03T22:02:09.340Z,"57 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-01-03T21:58:28.629Z,63.2169,-150.8055,132.4,1.8,ml,,,,0.3,ak,ak0255bgmxa,2025-01-03T22:01:20.362Z,"58 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-01-03T21:23:07.270Z,18.8095,-66.770333333333,48.88,3.05,md,9.0,289.0,0.4018,0.06,pr,pr71470078,2025-01-03T21:54:43.190Z,"36 km N of Hatillo, Puerto Rico",earthquake,1.28,1.37,0.12924992274015,10.0,reviewed,pr,pr
+2025-01-03T22:17:13.310Z,34.1636667,-116.839,10.41,0.83,ml,25.0,62.0,0.1065,0.14,ci,ci40833439,2025-01-03T22:20:55.086Z,"11 km S of Big Bear City, CA",earthquake,0.2,0.45,0.134,16.0,automatic,ci,ci
+2025-01-03T22:14:52.165Z,29.0806,-97.8077,5.0,3.0,mb_lg,14.0,137.0,0.13,1.38,us,us6000phqz,2025-01-03T22:30:42.982Z,"21 km SSW of Nixon, Texas",earthquake,1.93,1.917,0.07,54.0,reviewed,us,us
