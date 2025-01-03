@@ -18727,3 +18727,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T17:01:45.951Z,9.2986,40.4246,10.0,5.5,mww,130.0,59.0,3.255,0.5,us,us6000phnz,2025-01-03T17:27:31.890Z,"44 km NE of Āwash, Ethiopia",earthquake,8.92,1.874,0.08,15.0,reviewed,us,us
 2025-01-03T16:59:31.440Z,17.947,-66.9455,8.45,2.53,md,23.0,186.0,0.04312,0.11,pr,pr71470048,2025-01-03T17:21:23.450Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.31,0.45,0.16004521062734,11.0,reviewed,pr,pr
 2025-01-03T11:44:21.820Z,38.5055,-112.8995,3.03,0.4,md,13.0,55.0,0.01082,0.12,uu,uu80002548,2025-01-03T17:22:36.870Z,"15 km NE of Milford, Utah",earthquake,0.34,0.59,0.30296155146157,4.0,reviewed,uu,uu
+2025-01-03T14:07:44.710Z,37.529666666667,-112.48,-0.77,1.73,ml,12.0,53.0,0.1594,0.24,uu,uu80099146,2025-01-03T17:37:55.730Z,"10 km N of Alton, Utah",earthquake,0.52,0.94,0.21832621491969,3.0,reviewed,uu,uu
