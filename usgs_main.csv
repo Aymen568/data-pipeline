@@ -18742,3 +18742,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T19:04:09.836Z,60.0636,-153.0217,124.5,2.0,ml,,,,0.64,ak,ak02559y5lj,2025-01-03T19:06:23.666Z,"68 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-01-03T18:43:38.908Z,30.865,-103.439,2.9955,1.8,ml,12.0,71.0,0.1,0.4,tx,tx2025afce,2025-01-03T18:53:25.420Z,"32 km ESE of Balmorhea, Texas",earthquake,0.0,1.7678221464157,0.2,9.0,automatic,tx,tx
 2025-01-03T00:50:30.080Z,47.6065,-122.60416666667,21.07,1.67,ml,34.0,62.0,0.05313,0.16,uw,uw62069566,2025-01-03T18:54:43.010Z,"2 km N of Enetai, Washington",earthquake,0.28,0.51,0.14379866576234,12.0,reviewed,uw,uw
+2025-01-03T19:18:00.860Z,40.319831848145,-124.52649688721,7.0199999809265,2.28,md,14.0,304.0,0.1619,0.06,nc,nc75112551,2025-01-03T19:19:38.634Z,"20 km W of Petrolia, CA",earthquake,2.22,1.17999995,0.07,15.0,automatic,nc,nc
