@@ -18647,3 +18647,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T09:30:02.810Z,38.792331695557,-122.7620010376,0.49000000953674,0.79,md,12.0,79.0,0.02027,0.02,nc,nc75112381,2025-01-03T09:31:41.271Z,"2 km  of The Geysers, CA",earthquake,0.26,0.629999995,0.08,15.0,automatic,nc,nc
 2025-01-03T09:27:10.550Z,33.1675,-116.422,12.62,0.64,ml,46.0,54.0,0.09098,0.18,ci,ci40832951,2025-01-03T09:32:45.069Z,"11 km SSW of Borrego Springs, CA",earthquake,0.19,0.52,0.232,9.0,automatic,ci,ci
 2025-01-03T09:26:07.750Z,33.4093333,-116.4371667,14.71,0.38,ml,27.0,67.0,0.1166,0.13,ci,ci40832943,2025-01-03T09:30:41.747Z,"18 km NNW of Borrego Springs, CA",earthquake,0.18,0.4,0.142,8.0,automatic,ci,ci
+2025-01-03T09:41:41.730Z,36.8417,-116.2504,2.2,0.1,ml,9.0,115.3,0.06,0.1832,nn,nn00891312,2025-01-03T09:43:32.338Z,"45 km E of Beatty, Nevada",earthquake,,1.1,0.12,3.0,automatic,nn,nn
+2025-01-03T09:37:53.169Z,64.1403,-149.9767,15.8,2.4,ml,,,,0.55,ak,ak025546zis,2025-01-03T09:40:16.439Z,"40 km WSW of Clear, Alaska",earthquake,,0.3,,,automatic,ak,ak
