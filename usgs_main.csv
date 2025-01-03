@@ -18649,3 +18649,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T09:26:07.750Z,33.4093333,-116.4371667,14.71,0.38,ml,27.0,67.0,0.1166,0.13,ci,ci40832943,2025-01-03T09:30:41.747Z,"18 km NNW of Borrego Springs, CA",earthquake,0.18,0.4,0.142,8.0,automatic,ci,ci
 2025-01-03T09:41:41.730Z,36.8417,-116.2504,2.2,0.1,ml,9.0,115.3,0.06,0.1832,nn,nn00891312,2025-01-03T09:43:32.338Z,"45 km E of Beatty, Nevada",earthquake,,1.1,0.12,3.0,automatic,nn,nn
 2025-01-03T09:37:53.169Z,64.1403,-149.9767,15.8,2.4,ml,,,,0.55,ak,ak025546zis,2025-01-03T09:40:16.439Z,"40 km WSW of Clear, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-01-03T09:56:49.207Z,37.3605,-117.1314,0.0,0.5,ml,10.0,195.9,0.119,0.1922,nn,nn00891313,2025-01-03T09:58:52.410Z,"39 km SSE of Goldfield, Nevada",earthquake,,15.5,0.43,6.0,automatic,nn,nn
+2025-01-02T18:48:31.250Z,61.307833333333,-152.27016666667,0.25,0.43,ml,9.0,121.0,0.06943,0.05,av,av93442016,2025-01-03T09:50:20.940Z,"66 km WNW of Beluga, Alaska",earthquake,0.24,1.88,0.33165797527185,11.0,reviewed,av,av
