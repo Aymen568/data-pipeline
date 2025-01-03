@@ -18685,3 +18685,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T12:55:58.190Z,18.0815,-68.44,55.0,3.5,md,13.0,215.0,1.3325,0.4,pr,pr2025003000,2025-01-03T13:33:37.530Z,"37 km SSE of Boca de Yuma, Dominican Republic",earthquake,2.86,6.11,0.05,8.0,reviewed,pr,pr
 2025-01-03T11:58:10.390Z,34.9259,23.3009,10.0,4.3,mb,54.0,167.0,1.352,1.27,us,us6000phg1,2025-01-03T13:42:56.040Z,"48 km SW of Palaióchora, Greece",earthquake,7.57,1.906,0.094,32.0,reviewed,us,us
 2025-01-03T09:32:07.510Z,36.558833333333,-89.6465,7.47,2.18,md,38.0,47.0,0.03401,0.09,nm,nm60596036,2025-01-03T13:35:06.250Z,"4 km WSW of Howardville, Missouri",earthquake,0.14,0.32,0.15682659831595,34.0,reviewed,nm,nm
+2025-01-03T13:50:35.908Z,63.0634,-149.0746,17.5,1.2,ml,,,,0.37,ak,ak02556ngx2,2025-01-03T13:53:41.436Z,"37 km S of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-01-03T13:41:51.310Z,33.1403333,-116.6426667,4.77,0.75,ml,33.0,33.0,0.05878,0.19,ci,ci40833023,2025-01-03T13:46:35.286Z,"8 km NNW of Julian, CA",earthquake,0.24,0.45,0.109,15.0,automatic,ci,ci
