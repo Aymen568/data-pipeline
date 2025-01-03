@@ -18656,3 +18656,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T10:04:27.201Z,61.309,-152.2555,2.9,0.2,ml,,,,0.22,ak,ak02554lahs,2025-01-03T10:05:51.319Z,"65 km WNW of Beluga, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-01-03T09:41:47.794Z,31.644,-104.357,4.5595,1.6,ml,14.0,69.0,0.1,0.2,tx,tx2025aekg,2025-01-03T10:13:09.750Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.7329025268555,0.2,12.0,automatic,tx,tx
 2025-01-03T00:20:52.031Z,61.7945,-149.6173,45.6,1.0,ml,,,,0.37,ak,ak0254yqeaz,2025-01-03T10:10:22.523Z,"18 km N of Meadow Lakes, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2025-01-03T10:38:33.404Z,62.1572,-147.7136,33.9,1.6,ml,,,,0.76,ak,ak02554slbg,2025-01-03T10:40:50.236Z,"37 km NW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-01-03T10:32:13.610Z,32.3271667,-115.3921667,0.19,1.62,ml,18.0,98.0,0.2055,0.19,ci,ci40832975,2025-01-03T10:35:50.483Z,"19 km W of Delta, B.C., MX",earthquake,0.32,0.66,0.204,21.0,automatic,ci,ci
+2025-01-03T08:29:22.467Z,61.198,-147.6343,0.0,1.2,ml,,,,0.21,ak,ak02553jsjy,2025-01-03T10:36:27.825Z,"63 km NW of Tatitlek, Alaska",ice quake,,0.0,,,reviewed,ak,ak
