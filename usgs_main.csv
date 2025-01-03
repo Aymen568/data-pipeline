@@ -18589,3 +18589,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T02:18:56.390Z,18.793333333333,-155.33316666667,30.85,2.97,ml,54.0,271.0,0.3564,0.13,hv,hv74582777,2025-01-03T02:46:54.288Z,"39 km SE of Naalehu, Hawaii",earthquake,0.5,1.47,0.18018906847425,31.0,reviewed,hv,hv
 2025-01-03T02:12:43.740Z,61.6825,-151.8285,98.7,1.8,ml,,,,0.38,ak,ak0254zvknq,2025-01-03T02:14:41.001Z,"41 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-01-03T02:10:37.665Z,9.1947,40.3441,10.0,4.5,mb,23.0,259.0,3.384,0.8,us,us6000phcd,2025-01-03T02:24:48.040Z,"30 km NE of Āwash, Ethiopia",earthquake,14.58,2.005,0.15,13.0,reviewed,us,us
+2025-01-03T03:24:51.905Z,37.3555,-117.1477,0.0,1.4,ml,19.0,194.94,0.105,0.3187,nn,nn00891290,2025-01-03T03:27:01.224Z,"39 km S of Goldfield, Nevada",earthquake,,13.1,0.17,14.0,automatic,nn,nn
+2025-01-03T03:24:02.405Z,37.3695,-117.1315,3.4,1.2,ml,15.0,209.57,0.124,0.4778,nn,nn00891288,2025-01-03T03:26:31.184Z,"38 km SSE of Goldfield, Nevada",earthquake,,11.1,0.23,8.0,automatic,nn,nn
+2025-01-03T03:21:37.260Z,33.539,-116.7858333,8.8,0.52,ml,31.0,34.0,0.04031,0.16,ci,ci40832815,2025-01-03T03:25:51.387Z,"11 km W of Anza, CA",earthquake,0.21,0.39,0.186,18.0,automatic,ci,ci
+2025-01-03T03:16:36.865Z,62.1936,-148.9801,12.2,1.4,ml,,,,0.46,ak,ak02550huli,2025-01-03T03:18:02.533Z,"45 km E of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-01-03T03:04:13.697Z,37.3903,-117.1308,0.8,1.3,ml,19.0,200.15,0.137,0.311,nn,nn00891286,2025-01-03T03:06:31.362Z,"36 km SSE of Goldfield, Nevada",earthquake,,12.5,0.23,12.0,automatic,nn,nn
+2025-01-03T03:03:17.950Z,38.824165344238,-122.84666442871,1.8300000429153,0.77,md,10.0,181.0,0.008659,0.01,nc,nc75112291,2025-01-03T03:04:56.682Z,"9 km NW of The Geysers, CA",earthquake,0.46,0.620000005,0.33,12.0,automatic,nc,nc
+2025-01-03T02:58:21.593Z,39.2581,-120.1238,10.6,0.7,ml,8.0,119.69,0.05,0.0731,nn,nn00891285,2025-01-03T03:00:09.317Z,"5 km NW of Carnelian Bay, California",earthquake,,0.8,0.35,5.0,automatic,nn,nn
+2025-01-03T02:52:35.692Z,9.4006,39.9227,10.0,4.5,mb,40.0,135.0,3.57,0.91,us,us6000phcx,2025-01-03T03:05:24.040Z,"52 km SSE of Debre Sīna, Ethiopia",earthquake,12.53,1.944,0.096,32.0,reviewed,us,us
+2025-01-03T02:50:28.919Z,31.675,-104.468,7.5773,1.9,ml,6.0,173.0,0.0,0.7,tx,tx2025adwq,2025-01-03T03:24:46.843Z,"56 km S of Whites City, New Mexico",earthquake,0.0,4.139413356781,0.2,5.0,automatic,tx,tx
