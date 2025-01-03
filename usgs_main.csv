@@ -18738,3 +18738,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T17:59:30.470Z,17.943666666667,-66.9465,9.18,2.17,md,6.0,217.0,0.07121,0.05,pr,pr71470068,2025-01-03T18:09:46.500Z,"5 km SW of Guánica, Puerto Rico",earthquake,0.44,0.68,0.12699331906672,5.0,reviewed,pr,pr
 2025-01-03T18:33:54.020Z,34.2426667,-116.8091667,1.46,1.53,ml,57.0,30.0,0.09448,0.15,ci,ci40833223,2025-01-03T18:37:57.572Z,"4 km ESE of Big Bear City, CA",earthquake,0.13,0.32,0.141,31.0,automatic,ci,ci
 2025-01-03T18:24:23.972Z,37.3769,-117.1365,4.3,1.6,ml,24.0,198.16,0.125,0.2402,nn,nn00891344,2025-01-03T18:26:53.590Z,"37 km SSE of Goldfield, Nevada",earthquake,,1.5,0.17,16.0,automatic,nn,nn
+2025-01-03T18:40:17.783Z,31.671,-104.404,4.6613,1.9,ml,16.0,70.0,0.0,0.3,tx,tx2025afbz,2025-01-03T18:49:26.394Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.4228836297989,0.1,13.0,automatic,tx,tx
