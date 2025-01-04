@@ -18897,3 +18897,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-04T13:15:06.177Z,61.695,-150.1064,47.5,1.6,ml,,,,0.45,ak,ak0256tz921,2025-01-04T13:17:00.606Z,"6 km SSW of Willow, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-01-04T13:14:30.000Z,19.348833084106,-154.91799926758,7.0900001525879,2.38000011,md,61.0,243.0,0.05415,0.370000005,hv,hv74583677,2025-01-04T13:25:21.113Z,"13 km S of Leilani Estates, Hawaii",earthquake,0.83,0.560000002,0.0900000036,6.0,automatic,hv,hv
 2025-01-04T14:00:23.030Z,33.4865,-116.497,13.67,1.12,ml,55.0,36.0,0.08829,0.19,ci,ci40833743,2025-01-04T14:05:18.091Z,"18 km ESE of Anza, CA",earthquake,0.17,0.39,0.157,26.0,automatic,ci,ci
+2025-01-04T14:14:53.070Z,32.872,-116.2246667,8.33,1.41,ml,49.0,45.0,0.1338,0.22,ci,ci40833751,2025-01-04T14:25:44.290Z,"26 km NW of Ocotillo, CA",earthquake,0.19,0.97,0.106,26.0,automatic,ci,ci
+2025-01-04T14:08:01.673Z,61.7664,-151.1967,89.1,1.7,ml,,,,0.39,ak,ak0256uj6av,2025-01-04T14:10:39.079Z,"27 km SSE of Skwentna, Alaska",earthquake,,1.4,,,automatic,ak,ak
