@@ -18827,3 +18827,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-04T05:30:31.610Z,32.9483337,-116.3381653,3.58,1.03,ml,26.0,103.0,0.06527,0.17,ci,ci40833607,2025-01-04T05:32:46.165Z,"23 km NE of Pine Valley, CA",earthquake,0.36,0.85,0.171,5.0,automatic,ci,ci
 2025-01-04T05:27:04.090Z,32.5395,-115.2325,23.85,1.89,ml,25.0,53.0,0.2495,0.27,ci,ci40833599,2025-01-04T05:30:35.697Z,"12 km ESE of Puebla, B.C., MX",earthquake,0.48,1.75,0.298,28.0,automatic,ci,ci
 2025-01-04T05:15:55.960Z,18.0275,-66.7495,12.79,2.25,md,10.0,159.0,0.1341,0.22,pr,pr71470128,2025-01-04T05:25:30.980Z,"2 km ENE of Magas Arriba, Puerto Rico",earthquake,0.52,0.59,0.11853031094699,7.0,reviewed,pr,pr
+2025-01-04T05:39:29.030Z,38.796333312988,-122.73850250244,1.6000000238419,1.12,md,16.0,99.0,0.01315,0.02,nc,nc75112721,2025-01-04T05:41:03.907Z,"3 km NE of The Geysers, CA",earthquake,0.27,0.540000021,0.1,15.0,automatic,nc,nc
+2025-01-04T05:36:37.216Z,61.5702,-149.8568,57.0,2.3,ml,,,,0.38,ak,ak0256pccnd,2025-01-04T05:38:06.144Z,"7 km SSW of Houston, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-01-04T05:36:15.750Z,32.2088333,-115.0265,15.48,2.1,ml,21.0,71.0,0.06967,0.3,ci,ci40833615,2025-01-04T05:39:54.343Z,"3 km NW of Estacion Coahuila, B.C., MX",earthquake,0.53,0.6,0.182,21.0,automatic,ci,ci
+2025-01-04T05:35:12.641Z,31.606,-103.984,6.3543,1.7,ml,15.0,61.0,0.0,0.3,tx,tx2025afxp,2025-01-04T05:43:56.669Z,"37 km NNW of Toyah, Texas",earthquake,0.0,2.550430059433,0.2,12.0,automatic,tx,tx
