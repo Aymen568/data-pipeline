@@ -18911,3 +18911,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-04T15:29:13.729Z,9.2132,40.0746,10.0,4.6,mb,79.0,105.0,3.569,0.68,us,us6000phv2,2025-01-04T15:55:31.040Z,"27 km NNW of Āwash, Ethiopia",earthquake,10.59,1.904,0.065,70.0,reviewed,us,us
 2025-01-04T13:57:31.302Z,4.7966,126.3654,65.16,4.5,mb,25.0,119.0,4.121,0.78,us,us6000phut,2025-01-04T15:51:45.040Z,"120 km SE of Sarangani, Philippines",earthquake,7.49,9.366,0.14,15.0,reviewed,us,us
 2025-01-04T16:24:27.072Z,63.2771,-151.3509,3.6,1.6,ml,,,,0.67,ak,ak0256vtixf,2025-01-04T16:27:14.579Z,"34 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-01-04T16:30:05.722Z,64.4807,-146.901,11.8,1.1,ml,,,,0.7,ak,ak0256vurks,2025-01-04T16:32:10.668Z,"4 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
