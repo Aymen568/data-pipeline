@@ -18819,3 +18819,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-04T03:41:34.940Z,40.267833709717,-124.53600311279,1.5499999523163,2.18,md,9.0,272.0,0.2198,0.13,nc,nc75112706,2025-01-04T03:47:19.480Z,"22 km W of Petrolia, CA",earthquake,2.74,8.57999992,0.14,10.0,automatic,nc,nc
 2025-01-04T03:48:39.385Z,61.9742,-151.5275,82.0,2.0,ml,,,,0.6,ak,ak0256o826z,2025-01-04T03:51:40.692Z,"7 km WSW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-04T04:14:19.815Z,61.659,-149.5281,25.5,2.5,ml,,,,0.55,ak,ak0256om5yu,2025-01-04T04:16:01.386Z,"5 km NE of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-01-04T03:50:55.053Z,-31.5657,142.0715,10.0,4.5,mb,22.0,71.0,0.509,0.86,us,us6000phse,2025-01-04T04:45:10.988Z,"73 km NE of Broken Hill, Australia",earthquake,5.18,1.916,0.171,10.0,reviewed,us,us
