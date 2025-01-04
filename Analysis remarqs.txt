@@ -11076,4 +11076,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 2.71 and occurred in/near 31 km ENE of Ensenada, B.C., MX on 01/04/2025 at 07:29 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 18847 recorded earthquakes.
 The most recent earthquake had a magnitude of 2.71 and occurred in/near 31 km ENE of Ensenada, B.C., MX on 01/04/2025 at 07:29 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 18849 recorded earthquakes.
+The most recent earthquake had a magnitude of 0.77 and occurred in/near 2 km NNE of The Geysers, CA on 01/04/2025 at 07:48 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
