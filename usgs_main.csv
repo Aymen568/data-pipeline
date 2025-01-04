@@ -18939,3 +18939,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-04T18:43:26.640Z,18.021333333333,-66.808,20.89,1.91,md,8.0,153.0,0.08196,0.13,pr,pr71470143,2025-01-04T19:22:15.330Z,"1 km W of Guayanilla, Puerto Rico",earthquake,0.53,1.13,0.038899550992773,7.0,reviewed,pr,pr
 2025-01-04T19:37:04.910Z,38.805999755859,-122.79650115967,3.1600000858307,1.07,md,21.0,69.0,0.002177,0.02,nc,nc75112906,2025-01-04T19:38:41.844Z,"5 km NW of The Geysers, CA",earthquake,0.26,0.560000002,0.18,22.0,automatic,nc,nc
 2025-01-04T19:41:17.383Z,60.1393,-152.7935,97.6,1.2,ml,,,,0.38,ak,ak0256xpg62,2025-01-04T19:42:53.287Z,"62 km WNW of Happy Valley, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-01-04T20:15:53.260Z,60.704,-150.9872,43.7,1.9,ml,,,,0.29,ak,ak0256y5dxa,2025-01-04T20:17:33.474Z,"16 km E of Nikiski, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-01-04T20:05:45.465Z,9.2646,40.1391,10.0,5.0,mb,104.0,38.0,3.488,0.62,us,us6000phw1,2025-01-04T20:23:46.543Z,"31 km N of Āwash, Ethiopia",earthquake,8.6,1.855,0.057,100.0,reviewed,us,us
