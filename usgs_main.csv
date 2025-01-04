@@ -18876,3 +18876,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-04T09:40:32.011Z,8.9724,40.2576,10.0,4.7,mb,35.0,109.0,3.599,0.57,us,us6000phu8,2025-01-04T09:59:01.040Z,"10 km E of Āwash, Ethiopia",earthquake,11.64,1.948,0.108,26.0,reviewed,us,us
 2025-01-04T10:22:49.721Z,31.727,-104.255,4.4034,1.8,ml,17.0,70.0,0.0,0.3,tx,tx2025aghb,2025-01-04T10:30:15.118Z,"51 km SSE of Whites City, New Mexico",earthquake,0.0,1.2768799066544,0.2,12.0,automatic,tx,tx
 2025-01-04T02:32:11.750Z,60.3912,-147.7665,6.0,1.6,ml,,,,0.71,ak,ak0256nj0yn,2025-01-04T10:23:36.463Z,"38 km NNE of Chenega, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2025-01-04T10:44:47.160Z,33.9963333,-117.4528333,20.23,0.8,ml,12.0,110.0,0.03465,0.3,ci,ci40833711,2025-01-04T10:49:52.743Z,"3 km NE of Pedley, CA",earthquake,2.12,1.14,0.253,23.0,automatic,ci,ci
+2025-01-04T10:43:07.981Z,60.9952,-152.1249,76.1,2.1,ml,,,,0.58,ak,ak0256scyfi,2025-01-04T10:45:23.776Z,"54 km W of Tyonek, Alaska",earthquake,,3.4,,,automatic,ak,ak
+2025-01-04T10:27:18.499Z,-5.1034,129.5252,220.743,4.5,mb,47.0,84.0,0.69,0.56,us,us6000phua,2025-01-04T10:47:03.040Z,"206 km SSE of Amahai, Indonesia",earthquake,9.17,7.178,0.079,47.0,reviewed,us,us
+2025-01-04T10:24:54.480Z,55.8476,-161.279,182.0,2.6,ml,,,,0.32,ak,ak0256s8y6b,2025-01-04T10:44:35.460Z,"17 km SSW of Nelson Lagoon, Alaska",earthquake,,0.9,,,reviewed,ak,ak
