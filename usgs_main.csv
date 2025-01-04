@@ -18893,3 +18893,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-04T12:16:53.273Z,32.29,-101.795,5.9198,1.4,ml,37.0,45.0,0.0,0.3,tx,tx2025agkw,2025-01-04T12:32:09.461Z,"17 km N of Stanton, Texas",earthquake,0.0,1.2837408781052,0.2,25.0,automatic,tx,tx
 2025-01-04T12:02:37.803Z,-17.6483,168.1957,44.224,4.1,mb,13.0,211.0,2.387,0.91,us,us6000phuj,2025-01-04T12:33:26.469Z,"15 km NW of Port-Vila, Vanuatu",earthquake,8.2,8.488,0.198,8.0,reviewed,us,us
 2025-01-04T12:00:30.220Z,40.292331695557,-124.47483062744,18.489999771118,2.28,md,15.0,271.0,0.1708,0.06,nc,nc75112811,2025-01-04T12:22:16.132Z,"17 km W of Petrolia, CA",earthquake,2.11,0.460000008,0.07,10.0,automatic,nc,nc
+2025-01-04T13:03:45.614Z,63.0864,-151.3529,0.0,1.8,ml,,,,0.71,ak,ak0256twri9,2025-01-04T13:06:00.844Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
