@@ -18816,3 +18816,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-04T02:55:56.719Z,38.7506,-119.2078,9.4,2.9,ml,32.0,63.91,0.131,0.1658,nn,nn00891374,2025-01-04T03:24:52.451Z,"11 km ESE of Smith, Nevada",earthquake,,1.0,0.21,9.0,reviewed,nn,nn
 2025-01-04T02:53:53.545Z,60.7553,-149.3524,20.1,1.8,ml,,,,0.89,ak,ak0256nnq9m,2025-01-04T02:56:45.532Z,"15 km SSE of Sunrise, Alaska",earthquake,,3.0,,,automatic,ak,ak
 2025-01-04T03:12:23.894Z,9.2433,40.0846,10.0,4.4,mb,44.0,116.0,3.542,1.02,us,us6000phsb,2025-01-04T03:26:43.040Z,"30 km NNW of Āwash, Ethiopia",earthquake,11.02,1.919,0.094,33.0,reviewed,us,us
+2025-01-04T03:41:34.940Z,40.267833709717,-124.53600311279,1.5499999523163,2.18,md,9.0,272.0,0.2198,0.13,nc,nc75112706,2025-01-04T03:47:19.480Z,"22 km W of Petrolia, CA",earthquake,2.74,8.57999992,0.14,10.0,automatic,nc,nc
