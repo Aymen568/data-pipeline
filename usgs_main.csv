@@ -18881,3 +18881,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-04T10:27:18.499Z,-5.1034,129.5252,220.743,4.5,mb,47.0,84.0,0.69,0.56,us,us6000phua,2025-01-04T10:47:03.040Z,"206 km SSE of Amahai, Indonesia",earthquake,9.17,7.178,0.079,47.0,reviewed,us,us
 2025-01-04T10:24:54.480Z,55.8476,-161.279,182.0,2.6,ml,,,,0.32,ak,ak0256s8y6b,2025-01-04T10:44:35.460Z,"17 km SSW of Nelson Lagoon, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2025-01-04T11:09:30.239Z,61.7841,-150.927,10.9,1.9,ml,,,,0.74,ak,ak0256sr5en,2025-01-04T11:11:48.312Z,"33 km SE of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-01-04T11:16:15.330Z,34.9853333,-116.4435,1.13,2.0,ml,20.0,86.0,0.1623,0.22,ci,ci40833719,2025-01-04T11:19:50.055Z,"38 km SE of Fort Irwin, CA",earthquake,0.27,0.54,0.201,26.0,automatic,ci,ci
+2025-01-04T10:59:02.708Z,45.4016,151.8666,10.0,4.7,mb,44.0,182.0,6.726,0.65,us,us6000phud,2025-01-04T11:19:03.040Z,Kuril Islands,earthquake,8.5,1.71,0.086,41.0,reviewed,us,us
