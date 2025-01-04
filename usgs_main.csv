@@ -18923,3 +18923,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-04T14:21:43.479Z,39.1037,-119.0438,7.7,1.1,ml,9.0,138.24,0.037,0.1868,nn,nn00891390,2025-01-04T18:26:36.422Z,"16 km NE of Yerington, Nevada",earthquake,,2.1,0.36,3.0,reviewed,nn,nn
 2025-01-04T11:44:14.598Z,38.757,-119.2116,10.8,1.4,ml,9.0,216.67,0.23,0.1686,nn,nn00891392,2025-01-04T18:35:59.698Z,"11 km ESE of Smith, Nevada",earthquake,,2.9,0.5,4.0,reviewed,nn,nn
 2025-01-04T05:31:34.405Z,39.1404,-119.0648,7.4,1.3,ml,7.0,147.54,0.011,0.1811,nn,nn00891391,2025-01-04T18:29:45.484Z,"19 km NNE of Yerington, Nevada",earthquake,,1.4,0.0,1.0,reviewed,nn,nn
+2025-01-04T18:45:14.853Z,39.0924,-119.0436,10.7,1.3,ml,8.0,133.9,0.077,0.2492,nn,nn00891393,2025-01-04T18:47:14.423Z,"15 km NE of Yerington, Nevada",earthquake,,0.8,0.13,2.0,automatic,nn,nn
+2025-01-04T17:26:06.151Z,-8.2505,123.7843,188.212,4.0,mb,19.0,66.0,1.569,0.69,us,us6000phvp,2025-01-04T18:39:25.040Z,"123 km NNW of Pante Makasar, Timor Leste",earthquake,6.73,10.254,0.184,8.0,reviewed,us,us
+2025-01-04T01:52:45.820Z,62.0275,-144.167,14.6,0.53,ml,5.0,156.0,0.04765,0.12,av,av93029884,2025-01-04T18:44:43.290Z,"53 km NE of Kenny Lake, Alaska",earthquake,0.83,0.32,0.20714835706647,7.0,reviewed,av,av
