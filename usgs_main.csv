@@ -18838,3 +18838,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-04T05:48:37.266Z,12.7146,-88.6755,60.152,4.4,mb,47.0,153.0,0.824,1.51,us,us6000phsz,2025-01-04T05:58:06.040Z,"64 km SSW of Puerto El Triunfo, El Salvador",earthquake,5.84,11.082,0.054,98.0,reviewed,us,us
 2025-01-04T04:59:48.139Z,-16.745,-69.7532,200.256,4.4,mb,31.0,146.0,0.879,0.84,us,us6000phsr,2025-01-04T06:11:41.040Z,"3 km W of Mazo Cruz, Peru",earthquake,10.35,10.704,0.162,11.0,reviewed,us,us
 2025-01-04T06:38:19.330Z,38.825164794922,-122.7928314209,1.0900000333786,1.26,md,23.0,37.0,0.01337,0.03,nc,nc75112726,2025-01-04T06:39:58.892Z,"6 km WNW of Cobb, CA",earthquake,0.19,0.340000004,0.12,24.0,automatic,nc,nc
+2025-01-04T06:46:17.720Z,35.5006667,-118.2863333,7.46,1.04,ml,22.0,55.0,0.1244,0.11,ci,ci40833639,2025-01-04T06:50:16.630Z,"21 km ESE of Bodfish, CA",earthquake,0.15,0.9,0.22,22.0,automatic,ci,ci
