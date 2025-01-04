@@ -11060,4 +11060,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.03 and occurred in/near 23 km NE of Pine Valley, CA on 01/04/2025 at 05:30 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 18832 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.12 and occurred in/near 3 km NE of The Geysers, CA on 01/04/2025 at 05:39 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 18832 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.12 and occurred in/near 3 km NE of The Geysers, CA on 01/04/2025 at 05:39 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
