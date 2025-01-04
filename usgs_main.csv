@@ -18856,3 +18856,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-04T08:07:10.260Z,19.303667068481,-155.45983886719,4.0100002288818,2.09,ml,56.0,43.0,0.06627,0.289999992,hv,hv74583527,2025-01-04T08:10:31.160Z,"11 km N of Pāhala, Hawaii",earthquake,0.33,1.27999997,0.57,8.0,automatic,hv,hv
 2025-01-04T08:41:32.265Z,61.4649,-150.2432,44.2,1.7,ml,,,,0.6,ak,ak0256r5pnu,2025-01-04T08:43:33.722Z,"16 km WSW of Big Lake, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-01-04T08:29:45.517Z,37.376,-117.1247,0.7,0.7,ml,10.0,198.2,0.132,0.2072,nn,nn00891378,2025-01-04T08:32:00.583Z,"38 km SSE of Goldfield, Nevada",earthquake,,15.7,0.37,6.0,automatic,nn,nn
+2025-01-04T08:49:46.860Z,38.823501586914,-122.81016540527,2.4700000286102,0.77,md,16.0,59.0,0.0001282,0.02,nc,nc75112761,2025-01-04T08:51:22.814Z,"7 km NNW of The Geysers, CA",earthquake,0.31,0.550000012,0.12,19.0,automatic,nc,nc
