@@ -18985,3 +18985,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-05T03:15:51.550Z,31.575,-104.02,6.3702,1.6,ml,16.0,54.0,0.0,0.2,tx,tx2025ahom,2025-01-05T03:24:52.074Z,"36 km NW of Toyah, Texas",earthquake,0.0,2.5613918304443,0.1,12.0,automatic,tx,tx
 2025-01-05T02:51:55.770Z,-20.3617,-177.3883,487.072,4.4,mb,35.0,100.0,4.939,0.51,us,us6000phxt,2025-01-05T03:19:29.040Z,"234 km WNW of Houma, Tonga",earthquake,15.46,10.894,0.11,24.0,reviewed,us,us
 2025-01-05T01:01:00.579Z,35.8003,70.5932,95.865,4.2,mb,29.0,119.0,1.753,0.76,us,us6000phx6,2025-01-05T03:40:18.040Z,"51 km NW of Pārūn, Afghanistan",earthquake,9.06,13.614,0.11,23.0,reviewed,us,us
+2025-01-05T04:07:59.300Z,33.4611664,-116.6166687,10.63,1.06,ml,20.0,86.0,0.03556,0.16,ci,ci40833991,2025-01-05T04:10:01.755Z,"12 km SSE of Anza, CA",earthquake,0.44,0.8,0.108,4.0,automatic,ci,ci
+2025-01-05T03:59:41.400Z,36.082,-118.2248333,13.54,1.02,ml,25.0,59.0,0.1,0.16,ci,ci40833983,2025-01-05T04:03:27.426Z,"25 km W of Coso Junction, CA",earthquake,0.22,0.53,0.264,15.0,automatic,ci,ci
+2025-01-05T03:47:46.740Z,34.0338333,-117.598,5.39,0.83,ml,10.0,207.0,0.04199,0.16,ci,ci40833975,2025-01-05T03:52:35.554Z,"4 km SE of Ontario, CA",earthquake,1.27,0.96,0.314,26.0,automatic,ci,ci
