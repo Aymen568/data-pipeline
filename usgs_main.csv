@@ -19052,3 +19052,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-05T12:52:31.744Z,31.591,-104.53,4.0595,1.7,ml,8.0,155.0,0.1,0.1,tx,tx2025aihm,2025-01-05T13:13:25.957Z,"66 km SSW of Whites City, New Mexico",earthquake,0.0,2.5528666973114,0.1,6.0,automatic,tx,tx
 2025-01-05T12:30:17.957Z,9.517,39.9871,10.0,4.5,mb,48.0,251.0,3.451,0.72,us,us6000phzf,2025-01-05T13:21:51.148Z,"44 km SE of Debre Sīna, Ethiopia",earthquake,14.95,2.006,0.088,38.0,reviewed,us,us
 2025-01-05T12:15:00.051Z,9.1637,40.0129,10.0,4.5,mb,27.0,115.0,3.647,0.56,us,us6000phzd,2025-01-05T13:28:07.040Z,"26 km NW of Āwash, Ethiopia",earthquake,11.96,1.932,0.121,20.0,reviewed,us,us
+2025-01-05T13:37:15.070Z,38.787998199463,-122.73400115967,1.6000000238419,1.08,md,10.0,87.0,0.005209,0.02,nc,nc75113101,2025-01-05T13:38:50.956Z,"2 km ENE of The Geysers, CA",earthquake,0.3,0.730000019,0.35,10.0,automatic,nc,nc
+2025-01-05T13:36:44.000Z,19.610000610352,-156.09916687012,32.279998779297,2.55,ml,56.0,231.0,0.2592,0.180000007,hv,hv74584667,2025-01-05T13:39:57.540Z,"11 km WSW of Kailua-Kona, Hawaii",earthquake,0.55,1.13999999,0.75,7.0,automatic,hv,hv
