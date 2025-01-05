@@ -18984,3 +18984,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-05T03:31:02.060Z,38.821334838867,-122.82633209228,3.3499999046326,0.8,md,7.0,115.0,0.007023,0.06,nc,nc75112976,2025-01-05T03:32:37.024Z,"8 km NW of The Geysers, CA",earthquake,0.94,2.56999993,0.55,8.0,automatic,nc,nc
 2025-01-05T03:15:51.550Z,31.575,-104.02,6.3702,1.6,ml,16.0,54.0,0.0,0.2,tx,tx2025ahom,2025-01-05T03:24:52.074Z,"36 km NW of Toyah, Texas",earthquake,0.0,2.5613918304443,0.1,12.0,automatic,tx,tx
 2025-01-05T02:51:55.770Z,-20.3617,-177.3883,487.072,4.4,mb,35.0,100.0,4.939,0.51,us,us6000phxt,2025-01-05T03:19:29.040Z,"234 km WNW of Houma, Tonga",earthquake,15.46,10.894,0.11,24.0,reviewed,us,us
+2025-01-05T01:01:00.579Z,35.8003,70.5932,95.865,4.2,mb,29.0,119.0,1.753,0.76,us,us6000phx6,2025-01-05T03:40:18.040Z,"51 km NW of Pārūn, Afghanistan",earthquake,9.06,13.614,0.11,23.0,reviewed,us,us
