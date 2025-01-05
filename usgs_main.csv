@@ -19092,3 +19092,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-05T17:35:58.130Z,38.792667388916,-122.75382995606,0.25999999046326,1.53,md,26.0,86.0,0.00918,0.04,nc,nc75113201,2025-01-05T17:37:35.766Z,"2 km NNE of The Geysers, CA",earthquake,0.19,0.340000004,0.23,27.0,automatic,nc,nc
 2025-01-05T17:24:43.235Z,-3.7404,151.6984,10.0,5.3,mb,36.0,101.0,0.645,0.74,us,us6000pi0k,2025-01-05T17:41:35.040Z,"72 km NW of Rabaul, Papua New Guinea",earthquake,6.26,1.922,0.072,65.0,reviewed,us,us
 2025-01-05T17:18:47.697Z,13.053,-89.1723,49.452,6.2,mww,119.0,79.0,0.695,0.81,us,us6000pi09,2025-01-05T17:43:42.545Z,"50 km SSE of La Libertad, El Salvador",earthquake,6.29,6.765,0.033,88.0,reviewed,us,us
+2025-01-05T17:52:00.180Z,36.546501159668,-121.1386642456,6.1399998664856,1.9,md,26.0,113.0,0.04526,0.05,nc,nc75113211,2025-01-05T17:53:34.909Z,"2 km NNE of Pinnacles, CA",earthquake,0.2,0.589999974,0.21,25.0,automatic,nc,nc
+2025-01-05T17:50:35.150Z,35.3909988,-117.75383,5.63,1.58,ml,16.0,141.0,0.106,0.15,ci,ci40834127,2025-01-05T17:53:05.124Z,"11 km W of Johannesburg, CA",earthquake,0.71,2.22,0.37,3.0,automatic,ci,ci
+2025-01-05T17:49:53.159Z,63.0429,-150.3061,98.2,3.0,ml,,,,0.53,ak,ak0258k3px0,2025-01-05T17:52:06.120Z,"65 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-01-05T07:41:47.440Z,61.299333333333,-152.26233333333,0.75,-0.03,ml,9.0,117.0,0.06197,0.08,av,av93445196,2025-01-05T17:48:42.330Z,"65 km WNW of Beluga, Alaska",earthquake,0.24,0.99,0.12104821793588,9.0,reviewed,av,av
+2025-01-05T01:23:05.219Z,39.1706,-118.9976,2.5,1.2,ml,10.0,142.49,0.032,0.1978,nn,nn00891442,2025-01-05T17:57:39.681Z,"25 km NE of Yerington, Nevada",earthquake,,1.1,0.3,4.0,reviewed,nn,nn
