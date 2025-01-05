@@ -19036,3 +19036,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-05T08:22:25.639Z,21.6255,-155.5375,9.867,3.7,ml,33.0,265.0,1.101,0.24,us,us6000phyr,2025-01-05T10:12:30.040Z,"106 km NE of Wailua, Hawaii",earthquake,9.29,9.313,0.05,52.0,reviewed,us,us
 2025-01-05T10:50:12.441Z,59.6598,-153.2408,99.4,2.0,ml,,,,0.18,ak,ak0258fxta4,2025-01-05T10:52:14.082Z,"50 km ESE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-01-05T10:44:57.306Z,63.2643,-148.3872,66.0,2.2,ml,,,,1.23,ak,ak0258fwmg2,2025-01-05T10:47:17.712Z,"31 km ESE of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-01-05T09:46:59.960Z,19.035,-64.455,20.0,3.83,md,16.0,302.0,0.6412,0.23,pr,pr2025005000,2025-01-05T11:01:59.912Z,"85 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,0.94,19.81,0.08,11.0,reviewed,pr,pr
