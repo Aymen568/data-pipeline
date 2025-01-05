@@ -18994,3 +18994,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-05T05:03:08.229Z,62.3632,-148.8116,33.4,1.7,ml,,,,0.62,ak,ak0258cok9y,2025-01-05T05:05:15.821Z,"58 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-05T04:59:59.400Z,33.7141667,-116.8243333,17.33,0.71,ml,28.0,42.0,0.0862,0.17,ci,ci40834023,2025-01-05T05:04:12.531Z,"7 km ESE of Valle Vista, CA",earthquake,0.26,0.48,0.221,21.0,automatic,ci,ci
 2025-01-04T09:07:39.360Z,46.195666666667,-122.193,-0.41,1.21,ml,14.0,108.0,0.004375,0.14,uw,uw62061372,2025-01-05T04:59:55.340Z,"37 km NNE of Amboy, Washington",earthquake,0.35,0.24,0.28125136677333,7.0,reviewed,uw,uw
+2025-01-05T05:15:47.209Z,-20.9172,-178.6172,553.181,4.8,mb,37.0,115.0,4.455,0.7,us,us6000phy6,2025-01-05T05:30:12.040Z,Fiji region,earthquake,10.62,11.794,0.109,26.0,reviewed,us,us
+2025-01-05T05:02:13.277Z,-17.5886,168.1772,55.603,4.8,mb,20.0,181.0,2.325,0.75,us,us6000phy5,2025-01-05T05:28:32.398Z,"21 km NW of Port-Vila, Vanuatu",earthquake,10.14,10.448,0.135,17.0,reviewed,us,us
