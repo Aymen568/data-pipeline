@@ -19110,3 +19110,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-05T18:50:26.380Z,38.841999053955,-122.87633514404,2.2699999809265,1.12,md,17.0,85.0,0.006347,0.02,nc,nc75113241,2025-01-05T18:52:04.974Z,"13 km NW of The Geysers, CA",earthquake,0.33,0.49000001,0.1,19.0,automatic,nc,nc
 2025-01-05T18:50:20.070Z,33.6805,-116.7781677,18.66,0.97,ml,14.0,81.0,0.06462,0.11,ci,ci40834159,2025-01-05T18:52:35.857Z,"9 km SW of Idyllwild, CA",earthquake,0.65,0.93,0.116,6.0,automatic,ci,ci
 2025-01-05T18:40:12.310Z,33.3563333,-116.6723333,14.28,0.7,ml,34.0,53.0,0.09289,0.14,ci,ci40834151,2025-01-05T18:44:04.755Z,"9 km NNW of Warner Springs, CA",earthquake,0.17,0.39,0.106,16.0,automatic,ci,ci
+2025-01-05T18:59:04.420Z,33.2436667,-116.3633333,3.79,1.03,ml,58.0,27.0,0.05131,0.22,ci,ci40834167,2025-01-05T19:03:17.170Z,"2 km SE of Borrego Springs, CA",earthquake,0.17,0.58,0.125,27.0,automatic,ci,ci
