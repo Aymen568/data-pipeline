@@ -19013,3 +19013,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-05T07:07:16.150Z,38.679000854492,-122.91033172607,3.2200000286102,1.73,md,22.0,43.0,0.1026,0.07,nc,nc75113016,2025-01-05T07:08:53.458Z,"8 km NNW of Healdsburg, CA",earthquake,0.22,2.25999999,0.16,21.0,automatic,nc,nc
 2025-01-04T10:24:53.202Z,55.8122,-161.2837,185.991,2.5,ml,13.0,195.0,0.472,0.27,us,us6000phub,2025-01-05T07:02:44.040Z,"21 km SSW of Nelson Lagoon, Alaska",earthquake,9.48,2.988,0.128,8.0,reviewed,us,us
 2025-01-05T07:32:37.470Z,38.803665161133,-122.82333374023,8.6899995803833,0.51,md,7.0,91.0,0.01378,0.06,nc,nc75113021,2025-01-05T07:34:13.605Z,"6 km NW of The Geysers, CA",earthquake,1.73,1.10000002,0.27,5.0,automatic,nc,nc
+2025-01-05T07:54:41.666Z,38.3928,-115.7915,3.6,3.4,ml,30.0,192.88,1.324,0.3221,nn,nn00891410,2025-01-05T07:57:42.431Z,"83 km N of Rachel, Nevada",earthquake,,1.2,0.23,20.0,automatic,nn,nn
+2025-01-05T07:53:00.505Z,61.1511,-151.9863,20.2,0.3,ml,,,,1.15,ak,ak0258e64oy,2025-01-05T07:56:01.531Z,"46 km W of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-01-05T07:44:56.199Z,61.8275,-146.9074,31.1,1.5,ml,,,,0.74,ak,ak0258e4bbp,2025-01-05T07:47:37.174Z,"18 km SE of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-01-04T09:03:41.347Z,-20.093,-70.358,42.079,3.9,mb,12.0,165.0,0.277,0.43,us,us6000phty,2025-01-05T07:54:00.717Z,"25 km WNW of Puerto, Chile",earthquake,3.87,6.119,0.257,4.0,reviewed,us,us
