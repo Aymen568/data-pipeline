@@ -19023,3 +19023,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-05T08:27:43.370Z,38.811500549316,-122.82883453369,1.1499999761581,0.75,md,8.0,104.0,0.002642,0.01,nc,nc75113036,2025-01-05T08:29:18.781Z,"7 km NW of The Geysers, CA",earthquake,0.33,0.579999983,0.45,8.0,automatic,nc,nc
 2025-01-05T06:56:46.898Z,37.3261,72.011,156.817,4.2,mb,28.0,69.0,2.154,0.5,us,us6000phyj,2025-01-05T08:27:37.040Z,"44 km ESE of Khorugh, Tajikistan",earthquake,6.33,7.263,0.124,18.0,reviewed,us,us
 2025-01-04T09:03:38.794Z,-4.7158,144.195,109.987,4.3,mb,22.0,61.0,4.114,0.75,us,us6000phtz,2025-01-05T08:36:02.040Z,"73 km S of Angoram, Papua New Guinea",earthquake,7.63,6.672,0.122,19.0,reviewed,us,us
+2025-01-05T08:45:07.722Z,61.3176,-152.2281,0.1,0.7,ml,,,,0.48,ak,ak0258epv4k,2025-01-05T08:46:08.805Z,"64 km WNW of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-01-05T08:42:52.241Z,61.3182,-152.2284,0.0,0.7,ml,,,,0.18,ak,ak0258epbew,2025-01-05T08:43:48.602Z,"64 km WNW of Beluga, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2025-01-05T08:25:47.670Z,19.267833333333,-67.365333333333,21.18,3.27,md,16.0,318.0,0.8317,0.36,pr,pr71470163,2025-01-05T08:45:25.920Z,"90 km NNW of San Antonio, Puerto Rico",earthquake,1.58,27.85,0.053781289290645,11.0,reviewed,pr,pr
