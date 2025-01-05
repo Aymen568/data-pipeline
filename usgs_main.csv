@@ -19111,3 +19111,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-05T18:50:20.070Z,33.6805,-116.7781677,18.66,0.97,ml,14.0,81.0,0.06462,0.11,ci,ci40834159,2025-01-05T18:52:35.857Z,"9 km SW of Idyllwild, CA",earthquake,0.65,0.93,0.116,6.0,automatic,ci,ci
 2025-01-05T18:40:12.310Z,33.3563333,-116.6723333,14.28,0.7,ml,34.0,53.0,0.09289,0.14,ci,ci40834151,2025-01-05T18:44:04.755Z,"9 km NNW of Warner Springs, CA",earthquake,0.17,0.39,0.106,16.0,automatic,ci,ci
 2025-01-05T18:59:04.420Z,33.2436667,-116.3633333,3.79,1.03,ml,58.0,27.0,0.05131,0.22,ci,ci40834167,2025-01-05T19:03:17.170Z,"2 km SE of Borrego Springs, CA",earthquake,0.17,0.58,0.125,27.0,automatic,ci,ci
+2025-01-05T19:30:14.965Z,62.0103,-151.3478,81.0,2.1,ml,,,,0.52,ak,ak0258l6flk,2025-01-05T19:32:06.351Z,"3 km NE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-01-05T19:20:58.960Z,33.1645,-115.9593333,8.73,1.06,ml,31.0,64.0,0.1174,0.21,ci,ci40834191,2025-01-05T19:24:58.033Z,"15 km S of Salton City, CA",earthquake,0.23,1.13,0.154,28.0,automatic,ci,ci
