@@ -19119,3 +19119,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-05T20:42:33.070Z,34.0535011,-117.2249985,8.97,1.16,ml,18.0,158.0,0.1177,0.11,ci,ci40834215,2025-01-05T20:44:49.137Z,"3 km E of Loma Linda, CA",earthquake,0.36,1.26,0.206,7.0,automatic,ci,ci
 2025-01-05T20:41:39.380Z,38.791500091553,-122.7748336792,0.43999999761581,0.75,md,10.0,102.0,0.01036,0.04,nc,nc75113256,2025-01-05T20:43:15.732Z,"2 km NW of The Geysers, CA",earthquake,0.31,0.730000019,0.04,10.0,automatic,nc,nc
 2025-01-05T10:15:41.150Z,61.329,-152.2465,1.61,0.4,ml,10.0,129.0,0.07754,0.26,av,av93445331,2025-01-05T20:44:17.081Z,"65 km WNW of Beluga, Alaska",earthquake,0.54,2.24,0.15017984696166,10.0,reviewed,av,av
+2025-01-05T19:48:50.515Z,9.4181,39.9904,10.0,4.3,mb,18.0,232.0,3.507,0.42,us,us6000pi1v,2025-01-05T21:04:12.040Z,"51 km NNW of Āwash, Ethiopia",earthquake,15.7,2.004,0.178,9.0,reviewed,us,us
