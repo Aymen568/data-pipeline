@@ -18991,3 +18991,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-05T04:08:58.881Z,-17.4325,-178.6916,564.54,4.5,mb,21.0,127.0,2.084,0.62,us,us6000phxz,2025-01-05T04:26:36.040Z,"222 km ENE of Levuka, Fiji",earthquake,23.88,20.21,0.15,13.0,reviewed,us,us
 2025-01-05T04:31:26.920Z,33.6506667,-116.7073333,15.86,0.65,ml,25.0,58.0,0.06338,0.13,ci,ci40834015,2025-01-05T04:36:07.397Z,"10 km S of Idyllwild, CA",earthquake,0.2,0.41,0.264,13.0,automatic,ci,ci
 2025-01-05T04:27:42.160Z,34.1311667,-117.4683333,6.3,0.81,ml,38.0,42.0,0.05986,0.18,ci,ci40834007,2025-01-05T04:33:58.361Z,"4 km NNW of Fontana, CA",earthquake,0.27,0.47,0.233,31.0,automatic,ci,ci
+2025-01-05T05:03:08.229Z,62.3632,-148.8116,33.4,1.7,ml,,,,0.62,ak,ak0258cok9y,2025-01-05T05:05:15.821Z,"58 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-01-05T04:59:59.400Z,33.7141667,-116.8243333,17.33,0.71,ml,28.0,42.0,0.0862,0.17,ci,ci40834023,2025-01-05T05:04:12.531Z,"7 km ESE of Valle Vista, CA",earthquake,0.26,0.48,0.221,21.0,automatic,ci,ci
+2025-01-04T09:07:39.360Z,46.195666666667,-122.193,-0.41,1.21,ml,14.0,108.0,0.004375,0.14,uw,uw62061372,2025-01-05T04:59:55.340Z,"37 km NNE of Amboy, Washington",earthquake,0.35,0.24,0.28125136677333,7.0,reviewed,uw,uw
