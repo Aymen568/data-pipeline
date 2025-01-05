@@ -19026,3 +19026,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-05T08:45:07.722Z,61.3176,-152.2281,0.1,0.7,ml,,,,0.48,ak,ak0258epv4k,2025-01-05T08:46:08.805Z,"64 km WNW of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-01-05T08:42:52.241Z,61.3182,-152.2284,0.0,0.7,ml,,,,0.18,ak,ak0258epbew,2025-01-05T08:43:48.602Z,"64 km WNW of Beluga, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2025-01-05T08:25:47.670Z,19.267833333333,-67.365333333333,21.18,3.27,md,16.0,318.0,0.8317,0.36,pr,pr71470163,2025-01-05T08:45:25.920Z,"90 km NNW of San Antonio, Puerto Rico",earthquake,1.58,27.85,0.053781289290645,11.0,reviewed,pr,pr
+2025-01-05T09:07:29.449Z,61.8544,-149.6217,34.8,1.8,ml,,,,0.54,ak,ak0258f3774,2025-01-05T09:09:22.098Z,"23 km WNW of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-01-05T09:02:55.660Z,17.933333333333,-66.900333333333,12.58,2.19,md,4.0,220.0,0.04609,0.06,pr,pr71470173,2025-01-05T09:13:10.230Z,"4 km S of Guánica, Puerto Rico",earthquake,1.88,0.6,0.051855179198132,3.0,reviewed,pr,pr
