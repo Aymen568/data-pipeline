@@ -19114,3 +19114,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-05T19:30:14.965Z,62.0103,-151.3478,81.0,2.1,ml,,,,0.52,ak,ak0258l6flk,2025-01-05T19:32:06.351Z,"3 km NE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-05T19:20:58.960Z,33.1645,-115.9593333,8.73,1.06,ml,31.0,64.0,0.1174,0.21,ci,ci40834191,2025-01-05T19:24:58.033Z,"15 km S of Salton City, CA",earthquake,0.23,1.13,0.154,28.0,automatic,ci,ci
 2025-01-05T19:53:02.960Z,35.3496667,-117.7926667,4.38,1.07,ml,33.0,70.0,0.09286,0.19,ci,ci40834199,2025-01-05T19:56:28.172Z,"15 km W of Johannesburg, CA",earthquake,0.21,0.56,0.192,28.0,automatic,ci,ci
+2025-01-05T20:03:10.110Z,33.6721667,-116.7661667,16.94,0.8,ml,30.0,66.0,0.06161,0.16,ci,ci40834207,2025-01-05T20:07:32.562Z,"9 km SSW of Idyllwild, CA",earthquake,0.24,0.46,0.254,26.0,automatic,ci,ci
