@@ -19059,3 +19059,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-05T13:48:35.260Z,31.632,-103.978,5.6182,2.5,ml,16.0,50.0,0.0,0.1,tx,tx2025aijj,2025-01-05T14:01:50.310Z,"36 km WSW of Mentone, Texas",earthquake,0.0,2.3594923019409,0.2,12.0,automatic,tx,tx
 2025-01-05T14:19:09.142Z,31.585,-104.541,3.1606,1.5,ml,8.0,159.0,0.1,0.2,tx,tx2025aiku,2025-01-05T14:32:34.906Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.2665066719055,0.1,6.0,automatic,tx,tx
 2025-01-05T13:35:02.372Z,33.4721,142.0354,28.831,4.9,mb,54.0,138.0,1.894,0.65,us,us6000phzr,2025-01-05T14:38:19.040Z,"244 km SE of Katsuura, Japan",earthquake,7.52,5.556,0.08,49.0,reviewed,us,us
+2025-01-05T14:54:41.090Z,38.813835144043,-122.82499694824,2.0499999523163,0.79,md,18.0,55.0,0.005939,0.02,nc,nc75113111,2025-01-05T14:56:19.442Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.519999981,0.17,18.0,automatic,nc,nc
+2025-01-05T14:53:07.198Z,61.929,-149.2081,7.2,1.7,ml,,,,0.38,ak,ak0258ic6fz,2025-01-05T14:55:03.006Z,"20 km N of Fishhook, Alaska",earthquake,,0.5,,,automatic,ak,ak
