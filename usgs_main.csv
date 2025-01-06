@@ -19312,3 +19312,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-06T14:59:46.633Z,3.2934,95.2784,35.0,4.4,mb,20.0,201.0,2.543,0.48,us,us6000pi69,2025-01-06T17:30:00.040Z,"133 km SW of Meulaboh, Indonesia",earthquake,10.03,1.975,0.143,14.0,reviewed,us,us
 2025-01-06T17:41:38.418Z,60.7311,-151.9555,20.1,1.6,ml,,,,0.38,ak,ak025a7lbkh,2025-01-06T17:43:00.569Z,"36 km W of Nikiski, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-01-06T16:08:59.924Z,37.7857,72.5444,118.414,4.0,mb,27.0,246.0,1.787,0.9,us,us6000pi78,2025-01-06T17:36:25.040Z,"93 km ENE of Khorugh, Tajikistan",earthquake,10.04,11.052,0.143,13.0,reviewed,us,us
+2025-01-06T17:51:45.080Z,38.819999694824,-122.84216308594,1.9900000095367,0.72,md,12.0,82.0,0.006382,0.01,nc,nc75113681,2025-01-06T17:53:20.609Z,"9 km NW of The Geysers, CA",earthquake,0.29,0.629999995,0.31,15.0,automatic,nc,nc
+2025-01-06T17:44:06.441Z,39.1009,-119.0342,9.0,1.0,ml,8.0,132.57,0.068,0.0978,nn,nn00891478,2025-01-06T17:47:04.067Z,"16 km NE of Yerington, Nevada",earthquake,,0.9,0.38,3.0,automatic,nn,nn
+2025-01-06T17:24:06.777Z,28.1973,52.2728,10.0,4.8,mb,45.0,102.0,4.783,0.77,us,us6000pi7n,2025-01-06T17:54:52.040Z,"77 km SSW of Fīrūzābād, Iran",earthquake,8.35,1.893,0.08,49.0,reviewed,us,us
+2025-01-06T03:33:04.950Z,46.727833333333,-112.238,13.37,2.0,ml,18.0,101.0,0.06651,0.07,mb,mb90070123,2025-01-06T17:52:45.060Z,"5 km ESE of Marysville, Montana",earthquake,0.25,0.35,0.1328759561335,31.0,reviewed,mb,mb
+2025-01-06T03:08:02.160Z,33.9241667,-116.7856667,16.6,0.41,ml,18.0,104.0,0.09087,0.15,ci,ci37693964,2025-01-06T17:55:01.646Z,"1 km N of Cabazon, CA",earthquake,0.34,0.68,0.179,12.0,reviewed,ci,ci
