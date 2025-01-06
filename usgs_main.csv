@@ -19204,3 +19204,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-06T04:58:11.040Z,38.79683303833,-122.74933624268,1.9299999475479,0.82,md,7.0,207.0,0.008948,0.05,nc,nc75113446,2025-01-06T04:59:47.547Z,"2 km NNE of The Geysers, CA",earthquake,0.91,1.22000003,0.41,8.0,automatic,nc,nc
 2025-01-06T04:55:27.689Z,39.1677,-119.0182,10.0,1.1,ml,9.0,124.25,0.016,0.1076,nn,nn00891463,2025-01-06T04:57:39.948Z,"23 km NNE of Yerington, Nevada",earthquake,,0.5,0.37,4.0,automatic,nn,nn
 2025-01-06T04:44:48.727Z,31.965,-101.975,4.5781,1.2,ml,32.0,43.0,0.1,0.4,tx,tx2025ajmx,2025-01-06T05:00:53.584Z,"10 km ESE of Midland, Texas",earthquake,0.0,1.0798717737198,0.2,19.0,automatic,tx,tx
+2025-01-06T05:19:52.855Z,36.9855,-116.2366,3.9,0.3,ml,12.0,176.77,0.038,0.1202,nn,nn00891465,2025-01-06T05:21:50.567Z,"47 km E of Beatty, Nevada",earthquake,,0.5,0.34,7.0,automatic,nn,nn
+2025-01-06T05:18:47.890Z,33.2438333,-116.367,3.4,1.44,ml,70.0,25.0,0.04855,0.21,ci,ci40834383,2025-01-06T05:29:14.540Z,"2 km SSE of Borrego Springs, CA",earthquake,0.15,0.28,0.155,27.0,automatic,ci,ci
