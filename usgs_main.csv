@@ -19200,3 +19200,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-06T04:04:32.690Z,38.786499023438,-122.76766967773,2.7000000476837,1.05,md,16.0,81.0,0.01542,0.03,nc,nc75113431,2025-01-06T04:06:08.521Z,"1 km NNW of The Geysers, CA",earthquake,0.32,0.680000007,0.23,20.0,automatic,nc,nc
 2025-01-06T03:54:15.626Z,28.1077,57.525,10.0,4.4,mb,36.0,152.0,3.364,0.72,us,us6000pi3x,2025-01-06T04:08:05.040Z,"116 km NNE of Mīnāb, Iran",earthquake,6.76,1.953,0.085,40.0,reviewed,us,us
 2025-01-06T04:30:54.693Z,62.1631,-152.0479,106.2,2.9,ml,,,,0.47,ak,ak0259zsd3f,2025-01-06T04:32:29.426Z,"39 km WNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-01-06T05:08:27.049Z,63.1973,-150.0158,84.4,1.7,ml,,,,0.4,ak,ak025a090sw,2025-01-06T05:10:23.166Z,"57 km WSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-01-06T04:58:11.040Z,38.79683303833,-122.74933624268,1.9299999475479,0.82,md,7.0,207.0,0.008948,0.05,nc,nc75113446,2025-01-06T04:59:47.547Z,"2 km NNE of The Geysers, CA",earthquake,0.91,1.22000003,0.41,8.0,automatic,nc,nc
+2025-01-06T04:55:27.689Z,39.1677,-119.0182,10.0,1.1,ml,9.0,124.25,0.016,0.1076,nn,nn00891463,2025-01-06T04:57:39.948Z,"23 km NNE of Yerington, Nevada",earthquake,,0.5,0.37,4.0,automatic,nn,nn
+2025-01-06T04:44:48.727Z,31.965,-101.975,4.5781,1.2,ml,32.0,43.0,0.1,0.4,tx,tx2025ajmx,2025-01-06T05:00:53.584Z,"10 km ESE of Midland, Texas",earthquake,0.0,1.0798717737198,0.2,19.0,automatic,tx,tx
