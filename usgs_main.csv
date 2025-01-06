@@ -19348,3 +19348,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-06T20:37:10.404Z,65.7996,-150.8934,3.9,1.6,ml,,,,0.92,ak,ak025a9cpcp,2025-01-06T20:47:38.142Z,"46 km NW of Rampart, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-06T21:05:40.860Z,33.3305,-117.1551667,4.15,1.25,ml,27.0,71.0,0.04397,0.24,ci,ci40834951,2025-01-06T21:10:44.433Z,"8 km WSW of Pala, CA",earthquake,0.3,0.76,0.354,32.0,automatic,ci,ci
 2025-01-06T21:15:27.380Z,36.78783416748,-121.31999969482,5.3099999427795,1.55,md,12.0,124.0,0.083,0.13,nc,nc75113776,2025-01-06T21:17:05.264Z,"0 km S of Tres Pinos, CA",earthquake,0.52,1.71000004,0.2,7.0,automatic,nc,nc
+2025-01-06T21:37:03.240Z,33.7738342,-115.9053345,0.91,1.86,ml,46.0,48.0,0.1002,0.22,ci,ci40834983,2025-01-06T21:39:11.669Z,"26 km NE of Thermal, CA",earthquake,0.27,0.58,0.163,27.0,automatic,ci,ci
+2025-01-06T21:18:55.541Z,-9.7932,-79.6897,10.0,4.6,mb,29.0,178.0,3.546,0.4,us,us6000pi8s,2025-01-06T21:35:12.040Z,"144 km WSW of Chimbote, Peru",earthquake,4.91,1.96,0.133,17.0,reviewed,us,us
