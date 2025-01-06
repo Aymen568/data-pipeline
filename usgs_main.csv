@@ -19199,3 +19199,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-06T04:14:57.120Z,38.822834014893,-122.84200286865,2.0499999523163,0.8,md,17.0,102.0,0.005454,0.01,nc,nc75113436,2025-01-06T04:16:31.894Z,"9 km NW of The Geysers, CA",earthquake,0.22,0.430000007,0.21,18.0,automatic,nc,nc
 2025-01-06T04:04:32.690Z,38.786499023438,-122.76766967773,2.7000000476837,1.05,md,16.0,81.0,0.01542,0.03,nc,nc75113431,2025-01-06T04:06:08.521Z,"1 km NNW of The Geysers, CA",earthquake,0.32,0.680000007,0.23,20.0,automatic,nc,nc
 2025-01-06T03:54:15.626Z,28.1077,57.525,10.0,4.4,mb,36.0,152.0,3.364,0.72,us,us6000pi3x,2025-01-06T04:08:05.040Z,"116 km NNE of Mīnāb, Iran",earthquake,6.76,1.953,0.085,40.0,reviewed,us,us
+2025-01-06T04:30:54.693Z,62.1631,-152.0479,106.2,2.9,ml,,,,0.47,ak,ak0259zsd3f,2025-01-06T04:32:29.426Z,"39 km WNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
