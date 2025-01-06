@@ -11428,4 +11428,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 0.62 and occurred in/near 9 km SW of Idyllwild, CA on 01/06/2025 at 10:37 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 19250 recorded earthquakes.
 The most recent earthquake had a magnitude of 0.62 and occurred in/near 9 km SW of Idyllwild, CA on 01/06/2025 at 10:37 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 19251 recorded earthquakes.
+The most recent earthquake had a magnitude of 2.67 and occurred in/near 16 km S of Morgan, Utah on 01/06/2025 at 11:04 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
