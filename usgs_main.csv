@@ -19427,3 +19427,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-07T03:37:29.253Z,-2.02,-77.3527,162.652,4.7,mb,67.0,82.0,0.852,0.91,us,us6000pibx,2025-01-07T04:09:26.040Z,"76 km ESE of Palora, Ecuador",earthquake,8.97,6.802,0.047,136.0,reviewed,us,us
 2025-01-07T04:15:30.469Z,-17.5729,-176.8926,373.078,4.9,mb,72.0,135.0,3.455,0.9,us,us6000pic9,2025-01-07T04:30:53.040Z,Fiji region,earthquake,11.61,7.98,0.052,115.0,reviewed,us,us
 2025-01-07T03:19:33.861Z,28.6461,87.1088,10.0,4.3,mb,33.0,160.0,3.669,1.17,us,us6000pibs,2025-01-07T04:26:35.040Z,"82 km NNE of Lobuche, Nepal",earthquake,11.44,1.914,0.091,34.0,reviewed,us,us
+2025-01-07T04:43:49.230Z,32.9461667,-116.3316667,4.45,1.01,ml,45.0,39.0,0.07115,0.18,ci,ci40835215,2025-01-07T04:48:06.975Z,"23 km NE of Pine Valley, CA",earthquake,0.17,0.67,0.164,24.0,automatic,ci,ci
+2025-01-07T04:41:08.950Z,35.8708344,-117.6631699,7.16,1.52,ml,25.0,124.0,0.0776,0.18,ci,ci40835207,2025-01-07T04:43:16.463Z,"23 km ESE of Little Lake, CA",earthquake,0.35,1.28,0.212,10.0,automatic,ci,ci
+2025-01-07T02:22:44.175Z,28.6484,87.2372,10.0,4.3,mb,39.0,94.0,3.561,0.75,us,us6000pibd,2025-01-07T04:41:36.040Z,"88 km NNE of Lobuche, Nepal",earthquake,10.9,1.917,0.091,34.0,reviewed,us,us
