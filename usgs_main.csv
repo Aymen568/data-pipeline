@@ -19572,3 +19572,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-07T20:11:07.829Z,31.382,-103.765,5.639,1.7,ml,4.0,152.0,0.1,0.1,tx,tx2025ammz,2025-01-07T20:23:55.249Z,"7 km NNE of Toyah, Texas",earthquake,0.0,5.9256262779236,0.2,4.0,automatic,tx,tx
 2025-01-07T19:52:52.413Z,28.7645,87.3348,10.0,4.6,mb,73.0,153.0,3.444,1.05,us,us6000pigg,2025-01-07T20:27:01.040Z,"104 km NNE of Lobuche, Nepal",earthquake,9.96,1.893,0.069,63.0,reviewed,us,us
 2025-01-07T20:35:47.310Z,38.825668334961,-122.85333251953,2.4500000476837,1.32,md,25.0,111.0,0.003341,0.02,nc,nc75114201,2025-01-07T20:37:25.103Z,"10 km NW of The Geysers, CA",earthquake,0.25,0.370000005,0.16,26.0,automatic,nc,nc
+2025-01-07T20:42:14.570Z,37.076831817627,-121.81183624268,3.710000038147,1.28,md,7.0,123.0,0.05779,0.04,nc,nc75114206,2025-01-07T20:43:49.185Z,"6 km NE of Day Valley, CA",earthquake,0.5,1.02999997,0.14,7.0,automatic,nc,nc
+2025-01-07T20:36:47.199Z,63.8112,-147.6675,8.232,2.8,ml,25.0,91.0,0.57,0.39,us,us6000pigq,2025-01-07T20:47:10.040Z,"62 km E of Denali Park, Alaska",earthquake,1.39,7.409,0.048,58.0,reviewed,us,us
