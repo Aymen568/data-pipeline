@@ -19461,3 +19461,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-07T08:38:40.860Z,33.4836667,-116.5525,10.48,0.64,ml,29.0,49.0,0.04297,0.15,ci,ci40835303,2025-01-07T08:43:03.952Z,"14 km SE of Anza, CA",earthquake,0.17,0.34,0.157,18.0,automatic,ci,ci
 2025-01-07T08:36:07.310Z,33.4916667,-116.4818333,12.7,0.66,ml,32.0,63.0,0.1006,0.16,ci,ci40835295,2025-01-07T08:40:18.647Z,"19 km ESE of Anza, CA",earthquake,0.19,0.51,0.169,19.0,automatic,ci,ci
 2025-01-07T08:31:32.177Z,31.5871,138.3783,377.52,5.6,mww,110.0,58.0,1.949,0.71,us,us6000pida,2025-01-07T08:48:45.040Z,"Izu Islands, Japan region",earthquake,8.18,6.367,0.083,14.0,reviewed,us,us
+2025-01-07T08:25:53.252Z,8.9783,39.8667,10.0,4.9,mb,61.0,93.0,3.877,0.74,us,us6000pidb,2025-01-07T08:54:47.830Z,"10 km NNW of Metahāra, Ethiopia",earthquake,9.98,1.9,0.075,56.0,reviewed,us,us
