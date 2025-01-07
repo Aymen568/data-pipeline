@@ -19437,3 +19437,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-07T05:25:02.710Z,38.787498474121,-122.76716613769,0.91000002622604,1.89,md,38.0,73.0,0.01434,0.04,nc,nc75113921,2025-01-07T05:27:53.390Z,"1 km NNW of The Geysers, CA",earthquake,0.16,0.25,0.17,37.0,automatic,nc,nc
 2025-01-07T05:30:43.070Z,32.9485,-116.3336667,3.44,0.77,ml,43.0,56.0,0.1556,0.21,ci,ci40835223,2025-01-07T05:35:03.659Z,"23 km NE of Pine Valley, CA",earthquake,0.23,0.75,0.141,18.0,automatic,ci,ci
 2025-01-07T00:13:00.860Z,45.327,-121.696,4.88,0.57,ml,10.0,144.0,0.01336,0.08,uw,uw62061602,2025-01-07T05:39:39.810Z,"5 km ENE of Government Camp, Oregon",earthquake,0.3,0.41,0.029311301334938,5.0,reviewed,uw,uw
+2025-01-07T00:11:48.620Z,28.5863,87.2964,10.0,4.1,mb,34.0,160.0,3.531,1.07,us,us6000pi9m,2025-01-07T05:51:08.040Z,"85 km NE of Lobuche, Nepal",earthquake,10.39,1.963,0.105,25.0,reviewed,us,us
