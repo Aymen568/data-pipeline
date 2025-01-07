@@ -19414,3 +19414,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-07T03:27:41.323Z,37.3784,-117.1249,0.0,0.7,ml,10.0,198.54,0.133,0.3271,nn,nn00891505,2025-01-07T03:29:44.491Z,"37 km SSE of Goldfield, Nevada",earthquake,,14.8,0.36,6.0,automatic,nn,nn
 2025-01-07T03:21:14.660Z,32.8271667,-116.1535,9.58,0.61,ml,25.0,80.0,0.05908,0.15,ci,ci40835159,2025-01-07T03:24:43.033Z,"18 km NW of Ocotillo, CA",earthquake,0.23,0.58,0.224,7.0,automatic,ci,ci
 2025-01-07T03:17:20.534Z,31.939,-101.738,3.8778,1.1,ml,19.0,51.0,0.1,0.5,tx,tx2025alfn,2025-01-07T03:22:32.208Z,"21 km SSE of Stanton, Texas",earthquake,0.0,1.3524891138077,0.2,12.0,automatic,tx,tx
+2025-01-07T03:41:36.020Z,62.5699,-149.6768,53.4,2.0,ml,,,,0.38,ak,ak025bmsleq,2025-01-07T03:43:42.674Z,"25 km ENE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-01-07T03:36:56.940Z,34.0798333,-118.1991667,10.08,1.02,ml,15.0,256.0,0.08175,0.09,ci,ci40835175,2025-01-07T03:41:36.070Z,"4 km S of Highland Park, CA",earthquake,0.56,0.41,0.332,20.0,automatic,ci,ci
+2025-01-07T03:27:32.378Z,29.1311,87.3266,10.0,4.4,mb,33.0,153.0,10.461,0.84,us,us6000pibw,2025-01-07T03:40:08.040Z,"140 km NNE of Lobuche, Nepal",earthquake,13.48,1.933,0.088,40.0,reviewed,us,us
+2025-01-07T03:22:32.175Z,-11.4888,125.0082,12.548,4.6,mb,21.0,111.0,1.87,0.64,us,us6000pibt,2025-01-07T03:44:01.040Z,"196 km SSE of Soe, Indonesia",earthquake,8.18,2.07,0.129,18.0,reviewed,us,us
