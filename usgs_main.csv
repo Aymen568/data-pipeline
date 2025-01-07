@@ -19425,3 +19425,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-07T03:45:55.098Z,28.6704,87.3326,10.0,4.5,mb,61.0,132.0,10.125,0.54,us,us6000pic2,2025-01-07T04:04:07.040Z,"95 km NNE of Lobuche, Nepal",earthquake,12.43,1.891,0.065,69.0,reviewed,us,us
 2025-01-07T03:41:12.206Z,28.9374,87.5223,10.0,4.2,mb,33.0,161.0,10.203,0.64,us,us6000pic1,2025-01-07T04:14:47.040Z,"129 km NNE of Lobuche, Nepal",earthquake,14.26,1.931,0.089,35.0,reviewed,us,us
 2025-01-07T03:37:29.253Z,-2.02,-77.3527,162.652,4.7,mb,67.0,82.0,0.852,0.91,us,us6000pibx,2025-01-07T04:09:26.040Z,"76 km ESE of Palora, Ecuador",earthquake,8.97,6.802,0.047,136.0,reviewed,us,us
+2025-01-07T04:15:30.469Z,-17.5729,-176.8926,373.078,4.9,mb,72.0,135.0,3.455,0.9,us,us6000pic9,2025-01-07T04:30:53.040Z,Fiji region,earthquake,11.61,7.98,0.052,115.0,reviewed,us,us
+2025-01-07T03:19:33.861Z,28.6461,87.1088,10.0,4.3,mb,33.0,160.0,3.669,1.17,us,us6000pibs,2025-01-07T04:26:35.040Z,"82 km NNE of Lobuche, Nepal",earthquake,11.44,1.914,0.091,34.0,reviewed,us,us
