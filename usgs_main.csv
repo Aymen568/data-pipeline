@@ -19477,3 +19477,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-07T11:14:45.780Z,38.787334442139,-122.77216339111,1.5499999523163,1.32,md,14.0,90.0,0.01363,0.03,nc,nc75114016,2025-01-07T11:16:19.848Z,"2 km NW of The Geysers, CA",earthquake,0.27,0.479999989,0.19,16.0,automatic,nc,nc
 2025-01-07T11:33:12.800Z,33.2636681,-116.4304962,3.8,1.29,ml,16.0,117.0,0.01205,0.19,ci,ci40835343,2025-01-07T11:35:15.245Z,"5 km W of Borrego Springs, CA",earthquake,0.64,1.39,0.407,3.0,automatic,ci,ci
 2025-01-07T11:23:47.979Z,59.8853,-152.6292,86.4,2.5,ml,,,,0.39,ak,ak025brg8a5,2025-01-07T11:33:44.757Z,"46 km WNW of Anchor Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-01-07T11:42:41.540Z,39.1191,-119.0135,0.0,1.2,ml,9.0,137.46,0.054,0.3036,nn,nn00891516,2025-01-07T11:44:57.563Z,"19 km NE of Yerington, Nevada",earthquake,,0.4,0.25,3.0,automatic,nn,nn
+2025-01-07T11:42:25.900Z,38.82816696167,-122.81632995606,2.7200000286102,1.14,md,10.0,117.0,0.006825,0.02,nc,nc75114021,2025-01-07T11:44:00.212Z,"8 km NNW of The Geysers, CA",earthquake,0.55,1.47000003,0.39,11.0,automatic,nc,nc
