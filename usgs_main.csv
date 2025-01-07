@@ -19556,3 +19556,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-07T17:52:22.086Z,-8.381,119.3601,10.0,5.0,mb,56.0,71.0,1.628,1.06,us,us6000pifl,2025-01-07T18:35:24.040Z,"27 km NNW of Komodo, Indonesia",earthquake,5.68,1.804,0.084,45.0,reviewed,us,us
 2025-01-07T15:09:36.860Z,61.267166666667,-152.24583333333,4.33,-0.34,ml,10.0,105.0,0.04392,0.12,av,av93447466,2025-01-07T18:39:08.470Z,"63 km WNW of Tyonek, Alaska",earthquake,0.31,0.7,0.12946363069809,10.0,reviewed,av,av
 2025-01-07T07:53:56.920Z,48.017166666667,-121.849,13.8,1.78,ml,40.0,63.0,0.1036,0.17,uw,uw62061632,2025-01-07T18:44:33.100Z,"7 km ENE of Lake Roesiger, Washington",earthquake,0.23,0.49,0.12634559239511,27.0,reviewed,uw,uw
+2025-01-07T16:44:13.186Z,-37.5123,77.8737,13.347,4.9,mb,65.0,36.0,0.372,0.45,us,us6000pifs,2025-01-07T18:57:00.040Z,Mid-Indian Ridge,earthquake,6.36,3.876,0.076,55.0,reviewed,us,us
