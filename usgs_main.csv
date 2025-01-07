@@ -19410,3 +19410,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-07T02:34:51.252Z,28.6559,87.4517,10.0,4.3,mb,26.0,97.0,10.042,0.8,us,us6000pibj,2025-01-07T02:47:42.040Z,"100 km NE of Lobuche, Nepal",earthquake,13.4,1.959,0.104,26.0,reviewed,us,us
 2025-01-07T02:30:08.560Z,38.796501159668,-122.77799987793,3.2300000190735,1.28,md,31.0,74.0,0.008431,0.03,nc,nc75113876,2025-01-07T02:47:18.334Z,"3 km NNW of The Geysers, CA",earthquake,0.24,0.419999987,0.11,31.0,automatic,nc,nc
 2025-01-07T02:14:28.981Z,33.4491,87.0015,11.921,4.8,mb,40.0,117.0,11.484,1.06,us,us6000piba,2025-01-07T02:28:41.040Z,western Xizang,earthquake,10.58,4.491,0.084,44.0,reviewed,us,us
+2025-01-07T03:28:05.120Z,60.6743,-141.9931,18.9,2.0,ml,,,,1.01,ak,ak025bmpqps,2025-01-07T03:30:32.515Z,"98 km SSE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-01-07T03:27:41.323Z,37.3784,-117.1249,0.0,0.7,ml,10.0,198.54,0.133,0.3271,nn,nn00891505,2025-01-07T03:29:44.491Z,"37 km SSE of Goldfield, Nevada",earthquake,,14.8,0.36,6.0,automatic,nn,nn
+2025-01-07T03:21:14.660Z,32.8271667,-116.1535,9.58,0.61,ml,25.0,80.0,0.05908,0.15,ci,ci40835159,2025-01-07T03:24:43.033Z,"18 km NW of Ocotillo, CA",earthquake,0.23,0.58,0.224,7.0,automatic,ci,ci
+2025-01-07T03:17:20.534Z,31.939,-101.738,3.8778,1.1,ml,19.0,51.0,0.1,0.5,tx,tx2025alfn,2025-01-07T03:22:32.208Z,"21 km SSE of Stanton, Texas",earthquake,0.0,1.3524891138077,0.2,12.0,automatic,tx,tx
