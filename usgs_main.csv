@@ -19472,3 +19472,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-07T10:38:25.650Z,32.946,-116.3335,4.29,1.07,ml,46.0,39.0,0.1577,0.17,ci,ci40835319,2025-01-07T10:43:41.476Z,"23 km NE of Pine Valley, CA",earthquake,0.15,0.68,0.199,27.0,automatic,ci,ci
 2025-01-07T10:37:30.657Z,60.1828,-152.9673,117.4,2.3,ml,,,,0.23,ak,ak025bqxrd5,2025-01-07T10:39:30.112Z,"73 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-01-07T10:31:12.754Z,30.901,-103.524,4.8406,1.6,ml,7.0,107.0,0.2,0.6,tx,tx2025altv,2025-01-07T10:42:25.837Z,"23 km ESE of Balmorhea, Texas",earthquake,0.0,2.0804455280304,0.1,7.0,automatic,tx,tx
+2025-01-07T09:19:06.466Z,9.9768,126.1395,60.425,4.6,mb,49.0,104.0,2.941,0.63,us,us6000pidf,2025-01-07T10:54:18.040Z,"12 km ESE of Santa Monica, Philippines",earthquake,9.24,6.201,0.087,41.0,reviewed,us,us
