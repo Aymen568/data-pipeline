@@ -19561,3 +19561,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-07T17:34:32.100Z,46.142,-111.83416666667,2.57,1.41,ml,14.0,64.0,0.2023,0.06,mb,mb90070363,2025-01-07T19:00:11.780Z,"16 km WSW of Radersburg, Montana",earthquake,0.23,1.18,0.28500674374046,11.0,reviewed,mb,mb
 2025-01-07T16:21:31.940Z,48.983333333333,-123.10916666667,18.21,1.75,ml,31.0,82.0,0.2097,0.19,uw,uw62061652,2025-01-07T19:00:41.810Z,"2 km W of Point Roberts, Washington",earthquake,0.29,0.76,0.14936799504183,15.0,reviewed,uw,uw
 2025-01-07T19:22:03.220Z,32.6696667,-116.7706667,20.56,1.57,ml,5.0,170.0,0.2424,0.05,ci,ci40835551,2025-01-07T19:25:41.008Z,"11 km ESE of Jamul, CA",earthquake,0.89,2.25,0.279,10.0,automatic,ci,ci
+2025-01-07T19:28:10.710Z,34.2243333,-117.0318333,2.39,1.99,ml,75.0,20.0,0.03911,0.14,ci,ci40835559,2025-01-07T19:39:01.060Z,"7 km ENE of Running Springs, CA",earthquake,0.1,0.35,0.147,24.0,automatic,ci,ci
