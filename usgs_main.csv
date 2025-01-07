@@ -19468,3 +19468,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-07T10:02:01.550Z,38.826999664307,-122.81383514404,2.0999999046326,1.01,md,9.0,113.0,0.004646,0.0,nc,nc75114001,2025-01-07T10:03:39.320Z,"7 km NNW of The Geysers, CA",earthquake,0.4,1.08000004,0.21,10.0,automatic,nc,nc
 2025-01-07T10:00:12.770Z,33.971,-117.1766667,15.42,1.04,ml,50.0,37.0,0.02378,0.17,ci,ci40835311,2025-01-07T10:04:41.156Z,"7 km NE of Moreno Valley, CA",earthquake,0.17,0.28,0.178,29.0,automatic,ci,ci
 2025-01-07T09:59:42.100Z,38.827331542969,-122.81183624268,2.0299999713898,2.58,md,63.0,24.0,0.004165,0.06,nc,nc75113996,2025-01-07T10:03:15.440Z,"7 km NNW of The Geysers, CA",earthquake,0.12,0.189999998,0.13,74.0,automatic,nc,nc
+2025-01-07T10:40:48.430Z,33.2641667,-116.433,3.78,0.75,ml,42.0,42.0,0.01387,0.2,ci,ci40835327,2025-01-07T10:45:33.291Z,"6 km W of Borrego Springs, CA",earthquake,0.19,0.4,0.124,18.0,automatic,ci,ci
+2025-01-07T10:38:25.650Z,32.946,-116.3335,4.29,1.07,ml,46.0,39.0,0.1577,0.17,ci,ci40835319,2025-01-07T10:43:41.476Z,"23 km NE of Pine Valley, CA",earthquake,0.15,0.68,0.199,27.0,automatic,ci,ci
+2025-01-07T10:37:30.657Z,60.1828,-152.9673,117.4,2.3,ml,,,,0.23,ak,ak025bqxrd5,2025-01-07T10:39:30.112Z,"73 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-01-07T10:31:12.754Z,30.901,-103.524,4.8406,1.6,ml,7.0,107.0,0.2,0.6,tx,tx2025altv,2025-01-07T10:42:25.837Z,"23 km ESE of Balmorhea, Texas",earthquake,0.0,2.0804455280304,0.1,7.0,automatic,tx,tx
