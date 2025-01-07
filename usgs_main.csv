@@ -19435,3 +19435,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-07T05:25:21.630Z,38.787666320801,-122.76750183106,0.95999997854233,1.37,md,26.0,79.0,0.0143,0.03,nc,nc75113926,2025-01-07T05:26:57.414Z,"2 km NNW of The Geysers, CA",earthquake,0.2,0.340000004,0.2,26.0,automatic,nc,nc
 2025-01-07T05:25:05.077Z,62.1181,-152.6377,119.4,2.6,ml,,,,0.66,ak,ak025bnvyrv,2025-01-07T05:26:59.798Z,"66 km WNW of Skwentna, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-01-07T05:25:02.710Z,38.787498474121,-122.76716613769,0.91000002622604,1.89,md,38.0,73.0,0.01434,0.04,nc,nc75113921,2025-01-07T05:27:53.390Z,"1 km NNW of The Geysers, CA",earthquake,0.16,0.25,0.17,37.0,automatic,nc,nc
+2025-01-07T05:30:43.070Z,32.9485,-116.3336667,3.44,0.77,ml,43.0,56.0,0.1556,0.21,ci,ci40835223,2025-01-07T05:35:03.659Z,"23 km NE of Pine Valley, CA",earthquake,0.23,0.75,0.141,18.0,automatic,ci,ci
+2025-01-07T00:13:00.860Z,45.327,-121.696,4.88,0.57,ml,10.0,144.0,0.01336,0.08,uw,uw62061602,2025-01-07T05:39:39.810Z,"5 km ENE of Government Camp, Oregon",earthquake,0.3,0.41,0.029311301334938,5.0,reviewed,uw,uw
