@@ -19571,3 +19571,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-07T18:48:00.171Z,60.2617,-152.3279,102.059,2.5,ml,22.0,105.0,0.273,0.39,us,us6000pig2,2025-01-07T19:52:37.040Z,"43 km WNW of Ninilchik, Alaska",earthquake,4.32,6.985,0.048,57.0,reviewed,us,us
 2025-01-07T20:11:07.829Z,31.382,-103.765,5.639,1.7,ml,4.0,152.0,0.1,0.1,tx,tx2025ammz,2025-01-07T20:23:55.249Z,"7 km NNE of Toyah, Texas",earthquake,0.0,5.9256262779236,0.2,4.0,automatic,tx,tx
 2025-01-07T19:52:52.413Z,28.7645,87.3348,10.0,4.6,mb,73.0,153.0,3.444,1.05,us,us6000pigg,2025-01-07T20:27:01.040Z,"104 km NNE of Lobuche, Nepal",earthquake,9.96,1.893,0.069,63.0,reviewed,us,us
+2025-01-07T20:35:47.310Z,38.825668334961,-122.85333251953,2.4500000476837,1.32,md,25.0,111.0,0.003341,0.02,nc,nc75114201,2025-01-07T20:37:25.103Z,"10 km NW of The Geysers, CA",earthquake,0.25,0.370000005,0.16,26.0,automatic,nc,nc
