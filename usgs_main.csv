@@ -19454,3 +19454,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-07T07:11:19.060Z,32.946,-116.3315,4.39,0.81,ml,42.0,39.0,0.07134,0.2,ci,ci40835279,2025-01-07T07:16:22.660Z,"23 km NE of Pine Valley, CA",earthquake,0.2,0.73,0.16,16.0,automatic,ci,ci
 2025-01-07T06:58:17.130Z,19.198165893555,-155.35932922363,29.770000457764,2.09,ml,56.0,176.0,0.05322,0.129999995,hv,hv74586107,2025-01-07T07:01:53.840Z,"12 km E of Pāhala, Hawaii",earthquake,0.44,0.5,0.21,6.0,automatic,hv,hv
 2025-01-07T07:14:02.170Z,17.931166666667,-66.947,9.42,2.55,md,13.0,222.0,0.05476,0.09,pr,pr71470328,2025-01-07T07:36:02.250Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.49,0.46,0.097608253871948,7.0,reviewed,pr,pr
+2025-01-07T07:57:19.889Z,39.1155,-119.04,3.7,1.2,ml,11.0,129.7,0.081,0.1787,nn,nn00891512,2025-01-07T07:59:26.738Z,"17 km NE of Yerington, Nevada",earthquake,,1.0,0.29,6.0,automatic,nn,nn
