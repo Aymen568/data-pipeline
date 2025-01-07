@@ -19483,3 +19483,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-07T12:00:13.160Z,33.8753333,-116.3163333,3.17,1.56,ml,60.0,39.0,0.0716,0.2,ci,ci40835351,2025-01-07T12:11:11.600Z,"9 km NE of Thousand Palms, CA",earthquake,0.16,0.32,0.211,26.0,automatic,ci,ci
 2025-01-07T11:57:34.060Z,38.842498779297,-122.80982971191,-0.69999998807907,0.77,md,8.0,99.0,0.01576,0.07,nc,nc75114026,2025-01-07T11:59:10.073Z,"8 km WNW of Cobb, CA",earthquake,0.33,1.25999999,0.26,8.0,automatic,nc,nc
 2025-01-07T09:06:56.488Z,-19.4097,-172.9978,10.0,4.9,mb,47.0,74.0,2.92,0.62,us,us6000pidi,2025-01-07T12:42:10.040Z,"133 km SE of Neiafu, Tonga",earthquake,13.24,1.816,0.099,32.0,reviewed,us,us
+2025-01-07T13:09:43.318Z,61.5421,-147.8086,22.8,2.2,ml,,,,0.94,ak,ak025bsk33v,2025-01-07T13:12:47.196Z,"30 km SSW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
