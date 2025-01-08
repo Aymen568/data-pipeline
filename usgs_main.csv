@@ -19684,3 +19684,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-08T09:11:02.190Z,40.227165222168,-121.15216827393,12.409999847412,1.97,md,7.0,205.0,0.1921,0.06,nc,nc75114431,2025-01-08T09:21:14.371Z,"2 km NNE of Prattville, CA",earthquake,0.99,2.9000001,0.09,6.0,automatic,nc,nc
 2025-01-08T09:10:20.250Z,40.210834503174,-121.16416931152,1.25,2.12,md,11.0,190.0,0.2098,0.11,nc,nc75114426,2025-01-08T09:17:19.923Z,"1 km NW of Prattville, CA",earthquake,0.87,8.03999996,0.16,10.0,automatic,nc,nc
 2025-01-08T09:00:54.538Z,39.082,-119.0251,5.6,1.1,ml,11.0,139.31,0.088,0.1055,nn,nn00891585,2025-01-08T09:03:11.174Z,"16 km NE of Yerington, Nevada",earthquake,,1.1,0.36,4.0,automatic,nn,nn
+2025-01-07T12:22:15.802Z,28.2465,87.1829,10.0,4.2,mb,55.0,97.0,3.748,0.5,us,us6000piev,2025-01-08T09:24:30.040Z,"49 km NE of Lobuche, Nepal",earthquake,9.37,1.907,0.082,41.0,reviewed,us,us
