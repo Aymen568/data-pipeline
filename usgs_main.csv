@@ -19733,3 +19733,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-08T15:14:55.136Z,61.5144,-149.9257,44.2,1.5,ml,,,,0.53,ak,ak025dhbe7v,2025-01-08T15:18:44.673Z,"1 km ESE of Big Lake, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-01-08T15:33:30.880Z,35.6786652,-117.5554962,6.28,1.05,ml,12.0,88.0,0.1082,0.17,ci,ci40835999,2025-01-08T15:35:41.200Z,"13 km ENE of Ridgecrest, CA",earthquake,0.56,2.16,0.15,3.0,automatic,ci,ci
 2025-01-08T15:30:24.490Z,32.9763333,-116.9845,20.54,2.02,ml,10.0,100.0,0.3034,0.22,ci,ci40835991,2025-01-08T15:35:00.944Z,"5 km ENE of Poway, CA",earthquake,0.75,4.25,0.188,15.0,reviewed,ci,ci
+2025-01-08T15:50:24.890Z,38.787998199463,-122.77149963379,0.95999997854233,0.73,md,9.0,87.0,0.01383,0.01,nc,nc75114531,2025-01-08T15:52:01.961Z,"2 km NW of The Geysers, CA",earthquake,0.38,0.819999993,0.14,9.0,automatic,nc,nc
+2025-01-07T16:10:47.110Z,56.248333333333,-159.1975,11.36,1.06,ml,9.0,149.0,0.05644,0.28,av,av93447496,2025-01-08T15:54:17.100Z,"26 km W of Chignik Lake, Alaska",earthquake,0.65,0.93,0.21430066361147,10.0,reviewed,av,av
