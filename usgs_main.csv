@@ -19754,3 +19754,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-08T14:16:58.100Z,34.9058333,-120.3453333,2.81,1.07,ml,10.0,91.0,0.05741,0.18,ci,ci40835911,2025-01-08T17:04:00.240Z,"9 km ENE of Orcutt, CA",earthquake,0.42,0.57,0.183,6.0,reviewed,ci,ci
 2025-01-07T20:39:25.150Z,61.3145,-152.28383333333,2.19,-0.25,ml,9.0,124.0,0.07009,0.09,av,av93447756,2025-01-08T17:01:30.900Z,"67 km WNW of Beluga, Alaska",earthquake,0.27,0.81,0.24179236560277,10.0,reviewed,av,av
 2025-01-07T20:35:27.220Z,61.3215,-152.2835,-2.83,-0.14,ml,10.0,127.0,0.07587,0.22,av,av93447746,2025-01-08T16:58:19.930Z,"67 km WNW of Beluga, Alaska",earthquake,0.41,1.93,0.27280329359816,10.0,reviewed,av,av
+2025-01-08T17:15:44.267Z,61.5533,-151.7369,83.6,1.4,ml,,,,0.2,ak,ak025diige2,2025-01-08T17:17:10.346Z,"51 km SSW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-01-08T17:09:17.528Z,32.949,-101.154,10.9078,1.8,ml,5.0,137.0,0.2,0.3,tx,tx2025aoco,2025-01-08T17:21:08.631Z,"33 km NE of Gail, Texas",earthquake,0.0,6.9690403938293,0.1,5.0,automatic,tx,tx
+2025-01-08T12:21:39.360Z,46.369166666667,-122.43716666667,19.56,1.56,ml,42.0,54.0,0.09151,0.1,uw,uw62061802,2025-01-08T17:13:37.040Z,"18 km SSE of Mossyrock, Washington",earthquake,0.18,0.39,0.15817207415363,22.0,reviewed,uw,uw
+2025-01-08T06:35:25.194Z,41.9371,-119.5988,0.4,2.2,ml,5.0,211.66,0.525,0.187,nn,nn00891598,2025-01-08T17:20:07.095Z,"46 km E of Fort Bidwell, California",earthquake,,3.9,0.27,4.0,reviewed,nn,nn
+2025-01-08T03:55:09.749Z,41.9305,-119.6201,2.1,2.3,ml,6.0,127.75,0.509,0.1119,nn,nn00891600,2025-01-08T17:29:21.468Z,"44 km E of Fort Bidwell, California",earthquake,,7.0,0.31,5.0,reviewed,nn,nn
