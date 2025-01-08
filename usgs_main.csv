@@ -19707,3 +19707,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-08T12:17:38.417Z,61.6769,-150.0958,19.4,1.9,ml,,,,0.51,ak,ak025dfjpch,2025-01-08T12:19:21.157Z,"8 km SSW of Willow, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-08T12:01:22.684Z,-9.1708,158.1075,10.0,4.9,mb,36.0,103.0,1.835,0.74,us,us6000pikd,2025-01-08T12:25:30.040Z,"182 km SE of Gizo, Solomon Islands",earthquake,9.77,1.902,0.104,29.0,reviewed,us,us
 2025-01-08T11:37:41.880Z,18.447666666667,-66.744,77.74,2.61,md,8.0,195.0,0.1009,0.18,pr,pr71470413,2025-01-08T12:19:09.460Z,"3 km ESE of Corcovado, Puerto Rico",earthquake,1.33,0.98,0.066061001130092,8.0,reviewed,pr,pr
+2025-01-08T13:13:19.660Z,38.825668334961,-122.79016876221,1.5599999427795,1.55,md,27.0,38.0,0.01272,0.03,nc,nc75114486,2025-01-08T13:16:48.630Z,"6 km WNW of Cobb, CA",earthquake,0.17,0.319999993,0.18,28.0,automatic,nc,nc
+2025-01-08T12:45:58.993Z,54.7555,160.0047,127.975,4.7,mb,100.0,129.0,1.912,0.78,us,us6000pikk,2025-01-08T13:03:39.040Z,"89 km E of Mil’kovo, Russia",earthquake,11.34,8.005,0.047,140.0,reviewed,us,us
+2025-01-08T12:00:58.890Z,34.303333333333,-81.3105,2.95,1.86,md,5.0,127.0,0.02262,0.1,se,se60502883,2025-01-08T13:13:14.900Z,"4 km NNW of Jenkinsville, South Carolina",earthquake,0.8,0.75,0.11782874123222,4.0,reviewed,se,se
