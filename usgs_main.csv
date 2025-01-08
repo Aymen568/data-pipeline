@@ -19634,3 +19634,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-08T02:14:18.413Z,-8.9663,115.372,111.531,4.3,mb,27.0,55.0,1.303,1.07,us,us6000piic,2025-01-08T02:48:41.395Z,"23 km SE of Nusa Dua, Indonesia",earthquake,7.63,8.058,0.138,15.0,reviewed,us,us
 2025-01-08T02:13:25.774Z,61.3824,-150.077,35.9,2.0,ml,,,,0.44,ak,ak025d9khgh,2025-01-08T02:15:02.865Z,"5 km WNW of Point MacKenzie, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2025-01-08T01:43:43.483Z,28.6168,87.4899,10.0,4.2,mb,22.0,167.0,9.99,0.43,us,us6000piia,2025-01-08T02:26:50.040Z,"99 km NE of Lobuche, Nepal",earthquake,16.72,1.968,0.103,26.0,reviewed,us,us
+2025-01-08T03:14:14.780Z,64.6771,-149.0626,13.2,1.4,ml,,,,0.24,ak,ak025da63xi,2025-01-08T03:15:50.798Z,"8 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-01-08T03:01:05.030Z,19.411500930786,-155.28317260742,0.50999999046326,1.85,ml,20.0,56.0,0.006191,0.109999999,hv,hv74586842,2025-01-08T03:04:03.630Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.140000001,0.17,5.0,automatic,hv,hv
+2025-01-08T02:56:22.283Z,61.7992,-150.4588,51.4,1.6,ml,,,,0.27,ak,ak025d9toz8,2025-01-08T02:59:03.720Z,"22 km WNW of Willow, Alaska",earthquake,,3.5,,,automatic,ak,ak
