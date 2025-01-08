@@ -19727,3 +19727,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-08T15:02:34.476Z,36.26582718,-97.498909,4.552289009,1.7,ml,15.0,55.39569855,0.07370906323,0.1586944217,ok,ok2025anyh,2025-01-08T15:07:39.477Z,"4 km WSW of Lucien, Oklahoma",earthquake,3.114075345,2.496257277,0.12,6.0,automatic,ok,ok
 2025-01-08T15:00:34.190Z,36.416831970215,-121.50116729736,10.029999732971,1.33,md,15.0,59.0,0.0578,0.11,nc,nc75114506,2025-01-08T15:02:12.766Z,"11 km SW of Gonzales, CA",earthquake,0.42,1.11000001,0.34,11.0,automatic,nc,nc
 2025-01-08T14:11:28.790Z,18.010166666667,-67.002333333333,6.73,1.99,md,5.0,119.0,0.05684,0.18,pr,pr71470433,2025-01-08T15:00:05.110Z,"6 km NE of La Parguera, Puerto Rico",earthquake,0.65,0.93,0.16548112548366,4.0,reviewed,pr,pr
+2025-01-08T15:24:56.270Z,61.4597,-150.7013,59.1,2.2,ml,,,,0.38,ak,ak025dhdjjv,2025-01-08T15:26:33.981Z,"13 km SW of Susitna, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2025-01-08T15:21:16.065Z,58.2689,-153.4281,72.3,2.1,ml,,,,0.26,ak,ak025dhctau,2025-01-08T15:22:58.653Z,"38 km NW of Aleneva, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2025-01-08T15:15:26.204Z,56.0385,-158.2883,44.4,3.5,ml,,,,0.36,ak,ak025dhbjsc,2025-01-08T15:16:36.203Z,"29 km SSE of Chignik, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2025-01-08T15:14:55.136Z,61.5144,-149.9257,44.2,1.5,ml,,,,0.53,ak,ak025dhbe7v,2025-01-08T15:18:44.673Z,"1 km ESE of Big Lake, Alaska",earthquake,,1.1,,,automatic,ak,ak
