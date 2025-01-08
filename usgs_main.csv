@@ -19637,3 +19637,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-08T03:14:14.780Z,64.6771,-149.0626,13.2,1.4,ml,,,,0.24,ak,ak025da63xi,2025-01-08T03:15:50.798Z,"8 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-08T03:01:05.030Z,19.411500930786,-155.28317260742,0.50999999046326,1.85,ml,20.0,56.0,0.006191,0.109999999,hv,hv74586842,2025-01-08T03:04:03.630Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.140000001,0.17,5.0,automatic,hv,hv
 2025-01-08T02:56:22.283Z,61.7992,-150.4588,51.4,1.6,ml,,,,0.27,ak,ak025d9toz8,2025-01-08T02:59:03.720Z,"22 km WNW of Willow, Alaska",earthquake,,3.5,,,automatic,ak,ak
+2025-01-08T03:33:47.680Z,38.792999267578,-122.80799865723,10.909999847412,0.38,md,6.0,157.0,0.006051,0.03,nc,nc75114336,2025-01-08T03:35:24.296Z,"5 km WNW of The Geysers, CA",earthquake,4.28,2.05999994,0.11,6.0,automatic,nc,nc
