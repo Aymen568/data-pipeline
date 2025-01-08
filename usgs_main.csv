@@ -19711,3 +19711,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-08T12:45:58.993Z,54.7555,160.0047,127.975,4.7,mb,100.0,129.0,1.912,0.78,us,us6000pikk,2025-01-08T13:03:39.040Z,"89 km E of Mil’kovo, Russia",earthquake,11.34,8.005,0.047,140.0,reviewed,us,us
 2025-01-08T12:00:58.890Z,34.303333333333,-81.3105,2.95,1.86,md,5.0,127.0,0.02262,0.1,se,se60502883,2025-01-08T13:13:14.900Z,"4 km NNW of Jenkinsville, South Carolina",earthquake,0.8,0.75,0.11782874123222,4.0,reviewed,se,se
 2025-01-08T13:09:01.180Z,19.145166666667,-66.358333333333,24.68,3.09,md,10.0,273.0,0.822,0.19,pr,pr71470428,2025-01-08T13:36:59.040Z,"75 km N of Brenas, Puerto Rico",earthquake,1.1,14.64,0.0924968704779,8.0,reviewed,pr,pr
+2025-01-08T13:54:37.448Z,62.3265,-151.2193,82.4,1.7,ml,,,,0.27,ak,ak025dgd2dc,2025-01-08T13:56:22.080Z,"30 km SW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-01-08T13:51:24.280Z,38.840000152588,-122.81083679199,1.9800000190735,0.68,md,6.0,123.0,0.01659,0.01,nc,nc75114491,2025-01-08T13:53:02.143Z,"8 km WNW of Cobb, CA",earthquake,0.46,1.51999998,0.45,8.0,automatic,nc,nc
+2025-01-08T13:14:30.650Z,17.9695,-67.008833333333,9.21,1.52,md,10.0,182.0,0.03368,0.06,pr,pr71470423,2025-01-08T13:59:58.810Z,"4 km E of La Parguera, Puerto Rico",earthquake,0.32,0.53,0.12747698357427,4.0,reviewed,pr,pr
