@@ -19686,3 +19686,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-08T09:00:54.538Z,39.082,-119.0251,5.6,1.1,ml,11.0,139.31,0.088,0.1055,nn,nn00891585,2025-01-08T09:03:11.174Z,"16 km NE of Yerington, Nevada",earthquake,,1.1,0.36,4.0,automatic,nn,nn
 2025-01-07T12:22:15.802Z,28.2465,87.1829,10.0,4.2,mb,55.0,97.0,3.748,0.5,us,us6000piev,2025-01-08T09:24:30.040Z,"49 km NE of Lobuche, Nepal",earthquake,9.37,1.907,0.082,41.0,reviewed,us,us
 2025-01-07T10:19:49.553Z,27.424,128.8448,48.076,4.5,mb,39.0,95.0,0.777,0.61,us,us6000pidl,2025-01-08T09:48:29.040Z,"19 km ENE of Wadomari, Japan",earthquake,6.33,6.646,0.102,28.0,reviewed,us,us
+2025-01-08T10:03:49.332Z,60.1827,-151.3044,21.6,1.6,ml,,,,0.56,ak,ak025de9uyd,2025-01-08T10:06:09.706Z,"7 km SE of Clam Gulch, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-01-08T10:03:03.954Z,62.8902,-148.9845,3.4,1.8,ml,,,,0.78,ak,ak025de9rgb,2025-01-08T10:04:45.265Z,"55 km S of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
