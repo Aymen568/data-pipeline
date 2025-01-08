@@ -19661,3 +19661,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-08T06:09:04.290Z,18.173333333333,-65.0415,7.65,3.26,md,13.0,201.0,0.1956,0.49,pr,pr71470368,2025-01-08T06:23:28.480Z,"22 km SSW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.41,1.87,0.17218451466105,12.0,reviewed,pr,pr
 2025-01-08T06:55:57.180Z,62.2902,-151.9952,107.7,2.1,ml,,,,0.44,ak,ak025dc7adi,2025-01-08T06:58:33.671Z,"45 km NW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-08T06:54:25.764Z,60.9059,-150.9138,16.1,1.8,ml,,,,0.4,ak,ak025dc708g,2025-01-08T06:56:03.565Z,"12 km W of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-01-08T07:33:51.180Z,38.826332092285,-122.79566955566,1.3200000524521,1.12,md,17.0,54.0,0.01163,0.03,nc,nc75114391,2025-01-08T07:35:29.495Z,"6 km WNW of Cobb, CA",earthquake,0.2,0.629999995,0.16,17.0,automatic,nc,nc
+2025-01-08T07:33:15.810Z,38.826332092285,-122.79416656494,1.710000038147,1.05,md,12.0,63.0,0.01242,0.02,nc,nc75114386,2025-01-08T07:34:49.453Z,"6 km WNW of Cobb, CA",earthquake,0.33,1.00999999,0.12,13.0,automatic,nc,nc
+2025-01-08T07:29:59.782Z,61.5924,-149.9867,32.9,1.7,ml,,,,0.42,ak,ak025dcn5ka,2025-01-08T07:32:17.871Z,"8 km NNW of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
