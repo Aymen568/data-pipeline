@@ -19858,3 +19858,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-08T23:24:30.378Z,37.3667,-117.1307,3.5,1.6,ml,13.0,141.71,0.123,0.1465,nn,nn00891620,2025-01-08T23:26:36.269Z,"39 km SSE of Goldfield, Nevada",earthquake,,1.1,0.32,10.0,automatic,nn,nn
 2025-01-08T23:18:37.880Z,32.7578333,-115.4291667,10.33,2.28,ml,27.0,76.0,0.04963,0.25,ci,ci40836255,2025-01-08T23:25:36.732Z,"8 km SW of Holtville, CA",earthquake,0.36,0.77,0.221,27.0,automatic,ci,ci
 2025-01-08T23:16:55.373Z,58.1881,-155.4773,29.9,0.8,ml,,,,0.72,ak,ak025dm3ald,2025-01-08T23:18:50.475Z,"88 km SE of King Salmon, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-01-08T23:34:08.375Z,61.1815,-151.8595,86.1,1.6,ml,,,,0.47,ak,ak025dm71ut,2025-01-08T23:36:02.212Z,"40 km WNW of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-01-08T23:31:31.470Z,38.826999664307,-122.81566619873,1.8300000429153,0.96,md,8.0,131.0,0.01561,0.04,nc,nc75114661,2025-01-08T23:33:07.064Z,"8 km NNW of The Geysers, CA",earthquake,0.56,1.59000003,0.23,9.0,automatic,nc,nc
+2025-01-08T23:29:28.780Z,32.9408333,-116.2041667,-0.25,1.99,ml,7.0,130.0,0.34,0.15,ci,ci40836263,2025-01-08T23:34:39.729Z,"24 km SSW of Ocotillo Wells, CA",earthquake,1.18,4.58,0.377,20.0,automatic,ci,ci
