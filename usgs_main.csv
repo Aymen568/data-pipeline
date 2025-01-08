@@ -19845,3 +19845,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-08T22:08:56.543Z,31.964,-101.932,1.9848,1.1,ml,6.0,152.0,0.3,0.5,tx,tx2025aomk,2025-01-08T22:24:04.168Z,"14 km ESE of Midland, Texas",earthquake,0.0,5.3744254112244,0.2,6.0,automatic,tx,tx
 2025-01-08T22:07:42.085Z,9.1968,40.1478,10.0,4.9,mb,66.0,65.0,3.525,0.67,us,us6000pir6,2025-01-08T22:29:00.313Z,"23 km N of Āwash, Ethiopia",earthquake,9.52,1.873,0.062,80.0,reviewed,us,us
 2025-01-08T08:30:01.080Z,43.714666666667,-111.0665,2.34,0.88,ml,7.0,191.0,0.1993,0.14,mb,mb90070523,2025-01-08T22:28:31.080Z,"3 km ESE of Driggs, Idaho",earthquake,0.73,4.6,0.25307677906478,7.0,reviewed,mb,mb
+2025-01-08T22:28:19.723Z,61.6666,-149.8558,34.4,2.0,ml,,,,0.45,ak,ak025dlkctw,2025-01-08T22:29:59.751Z,"4 km NNW of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-01-08T22:17:09.747Z,9.2326,39.9052,10.0,4.6,mb,53.0,114.0,3.686,0.76,us,us6000pir9,2025-01-08T22:40:20.282Z,"36 km N of Metahāra, Ethiopia",earthquake,12.6,1.945,0.081,46.0,reviewed,us,us
+2025-01-08T22:15:35.042Z,9.6568,40.0172,10.0,4.4,mb,26.0,106.0,3.347,0.86,us,us6000pirb,2025-01-08T22:39:59.040Z,"35 km SE of Debre Sīna, Ethiopia",earthquake,7.17,1.939,0.131,17.0,reviewed,us,us
+2025-01-08T08:41:29.470Z,43.714166666667,-111.06233333333,2.48,0.88,ml,7.0,189.0,0.1985,0.16,mb,mb90070528,2025-01-08T22:32:57.310Z,"4 km ESE of Driggs, Idaho",earthquake,0.73,4.68,0.28041498464773,7.0,reviewed,mb,mb
