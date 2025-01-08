@@ -19678,3 +19678,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-08T08:08:56.750Z,32.131,-101.642,5.8391,1.5,ml,36.0,58.0,0.0,0.3,tx,tx2025ankr,2025-01-08T08:23:42.106Z,"13 km E of Stanton, Texas",earthquake,0.0,1.5053278207779,0.2,20.0,automatic,tx,tx
 2025-01-08T07:44:22.997Z,34.7767,97.4386,10.0,5.7,mb,92.0,57.0,5.246,0.71,us,us6000pijd,2025-01-08T08:08:05.290Z,"Southern Qinghai, China",earthquake,8.52,1.849,0.04,223.0,reviewed,us,us
 2025-01-08T07:43:35.810Z,17.976666666667,-66.946833333333,8.07,2.64,md,17.0,169.0,0.03662,0.21,pr,pr71470388,2025-01-08T08:01:13.880Z,"3 km WSW of Fuig, Puerto Rico",earthquake,0.39,0.86,0.21142226811679,7.0,reviewed,pr,pr
+2025-01-08T08:54:57.820Z,38.805000305176,-122.80500030518,2.210000038147,0.77,md,8.0,80.0,0.008136,0.02,nc,nc75114416,2025-01-08T08:56:35.070Z,"5 km NW of The Geysers, CA",earthquake,0.59,0.980000019,0.17,8.0,automatic,nc,nc
+2025-01-08T08:46:49.982Z,61.0156,-151.3593,19.8,1.6,ml,,,,0.17,ak,ak025ddc7l2,2025-01-08T08:48:08.958Z,"13 km WSW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
