@@ -19826,3 +19826,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-08T21:05:21.481Z,61.3337,-150.9028,57.8,1.5,ml,,,,0.65,ak,ak025dktzw4,2025-01-08T21:07:43.978Z,"23 km NNE of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-08T20:00:07.611Z,-6.4717,-81.2677,10.0,4.5,mb,55.0,139.0,4.455,0.67,us,us6000piq7,2025-01-08T21:23:48.040Z,"112 km SSW of Sechura, Peru",earthquake,10.05,1.881,0.085,41.0,reviewed,us,us
 2025-01-08T08:26:23.840Z,48.002166666667,-122.87233333333,18.49,1.34,ml,15.0,84.0,0.06218,0.21,uw,uw62061777,2025-01-08T21:16:39.000Z,"7 km WSW of Port Hadlock-Irondale, Washington",earthquake,0.41,0.81,0.060348462459,6.0,reviewed,uw,uw
+2025-01-08T21:31:49.450Z,37.375,-117.1355,0.0,1.7,ml,18.0,142.32,0.124,0.3278,nn,nn00891616,2025-01-08T21:34:16.991Z,"38 km SSE of Goldfield, Nevada",earthquake,,6.6,0.27,14.0,automatic,nn,nn
+2025-01-08T21:29:51.055Z,37.3637,-117.1352,3.3,1.6,ml,18.0,141.29,0.118,0.2802,nn,nn00891615,2025-01-08T21:32:36.844Z,"39 km SSE of Goldfield, Nevada",earthquake,,1.1,0.3,13.0,automatic,nn,nn
+2025-01-08T21:25:43.650Z,38.833831787109,-122.88166809082,3.0199999809265,0.73,md,9.0,152.0,0.02036,0.02,nc,nc75114636,2025-01-08T21:27:22.064Z,"12 km E of Cloverdale, CA",earthquake,0.49,1.13999999,0.14,10.0,automatic,nc,nc
+2025-01-08T20:28:13.203Z,55.4773,161.2203,153.644,4.1,mb,30.0,149.0,2.884,0.86,us,us6000piqf,2025-01-08T21:35:59.040Z,"96 km SSE of Klyuchi, Russia",earthquake,12.13,12.717,0.111,22.0,reviewed,us,us
