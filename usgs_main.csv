@@ -19899,3 +19899,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T04:22:20.350Z,31.654,-104.364,4.4527,2.3,ml,18.0,70.0,0.1,0.4,tx,tx2025aoyu,2025-01-09T04:30:35.331Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.4094251394272,0.2,14.0,automatic,tx,tx
 2025-01-09T03:52:17.833Z,31.661,-104.355,6.3049,4.2,ml,18.0,69.0,0.1,0.1,tx,tx2025aoxt,2025-01-09T04:32:21.104Z,"57 km S of Whites City, New Mexico",earthquake,0.85192330293067,0.96872016567432,0.1,10.0,reviewed,tx,tx
 2025-01-09T03:33:41.956Z,7.1396,-72.8524,182.37,4.3,mb,58.0,58.0,1.26,0.81,us,us6000pisv,2025-01-09T04:30:27.040Z,"12 km SW of Silos, Colombia",earthquake,8.05,8.85,0.082,42.0,reviewed,us,us
+2025-01-09T04:38:40.264Z,9.2724,40.1191,10.0,4.5,mb,30.0,256.0,3.498,0.87,us,us6000pit5,2025-01-09T04:56:50.040Z,"32 km N of Āwash, Ethiopia",earthquake,8.75,2.007,0.118,21.0,reviewed,us,us
