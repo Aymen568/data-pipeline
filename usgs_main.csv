@@ -20024,3 +20024,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T16:52:25.810Z,45.724333333333,-112.1325,2.1,1.45,ml,13.0,59.0,0.2113,0.11,mb,mb90070648,2025-01-09T17:35:01.380Z,"16 km S of Whitehall, Montana",earthquake,0.28,0.96,0.11124290870721,18.0,reviewed,mb,mb
 2025-01-09T17:43:27.351Z,59.3566,-152.133,60.1,2.5,ml,,,,0.76,ak,ak025f67rmn,2025-01-09T17:45:49.803Z,"12 km W of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-01-09T17:08:31.500Z,44.567166666667,-112.48783333333,8.63,0.92,ml,7.0,132.0,0.07178,0.07,mb,mb90070653,2025-01-09T17:51:40.990Z,"11 km SE of Lima, Montana",earthquake,0.4,0.67,0.38450431620569,5.0,reviewed,mb,mb
+2025-01-09T17:55:47.837Z,39.1838,-119.0338,6.3,1.2,ml,10.0,122.3,0.013,0.0608,nn,nn00891662,2025-01-09T17:57:58.555Z,"24 km NNE of Yerington, Nevada",earthquake,,0.4,0.23,4.0,automatic,nn,nn
