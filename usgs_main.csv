@@ -19879,3 +19879,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T00:34:16.560Z,32.6023,88.3895,10.0,4.3,mb,29.0,142.0,12.796,0.77,us,us6000pis4,2025-01-09T00:53:24.040Z,western Xizang,earthquake,13.94,1.935,0.094,32.0,reviewed,us,us
 2025-01-08T15:23:39.509Z,-6.5308,147.3508,35.0,4.3,mb,16.0,287.0,2.862,1.15,us,us6000pil3,2025-01-09T01:11:51.040Z,"44 km ENE of Lae, Papua New Guinea",earthquake,7.74,2.016,0.16,11.0,reviewed,us,us
 2025-01-08T04:45:42.456Z,32.5154,-104.6266,8.717,2.7,ml,34.0,86.0,0.639,0.55,us,us6000piiq,2025-01-09T01:26:39.040Z,"34 km SSE of Hope, New Mexico",earthquake,2.36,8.411,0.051,50.0,reviewed,us,us
+2025-01-09T03:16:33.595Z,39.0876,-119.0196,6.8,1.2,ml,12.0,86.13,0.083,0.1387,nn,nn00891625,2025-01-09T03:18:45.182Z,"16 km NE of Yerington, Nevada",earthquake,,0.8,0.25,4.0,automatic,nn,nn
+2025-01-09T02:59:54.730Z,33.9626667,-117.1668333,14.71,2.01,ml,83.0,23.0,0.01603,0.16,ci,ci40836335,2025-01-09T03:10:39.100Z,"7 km NE of Moreno Valley, CA",earthquake,0.12,0.22,0.186,25.0,automatic,ci,ci
+2025-01-09T02:55:14.410Z,18.011333333333,-66.837833333333,14.04,2.19,md,5.0,153.0,0.05344,0.19,pr,pr71470448,2025-01-09T03:12:57.560Z,"2 km NW of Indios, Puerto Rico",earthquake,0.9,1.1,0.085589045108535,5.0,reviewed,pr,pr
+2025-01-09T02:43:57.204Z,-18.1625,167.8639,10.0,4.7,mb,24.0,173.0,2.773,0.9,us,us6000pisp,2025-01-09T03:04:05.040Z,"67 km SW of Port-Vila, Vanuatu",earthquake,9.5,1.908,0.127,19.0,reviewed,us,us
+2025-01-09T02:24:39.419Z,31.614,-104.556,4.0707,1.5,ml,14.0,169.0,0.1,0.3,tx,tx2025aouu,2025-01-09T02:47:10.740Z,"64 km SSW of Whites City, New Mexico",earthquake,0.0,1.7072248458862,0.2,12.0,automatic,tx,tx
