@@ -20051,3 +20051,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T20:31:18.820Z,33.8565,-117.511,1.89,1.59,ml,37.0,65.0,0.04586,0.22,ci,ci40836695,2025-01-09T20:35:52.294Z,"3 km SSE of Home Gardens, CA",earthquake,0.27,0.42,0.341,33.0,automatic,ci,ci
 2025-01-09T20:29:28.012Z,39.084,-119.0256,7.0,1.4,ml,10.0,100.3,0.086,0.0943,nn,nn00891668,2025-01-09T20:31:39.462Z,"16 km NE of Yerington, Nevada",earthquake,,1.6,0.19,5.0,automatic,nn,nn
 2025-01-09T20:45:47.710Z,37.638668060303,-121.66166687012,4.6100001335144,1.18,md,8.0,104.0,0.06132,0.04,nc,nc75115036,2025-01-09T20:47:27.058Z,"11 km SE of Livermore, CA",earthquake,0.42,0.939999998,0.06,7.0,automatic,nc,nc
+2025-01-09T21:05:26.610Z,38.840000152588,-122.82283020019,1.960000038147,0.72,md,11.0,102.0,0.009984,0.01,nc,nc75115041,2025-01-09T21:07:02.022Z,"9 km WNW of Cobb, CA",earthquake,0.35,1.25,0.44,13.0,automatic,nc,nc
+2025-01-09T21:00:14.048Z,31.59,-104.488,3.941,1.9,ml,6.0,144.0,0.1,0.2,tx,tx2025aqfp,2025-01-09T21:05:07.205Z,"65 km S of Whites City, New Mexico",earthquake,0.0,2.9653377532959,0.1,6.0,automatic,tx,tx
