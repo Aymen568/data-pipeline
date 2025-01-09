@@ -19961,3 +19961,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T12:44:38.052Z,31.987,-101.386,2.2337,1.3,ml,9.0,92.0,0.2,0.5,tx,tx2025appg,2025-01-09T12:57:47.889Z,"13 km S of Forsan, Texas",earthquake,0.0,2.0477619171143,0.2,6.0,automatic,tx,tx
 2025-01-09T03:34:01.410Z,48.611333333333,-123.09783333333,10.98,1.33,ml,20.0,97.0,0.01891,0.06,uw,uw62061872,2025-01-09T13:30:57.160Z,"10 km NW of Friday Harbor, Washington",earthquake,0.2,0.23,0.22567439273049,11.0,reviewed,uw,uw
 2025-01-08T20:45:54.539Z,36.25633333,-95.82316667,0.0,1.15,ml,22.0,207.0,0.3464320182,0.44,ok,ok2025aojq,2025-01-09T13:29:43.722Z,"3 km ESE of Owasso, Oklahoma",quarry blast,,0.5,0.22,12.0,reviewed,ok,ok
+2025-01-09T13:34:58.367Z,31.66,-104.343,4.055,1.7,ml,18.0,69.0,0.1,0.4,tx,tx2025apqx,2025-01-09T13:39:22.148Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.2660675048828,0.2,14.0,automatic,tx,tx
+2025-01-08T23:31:38.240Z,46.874166666667,-121.958,9.36,0.74,ml,24.0,99.0,0.008007,0.13,uw,uw62061852,2025-01-09T13:40:27.440Z,"14 km NNE of Ashford, Washington",earthquake,0.32,0.41,0.18295787563409,12.0,reviewed,uw,uw
+2025-01-08T19:06:16.820Z,36.27016667,-97.4965,7.97,1.2,ml,48.0,48.0,0.06928640364,0.24,ok,ok2025aogi,2025-01-09T13:46:23.713Z,"3 km W of Lucien, Oklahoma",earthquake,,0.6,0.25,19.0,reviewed,ok,ok
