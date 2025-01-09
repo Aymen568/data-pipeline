@@ -19937,3 +19937,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T07:58:40.370Z,40.304332733154,-124.58699798584,10.289999961853,2.49,md,15.0,283.0,0.1876,0.11,nc,nc75114841,2025-01-09T08:07:19.347Z,"26 km W of Petrolia, CA",earthquake,2.33,0.889999986,0.13,11.0,automatic,nc,nc
 2025-01-09T07:52:12.990Z,18.3356,-68.0148,102.0,3.73,md,11.0,179.0,0.9132,0.5,pr,pr2025009001,2025-01-09T08:16:45.444Z,"49 km ESE of Punta Cana, Dominican Republic",earthquake,4.66,3.48,0.09,7.0,reviewed,pr,pr
 2025-01-09T07:50:10.390Z,33.9481667,-118.3561667,7.11,1.93,ml,43.0,105.0,0.01802,0.27,ci,ci40836391,2025-01-09T08:20:30.218Z,"1 km NNW of Lennox, CA",earthquake,0.34,0.52,0.204,25.0,automatic,ci,ci
+2025-01-09T09:17:00.770Z,32.9775009,-116.3116684,10.0,1.23,ml,31.0,73.0,0.08339,0.16,ci,ci40836415,2025-01-09T09:19:07.176Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.27,0.84,0.246,5.0,automatic,ci,ci
+2025-01-09T09:02:56.689Z,39.1154,-119.0307,5.9,1.1,ml,13.0,90.71,0.054,0.091,nn,nn00891634,2025-01-09T09:05:07.073Z,"18 km NE of Yerington, Nevada",earthquake,,0.7,0.2,4.0,automatic,nn,nn
+2025-01-09T08:55:47.910Z,34.309,-119.6645,2.66,1.67,ml,36.0,132.0,0.1232,0.24,ci,ci40836407,2025-01-09T08:59:28.652Z,"13 km SSE of Santa Barbara, CA",earthquake,0.31,0.42,0.204,29.0,automatic,ci,ci
