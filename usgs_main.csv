@@ -19988,3 +19988,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-08T23:24:48.310Z,44.363833333333,-116.079,7.67,2.1,ml,13.0,84.0,0.3644,0.2,mb,mb90070558,2025-01-09T15:15:21.480Z,"7 km N of Smiths Ferry, Idaho",earthquake,0.35,1.55,0.17203293230045,12.0,reviewed,mb,mb
 2025-01-09T07:54:43.550Z,45.410666666667,-111.06266666667,12.45,1.36,ml,15.0,72.0,0.2446,0.19,mb,mb90070568,2025-01-09T15:32:26.270Z,"22 km WNW of South Glastonbury, Montana",earthquake,0.59,1.67,0.15142539656508,18.0,reviewed,mb,mb
 2025-01-09T07:50:06.650Z,33.8773333,-117.817,9.51,0.9,ml,16.0,81.0,0.0415,0.2,ci,ci40836383,2025-01-09T15:28:51.290Z,"1 km SSW of Yorba Linda, CA",earthquake,0.38,0.87,0.179,10.0,reviewed,ci,ci
+2025-01-09T15:45:06.990Z,38.791999816895,-122.77633666992,1.3799999952316,1.88,md,32.0,79.0,0.009127,0.04,nc,nc75114906,2025-01-09T15:48:29.410Z,"2 km NW of The Geysers, CA",earthquake,0.2,0.280000001,0.14,34.0,automatic,nc,nc
+2025-01-09T15:42:12.898Z,61.6389,-149.7623,31.6,2.2,ml,,,,0.53,ak,ak025f50nl5,2025-01-09T15:44:02.784Z,"3 km ENE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-01-09T15:41:06.267Z,61.8111,-150.9721,26.8,1.5,ml,,,,0.5,ak,ak025f50fcy,2025-01-09T15:42:45.090Z,"29 km SE of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-01-09T15:37:14.800Z,63.2658,-151.0793,4.3,1.8,ml,,,,0.43,ak,ak025f4zl5k,2025-01-09T15:39:37.220Z,"44 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-01-09T09:31:23.940Z,44.5735,-112.4915,8.36,1.14,ml,10.0,125.0,0.07223,0.1,mb,mb90070573,2025-01-09T15:46:55.260Z,"10 km SE of Lima, Montana",earthquake,0.42,0.69,0.16712877021345,14.0,reviewed,mb,mb
