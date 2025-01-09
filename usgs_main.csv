@@ -19951,3 +19951,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T11:26:38.901Z,31.562,-104.014,6.4863,2.6,ml,16.0,62.0,0.0,0.2,tx,tx2025apmr,2025-01-09T11:34:54.444Z,"34 km NW of Toyah, Texas",earthquake,0.0,2.5943186283112,0.2,12.0,automatic,tx,tx
 2025-01-09T11:42:43.867Z,37.3455,-117.149,6.5,1.4,ml,24.0,139.23,0.1,0.3229,nn,nn00891636,2025-01-09T11:45:10.106Z,"41 km S of Goldfield, Nevada",earthquake,,0.9,0.27,16.0,automatic,nn,nn
 2025-01-09T11:35:57.560Z,38.841331481934,-122.82283020019,2.0099999904633,0.77,md,9.0,103.0,0.01026,0.01,nc,nc75114861,2025-01-09T11:37:36.191Z,"9 km WNW of Cobb, CA",earthquake,0.4,1.16999996,0.18,12.0,automatic,nc,nc
+2025-01-09T11:48:48.990Z,33.6508333,-116.707,14.2,0.66,ml,22.0,64.0,0.03304,0.12,ci,ci40836431,2025-01-09T11:53:28.191Z,"10 km S of Idyllwild, CA",earthquake,0.22,0.37,0.257,11.0,automatic,ci,ci
+2025-01-09T10:52:34.448Z,-53.6228,139.6238,10.0,4.9,mb,25.0,141.0,11.385,0.92,us,us6000piv5,2025-01-09T12:00:13.040Z,west of Macquarie Island,earthquake,12.71,1.954,0.119,22.0,reviewed,us,us
