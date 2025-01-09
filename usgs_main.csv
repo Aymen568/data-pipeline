@@ -19892,3 +19892,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T04:04:43.159Z,60.5756,-147.1971,4.0,2.1,ml,,,,0.8,ak,ak025ey8t23,2025-01-09T04:06:51.952Z,"42 km SW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-09T03:57:01.642Z,31.649,-104.36,3.7773,2.0,ml,18.0,71.0,0.1,0.2,tx,tx2025aoyc,2025-01-09T04:09:10.700Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.3028999567032,0.2,12.0,automatic,tx,tx
 2025-01-09T03:52:17.388Z,31.6677,-104.3833,9.744,4.3,mww,34.0,117.0,0.1,0.52,us,us6000pisu,2025-01-09T04:16:20.054Z,"56 km S of Whites City, New Mexico",earthquake,1.61,4.699,0.11,8.0,reviewed,us,us
+2025-01-09T04:33:38.900Z,61.1533,-150.7548,16.8,1.6,ml,,,,0.51,ak,ak025eyf0hp,2025-01-09T04:35:57.161Z,"17 km E of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-01-09T04:26:25.490Z,33.8481667,-116.924,13.5,1.29,ml,56.0,23.0,0.1539,0.19,ci,ci40836351,2025-01-09T04:31:06.076Z,"8 km NNE of San Jacinto, CA",earthquake,0.17,0.57,0.179,28.0,automatic,ci,ci
+2025-01-09T04:25:13.102Z,61.1696,-142.3418,4.8,2.2,ml,,,,0.73,ak,ak025eyd8ry,2025-01-09T04:26:57.488Z,"42 km SE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-01-09T04:24:50.720Z,60.5872,-141.2953,1.6,2.4,ml,,,,0.74,ak,ak025eyd3yo,2025-01-09T04:27:14.092Z,"128 km SE of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-01-09T04:22:20.350Z,31.654,-104.364,4.4527,2.3,ml,18.0,70.0,0.1,0.4,tx,tx2025aoyu,2025-01-09T04:30:35.331Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.4094251394272,0.2,14.0,automatic,tx,tx
+2025-01-09T03:52:17.833Z,31.661,-104.355,6.3049,4.2,ml,18.0,69.0,0.1,0.1,tx,tx2025aoxt,2025-01-09T04:32:21.104Z,"57 km S of Whites City, New Mexico",earthquake,0.85192330293067,0.96872016567432,0.1,10.0,reviewed,tx,tx
+2025-01-09T03:33:41.956Z,7.1396,-72.8524,182.37,4.3,mb,58.0,58.0,1.26,0.81,us,us6000pisv,2025-01-09T04:30:27.040Z,"12 km SW of Silos, Colombia",earthquake,8.05,8.85,0.082,42.0,reviewed,us,us
