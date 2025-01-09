@@ -19949,3 +19949,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T11:10:49.930Z,33.7651667,-115.9563333,0.04,1.4,ml,47.0,43.0,0.1123,0.17,ci,ci40836423,2025-01-09T11:14:25.666Z,"22 km NE of Thermal, CA",earthquake,0.15,0.32,0.1,26.0,automatic,ci,ci
 2025-01-09T11:27:49.119Z,31.648,-104.358,3.7119,1.9,ml,18.0,71.0,0.1,0.4,tx,tx2025apms,2025-01-09T11:35:20.446Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.2569324970245,0.2,14.0,automatic,tx,tx
 2025-01-09T11:26:38.901Z,31.562,-104.014,6.4863,2.6,ml,16.0,62.0,0.0,0.2,tx,tx2025apmr,2025-01-09T11:34:54.444Z,"34 km NW of Toyah, Texas",earthquake,0.0,2.5943186283112,0.2,12.0,automatic,tx,tx
+2025-01-09T11:42:43.867Z,37.3455,-117.149,6.5,1.4,ml,24.0,139.23,0.1,0.3229,nn,nn00891636,2025-01-09T11:45:10.106Z,"41 km S of Goldfield, Nevada",earthquake,,0.9,0.27,16.0,automatic,nn,nn
+2025-01-09T11:35:57.560Z,38.841331481934,-122.82283020019,2.0099999904633,0.77,md,9.0,103.0,0.01026,0.01,nc,nc75114861,2025-01-09T11:37:36.191Z,"9 km WNW of Cobb, CA",earthquake,0.4,1.16999996,0.18,12.0,automatic,nc,nc
