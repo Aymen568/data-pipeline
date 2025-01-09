@@ -20054,3 +20054,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T21:05:26.610Z,38.840000152588,-122.82283020019,1.960000038147,0.72,md,11.0,102.0,0.009984,0.01,nc,nc75115041,2025-01-09T21:07:02.022Z,"9 km WNW of Cobb, CA",earthquake,0.35,1.25,0.44,13.0,automatic,nc,nc
 2025-01-09T21:00:14.048Z,31.59,-104.488,3.941,1.9,ml,6.0,144.0,0.1,0.2,tx,tx2025aqfp,2025-01-09T21:05:07.205Z,"65 km S of Whites City, New Mexico",earthquake,0.0,2.9653377532959,0.1,6.0,automatic,tx,tx
 2025-01-09T20:52:30.598Z,-19.0178,-69.4499,103.652,4.7,mwr,38.0,99.0,0.681,0.96,us,us6000pj17,2025-01-09T21:16:43.776Z,"32 km N of Camiña, Chile",earthquake,3.58,4.223,0.068,21.0,reviewed,us,us
+2025-01-09T21:33:55.800Z,34.5061684,-119.2823334,2.94,1.41,ml,10.0,144.0,0.008269,0.16,ci,ci40836727,2025-01-09T21:36:06.521Z,"7 km NNW of Ojai, CA",earthquake,0.66,0.73,0.09,5.0,automatic,ci,ci
+2025-01-09T21:30:58.521Z,65.6267,-145.0948,5.3,1.9,ml,,,,0.37,ak,ak025f8is58,2025-01-09T21:32:40.171Z,"14 km WNW of Central, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-01-09T21:30:56.631Z,61.7258,-150.0491,45.6,1.7,ml,,,,0.7,ak,ak025f8irzz,2025-01-09T21:32:24.433Z,"2 km SSW of Willow, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-01-09T09:25:29.190Z,44.574166666667,-112.49316666667,9.96,0.82,ml,10.0,78.0,0.0732,0.04,mb,mb90070668,2025-01-09T21:33:43.270Z,"10 km SE of Lima, Montana",earthquake,0.23,0.54,0.18559141318032,8.0,reviewed,mb,mb
