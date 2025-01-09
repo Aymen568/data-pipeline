@@ -11962,4 +11962,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.8 and occurred in/near 61 km ESE of Denali National Park, Alaska on 01/09/2025 at 11:06 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 20081 recorded earthquakes.
 The most recent earthquake had a magnitude of 0.71 and occurred in/near 8 km WNW of Cobb, CA on 01/09/2025 at 11:24 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 20084 recorded earthquakes.
+The most recent earthquake had a magnitude of 0.69 and occurred in/near 8 km WNW of Cobb, CA on 01/09/2025 at 11:35 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
