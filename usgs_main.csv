@@ -19967,3 +19967,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T13:43:15.722Z,31.72,-104.299,4.7635,2.0,ml,18.0,63.0,0.1,0.4,tx,tx2025apre,2025-01-09T13:51:18.249Z,"51 km S of Whites City, New Mexico",earthquake,0.0,1.2781667709351,0.2,14.0,automatic,tx,tx
 2025-01-09T14:01:54.796Z,39.0824,-119.0301,5.7,1.1,ml,12.0,100.52,0.087,0.0847,nn,nn00891638,2025-01-09T14:03:57.930Z,"15 km NE of Yerington, Nevada",earthquake,,1.0,0.25,5.0,automatic,nn,nn
 2025-01-09T04:31:41.191Z,32.185,-100.996,4.6143,1.9,ml,26.0,75.0,0.3,0.1,tx,tx2025aozg,2025-01-09T14:00:17.320Z,"18 km S of Westbrook, Texas",earthquake,0.77426181879352,2.3004502569244,0.2,30.0,reviewed,tx,tx
+2025-01-09T14:20:52.384Z,39.0939,-119.0446,9.3,1.1,ml,8.0,95.83,0.075,0.1942,nn,nn00891641,2025-01-09T14:23:36.962Z,"15 km NE of Yerington, Nevada",earthquake,,0.9,0.3,4.0,automatic,nn,nn
+2025-01-09T14:09:00.190Z,44.463666666667,-110.75783333333,1.96,0.62,md,11.0,71.0,0.0572,0.15,uu,uu80099411,2025-01-09T14:25:48.660Z,"35 km SE of West Yellowstone, Montana",earthquake,0.26,0.8,0.27970815024559,7.0,reviewed,uu,uu
+2025-01-08T23:37:19.080Z,38.276166666667,-90.328333333333,9.22,2.32,md,13.0,70.0,0.755,0.34,nm,nm60596336,2025-01-09T14:28:54.410Z,"4 km E of Herculaneum, Missouri",earthquake,0.62,1.37,0.035535625594855,7.0,reviewed,nm,nm
