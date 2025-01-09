@@ -20072,3 +20072,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T20:01:31.750Z,46.0095,-112.45766666667,-2.0,1.47,ml,7.0,134.0,0.06901,0.12,mb,mb90070683,2025-01-09T22:08:22.760Z,"6 km E of Butte, Montana",quarry blast,0.47,31.61,0.30110957092536,15.0,reviewed,mb,mb
 2025-01-09T21:22:19.530Z,39.001666666667,-111.409,-1.89,1.24,ml,6.0,132.0,0.03926,0.05,uu,uu80099441,2025-01-09T22:39:25.100Z,"16 km WNW of Emery, Utah",earthquake,0.57,0.74,0.32058336824632,3.0,reviewed,uu,uu
 2025-01-09T20:50:55.190Z,44.831166666667,-111.55283333333,10.28,0.65,ml,10.0,119.0,0.0874,0.07,mb,mb90070688,2025-01-09T22:32:19.320Z,"29 km WNW of Hebgen Lake Estates, Montana",earthquake,0.44,0.66,0.35893312822471,5.0,reviewed,mb,mb
+2025-01-09T23:06:36.539Z,63.2417,-150.6945,125.8,1.8,ml,,,,0.21,ak,ak025f9kgh1,2025-01-09T23:08:27.642Z,"61 km ESE of Denali National Park, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2025-01-09T23:05:01.430Z,33.4816667,-116.4556667,12.85,2.04,ml,77.0,29.0,0.1231,0.21,ci,ci40836791,2025-01-09T23:09:11.104Z,"22 km ESE of Anza, CA",earthquake,0.15,0.4,0.205,25.0,automatic,ci,ci
