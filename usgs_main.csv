@@ -19904,3 +19904,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T05:00:12.690Z,38.812000274658,-122.82566833496,2.329999923706,0.74,md,12.0,79.0,0.004159,0.03,nc,nc75114756,2025-01-09T05:01:48.436Z,"7 km NW of The Geysers, CA",earthquake,0.32,0.579999983,0.44,15.0,automatic,nc,nc
 2025-01-09T04:41:49.263Z,32.5285,-104.6325,10.028,2.7,ml,42.0,53.0,0.646,0.54,us,us6000pit4,2025-01-09T05:06:41.040Z,"32 km SSE of Hope, New Mexico",earthquake,3.14,8.489,0.091,16.0,reviewed,us,us
 2025-01-09T05:23:59.468Z,59.7113,-153.1899,95.7,2.0,ml,,,,0.39,ak,ak025eyyciy,2025-01-09T05:25:59.471Z,"52 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-01-09T05:44:54.171Z,39.0992,-118.9648,9.6,1.0,ml,8.0,98.37,0.09,0.3145,nn,nn00891630,2025-01-09T05:47:14.947Z,"21 km NW of Schurz, Nevada",earthquake,,1.0,0.32,3.0,automatic,nn,nn
