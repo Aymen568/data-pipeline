@@ -19965,3 +19965,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-08T23:31:38.240Z,46.874166666667,-121.958,9.36,0.74,ml,24.0,99.0,0.008007,0.13,uw,uw62061852,2025-01-09T13:40:27.440Z,"14 km NNE of Ashford, Washington",earthquake,0.32,0.41,0.18295787563409,12.0,reviewed,uw,uw
 2025-01-08T19:06:16.820Z,36.27016667,-97.4965,7.97,1.2,ml,48.0,48.0,0.06928640364,0.24,ok,ok2025aogi,2025-01-09T13:46:23.713Z,"3 km W of Lucien, Oklahoma",earthquake,,0.6,0.25,19.0,reviewed,ok,ok
 2025-01-09T13:43:15.722Z,31.72,-104.299,4.7635,2.0,ml,18.0,63.0,0.1,0.4,tx,tx2025apre,2025-01-09T13:51:18.249Z,"51 km S of Whites City, New Mexico",earthquake,0.0,1.2781667709351,0.2,14.0,automatic,tx,tx
+2025-01-09T14:01:54.796Z,39.0824,-119.0301,5.7,1.1,ml,12.0,100.52,0.087,0.0847,nn,nn00891638,2025-01-09T14:03:57.930Z,"15 km NE of Yerington, Nevada",earthquake,,1.0,0.25,5.0,automatic,nn,nn
+2025-01-09T04:31:41.191Z,32.185,-100.996,4.6143,1.9,ml,26.0,75.0,0.3,0.1,tx,tx2025aozg,2025-01-09T14:00:17.320Z,"18 km S of Westbrook, Texas",earthquake,0.77426181879352,2.3004502569244,0.2,30.0,reviewed,tx,tx
