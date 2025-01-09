@@ -20018,3 +20018,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T16:28:46.310Z,44.575,-112.49266666667,9.43,1.1,ml,11.0,131.0,0.07264,0.06,mb,mb90070643,2025-01-09T17:26:13.830Z,"10 km SE of Lima, Montana",earthquake,0.32,0.5,0.2429424701565,12.0,reviewed,mb,mb
 2025-01-09T16:18:56.040Z,44.5665,-112.4885,7.74,0.99,ml,8.0,145.0,0.07247,0.11,mb,mb90070638,2025-01-09T17:18:56.760Z,"11 km SE of Lima, Montana",earthquake,0.56,1.0,0.15495460337007,6.0,reviewed,mb,mb
 2025-01-09T15:54:49.190Z,44.568333333333,-112.488,8.87,0.92,ml,9.0,144.0,0.07147,0.07,mb,mb90070633,2025-01-09T17:13:45.330Z,"11 km SE of Lima, Montana",earthquake,0.34,0.57,0.074213596839208,6.0,reviewed,mb,mb
+2025-01-09T17:38:14.812Z,60.0829,-152.0184,49.2,1.6,ml,,,,0.1,ak,ak025f66o2x,2025-01-09T17:39:42.927Z,"19 km W of Ninilchik, Alaska",earthquake,,3.1,,,automatic,ak,ak
+2025-01-09T17:32:44.801Z,37.3817,-117.1328,0.5,0.9,ml,9.0,193.07,0.13,0.2949,nn,nn00891660,2025-01-09T17:34:57.867Z,"37 km SSE of Goldfield, Nevada",earthquake,,21.5,0.4,6.0,automatic,nn,nn
+2025-01-09T17:25:36.756Z,36.7714,-115.9658,16.0,0.2,ml,8.0,179.81,0.046,0.3089,nn,nn00891659,2025-01-09T17:28:07.811Z,"34 km NW of Indian Springs, Nevada",earthquake,,4.2,0.2,2.0,automatic,nn,nn
+2025-01-09T16:52:25.810Z,45.724333333333,-112.1325,2.1,1.45,ml,13.0,59.0,0.2113,0.11,mb,mb90070648,2025-01-09T17:35:01.380Z,"16 km S of Whitehall, Montana",earthquake,0.28,0.96,0.11124290870721,18.0,reviewed,mb,mb
