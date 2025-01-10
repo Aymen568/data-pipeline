@@ -20304,3 +20304,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-10T17:09:02.357Z,-2.0249,133.577,47.245,4.0,mb,18.0,80.0,1.597,0.73,us,us6000pj8s,2025-01-10T19:21:14.040Z,"11 km NNE of Bintuni, Indonesia",earthquake,7.12,8.624,0.125,19.0,reviewed,us,us
 2025-01-10T17:07:35.833Z,21.9355,121.0861,43.549,4.4,mb,81.0,136.0,0.878,0.67,us,us6000pj8r,2025-01-10T19:09:36.040Z,"36 km ESE of Hengchun, Taiwan",earthquake,9.84,7.254,0.069,65.0,reviewed,us,us
 2025-01-10T05:51:42.910Z,48.678833333333,-123.22433333333,11.23,1.01,ml,14.0,116.0,0.09324,0.09,uw,uw62061987,2025-01-10T19:21:20.520Z,"14 km E of North Saanich, Canada",earthquake,0.31,0.59,0.17409783200942,5.0,reviewed,uw,uw
+2025-01-10T09:29:35.530Z,47.769833333333,-122.004,24.71,1.31,ml,28.0,47.0,0.03949,0.16,uw,uw62062007,2025-01-10T19:28:29.520Z,"3 km NNW of Duvall, Washington",earthquake,0.31,0.48,0.22761848970879,12.0,reviewed,uw,uw
