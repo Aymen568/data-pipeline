@@ -20359,3 +20359,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-10T22:48:26.776Z,62.5354,-149.9938,5.5,1.8,ml,,,,1.04,ak,ak025gwrcol,2025-01-10T22:50:42.172Z,"11 km NNE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-10T09:24:54.260Z,60.737166666667,-151.95416666667,15.91,0.26,ml,6.0,240.0,0.2779,0.09,av,av93450801,2025-01-10T23:00:10.570Z,"36 km W of Nikiski, Alaska",earthquake,0.81,1.95,0.15246710311151,7.0,reviewed,av,av
 2025-01-10T07:49:06.610Z,61.268,-152.24333333333,4.26,-0.23,ml,10.0,105.0,0.04276,0.12,av,av93450681,2025-01-10T22:56:44.410Z,"63 km WNW of Tyonek, Alaska",earthquake,0.3,0.69,0.16255817163659,10.0,reviewed,av,av
+2025-01-10T23:22:00.544Z,61.4633,-149.3011,28.3,1.9,ml,,,,0.46,ak,ak025gx75na,2025-01-10T23:23:43.846Z,"12 km SSW of Gateway, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-01-10T23:21:03.421Z,59.7401,-151.9217,62.0,1.8,ml,,,,0.86,ak,ak025gx6usa,2025-01-10T23:23:21.766Z,"6 km SW of Anchor Point, Alaska",earthquake,,6.6,,,automatic,ak,ak
+2025-01-10T23:16:22.500Z,34.0471667,-117.1381667,6.37,0.85,ml,31.0,55.0,0.02436,0.13,ci,ci40837631,2025-01-10T23:21:30.002Z,"3 km S of Mentone, CA",earthquake,0.15,0.28,0.12,20.0,automatic,ci,ci
+2025-01-10T12:15:55.440Z,60.056166666667,-153.08416666667,0.6,-0.8,ml,5.0,159.0,0.01039,0.07,av,av93450961,2025-01-10T23:10:58.560Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.35,0.34,0.23433354614483,5.0,reviewed,av,av
