@@ -20226,3 +20226,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-10T14:05:46.674Z,61.1701,-149.304,34.5,1.5,ml,,,,0.23,ak,ak025grqpl7,2025-01-10T14:07:51.560Z,"20 km ESE of Elmendorf Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-10T14:02:53.183Z,57.9512,-157.137,8.9,2.0,ml,,,,0.92,ak,ak025grq2xy,2025-01-10T14:04:52.383Z,"32 km SSE of Egegik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-10T14:02:43.670Z,38.799167633057,-122.80766296387,1.7200000286102,1.07,md,16.0,65.0,0.01141,0.03,nc,nc75115376,2025-01-10T14:04:20.290Z,"5 km NW of The Geysers, CA",earthquake,0.24,0.529999971,0.17,16.0,automatic,nc,nc
+2025-01-10T14:23:37.080Z,38.799667358398,-122.81016540527,2.1300001144409,0.73,md,7.0,139.0,0.01261,0.02,nc,nc75115406,2025-01-10T14:25:14.961Z,"5 km NW of The Geysers, CA",earthquake,0.48,0.920000017,0.43,8.0,automatic,nc,nc
