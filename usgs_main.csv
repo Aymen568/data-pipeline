@@ -20128,3 +20128,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-10T04:09:51.716Z,60.4375,-143.054,14.8,1.8,ml,,,,0.32,ak,ak025glt8sj,2025-01-10T04:12:49.493Z,"111 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-10T04:08:52.038Z,36.0139,35.9272,10.0,4.1,mb,30.0,97.0,1.005,1.05,us,us6000pj44,2025-01-10T04:22:39.040Z,"17 km SW of Uzunbağ, Turkey",earthquake,4.21,1.815,0.197,7.0,reviewed,us,us
 2025-01-10T04:04:36.820Z,37.39083480835,-118.59683227539,13.039999961853,2.28,md,28.0,184.0,0.1989,0.09,nc,nc75115191,2025-01-10T04:24:13.823Z,"3 km S of Round Valley, CA",earthquake,0.51,1.98000002,0.18,29.0,automatic,nc,nc
+2025-01-10T04:40:42.650Z,38.78466796875,-122.75616455078,2.1900000572205,0.93,md,13.0,104.0,0.01526,0.02,nc,nc75115216,2025-01-10T04:42:18.133Z,"1 km NNE of The Geysers, CA",earthquake,0.31,0.589999974,0.2,13.0,automatic,nc,nc
+2025-01-10T04:39:17.402Z,62.0604,-148.9732,38.7,1.7,ml,,,,0.67,ak,ak025glzlmk,2025-01-10T04:41:25.102Z,"33 km NNW of Sutton-Alpine, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-01-10T04:37:56.044Z,59.4922,-152.2472,59.3,1.9,ml,,,,0.8,ak,ak025glz96c,2025-01-10T04:39:49.522Z,"23 km NW of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-01-10T04:29:13.965Z,38.7516,-119.2088,12.9,2.2,ml,18.0,59.79,0.235,0.2489,nn,nn00891692,2025-01-10T04:31:23.555Z,"11 km ESE of Smith, Nevada",earthquake,,1.0,0.27,9.0,automatic,nn,nn
+2025-01-10T04:27:41.350Z,35.512,-118.391,7.68,1.3,ml,25.0,39.0,0.165,0.11,ci,ci40836991,2025-01-10T04:32:54.844Z,"12 km SE of Bodfish, CA",earthquake,0.14,1.02,0.235,28.0,automatic,ci,ci
