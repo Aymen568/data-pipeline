@@ -20198,3 +20198,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-10T11:52:47.017Z,62.0748,-149.6766,50.7,1.6,ml,,,,0.61,ak,ak025gq8hgd,2025-01-10T11:55:09.106Z,"13 km SE of Susitna North, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2025-01-10T11:51:28.549Z,59.7031,-152.8858,89.9,2.3,ml,,,,0.55,ak,ak025gq88ba,2025-01-10T11:53:46.538Z,"59 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-01-10T11:42:12.709Z,31.737,-104.179,4.6222,2.6,ml,21.0,85.0,0.0,0.2,tx,tx2025arir,2025-01-10T11:50:04.597Z,"52 km SSE of Whites City, New Mexico",earthquake,0.0,1.2212092876434,0.3,16.0,automatic,tx,tx
+2025-01-10T12:25:27.230Z,37.638168334961,-121.65383148193,8.1999998092651,1.4,md,10.0,111.0,0.05542,0.08,nc,nc75115316,2025-01-10T12:42:14.269Z,"11 km SE of Livermore, CA",earthquake,0.39,1.13,0.12,9.0,automatic,nc,nc
+2025-01-10T12:21:44.340Z,38.831001281738,-122.81783294678,1.8799999952316,0.71,md,13.0,60.0,0.01557,0.01,nc,nc75115311,2025-01-10T12:23:19.447Z,"8 km NNW of The Geysers, CA",earthquake,0.27,0.99000001,0.22,15.0,automatic,nc,nc
+2025-01-10T12:19:20.902Z,61.1947,-150.1916,37.8,1.8,ml,,,,0.83,ak,ak025gqmsey,2025-01-10T12:22:03.754Z,"15 km W of Anchorage, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-01-10T12:02:00.030Z,17.928666666667,-65.693333333333,8.57,2.24,md,8.0,218.0,0.2587,0.23,pr,pr71470543,2025-01-10T12:19:07.160Z,"20 km SE of El Negro, Puerto Rico",earthquake,0.8,1.05,0.024614293860736,4.0,reviewed,pr,pr
+2025-01-10T11:01:27.410Z,36.538665771484,-89.619834899902,8.079999923706,1.67999995,md,14.0,62.0,0.04053,0.109999999,nm,nm60596351,2025-01-10T12:31:29.670Z,"2 km NNW of Marston, Missouri",earthquake,0.39,1.34000003,0.370000005,13.0,reviewed,nm,nm
