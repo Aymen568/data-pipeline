@@ -20107,3 +20107,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-10T01:11:23.840Z,33.4301667,-116.6358333,5.93,0.92,ml,40.0,37.0,0.0299,0.17,ci,ci40836871,2025-01-10T01:16:31.151Z,"14 km SSE of Anza, CA",earthquake,0.17,0.39,0.175,28.0,automatic,ci,ci
 2025-01-10T01:04:29.338Z,38.5062,-118.4786,8.0,1.4,ml,10.0,133.55,0.127,0.1598,nn,nn00891682,2025-01-10T01:33:01.510Z,"12 km E of Hawthorne, Nevada",earthquake,,2.4,0.42,6.0,reviewed,nn,nn
 2025-01-10T01:01:02.672Z,43.1278,-126.3054,10.0,2.6,ml,29.0,236.0,1.527,1.16,us,us6000pj2d,2025-01-10T01:13:17.040Z,"152 km W of Langlois, Oregon",earthquake,8.48,2.014,0.048,56.0,reviewed,us,us
+2025-01-10T02:59:34.015Z,58.006,-156.9277,11.8,2.2,ml,,,,0.24,ak,ak025gkx20p,2025-01-10T03:00:52.559Z,"35 km SE of Egegik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-01-10T02:52:21.330Z,38.789001464844,-122.77766418457,1.2200000286102,1.2,md,13.0,82.0,0.009034,0.02,nc,nc75115171,2025-01-10T02:53:58.624Z,"2 km NW of The Geysers, CA",earthquake,0.29,0.430000007,0.13,13.0,automatic,nc,nc
+2025-01-10T02:48:33.765Z,57.9441,-157.1138,0.0,2.3,ml,,,,0.53,ak,ak025gkup4g,2025-01-10T02:50:32.771Z,"33 km SSE of Egegik, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-01-10T02:31:32.340Z,40.119667053223,-123.16716766357,36.590000152588,2.35,md,13.0,69.0,0.07161,0.17,nc,nc75115161,2025-01-10T02:52:16.231Z,"37 km NNE of Covelo, CA",earthquake,0.98,2.46000004,0.11,7.0,automatic,nc,nc
+2025-01-10T02:19:09.925Z,61.0791,-152.1836,34.7,1.0,ml,,,,0.51,ak,ak025gkofio,2025-01-10T02:21:24.027Z,"56 km W of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-01-10T01:59:19.580Z,33.2763,16.4419,8.738,4.2,mb,55.0,103.0,3.005,1.04,us,us6000pj3b,2025-01-10T02:32:50.040Z,"161 km NE of Mişrātah, Libya",earthquake,9.78,5.848,0.103,26.0,reviewed,us,us
