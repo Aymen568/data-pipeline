@@ -20120,3 +20120,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-10T03:02:11.700Z,39.4144,-117.7905,10.0,1.7,ml,8.0,152.59,0.438,0.2145,nn,nn00891687,2025-01-10T03:04:40.578Z,"61 km N of Gabbs, Nevada",earthquake,,1.0,0.16,3.0,automatic,nn,nn
 2025-01-10T03:01:54.565Z,57.7534,-157.2191,11.7,2.2,ml,,,,0.74,ak,ak025gl63og,2025-01-10T03:04:15.442Z,"28 km NNE of Ugashik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-10T02:16:38.380Z,-19.3369,-69.3217,110.402,4.5,mb,45.0,95.0,0.351,1.17,us,us6000pj3c,2025-01-10T03:03:38.040Z,"11 km ESE of Camiña, Chile",earthquake,6.71,6.0,0.093,34.0,reviewed,us,us
+2025-01-10T02:52:11.696Z,34.44,45.9699,10.0,4.2,mb,40.0,132.0,0.581,1.0,us,us6000pj3g,2025-01-10T03:37:06.040Z,"10 km ESE of Sarpol-e Z̄ahāb, Iran",earthquake,4.87,1.901,0.113,22.0,reviewed,us,us
