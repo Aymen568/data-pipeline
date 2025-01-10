@@ -20347,3 +20347,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-10T22:07:13.436Z,39.0922,-119.043,8.6,0.9,ml,8.0,96.49,0.077,0.1936,nn,nn00891744,2025-01-10T22:09:46.398Z,"15 km NE of Yerington, Nevada",earthquake,,1.0,0.39,3.0,automatic,nn,nn
 2025-01-10T14:40:12.299Z,37.3871,-118.3949,5.2,1.8,ml,5.0,184.24,0.337,0.0309,nn,nn00891714,2025-01-10T22:02:04.102Z,"1 km E of Dixon Lane-Meadow Creek, California",earthquake,,4.7,0.0,1.0,reviewed,nn,nn
 2025-01-10T05:01:02.790Z,58.268833333333,-154.98566666667,2.76,0.77,ml,12.0,137.0,0.04936,0.11,av,av93450526,2025-01-10T22:24:19.860Z,"84 km NNW of Karluk, Alaska",earthquake,0.26,0.38,0.37195734421507,13.0,reviewed,av,av
+2025-01-10T19:57:33.890Z,20.258666666667,-155.436,11.55,2.7,ml,46.0,244.0,0.3226,0.37,hv,hv74588792,2025-01-10T22:28:16.280Z,"20 km N of Honoka‘a, Hawaii",earthquake,0.86,0.83,0.21248938832829,29.0,reviewed,hv,hv
+2025-01-10T05:23:59.480Z,58.289666666667,-154.84,18.89,0.8,ml,10.0,169.0,0.09581,0.3,av,av93450546,2025-01-10T22:38:33.980Z,"83 km NNW of Karluk, Alaska",earthquake,1.21,1.09,0.3980984028974,10.0,reviewed,av,av
