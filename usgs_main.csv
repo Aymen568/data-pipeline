@@ -20340,3 +20340,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-10T21:05:50.098Z,31.544,-104.199,4.1463,2.8,ml,19.0,77.0,0.1,0.3,tx,tx2025asbi,2025-01-10T21:22:22.600Z,"46 km WNW of Toyah, Texas",earthquake,0.0,1.5854657888413,0.2,15.0,automatic,tx,tx
 2025-01-10T20:00:28.220Z,44.661166666667,-112.17666666667,9.18,1.12,ml,14.0,100.0,0.1696,0.22,mb,mb90070758,2025-01-10T21:08:52.880Z,"33 km E of Lima, Montana",earthquake,0.57,2.64,0.18686195417897,14.0,reviewed,mb,mb
 2025-01-10T17:48:50.774Z,41.2879,79.1268,30.635,4.5,mb,92.0,59.0,2.055,0.52,us,us6000pj8x,2025-01-10T21:36:50.040Z,"92 km WNW of Aykol, China",earthquake,6.42,4.857,0.066,73.0,reviewed,us,us
+2025-01-10T21:43:18.070Z,36.0836667,-117.8305,2.12,1.73,ml,25.0,53.0,0.03917,0.17,ci,ci40837551,2025-01-10T21:46:51.192Z,"11 km ENE of Coso Junction, CA",earthquake,0.2,0.24,0.125,26.0,automatic,ci,ci
+2025-01-10T14:03:06.176Z,37.3546,-118.2493,5.9,1.1,ml,5.0,178.84,0.221,0.2614,nn,nn00891712,2025-01-10T21:43:39.106Z,"12 km E of Bishop, California",earthquake,,9.2,0.77,2.0,reviewed,nn,nn
