@@ -20086,3 +20086,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T23:44:35.740Z,35.4931667,-118.3993333,5.84,1.42,ml,27.0,39.0,0.1799,0.15,ci,ci40836823,2025-01-09T23:48:32.959Z,"14 km SE of Bodfish, CA",earthquake,0.17,0.93,0.194,28.0,automatic,ci,ci
 2025-01-09T09:25:57.954Z,28.836,-99.04,5.3467,1.9,ml,12.0,85.0,0.1,0.2,tx,tx2025apje,2025-01-09T23:40:12.569Z,"8 km SE of Pearsall, Texas",earthquake,1.4378013907938,2.4532547241068,0.1,6.0,reviewed,tx,tx
 2025-01-09T05:31:36.460Z,46.1985,-122.19116666667,7.79,-0.06,ml,13.0,98.0,0.004288,0.06,uw,uw62061877,2025-01-09T23:42:50.410Z,"37 km NNE of Amboy, Washington",earthquake,0.33,0.23,0.11880290351461,4.0,reviewed,uw,uw
+2025-01-10T00:38:57.141Z,58.003,-157.058,8.7,2.1,ml,,,,0.95,ak,ak025gjlqk2,2025-01-10T00:41:37.305Z,"30 km SE of Egegik, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-01-10T00:35:25.874Z,64.0307,-148.7908,0.0,1.9,ml,,,,0.92,ak,ak025gjl0zv,2025-01-10T00:37:40.375Z,"16 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-01-10T00:33:22.027Z,58.0016,-157.198,9.1,2.7,ml,,,,0.25,ak,ak025gjkl9m,2025-01-10T00:34:49.893Z,"26 km SSE of Egegik, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-01-10T00:17:25.241Z,57.9211,-157.067,8.0,4.0,ml,,,,0.51,ak,ak025gjh5x0,2025-01-10T00:35:05.955Z,"37 km SSE of Egegik, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2025-01-10T00:13:04.020Z,33.154,-116.4826667,9.47,0.97,ml,41.0,43.0,0.08511,0.2,ci,ci40836839,2025-01-10T00:17:34.634Z,"14 km NE of Julian, CA",earthquake,0.21,0.69,0.204,28.0,automatic,ci,ci
+2025-01-10T00:11:59.369Z,64.9997,-147.4349,1.2,1.4,ml,,,,0.59,ak,ak025gjfye8,2025-01-10T00:13:32.285Z,"9 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-01-09T23:57:13.213Z,39.157,-119.0485,10.7,1.4,ml,8.0,120.99,0.014,0.0568,nn,nn00891679,2025-01-09T23:59:20.224Z,"21 km NNE of Yerington, Nevada",earthquake,,0.8,0.37,3.0,automatic,nn,nn
+2025-01-09T23:55:13.611Z,59.9888,-151.4267,21.6,1.9,ml,,,,0.17,ak,ak025f9uwsh,2025-01-09T23:56:17.298Z,"15 km ESE of Ninilchik, Alaska",earthquake,,7.0,,,automatic,ak,ak
+2025-01-09T21:10:08.490Z,48.531666666667,-114.07816666667,6.76,0.8,ml,7.0,132.0,0.3035,0.06,mb,mb90070703,2025-01-09T23:52:27.120Z,"8 km WNW of West Glacier, Montana",earthquake,0.42,1.73,0.33115567055174,2.0,reviewed,mb,mb
+2025-01-09T08:12:29.120Z,45.33,-121.69483333333,6.0,0.75,ml,10.0,132.0,0.01235,0.07,uw,uw62061887,2025-01-10T00:47:26.530Z,"5 km ENE of Government Camp, Oregon",earthquake,0.3,0.34,0.13877547597373,6.0,reviewed,uw,uw
