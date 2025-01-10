@@ -20154,3 +20154,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-10T05:49:38.333Z,8.5144,126.6482,12.99,4.9,mb,68.0,109.0,1.784,1.34,us,us6000pj4g,2025-01-10T06:29:54.040Z,"37 km ENE of Hinatuan, Philippines",earthquake,9.8,4.173,0.065,75.0,reviewed,us,us
 2025-01-10T07:06:14.500Z,38.840999603271,-122.82733154297,5.5700001716614,0.55,md,8.0,103.0,0.006809,0.03,nc,nc75115236,2025-01-10T07:07:49.063Z,"9 km WNW of Cobb, CA",earthquake,0.83,3.22000003,0.29,8.0,automatic,nc,nc
 2025-01-10T07:32:13.734Z,31.961,-102.114,4.1379,1.0,ml,12.0,97.0,0.1,0.4,tx,tx2025aral,2025-01-10T07:43:24.986Z,"5 km SW of Midland, Texas",earthquake,0.0,1.7488635778427,0.3,9.0,automatic,tx,tx
+2025-01-10T07:46:58.690Z,38.361499786377,-122.39633178711,7.6700000762939,1.52,md,19.0,90.0,0.02772,0.11,nc,nc75115241,2025-01-10T07:48:34.731Z,"5 km SW of Yountville, CA",earthquake,0.37,0.810000002,0.16,15.0,automatic,nc,nc
+2025-01-10T07:46:19.095Z,59.8073,-152.9507,83.3,2.2,ml,,,,0.4,ak,ak025gntel1,2025-01-10T07:48:44.488Z,"62 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
