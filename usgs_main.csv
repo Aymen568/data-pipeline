@@ -20163,3 +20163,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-10T07:56:09.910Z,33.2908333,-116.7496667,12.66,1.18,ml,51.0,20.0,0.05523,0.16,ci,ci40837031,2025-01-10T08:07:10.990Z,"6 km NNE of Lake Henshaw, CA",earthquake,0.15,0.46,0.151,26.0,automatic,ci,ci
 2025-01-10T07:51:19.141Z,31.659,-104.396,4.3711,1.5,ml,11.0,71.0,0.0,0.5,tx,tx2025arbb,2025-01-10T08:06:59.252Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.6609295606613,0.1,9.0,automatic,tx,tx
 2025-01-10T08:39:36.358Z,39.1602,-119.056,5.4,1.5,ml,14.0,88.38,0.016,0.1173,nn,nn00891706,2025-01-10T08:41:43.250Z,"21 km NNE of Yerington, Nevada",earthquake,,0.5,0.06,8.0,automatic,nn,nn
+2025-01-10T08:52:20.780Z,33.3325005,-116.3590012,10.65,1.15,ml,23.0,97.0,0.05096,0.18,ci,ci40837039,2025-01-10T08:54:36.090Z,"9 km N of Borrego Springs, CA",earthquake,0.34,0.53,0.207,6.0,automatic,ci,ci
+2025-01-10T08:50:22.032Z,63.9717,-149.3241,15.1,1.8,ml,,,,0.64,ak,ak025gofpa3,2025-01-10T08:52:29.749Z,"11 km WSW of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-01-10T08:40:50.922Z,31.671,-104.398,6.2766,1.7,ml,14.0,70.0,0.0,0.5,tx,tx2025arcs,2025-01-10T08:47:57.513Z,"55 km S of Whites City, New Mexico",earthquake,0.0,3.803966999054,0.1,11.0,automatic,tx,tx
