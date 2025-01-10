@@ -20143,3 +20143,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T11:20:43.010Z,46.208833333333,-122.18616666667,3.85,-0.02,mh,6.0,159.0,0.008648,0.12,uw,uw62061897,2025-01-10T05:31:07.690Z,"38 km NNE of Amboy, Washington",earthquake,0.89,1.15,,0.0,reviewed,uw,uw
 2025-01-10T05:37:55.165Z,61.0738,-148.2118,32.4,1.8,ml,,,,1.41,ak,ak025gmkoty,2025-01-10T05:40:11.768Z,"42 km NE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-10T05:34:27.675Z,39.0882,-119.0271,6.9,1.3,ml,13.0,86.35,0.081,0.1418,nn,nn00891694,2025-01-10T05:36:21.966Z,"16 km NE of Yerington, Nevada",earthquake,,0.8,0.5,6.0,automatic,nn,nn
+2025-01-10T05:47:56.420Z,37.429668426514,-121.76716613769,9.0900001525879,1.31,md,10.0,173.0,0.05667,0.02,nc,nc75115226,2025-01-10T05:49:33.703Z,"9 km NE of Alum Rock, CA",earthquake,0.36,0.670000017,0.16,3.0,automatic,nc,nc
+2025-01-10T05:45:11.409Z,31.583,-104.504,3.5298,1.6,ml,6.0,167.0,0.1,0.2,tx,tx2025aqwx,2025-01-10T05:49:47.826Z,"66 km S of Whites City, New Mexico",earthquake,0.0,2.5838551521301,0.1,6.0,automatic,tx,tx
+2025-01-10T05:38:49.611Z,31.636,-104.292,3.8825,1.9,ml,17.0,89.0,0.0,0.4,tx,tx2025aqws,2025-01-10T05:49:45.909Z,"59 km NW of Toyah, Texas",earthquake,0.0,1.4334810972214,0.1,13.0,automatic,tx,tx
+2025-01-10T05:29:31.465Z,9.2495,40.0253,10.0,4.5,mb,51.0,115.0,3.583,0.93,us,us6000pj4c,2025-01-10T05:49:16.040Z,"33 km NNW of Āwash, Ethiopia",earthquake,11.75,1.935,0.087,39.0,reviewed,us,us

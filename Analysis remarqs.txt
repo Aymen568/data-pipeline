@@ -11990,4 +11990,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.63 and occurred in/near 3 km SW of Willowbrook, CA on 01/10/2025 at 05:28 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 20144 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.8 and occurred in/near 42 km NE of Whittier, Alaska on 01/10/2025 at 05:37 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 20148 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.31 and occurred in/near 9 km NE of Alum Rock, CA on 01/10/2025 at 05:47 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
