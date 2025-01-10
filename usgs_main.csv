@@ -20173,3 +20173,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-10T09:12:20.580Z,34.0213333,-117.2211667,13.66,0.82,ml,59.0,42.0,0.08401,0.17,ci,ci40837055,2025-01-10T09:17:38.239Z,"5 km SE of Loma Linda, CA",earthquake,0.16,0.3,0.159,10.0,automatic,ci,ci
 2025-01-10T09:09:30.810Z,34.2161667,-117.4665,9.55,1.26,ml,28.0,66.0,0.08301,0.2,ci,ci40837047,2025-01-10T09:14:34.579Z,"6 km SSE of Lytle Creek, CA",earthquake,0.27,0.58,0.428,27.0,automatic,ci,ci
 2025-01-10T08:43:17.150Z,17.994166666667,-66.887333333333,9.29,2.61,md,16.0,66.0,0.0205,0.15,pr,pr71470533,2025-01-10T08:58:50.400Z,"1 km N of Maria Antonia, Puerto Rico",earthquake,0.4,0.43,0.11710855585486,6.0,reviewed,pr,pr
+2025-01-10T09:25:18.280Z,35.7138329,-117.5703354,5.31,1.46,ml,21.0,81.0,0.09864,0.11,ci,ci40837087,2025-01-10T09:35:50.230Z,"14 km NE of Ridgecrest, CA",earthquake,0.34,2.64,0.15,6.0,automatic,ci,ci
