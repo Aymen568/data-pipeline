@@ -20460,3 +20460,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-11T06:49:30.209Z,17.5166,-94.9995,98.501,4.2,mb,47.0,140.0,3.003,0.67,us,us6000pje4,2025-01-11T09:12:10.040Z,"9 km NNE of Jesús Carranza, Mexico",earthquake,10.71,9.954,0.067,62.0,reviewed,us,us
 2025-01-11T09:18:59.193Z,38.4715,-118.4868,1.2,1.4,ml,10.0,199.79,0.159,0.2843,nn,nn00891759,2025-01-11T09:21:19.403Z,"13 km ESE of Hawthorne, Nevada",earthquake,,5.9,0.39,4.0,automatic,nn,nn
 2025-01-11T09:02:29.220Z,18.8835,-66.797,26.63,3.03,md,16.0,273.0,0.5098,0.35,pr,pr71470588,2025-01-11T09:26:43.960Z,"44 km N of Hatillo, Puerto Rico",earthquake,1.43,8.6,0.032465079127497,5.0,reviewed,pr,pr
+2025-01-11T07:25:11.922Z,-8.8301,110.957,67.818,4.5,mb,41.0,115.0,1.842,0.74,us,us6000pje9,2025-01-11T09:36:06.040Z,"103 km SSE of Wonosari, Indonesia",earthquake,9.57,7.78,0.091,36.0,reviewed,us,us
