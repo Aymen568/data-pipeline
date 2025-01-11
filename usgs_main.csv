@@ -20426,3 +20426,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-11T01:26:54.040Z,54.1135,-165.92033333333,22.95,1.78,ml,14.0,119.0,0.0179,0.31,av,av93451676,2025-01-11T05:08:49.890Z,"9 km WSW of Akutan, Alaska",earthquake,1.55,0.96,0.4050652013529,14.0,reviewed,av,av
 2025-01-11T05:20:33.090Z,38.836166381836,-122.83583068848,1.5900000333786,0.72,md,12.0,88.0,0.002434,0.01,nc,nc75115751,2025-01-11T05:22:12.580Z,"9 km NW of The Geysers, CA",earthquake,0.3,0.540000021,0.07,12.0,automatic,nc,nc
 2025-01-11T04:40:37.210Z,19.136666666667,-66.435833333333,9.48,3.11,md,11.0,300.0,0.8165,0.18,pr,pr71470558,2025-01-11T05:21:42.850Z,"74 km N of Brenas, Puerto Rico",earthquake,5.85,8.5,0.058664527522197,7.0,reviewed,pr,pr
+2025-01-11T05:34:48.537Z,62.5519,-151.3169,74.3,1.9,ml,,,,0.69,ak,ak025ia3djp,2025-01-11T05:37:33.061Z,"29 km WNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
