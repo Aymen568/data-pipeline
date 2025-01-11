@@ -20431,3 +20431,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-11T05:50:52.335Z,62.9608,-150.3079,82.5,1.8,ml,,,,0.94,ak,ak025ia6tap,2025-01-11T05:53:28.445Z,"56 km NNE of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2025-01-11T05:44:27.470Z,34.0821667,-117.3036667,15.21,1.24,ml,51.0,62.0,0.04318,0.14,ci,ci40837775,2025-01-11T05:55:25.260Z,"1 km NE of Colton, CA",earthquake,0.14,0.26,0.169,28.0,automatic,ci,ci
 2025-01-11T05:43:40.723Z,39.0695,-119.0311,0.0,1.2,ml,9.0,88.19,0.1,0.2565,nn,nn00891756,2025-01-11T05:45:58.168Z,"14 km NE of Yerington, Nevada",earthquake,,7.4,0.3,4.0,automatic,nn,nn
+2025-01-11T06:23:13.010Z,38.821166992188,-122.85150146484,2.6600000858307,1.33,md,26.0,113.0,0.007627,0.02,nc,nc75115756,2025-01-11T06:24:48.983Z,"10 km NW of The Geysers, CA",earthquake,0.24,0.419999987,0.09,29.0,automatic,nc,nc
