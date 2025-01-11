@@ -20462,3 +20462,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-11T09:02:29.220Z,18.8835,-66.797,26.63,3.03,md,16.0,273.0,0.5098,0.35,pr,pr71470588,2025-01-11T09:26:43.960Z,"44 km N of Hatillo, Puerto Rico",earthquake,1.43,8.6,0.032465079127497,5.0,reviewed,pr,pr
 2025-01-11T07:25:11.922Z,-8.8301,110.957,67.818,4.5,mb,41.0,115.0,1.842,0.74,us,us6000pje9,2025-01-11T09:36:06.040Z,"103 km SSE of Wonosari, Indonesia",earthquake,9.57,7.78,0.091,36.0,reviewed,us,us
 2025-01-11T09:03:23.120Z,18.886666666667,-66.8165,25.11,3.14,md,16.0,284.0,0.4438,0.25,pr,pr71470593,2025-01-11T09:42:10.750Z,"44 km N of Hatillo, Puerto Rico",earthquake,1.08,6.36,0.06667961304924,7.0,reviewed,pr,pr
+2025-01-11T09:53:45.870Z,38.821166992188,-122.85250091553,2.4400000572205,1.09,md,20.0,114.0,0.007227,0.02,nc,nc75115806,2025-01-11T09:55:23.153Z,"10 km NW of The Geysers, CA",earthquake,0.26,0.449999988,0.46,21.0,automatic,nc,nc
