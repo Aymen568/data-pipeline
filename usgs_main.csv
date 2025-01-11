@@ -20453,3 +20453,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-11T08:10:32.790Z,33.945,-116.3561667,6.63,1.19,ml,54.0,45.0,0.04393,0.15,ci,ci40837823,2025-01-11T08:21:38.940Z,"14 km E of Desert Hot Springs, CA",earthquake,0.15,0.35,0.155,27.0,automatic,ci,ci
 2025-01-11T07:51:49.295Z,13.6854,145.1311,97.906,5.0,mb,101.0,40.0,0.273,0.75,us,us6000pjed,2025-01-11T08:23:18.771Z,"31 km ENE of Yigo Village, Guam",earthquake,7.78,4.93,0.041,199.0,reviewed,us,us
 2025-01-11T07:50:28.050Z,18.8505,-66.823,16.55,3.21,md,19.0,271.0,0.409,0.21,pr,pr71470568,2025-01-11T08:04:42.730Z,"40 km N of Hatillo, Puerto Rico",earthquake,0.71,0.92,0.036962553722555,9.0,reviewed,pr,pr
+2025-01-11T09:10:29.120Z,63.2035,-151.3406,0.0,1.4,ml,,,,0.99,ak,ak025icbxa8,2025-01-11T09:12:14.690Z,"42 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-01-11T09:07:59.540Z,33.2486667,-116.0416667,5.98,1.09,ml,49.0,69.0,0.0563,0.21,ci,ci40837847,2025-01-11T09:12:00.636Z,"10 km SW of Salton City, CA",earthquake,0.2,0.79,0.134,30.0,automatic,ci,ci
+2025-01-11T08:58:40.900Z,32.5293333,-115.2268333,24.43,1.62,ml,26.0,42.0,0.1284,0.29,ci,ci40837839,2025-01-11T09:02:18.775Z,"12 km ESE of Puebla, B.C., MX",earthquake,0.43,1.37,0.23,19.0,automatic,ci,ci
+2025-01-11T08:53:39.570Z,38.835834503174,-122.7988357544,1.7699999809265,0.72,md,10.0,72.0,0.007113,0.02,nc,nc75115801,2025-01-11T08:55:17.690Z,"7 km WNW of Cobb, CA",earthquake,0.33,1.00999999,0.17,13.0,automatic,nc,nc
+2025-01-11T06:49:30.209Z,17.5166,-94.9995,98.501,4.2,mb,47.0,140.0,3.003,0.67,us,us6000pje4,2025-01-11T09:12:10.040Z,"9 km NNE of Jesús Carranza, Mexico",earthquake,10.71,9.954,0.067,62.0,reviewed,us,us
