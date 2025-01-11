@@ -20510,3 +20510,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-11T08:14:37.441Z,39.0881,-119.0235,5.4,0.8,ml,11.0,99.15,0.056,0.1656,nn,nn00891784,2025-01-11T16:20:15.394Z,"16 km NE of Yerington, Nevada",earthquake,,2.4,0.33,4.0,reviewed,nn,nn
 2025-01-11T08:12:12.690Z,39.0616,-119.0155,6.1,1.2,ml,12.0,108.17,0.083,0.1825,nn,nn00891783,2025-01-11T16:17:08.454Z,"15 km ENE of Yerington, Nevada",earthquake,,2.5,0.15,7.0,reviewed,nn,nn
 2025-01-11T06:51:20.936Z,39.0727,-119.0328,3.3,0.8,ml,8.0,136.31,0.069,0.1175,nn,nn00891782,2025-01-11T16:10:54.995Z,"14 km NE of Yerington, Nevada",earthquake,,3.4,0.28,2.0,reviewed,nn,nn
+2025-01-11T16:46:43.670Z,38.822334289551,-122.84317016602,1.8700000047684,0.61,md,8.0,141.0,0.006406,0.02,nc,nc75115916,2025-01-11T16:48:19.239Z,"9 km NW of The Geysers, CA",earthquake,0.4,0.970000029,0.34,10.0,automatic,nc,nc
+2025-01-11T16:41:37.482Z,61.5293,-149.8977,47.6,1.8,ml,,,,0.36,ak,ak025igomd0,2025-01-11T16:43:31.340Z,"3 km ENE of Big Lake, Alaska",earthquake,,0.9,,,automatic,ak,ak
