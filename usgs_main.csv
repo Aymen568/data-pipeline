@@ -20410,3 +20410,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-11T03:07:15.020Z,40.348999023438,-124.51933288574,18.85000038147,2.66,md,14.0,281.0,0.1481,0.1,nc,nc75115711,2025-01-11T03:17:17.346Z,"20 km WNW of Petrolia, CA",earthquake,2.4,0.660000026,0.12,16.0,automatic,nc,nc
 2025-01-11T03:06:39.280Z,33.2488333,-116.0503333,9.81,0.92,ml,44.0,74.0,0.06238,0.22,ci,ci40837719,2025-01-11T03:11:08.092Z,"10 km WSW of Salton City, CA",earthquake,0.22,0.56,0.121,23.0,automatic,ci,ci
 2025-01-11T02:52:45.676Z,-32.0027,138.7164,10.0,4.9,mb,29.0,46.0,2.388,0.9,us,us6000pjcz,2025-01-11T03:19:36.270Z,"74 km ENE of Quorn, Australia",earthquake,4.45,1.882,0.117,23.0,reviewed,us,us
+2025-01-11T03:37:16.589Z,39.1596,-119.0854,7.4,0.7,ml,8.0,149.84,0.037,0.1317,nn,nn00891754,2025-01-11T03:39:27.550Z,"20 km NNE of Yerington, Nevada",earthquake,,0.8,0.12,2.0,automatic,nn,nn
+2025-01-11T03:26:34.750Z,33.9696667,-116.8803333,18.16,0.83,ml,37.0,48.0,0.08888,0.19,ci,ci40837727,2025-01-11T03:31:18.431Z,"5 km N of Banning, CA",earthquake,0.22,0.45,0.136,27.0,automatic,ci,ci
