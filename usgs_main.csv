@@ -20467,3 +20467,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-11T10:13:12.630Z,38.758167266846,-122.7371673584,0.81000000238419,1.1,md,9.0,130.0,0.007917,0.05,nc,nc75115811,2025-01-11T10:14:47.633Z,"3 km SSE of The Geysers, CA",earthquake,0.46,0.589999974,0.27,9.0,automatic,nc,nc
 2025-01-11T10:08:26.930Z,31.852,-104.362,6.3872,2.0,ml,11.0,248.0,0.0,0.8,tx,tx2025atbc,2025-01-11T10:12:57.766Z,"35 km S of Whites City, New Mexico",earthquake,0.0,8.1100225448608,0.4,9.0,automatic,tx,tx
 2025-01-11T10:15:15.630Z,18.928,-66.825833333333,21.39,3.05,md,12.0,293.0,0.5319,0.17,pr,pr71470603,2025-01-11T10:39:31.210Z,"48 km N of Hatillo, Puerto Rico",earthquake,0.86,13.38,0.20694940543698,10.0,reviewed,pr,pr
+2025-01-11T10:47:56.230Z,35.4075,-117.8091667,8.51,0.89,ml,24.0,65.0,0.1262,0.13,ci,ci40837855,2025-01-11T10:51:20.155Z,"16 km WNW of Johannesburg, CA",earthquake,0.18,0.71,0.177,14.0,automatic,ci,ci
