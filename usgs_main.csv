@@ -20412,3 +20412,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-11T02:52:45.676Z,-32.0027,138.7164,10.0,4.9,mb,29.0,46.0,2.388,0.9,us,us6000pjcz,2025-01-11T03:19:36.270Z,"74 km ENE of Quorn, Australia",earthquake,4.45,1.882,0.117,23.0,reviewed,us,us
 2025-01-11T03:37:16.589Z,39.1596,-119.0854,7.4,0.7,ml,8.0,149.84,0.037,0.1317,nn,nn00891754,2025-01-11T03:39:27.550Z,"20 km NNE of Yerington, Nevada",earthquake,,0.8,0.12,2.0,automatic,nn,nn
 2025-01-11T03:26:34.750Z,33.9696667,-116.8803333,18.16,0.83,ml,37.0,48.0,0.08888,0.19,ci,ci40837727,2025-01-11T03:31:18.431Z,"5 km N of Banning, CA",earthquake,0.22,0.45,0.136,27.0,automatic,ci,ci
+2025-01-11T03:33:38.738Z,15.8211,-92.357,201.553,5.0,mb,94.0,126.0,0.504,0.96,us,us6000pjd4,2025-01-11T03:50:19.040Z,"8 km W of Pablo L. Sidar, Mexico",earthquake,8.66,5.531,0.044,162.0,reviewed,us,us
