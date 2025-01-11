@@ -20432,3 +20432,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-11T05:44:27.470Z,34.0821667,-117.3036667,15.21,1.24,ml,51.0,62.0,0.04318,0.14,ci,ci40837775,2025-01-11T05:55:25.260Z,"1 km NE of Colton, CA",earthquake,0.14,0.26,0.169,28.0,automatic,ci,ci
 2025-01-11T05:43:40.723Z,39.0695,-119.0311,0.0,1.2,ml,9.0,88.19,0.1,0.2565,nn,nn00891756,2025-01-11T05:45:58.168Z,"14 km NE of Yerington, Nevada",earthquake,,7.4,0.3,4.0,automatic,nn,nn
 2025-01-11T06:23:13.010Z,38.821166992188,-122.85150146484,2.6600000858307,1.33,md,26.0,113.0,0.007627,0.02,nc,nc75115756,2025-01-11T06:24:48.983Z,"10 km NW of The Geysers, CA",earthquake,0.24,0.419999987,0.09,29.0,automatic,nc,nc
+2025-01-11T06:33:19.540Z,38.823001861572,-122.84449768066,2.0,0.68,md,7.0,156.0,0.007396,0.01,nc,nc75115766,2025-01-11T06:34:57.967Z,"9 km NW of The Geysers, CA",earthquake,0.49,1.30999994,0.24,9.0,automatic,nc,nc
+2025-01-11T06:30:00.206Z,60.1343,-152.8539,96.2,1.7,ml,,,,0.14,ak,ak025ianuk4,2025-01-11T06:31:58.248Z,"65 km WNW of Happy Valley, Alaska",earthquake,,1.6,,,automatic,ak,ak
