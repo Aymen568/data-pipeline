@@ -20406,3 +20406,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-11T02:20:10.190Z,32.112,-101.515,5.4323,1.0,ml,11.0,79.0,0.1,0.2,tx,tx2025asls,2025-01-11T02:33:46.551Z,"14 km W of Forsan, Texas",earthquake,0.0,3.2447843551636,0.1,7.0,automatic,tx,tx
 2025-01-11T02:12:30.772Z,60.532,-151.5885,60.1,1.5,ml,,,,0.31,ak,ak025i86blx,2025-01-11T02:14:17.470Z,"17 km WSW of Salamatof, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2025-01-10T23:58:28.475Z,9.0078,40.1556,9.095,4.5,mb,43.0,202.0,3.646,0.82,us,us6000pjbk,2025-01-11T02:25:23.040Z,"2 km NNW of Āwash, Ethiopia",earthquake,15.99,7.013,0.089,37.0,reviewed,us,us
+2025-01-11T03:19:32.400Z,37.761501312256,-122.57333374023,1.9500000476837,1.61,md,13.0,190.0,0.08493,0.05,nc,nc75115716,2025-01-11T03:21:07.776Z,"7 km NW of San Francisco Zoo, CA",earthquake,0.43,7.17000008,0.25,11.0,automatic,nc,nc
+2025-01-11T03:07:15.020Z,40.348999023438,-124.51933288574,18.85000038147,2.66,md,14.0,281.0,0.1481,0.1,nc,nc75115711,2025-01-11T03:17:17.346Z,"20 km WNW of Petrolia, CA",earthquake,2.4,0.660000026,0.12,16.0,automatic,nc,nc
+2025-01-11T03:06:39.280Z,33.2488333,-116.0503333,9.81,0.92,ml,44.0,74.0,0.06238,0.22,ci,ci40837719,2025-01-11T03:11:08.092Z,"10 km WSW of Salton City, CA",earthquake,0.22,0.56,0.121,23.0,automatic,ci,ci
+2025-01-11T02:52:45.676Z,-32.0027,138.7164,10.0,4.9,mb,29.0,46.0,2.388,0.9,us,us6000pjcz,2025-01-11T03:19:36.270Z,"74 km ENE of Quorn, Australia",earthquake,4.45,1.882,0.117,23.0,reviewed,us,us
