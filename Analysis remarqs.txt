@@ -12216,4 +12216,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 0.4 and occurred in/near 9 km NW of Indian Springs, Nevada on 01/11/2025 at 02:42 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 20496 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.4 and occurred in/near 11 km ESE of Smith, Nevada on 01/11/2025 at 02:52 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 20500 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.32 and occurred in/near 4 km SSW of Cabazon, CA on 01/11/2025 at 03:08 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
