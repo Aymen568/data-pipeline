@@ -89,7 +89,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-14T03:43:21.714Z,60.7668,-151.0763,41.8,2,ml,,,,0.26,ak,ak025n7kf6z,2025-01-14T03:44:40.068Z,"14 km NE of Nikiski, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2025-01-14T03:39:17.646Z,57.3696,-155.8828,19.7,1.9,ml,,,,0.29,ak,ak025n7jk0k,2025-01-14T03:41:43.664Z,"88 km WSW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-01-14T03:28:26.631Z,63.2132,-150.9079,0,2.1,ml,,,,0.77,ak,ak025n7h7tz,2025-01-14T03:30:41.715Z,"54 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-01-14T03:21:44.615Z,32.095,-101.475,3.4536,2.1,ml,59,80,0.1,0.3,tx,tx2025ayaf,2025-01-14T03:39:06.171Z,"10 km W of Forsan, Texas",earthquake,0,0.85432642698288,0.1,36,automatic,tx,tx
+2025-01-14T03:21:45.018Z,32.099,-101.476,9.1064,2.2,ml,36,52,0.1,0.1,tx,tx2025ayaf,2025-01-14T13:44:01.734Z,"10 km W of Forsan, Texas",earthquake,0.30765783010008,0.52238336062308,0.1,48,reviewed,tx,tx
 2025-01-14T03:19:20.521Z,38.4806,-118.5147,0,1.7,ml,10,129.33,0.148,0.1886,nn,nn00891942,2025-01-14T03:21:46.988Z,"10 km ESE of Hawthorne, Nevada",earthquake,,7.3,0.38,5,automatic,nn,nn
 2025-01-14T03:05:18.573Z,38.6127,-118.5469,4.3,1.2,ml,8,237.8,0.025,0.2857,nn,nn00891941,2025-01-14T03:07:46.248Z,"11 km NE of Hawthorne, Nevada",earthquake,,1.7,0.3,3,automatic,nn,nn
 2025-01-14T03:01:07.420Z,48.779833333333,-122.564,15.24,1.17,ml,23,107,0.0955,0.19,uw,uw62062257,2025-01-14T04:58:45.520Z,"1 km SW of Marietta-Alderwood, Washington",earthquake,0.36,0.6,0.10672641763402,18,reviewed,uw,uw
