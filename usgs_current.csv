@@ -183,4 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-14T19:05:31.050Z,38.258834838867,-122.24183654785,-0.14000000059605,2.22,md,9,75,0.02974,0.18,nc,nc75117201,2025-01-14T20:14:12.313Z,"6 km SSE of Napa, CA",earthquake,0.47,1.67999995,0.11,8,automatic,nc,nc
 2025-01-14T19:03:27.483Z,31.882,-101.501,3.2776,1.5,ml,30,77,0.2,0.4,tx,tx2025azfi,2025-01-14T19:14:36.449Z,"2 km NW of Garden City, Texas",earthquake,0,1.205052614212,0.2,19,automatic,tx,tx
 2025-01-14T19:02:04.608Z,7.3058,-35.4804,10,5.7,mww,131,57,13.052,0.61,us,us6000pjym,2025-01-14T21:05:03.317Z,"central Mid-Atlantic Ridge",earthquake,10.46,1.863,0.093,11,reviewed,us,us
-2025-01-14T18:49:51.650Z,33.8823333,-116.5513333,10.7,0.79,ml,21,65,0.05826,0.14,ci,ci40839463,2025-01-14T21:54:22.678Z,"2 km SSW of Garnet, CA",earthquake,0.26,0.51,0.129,14,reviewed,ci,ci
