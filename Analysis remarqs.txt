@@ -13116,4 +13116,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.5 and occurred in/near 67 km W of Tyonek, Alaska on 01/17/2025 at 04:43 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 21794 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.15 and occurred in/near 4 km NNE of Chino, CA on 01/17/2025 at 04:47 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 21799 recorded earthquakes.
+The most recent earthquake had a magnitude of 2.6 and occurred in/near 55 km WNW of Happy Valley, Alaska on 01/17/2025 at 05:20 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
