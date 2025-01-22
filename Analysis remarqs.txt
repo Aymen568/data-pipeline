@@ -13950,4 +13950,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.2 and occurred in/near 2 km WNW of Anderson Springs, CA on 01/22/2025 at 04:11 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 22939 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.8 and occurred in/near 6 km SW of Clam Gulch, Alaska on 01/22/2025 at 05:09 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 22940 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.09 and occurred in/near 9 km NW of The Geysers, CA on 01/22/2025 at 05:27 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
