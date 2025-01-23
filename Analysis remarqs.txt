@@ -14158,4 +14158,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.6 and occurred in/near 66 km S of Whites City, New Mexico on 01/23/2025 at 11:14 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 23189 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.52 and occurred in/near 8 km N of Running Springs, CA on 01/23/2025 at 11:29 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 23191 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.8 and occurred in/near 29 km NE of Fox River, Alaska on 01/23/2025 at 11:37 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
