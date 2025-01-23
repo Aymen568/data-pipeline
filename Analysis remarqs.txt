@@ -14096,4 +14096,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 0.71 and occurred in/near 13 km SW of Searles Valley, CA on 01/23/2025 at 02:11 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 23123 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.98 and occurred in/near 22 km ENE of San Ardo, CA on 01/23/2025 at 02:51 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 23125 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.35 and occurred in/near 14 km NNW of Boonville, CA on 01/23/2025 at 03:01 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
