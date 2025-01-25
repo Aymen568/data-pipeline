@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-25T05:20:15.258Z,63.1105,-151.353,0,1.8,ml,,,,0.46,ak,ak02515fj5v9,2025-01-25T05:22:13.588Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-01-25T04:59:54.840Z,38.834499359131,-122.81300354004,8.8900003433228,0.68,md,9,61,0.01132,0.05,nc,nc75122591,2025-01-25T05:01:33.782Z,"8 km WNW of Cobb, CA",earthquake,1.55,7.36000013,0.23,9,automatic,nc,nc
 2025-01-25T04:59:36.420Z,38.833168029785,-122.811668396,1.9299999475479,1.35,md,30,49,0.009838,0.02,nc,nc75122586,2025-01-25T05:01:15.601Z,"8 km WNW of Cobb, CA",earthquake,0.17,0.319999993,0.14,30,automatic,nc,nc
 2025-01-25T04:57:56.150Z,-3.5872,131.3548,10,4.8,mb,36,78,1.112,0.63,us,us6000pm95,2025-01-25T05:20:11.040Z,"127 km SW of Fakfak, Indonesia",earthquake,5.8,1.909,0.097,35,reviewed,us,us
@@ -227,5 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-24T05:52:52.090Z,34.029,-117.2215,14.01,1.28,ml,56,30,0.09082,0.14,ci,ci41034928,2025-01-24T22:28:20.130Z,"4 km ESE of Loma Linda, CA",earthquake,0.14,0.27,0.219,33,reviewed,ci,ci
 2025-01-24T05:48:25.859Z,35.13933333,-98.07166667,9.62,0.84,ml,35,101,0.07828463788,0.23,ok,ok2025bqmb,2025-01-24T15:06:08.135Z,"6 km NNE of Verden, Oklahoma",earthquake,,1.2,0.23,17,reviewed,ok,ok
 2025-01-24T05:40:14.720Z,61.267166666667,-152.24116666667,3.31,-0.54,ml,6,173,0.04167,0.09,av,av93468861,2025-01-25T00:39:18.910Z,"63 km WNW of Tyonek, Alaska",earthquake,0.37,0.77,0.13645842046158,7,reviewed,av,av
-2025-01-24T05:32:02.880Z,37.813499450684,-122.03266906738,9.2700004577637,0.97,md,10,84,0.02422,0.04,nc,nc75122016,2025-01-24T05:33:40.852Z,"3 km W of Danville, CA",earthquake,0.42,0.730000019,0.1,7,automatic,nc,nc
-2025-01-24T05:27:01.160Z,35.6915,-117.5233333,7.02,0.73,ml,22,70,0.08528,0.11,ci,ci41034904,2025-01-24T21:58:01.570Z,"14 km SW of Searles Valley, CA",earthquake,0.2,0.64,0.209,17,reviewed,ci,ci
