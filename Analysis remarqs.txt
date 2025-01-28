@@ -15026,4 +15026,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 2.2 and occurred in/near 65 km NNE of Van Horn, Texas on 01/28/2025 at 04:05 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 24386 recorded earthquakes.
 The most recent earthquake had a magnitude of 0.71 and occurred in/near 9 km NNW of The Geysers, CA on 01/28/2025 at 04:36 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 24389 recorded earthquakes.
+The most recent earthquake had a magnitude of 2.25 and occurred in/near 9 km N of Verden, Oklahoma on 01/28/2025 at 04:48 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
