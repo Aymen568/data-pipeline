@@ -15430,4 +15430,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 2.1 and occurred in/near 66 km E of Ugashik, Alaska on 01/31/2025 at 04:14 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 25142 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.4 and occurred in/near 29 km SSE of Mina, Nevada on 01/31/2025 at 04:28 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 25143 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.2 and occurred in/near 22 km NNE of Yerington, Nevada on 01/31/2025 at 04:39 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
