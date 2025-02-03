@@ -16066,4 +16066,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 2.71000004 and occurred in/near 1 km E of Oak Hill, Ohio on 02/03/2025 at 09:04 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 26005 recorded earthquakes.
 The most recent earthquake had a magnitude of 5.9 and occurred in/near 140 km N of Tobelo, Indonesia on 02/03/2025 at 09:35 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 26012 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.8 and occurred in/near 62 km ESE of Pedro Bay, Alaska on 02/03/2025 at 10:05 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
