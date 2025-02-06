@@ -16528,4 +16528,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 3.5 and occurred in/near 21 km ENE of Sterling, Alaska on 02/06/2025 at 07:56 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 26941 recorded earthquakes.
 The most recent earthquake had a magnitude of 2.14 and occurred in/near 6 km NNE of Santa Margarita, CA on 02/06/2025 at 08:20 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 26946 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.18 and occurred in/near 12 km WSW of Borrego Springs, CA on 02/06/2025 at 08:30 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
