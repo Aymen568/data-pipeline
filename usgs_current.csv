@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-07T07:24:41.602Z,-15.5994,-70.1897,214.006,4.8,mb,45,142,2.096,1.22,us,us7000pc27,2025-02-07T07:39:56.040Z,"9 km WSW of Caracoto, Peru",earthquake,9.58,9.758,0.046,156,reviewed,us,us
+2025-02-07T07:21:23.675Z,32.422,-102.119,8.3737,1,ml,9,169,0,0.4,tx,tx2025cqee,2025-02-07T07:33:22.782Z,"37 km SSW of Los Ybanez, Texas",earthquake,0,4.2393236160278,0.2,8,automatic,tx,tx
 2025-02-07T07:16:27.595Z,61.3528,-152.3575,3.3,1.4,ml,,,,0.62,ak,ak0251qyopl3,2025-02-07T07:18:16.487Z,"72 km WNW of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-02-07T07:16:15.076Z,36.5485,25.6196,10,5.1,mb,70,83,1.39,1.06,us,us7000pc23,2025-02-07T07:34:09.040Z,"22 km NE of Firá, Greece",earthquake,5.5,1.87,0.045,159,reviewed,us,us
 2025-02-07T07:08:23.957Z,65.3869,-148.1894,0.8,1,ml,,,,0.72,ak,ak0251qymzhr,2025-02-07T07:10:24.569Z,"22 km SE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-02-07T06:52:50.907Z,60.626,-148.8094,19.9,3.1,ml,,,,0.66,ak,ak0251qyb1og,2025-02-07T07:03:41.125Z,"17 km SSW of Whittier, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-02-07T06:52:53.083Z,60.6976,-148.7627,35.7,3,ml,,,,0.9,ak,ak0251qyb1og,2025-02-07T07:34:18.051Z,"9 km SSW of Whittier, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2025-02-07T06:46:34.610Z,38.742332458496,-122.69499969482,0.98000001907349,1.73,md,13,95,0.02602,0.04,nc,nc75128886,2025-02-07T06:49:18.544Z,"4 km SSW of Anderson Springs, CA",earthquake,0.32,0.5,0.23,11,automatic,nc,nc
 2025-02-07T06:32:07.240Z,33.5863333,-116.8035,8.73,0.48,ml,25,70,0.05713,0.14,ci,ci40181330,2025-02-07T06:36:40.453Z,"12 km WNW of Anza, CA",earthquake,0.22,0.45,0.154,14,automatic,ci,ci
 2025-02-07T06:12:28.340Z,33.1738333,-115.4993333,5.13,1.37,ml,30,49,0.08043,0.27,ci,ci40181322,2025-02-07T06:16:31.513Z,"6 km NNE of Calipatria, CA",earthquake,0.39,0.73,0.204,29,automatic,ci,ci
@@ -53,7 +56,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-07T00:12:34.756Z,58.4053,-154.6902,5.6,1.4,ml,,,,0.52,ak,ak0251quhu1f,2025-02-07T00:14:39.912Z,"94 km N of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-07T00:08:22.080Z,35.0618333,-118.3505,4.32,1.86,ml,44,37,0.07145,0.16,ci,ci40181162,2025-02-07T00:12:12.648Z,"12 km SE of Tehachapi, CA",earthquake,0.14,0.42,0.183,27,automatic,ci,ci
 2025-02-07T00:07:39.930Z,60.1802,-153.241,150.8,1.8,ml,,,,0.28,ak,ak0251qugrut,2025-02-07T00:09:30.102Z,"59 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-02-07T00:07:31.816Z,59.7811,-153.3976,209.9,2.2,ml,,,,0.68,ak,ak0251qugr8d,2025-02-07T00:11:03.340Z,"39 km E of Pedro Bay, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-02-07T00:02:07.928Z,64.9709,-147.3715,2.5,1.4,ml,,,,0.34,ak,ak0251qufmt4,2025-02-07T00:04:00.219Z,"11 km E of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-06T23:58:52.640Z,33.9401667,-118.3518333,12.41,1.94,ml,67,78,0.0177,0.22,ci,ci40181154,2025-02-07T00:15:02.664Z,"0 km NNE of Lennox, CA",earthquake,0.2,0.33,0.313,29,automatic,ci,ci
 2025-02-06T23:46:42.740Z,38.81600189209,-122.82483673096,2.3699998855591,0.82,md,12,77,0.00789,0.02,nc,nc75128791,2025-02-06T23:49:21.239Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.829999983,0.21,12,automatic,nc,nc
@@ -240,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-06T08:00:28.930Z,62.0957,-145.4587,23.4,1.2,ml,,,,0.43,ak,ak0251pbndcd,2025-02-06T08:02:04.686Z,"4 km NNW of Tazlina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-06T07:58:05.370Z,33.5901667,-116.8041667,10.83,0.51,ml,26,37,0.05389,0.13,ci,ci40180562,2025-02-06T15:26:10.904Z,"13 km WNW of Anza, CA",earthquake,0.17,0.55,0.175,11,reviewed,ci,ci
 2025-02-06T07:52:35.100Z,57.087666666667,-135.7505,5.34,-0.02,ml,4,263,0.03071,0.04,av,av93485971,2025-02-07T00:32:40.930Z,"25 km W of Sitka, Alaska",earthquake,0.58,0.78,0.17508120382314,4,reviewed,av,av
-2025-02-06T07:34:04.370Z,33.3116667,-116.4085,4.66,1.12,ml,64,44,0.03775,0.21,ci,ci40180554,2025-02-06T15:27:29.180Z,"7 km NNW of Borrego Springs, CA",earthquake,0.15,0.38,0.135,26,reviewed,ci,ci
