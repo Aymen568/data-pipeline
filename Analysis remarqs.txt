@@ -17364,4 +17364,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 2.35 and occurred in/near 1 km ENE of Almanor, CA on 02/11/2025 at 10:39 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 28404 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.47 and occurred in/near 4 km WSW of Riverside, CA on 02/11/2025 at 10:42 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 28407 recorded earthquakes.
+The most recent earthquake had a magnitude of 2.4 and occurred in/near 33 km W of Ester, Alaska on 02/11/2025 at 11:09 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
