@@ -17984,4 +17984,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.47 and occurred in/near 7 km ESE of Willits, CA on 02/15/2025 at 07:33 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 29470 recorded earthquakes.
 The most recent earthquake had a magnitude of 2.1 and occurred in/near 57 km NNE of Chenega, Alaska on 02/15/2025 at 07:39 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 29473 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.04 and occurred in/near 9 km NW of Cobb, CA on 02/15/2025 at 08:05 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
