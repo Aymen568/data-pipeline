@@ -18522,4 +18522,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.0 and occurred in/near 27 km S of Petersville, Alaska on 02/19/2025 at 05:28 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 30311 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.2 and occurred in/near 19 km SE of Ackerly, Texas on 02/19/2025 at 05:33 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 30315 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.7 and occurred in/near 24 km SSE of Denali National Park, Alaska on 02/19/2025 at 05:52 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
