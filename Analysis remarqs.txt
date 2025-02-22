@@ -19104,4 +19104,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.61 and occurred in/near 18 km NE of Thermal, CA on 02/22/2025 at 07:49 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 31237 recorded earthquakes.
 The most recent earthquake had a magnitude of 2.2 and occurred in/near 6 km S of Houston, Alaska on 02/22/2025 at 08:06 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 31241 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.4 and occurred in/near 17 km ESE of Eagle River, Alaska on 02/22/2025 at 08:22 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
