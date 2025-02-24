@@ -19402,4 +19402,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.1 and occurred in/near 10 km ENE of Healdsburg, CA on 02/24/2025 at 04:52 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 31614 recorded earthquakes.
 The most recent earthquake had a magnitude of 2.6 and occurred in/near 4 km WSW of Minto, Alaska on 02/24/2025 at 05:14 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 31617 recorded earthquakes.
+The most recent earthquake had a magnitude of 0.65 and occurred in/near 8 km W of Desert Hot Springs, CA on 02/24/2025 at 05:31 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
