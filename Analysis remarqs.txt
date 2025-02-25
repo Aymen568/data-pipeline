@@ -19492,4 +19492,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 0.98 and occurred in/near 16 km NE of Coachella, CA on 02/25/2025 at 07:28 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 31860 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.1 and occurred in/near 21 km WSW of Tyonek, Alaska on 02/25/2025 at 07:37 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 31862 recorded earthquakes.
+The most recent earthquake had a magnitude of 0.23 and occurred in/near 8 km NNW of The Geysers, CA on 02/25/2025 at 07:56 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
