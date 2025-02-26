@@ -19706,4 +19706,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.24 and occurred in/near 3 km WNW of Bridge Creek, Oklahoma on 02/26/2025 at 04:45 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 32297 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.97 and occurred in/near 16 km NE of Milford, Utah on 02/26/2025 at 05:09 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 32303 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.59 and occurred in/near 8 km SSE of Idyllwild, CA on 02/26/2025 at 05:31 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
