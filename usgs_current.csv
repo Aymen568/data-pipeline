@@ -108,7 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-27T21:27:00.340Z,40.306999206543,-124.57716369629,13.449999809265,2.69,md,18,281,0.1804,0.15,nc,nc75140156,2025-02-28T00:52:23.302Z,"25 km W of Petrolia, CA",earthquake,3.01,1.13999999,0.18,14,automatic,nc,nc
 2025-02-27T21:25:42.370Z,47.603,-121.82283333333,16.59,1.22,ml,30,113,0.09618,0.09,uw,uw62078476,2025-02-27T23:16:14.500Z,"6 km NE of Fall City, Washington",earthquake,0.22,0.27,0.17041491430642,16,reviewed,uw,uw
 2025-02-27T21:07:47.380Z,47.611,-122.61366666667,23.27,1.76,ml,28,60,0.05389,0.2,uw,uw62078471,2025-02-28T06:50:07.883Z,"3 km NNW of Enetai, Washington",earthquake,0.35,0.54,0.14597216269623,14,reviewed,uw,uw
-2025-02-27T21:06:10.273Z,27.8265,85.9676,10,5.5,mb,85,41,0.611,0.94,us,us6000pvwf,2025-02-28T10:14:05.145Z,"14 km S of Kodāri̇̄, Nepal",earthquake,6.25,1.856,0.035,287,reviewed,us,us
+2025-02-27T21:06:10.273Z,27.8265,85.9676,10,5.5,mb,85,41,0.611,0.94,us,us6000pvwf,2025-02-28T11:29:15.035Z,"14 km S of Kodāri̇̄, Nepal",earthquake,6.25,1.856,0.035,287,reviewed,us,us
 2025-02-27T21:06:00.270Z,61.275333333333,-152.24883333333,2.99,-0.69,ml,7,171,0.0464,0.06,av,av93516081,2025-02-28T10:37:05.600Z,"64 km WNW of Tyonek, Alaska",earthquake,0.31,0.67,0.29541230538388,8,reviewed,av,av
 2025-02-27T21:04:39.330Z,58.285333333333,-155.01233333333,2.91,-0.13,ml,7,229,0.02903,0.08,av,av93516071,2025-02-28T10:31:29.020Z,"86 km NNW of Karluk, Alaska",earthquake,0.46,0.4,0.26117463201445,7,reviewed,av,av
 2025-02-27T20:53:01.594Z,63.104,-150.479,29.3,1.7,ml,,,,1.79,ak,ak0252o9e5tb,2025-02-27T20:54:44.532Z,"69 km NNE of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -212,7 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-27T11:56:16.570Z,33.2363333,-116.376,6.2,0.79,ml,41,69,0.0469,0.18,ci,ci40195458,2025-02-27T17:03:46.981Z,"2 km S of Borrego Springs, CA",earthquake,0.19,0.56,0.177,18,reviewed,ci,ci
 2025-02-27T11:51:42.064Z,61.9299,-151.1201,64.5,1.6,ml,,,,0.48,ak,ak0252o40x26,2025-02-27T11:53:43.417Z,"16 km ESE of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-02-27T11:47:56.848Z,-2.2974,120.9811,10,4.4,mb,26,58,0.284,0.81,us,us6000pvsz,2025-02-27T14:56:29.955Z,"77 km ENE of Masamba, Indonesia",earthquake,4.23,1.915,0.149,13,reviewed,us,us
-2025-02-27T11:22:55.292Z,31.608,-103.967,7.7277,1.8,ml,12,67,0,0.1,tx,tx2025ebag,2025-02-27T14:13:34.681Z,"36 km NNW of Toyah, Texas",earthquake,0.34354283854932,0.52365858952957,0.2,13,reviewed,tx,tx
-2025-02-27T11:21:56.140Z,36.105,-97.87683333,6.52,1.54,ml,87,36,0.1493706884,0.16,ok,ok2025ebae,2025-02-27T13:33:00.184Z,"2 km ESE of Hennessey, Oklahoma",earthquake,,0.4,0.22,36,reviewed,ok,ok
-2025-02-27T11:19:08.931Z,59.4824,-152.8778,76.1,2.2,ml,,,,0.37,ak,ak0252o3tzl9,2025-02-27T11:21:34.812Z,"56 km WNW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-02-27T11:19:05.630Z,33.0645,-116.5288333,11.71,0.39,ml,27,59,0.05999,0.21,ci,ci40195450,2025-02-27T17:03:47.981Z,"7 km ESE of Julian, CA",earthquake,0.28,0.75,0.233,8,reviewed,ci,ci
