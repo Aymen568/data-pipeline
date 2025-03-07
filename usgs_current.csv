@@ -4,6 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-07T22:30:10.378Z,36.9691,-117.4953,9.1,1.9,ml,15,115.09,0.107,0.1623,nn,nn00894411,2025-03-07T23:02:47.433Z,"63 km NNE of Keeler, California",earthquake,,2.2,0.51,5,reviewed,nn,nn
 2025-03-07T22:26:26.630Z,19.030500411987,-155.35150146484,14.680000305176,2.37,ml,51,215,0.1624,0.219999999,hv,hv74628897,2025-03-07T22:29:46.630Z,"23 km SE of Pāhala, Hawaii",earthquake,0.8,1.38999999,0.67,6,automatic,hv,hv
 2025-03-07T22:04:08.504Z,61.2769,-147.4698,9.9,1.4,ml,,,,0.37,ak,ak02531ilbf6,2025-03-07T22:05:58.694Z,"59 km S of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-03-07T22:02:43.305Z,32.3877,-104.3625,8.628,3,ml,44,67,0.41,0.65,us,us6000pxid,2025-03-07T23:12:58.070Z,"13 km WSW of Carlsbad, New Mexico",earthquake,2.6,8.504,0.081,20,reviewed,us,us
 2025-03-07T21:36:57.470Z,38.830501556396,-122.81666564941,1.9800000190735,1.09,md,17,49,0.008767,0.02,nc,nc75144696,2025-03-07T22:07:19.962Z,"8 km NNW of The Geysers, CA",earthquake,0.24,0.560000002,0.18,19,automatic,nc,nc
 2025-03-07T21:23:24.999Z,36.3836,-114.9224,0,2.2,ml,8,291.11,0.881,0.2819,nn,nn00894408,2025-03-07T22:50:19.549Z,"19 km NE of Nellis Air Force Base, Nevada",explosion,,73.5,0.58,5,automatic,nn,nn
 2025-03-07T21:13:15.620Z,33.6643333,-116.7438333,16.63,0.55,ml,14,106,0.05633,0.11,ci,ci41074112,2025-03-07T22:50:40.181Z,"9 km SSW of Idyllwild, CA",earthquake,0.33,0.47,0.111,10,reviewed,ci,ci
@@ -151,6 +152,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-07T11:51:21.199Z,61.3346,-152.2729,4.8,0.5,ml,,,,0.12,ak,ak02531cbnef,2025-03-07T11:52:33.283Z,"67 km WNW of Beluga, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-03-07T11:48:43.250Z,38.814167022705,-122.82433319092,2.289999961853,0.76,md,10,73,0.006506,0.02,nc,nc75144391,2025-03-07T13:32:23.582Z,"7 km NW of The Geysers, CA",earthquake,0.35,0.709999979,0.28,11,automatic,nc,nc
 2025-03-07T11:44:26.000Z,38.797500610352,-122.7816696167,3.6300001144409,0.71,md,10,77,0.006516,0.01,nc,nc75144386,2025-03-07T13:12:18.452Z,"3 km NNW of The Geysers, CA",earthquake,0.43,1.32000005,0.3,11,automatic,nc,nc
+2025-03-07T11:44:23.760Z,61.336666666667,-152.275,-2.27,0,ml,9,133,0.09089,0.27,av,av93523851,2025-03-07T23:21:02.760Z,"67 km WNW of Beluga, Alaska",earthquake,0.53,2.59,0.19173435812209,9,reviewed,av,av
 2025-03-07T11:43:41.550Z,49.071666666667,-112.63466666667,28.57,1.08,ml,6,172,0.3934,0.26,mb,mb90073698,2025-03-07T22:06:49.320Z,"41 km SSE of Magrath, Canada",earthquake,0.96,0.6,0.11137055591424,5,reviewed,mb,mb
 2025-03-07T11:43:05.879Z,61.3222,-152.2642,10.5,1.7,ml,,,,0.14,ak,ak02531c9whn,2025-03-07T18:27:56.510Z,"66 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-07T11:39:38.190Z,35.976,-117.875,2.47,1.44,ml,21,92,0.03405,0.11,ci,ci41073816,2025-03-07T18:51:54.664Z,"5 km NNE of Little Lake, CA",earthquake,0.15,0.19,0.21,25,reviewed,ci,ci
@@ -281,4 +283,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-06T23:30:21.073Z,63.9676,-148.7307,13.1,1.3,ml,,,,0.31,ak,ak0252zvt04b,2025-03-06T23:32:52.891Z,"16 km NE of Healy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-06T23:26:38.867Z,31.641,-104.012,5.5872,3.1,ml,29,38,0,0.1,tx,tx2025eosp,2025-03-07T17:28:23.040Z,"39 km W of Mentone, Texas",earthquake,0.32653969710538,0.44760525236178,0.1,17,reviewed,tx,tx
 2025-03-06T23:26:05.951Z,31.639,-104.009,5.1642,2.1,ml,29,26,0,0.1,tx,tx2025eoso,2025-03-06T23:46:05.708Z,"39 km W of Mentone, Texas",earthquake,0.35576782841792,0.59760090443438,0.1,17,reviewed,tx,tx
-2025-03-06T23:10:33.590Z,37.5925,-122.4635,8.73,1.05,md,13,90,0.03131,0.06,nc,nc75144061,2025-03-07T01:22:16.854Z,"3 km SSE of Pacifica, CA",earthquake,0.44,0.68,0.43,10,reviewed,nc,nc
