@@ -21212,4 +21212,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 0.53 and occurred in/near 8 km NNW of The Geysers, CA on 03/08/2025 at 11:03 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 34994 recorded earthquakes.
 The most recent earthquake had a magnitude of 0.89 and occurred in/near 12 km NW of Ocotillo Wells, CA on 03/08/2025 at 11:13 AM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 34996 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.3 and occurred in/near 4 km SE of Willow, Alaska on 03/08/2025 at 11:23 AM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
