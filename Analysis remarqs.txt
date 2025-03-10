@@ -21608,4 +21608,6 @@ The strongest earthquake since the start of this web scraper had a magnitude of 
 The most recent earthquake had a magnitude of 1.8 and occurred in/near 22 km SSW of South Van Horn, Alaska on 03/10/2025 at 03:14 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 35486 recorded earthquakes.
 The most recent earthquake had a magnitude of 1.8 and occurred in/near 22 km SSW of South Van Horn, Alaska on 03/10/2025 at 03:14 PM.
+The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./nSince 07:04 AM on 10/22/2024, there have been 35489 recorded earthquakes.
+The most recent earthquake had a magnitude of 1.9 and occurred in/near 27 km SW of Tatitlek, Alaska on 03/10/2025 at 03:43 PM.
 The strongest earthquake since the start of this web scraper had a magnitude of 7.3 and occurred in/near 30 km W of Port-Vila, Vanuatu on 12/17/2024 at 01:47 AM./n
