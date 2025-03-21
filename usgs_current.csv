@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-03-21T17:18:17.700Z,38.76216506958,-122.70016479492,1.460000038147,1.07,md,8,156,0.006043,0.04,nc,nc75152737,2025-03-21T17:19:54.677Z,"2 km SW of Anderson Springs, CA",earthquake,0.58,0.460000008,0.24,6,automatic,nc,nc
+2025-03-21T17:43:17.137Z,64.7464,-146.9638,16.5,2.8,ml,,,,0.31,ak,ak0253olddwh,2025-03-21T17:47:44.245Z,"9 km ENE of Moose Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-03-21T17:36:36.484Z,61.7718,-150.6566,58.7,2,ml,,,,0.22,ak,ak0253olbxds,2025-03-21T17:38:09.066Z,"26 km NNW of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-03-21T17:18:17.700Z,38.76216506958,-122.70016479492,1.460000038147,1.07,md,8,156,0.006043,0.04,nc,nc75152737,2025-03-21T17:47:20.236Z,"2 km SW of Anderson Springs, CA",earthquake,0.58,0.460000008,0.24,6,automatic,nc,nc
 2025-03-21T17:16:05.230Z,33.5086667,-116.4938333,12.15,0.84,ml,30,60,0.09161,0.2,ci,ci40906319,2025-03-21T17:23:03.749Z,"17 km ESE of Anza, CA",earthquake,0.27,0.62,0.146,22,automatic,ci,ci
 2025-03-21T17:08:51.891Z,-7.1363,155.6402,87.025,4.9,mb,75,80,4.531,0.67,us,us7000plp9,2025-03-21T17:31:25.040Z,"92 km S of Panguna, Papua New Guinea",earthquake,8.72,6.152,0.05,126,reviewed,us,us
 2025-03-21T17:04:47.689Z,61.156,-152.2359,116.6,1.4,ml,,,,0.44,ak,ak0253ol53c0,2025-03-21T17:08:22.585Z,"60 km W of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-03-21T17:03:26.670Z,38.822834014893,-122.84716796875,2.0699999332428,0.27,md,10,120,0.008922,0.01,nc,nc75152732,2025-03-21T17:05:05.616Z,"9 km NW of The Geysers, CA",earthquake,0.38,0.660000026,0.08,12,automatic,nc,nc
+2025-03-21T17:03:26.670Z,38.822834014893,-122.84716796875,2.0699999332428,0.27,md,10,120,0.008922,0.01,nc,nc75152732,2025-03-21T17:37:17.162Z,"9 km NW of The Geysers, CA",earthquake,0.38,0.660000026,0.08,12,automatic,nc,nc
 2025-03-21T16:58:23.648Z,31.992,-103.83,7.9322,2.2,ml,14,165,0,0.3,tx,tx2025fpqi,2025-03-21T17:09:42.338Z,"34 km SE of Malaga, New Mexico",earthquake,0,3.2137789726257,0.2,12,automatic,tx,tx
 2025-03-21T16:54:40.950Z,38.794166564941,-122.77799987793,3.1400001049042,0.73,md,13,101,0.01568,0.02,nc,nc75152727,2025-03-21T17:27:15.094Z,"3 km NNW of The Geysers, CA",earthquake,0.45,0.889999986,0.04,12,automatic,nc,nc
 2025-03-21T16:44:02.940Z,17.984166666667,-66.8145,14.7,2.47,md,13,177,0.0623,0.18,pr,pr71476983,2025-03-21T17:04:49.010Z,"1 km SSE of Indios, Puerto Rico",earthquake,0.49,0.93,0.071398314590929,8,reviewed,pr,pr
@@ -16,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-21T15:57:47.666Z,62.3533,-150.7816,66.3,1.8,ml,,,,0.47,ak,ak0253ok9l2m,2025-03-21T16:00:15.787Z,"15 km S of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-21T15:46:32.815Z,51.1558,-176.1139,32.23,4.6,mb,68,189,0.73,0.83,us,us7000plmb,2025-03-21T16:42:55.441Z,"87 km SSE of Adak, Alaska",earthquake,5.07,6.43,0.052,109,reviewed,us,us
 2025-03-21T15:42:06.685Z,60.9202,-151.8008,79.6,1.4,ml,,,,0.38,ak,ak0253ok6a64,2025-03-21T15:43:57.797Z,"37 km NW of Nikiski, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2025-03-21T15:38:04.970Z,38.833332061768,-122.81466674805,1.7699999809265,0.78,md,13,54,0.01055,0.01,nc,nc75152692,2025-03-21T15:57:16.479Z,"8 km NNW of The Geysers, CA",earthquake,0.31,0.629999995,0.19,15,automatic,nc,nc
+2025-03-21T15:38:04.970Z,38.833332061768,-122.81466674805,1.7699999809265,0.78,md,13,54,0.01055,0.01,nc,nc75152692,2025-03-21T17:47:19.236Z,"8 km NNW of The Geysers, CA",earthquake,0.31,0.629999995,0.19,15,automatic,nc,nc
 2025-03-21T15:31:15.242Z,60.9099,-151.7086,77.7,1.9,ml,,,,0.35,ak,ak0253ok3xyc,2025-03-21T15:33:31.983Z,"33 km NW of Nikiski, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-21T15:24:27.801Z,51.0954,-176.0432,16.9,3.6,ml,,,,0.62,ak,ak0253ok2h3b,2025-03-21T16:25:19.252Z,"95 km SSE of Adak, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2025-03-21T15:12:39.714Z,51.2629,-176.1501,37.501,4.6,mb,54,181,0.621,0.55,us,us7000plm0,2025-03-21T16:20:14.259Z,"75 km SSE of Adak, Alaska",earthquake,5.19,7.867,0.063,75,reviewed,us,us
@@ -61,9 +63,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-21T12:35:51.173Z,38.8944,-119.639,2.9,1.4,ml,15,166.61,0.023,0.1632,nn,nn00894890,2025-03-21T14:48:13.022Z,"3 km N of Carter Springs, Nevada",earthquake,,1.1,0.31,7,reviewed,nn,nn
 2025-03-21T12:29:04.987Z,31.069,-103.446,4.8181,2.2,ml,14,72,0.1,0.3,tx,tx2025fphl,2025-03-21T13:37:07.043Z,"30 km ENE of Balmorhea, Texas",earthquake,0.93668601574895,0.78712932783448,0.2,8,reviewed,tx,tx
 2025-03-21T12:26:24.397Z,57.0896,-157.1726,90.5,2.1,ml,,,,0.75,ak,ak0253oial9j,2025-03-21T12:28:44.247Z,"49 km SSE of Ugashik, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2025-03-21T12:23:06.645Z,40.6898,-74.7403,8.077,1.8,ml,7,120,0.019,0.27,us,us7000pll0,2025-03-21T12:57:43.837Z,"7 km WSW of Gladstone, New Jersey",earthquake,1.61,1.216,0.105,12,reviewed,us,us
+2025-03-21T12:23:06.645Z,40.6898,-74.7403,8.077,1.8,ml,7,120,0.019,0.27,us,us7000pll0,2025-03-21T17:38:55.517Z,"7 km WSW of Gladstone, New Jersey",earthquake,1.61,1.216,0.105,12,reviewed,us,us
 2025-03-21T12:21:45.390Z,38.842666625977,-122.83100128174,1.2799999713898,1.08,md,19,88,0.005371,0.01,nc,nc75152607,2025-03-21T13:07:18.339Z,"10 km WNW of Cobb, CA",earthquake,0.22,0.460000008,0.15,22,automatic,nc,nc
-2025-03-21T12:15:04.901Z,36.5126,-113.9766,10,2.5,ml,39,46,0.771,0.73,us,us7000plkx,2025-03-21T16:41:44.013Z,"31 km S of Scenic, Arizona",earthquake,1.65,1.999,0.034,114,reviewed,us,us
+2025-03-21T12:15:04.901Z,36.5126,-113.9766,10,2.5,ml,39,46,0.771,0.73,us,us7000plkx,2025-03-21T17:37:13.661Z,"31 km S of Scenic, Arizona",earthquake,1.65,1.999,0.034,114,reviewed,us,us
 2025-03-21T12:10:10.890Z,33.1306667,-116.4821667,13.31,0.87,ml,49,41,0.06476,0.19,ci,ci40906143,2025-03-21T12:14:40.076Z,"13 km ENE of Julian, CA",earthquake,0.19,0.52,0.097,23,automatic,ci,ci
 2025-03-21T12:09:39.543Z,63.1239,-151.5211,0,2.1,ml,,,,0.68,ak,ak0253oi6z9e,2025-03-21T12:12:57.905Z,"47 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-21T12:09:20.210Z,38.820167541504,-122.84400177002,2.1199998855591,0.76,md,15,87,0.007602,0.02,nc,nc75152597,2025-03-21T12:47:17.196Z,"9 km NW of The Geysers, CA",earthquake,0.28,0.569999993,0.27,14,automatic,nc,nc
@@ -158,7 +160,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-21T05:25:42.480Z,19.944,-64.5345,43,3.79,md,13,307,1.7994,0.36,pr,pr2025080000,2025-03-21T06:52:11.040Z,"180 km N of Cruz Bay, U.S. Virgin Islands",earthquake,3.11,25,0.1,8,reviewed,pr,pr
 2025-03-21T05:20:51.760Z,47.590666666667,-123.80916666667,-0.51,2.23,ml,27,74,0.07744,0.33,uw,uw62075707,2025-03-21T17:02:19.330Z,"16 km NNE of Amanda Park, Washington",earthquake,0.4,0.97,0.17280423645726,14,reviewed,uw,uw
 2025-03-21T05:19:49.800Z,33.3096667,-116.2608333,6.94,0.77,ml,46,40,0.06655,0.19,ci,ci40905839,2025-03-21T05:23:47.244Z,"12 km ENE of Borrego Springs, CA",earthquake,0.2,0.51,0.126,16,automatic,ci,ci
-2025-03-21T05:16:00.480Z,19.397666931152,-155.4871673584,7.0300002098083,2.3,ml,51,34,0.03804,0.159999996,hv,hv74638057,2025-03-21T05:19:16.900Z,"21 km N of Pāhala, Hawaii",earthquake,0.29,0.49000001,0.12,3,automatic,hv,hv
+2025-03-21T05:16:00.430Z,19.4025,-155.48683333333,7.24,1.84,ml,45,37,0.0412,0.11,hv,hv74638057,2025-03-21T17:45:02.130Z,"22 km N of Pāhala, Hawaii",earthquake,0.3,0.55,0.18468532372458,20,reviewed,hv,hv
 2025-03-21T05:15:37.030Z,19.399166107178,-155.56666564941,1.6599999666214,2.3,ml,8,136,0.02252,0.180000007,hv,hv74638052,2025-03-21T05:18:37.990Z,"23 km NNW of Pāhala, Hawaii",earthquake,0.89,2.25,0.18,3,automatic,hv,hv
 2025-03-21T05:12:34.010Z,39.6875,-110.85833333333,3.54,1.42,md,6,218,0.1304,0.15,uu,uu80104206,2025-03-21T15:31:43.430Z,"0 km NW of Helper, Utah",earthquake,1.59,31.61,0.19560736482535,5,reviewed,uu,uu
 2025-03-21T05:07:13.486Z,58.997,-151.9376,36.3,2.3,ml,,,,0.38,ak,ak0253oe0gkp,2025-03-21T05:10:22.612Z,"39 km S of Port Graham, Alaska",earthquake,,6.4,,,automatic,ak,ak
@@ -301,4 +303,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-20T17:52:34.040Z,34.293,-117.101,8.06,1.02,ml,22,38,0.08697,0.13,ci,ci40905111,2025-03-20T19:23:09.532Z,"10 km N of Running Springs, CA",earthquake,0.21,0.7,0.109,7,reviewed,ci,ci
 2025-03-20T17:49:46.055Z,4.2277,126.0613,136.311,4.6,mb,39,103,0.767,0.64,us,us7000pldr,2025-03-20T18:05:42.040Z,"145 km SSE of Sarangani, Philippines",earthquake,7.86,6.107,0.103,28,reviewed,us,us
 2025-03-20T17:48:46.330Z,57.0365,-135.64983333333,7.2,0.53,ml,0,302,0.03326,0.19,av,av93036654,2025-03-21T01:22:29.570Z,"19 km W of Sitka, Alaska",earthquake,1.96,0.98,0.34990603495718,4,reviewed,av,av
-2025-03-20T17:46:41.792Z,36.891,-117.7742,0,1.9,ml,17,97.29,0.503,0.1247,nn,nn00894858,2025-03-21T02:10:04.606Z,"39 km ENE of Independence, California",earthquake,,2.9,0.4,6,reviewed,nn,nn
