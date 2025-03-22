@@ -118,7 +118,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-22T07:15:13.750Z,34.2136667,-116.99,20.48,1.09,ml,23,208,0.2336,0.33,ci,ci40906951,2025-03-22T07:20:28.445Z,"8 km WSW of Big Bear Lake, CA",earthquake,1.79,2.88,0.288,24,automatic,ci,ci
 2025-03-22T07:04:55.680Z,38.82149887085,-122.81133270264,3.1300001144409,1.48,md,32,40,0.002133,0.03,nc,nc75153117,2025-03-22T09:07:17.486Z,"7 km NNW of The Geysers, CA",earthquake,0.22,0.379999995,0.17,30,automatic,nc,nc
 2025-03-22T07:02:13.528Z,60.6481,-151.6754,70.6,1.4,ml,,,,0.62,ak,ak0253q2plpk,2025-03-22T07:03:59.237Z,"19 km W of Salamatof, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-03-22T07:01:27.417Z,7.6198,126.6836,82.124,4.5,mb,41,107,1.224,0.77,us,us7000pltf,2025-03-22T07:16:04.040Z,"Mindanao, Philippines",earthquake,5.86,7.921,0.074,54,reviewed,us,us
+2025-03-22T07:01:27.417Z,7.6198,126.6836,82.124,4.5,mb,41,107,1.224,0.77,us,us7000pltf,2025-03-22T07:16:04.040Z,"14 km ENE of Baganga, Philippines",earthquake,5.86,7.921,0.074,54,reviewed,us,us
 2025-03-22T07:00:44.150Z,31.4953333,-115.6263333,11.03,2.41,ml,9,109,0.17,0.2,ci,ci40906943,2025-03-22T07:04:17.021Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.37,1.29,0.16,20,automatic,ci,ci
 2025-03-22T06:55:10.142Z,36.6422,-116.2733,7.2,-0.3,ml,13,180.82,0.053,0.0749,nn,nn00894947,2025-03-22T15:38:16.533Z,"52 km SE of Beatty, Nevada",earthquake,,1.6,0.03,2,reviewed,nn,nn
 2025-03-22T06:36:05.730Z,33.534,-116.7223333,5.49,0.59,ml,26,41,0.03372,0.13,ci,ci40906927,2025-03-22T06:40:44.909Z,"5 km WSW of Anza, CA",earthquake,0.15,0.37,0.153,17,automatic,ci,ci
@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-21T21:17:31.895Z,32.115,-102.197,4.652,1.1,ml,19,56,0,0.5,tx,tx2025fpyx,2025-03-21T21:27:56.759Z,"17 km NW of Midland, Texas",earthquake,0,1.2175801992416,0.1,13,automatic,tx,tx
 2025-03-21T21:04:27.940Z,60.493833333333,-152.76166666667,13.31,-0.66,ml,4,197,0.03388,0.29,av,av93539866,2025-03-22T01:11:16.840Z,"78 km NW of Ninilchik, Alaska",earthquake,2.49,1.9,0.33942254191533,4,reviewed,av,av
 2025-03-21T20:50:51.659Z,32.297,-102.191,4.3455,2.1,ml,64,50,0,0.4,tx,tx2025fpya,2025-03-21T21:00:12.789Z,"31 km E of McKinney Acres, Texas",earthquake,0,0.68694418668747,0.2,43,automatic,tx,tx
-2025-03-21T20:48:20.840Z,39.744667053223,-122.94166564941,0.029999999329448,2.13,md,12,93,0.08983,0.16,nc,nc75152832,2025-03-21T23:17:19.414Z,"21 km NW of Alder Springs, CA",earthquake,0.57,2.56999993,0.14,9,automatic,nc,nc
