@@ -166,7 +166,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-21T15:41:29.970Z,55.084833333333,-162.08616666667,4.11,1.34,ml,9,169,0.1152,0.17,av,av93582461,2025-04-22T00:57:15.010Z,"15 km E of King Cove, Alaska",earthquake,0.52,3.47,0.22512155179848,12,reviewed,av,av
 2025-04-21T15:36:50.370Z,55.0825,-162.08483333333,3.61,0.75,ml,6,171,0.1164,0.17,av,av93039664,2025-04-22T01:06:37.800Z,"15 km E of King Cove, Alaska",earthquake,0.48,0.71,0.18024993194101,6,reviewed,av,av
 2025-04-21T15:31:59.700Z,55.087333333333,-162.07866666667,2.58,3.4,ml,10,169,0.1185,0.26,av,av93582456,2025-04-22T00:54:06.559Z,"15 km E of King Cove, Alaska",earthquake,0.64,1,0.26597097513373,12,reviewed,av,av
-2025-04-21T15:18:15.745Z,62.2263,-151.0108,66.4,2.8,ml,,,,0.38,ak,ak02553towzf,2025-04-21T16:52:56.040Z,"32 km SSW of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-04-21T15:18:15.745Z,62.2263,-151.0108,66.4,2.8,ml,,,,0.38,ak,ak02553towzf,2025-04-22T09:53:11.319Z,"32 km SSW of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-04-21T15:07:57.624Z,63.2743,-151.314,0,1.8,ml,,,,0.54,ak,ak02553tmnci,2025-04-21T15:09:53.525Z,"36 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-21T15:05:19.390Z,61.342666666667,-152.22383333333,7.67,-0.77,ml,5,292,0.08427,0.15,av,av93039654,2025-04-22T00:11:36.510Z,"65 km WNW of Beluga, Alaska",earthquake,1.34,1.42,0.075491741969349,4,reviewed,av,av
 2025-04-21T14:53:45.800Z,33.0318333,-116.5853333,13.27,1.12,ml,52,34,0.05007,0.18,ci,ci40935519,2025-04-21T15:04:52.450Z,"5 km SSE of Julian, CA",earthquake,0.16,0.39,0.214,27,reviewed,ci,ci
@@ -223,4 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-21T10:00:09.430Z,61.2845,-152.32633333333,3.5,-0.39,ml,6,167,0.03378,0.28,av,av93582251,2025-04-21T21:46:23.670Z,"68 km WNW of Tyonek, Alaska",earthquake,1.34,1.29,0.34236495814866,6,reviewed,av,av
 2025-04-21T09:58:57.550Z,36.1255,-118.9773333,9.76,1.7,ml,15,125,0.03034,0.14,ci,ci40935303,2025-04-21T10:02:29.175Z,"8 km NNE of Porterville, CA",earthquake,0.27,0.48,0.18,22,automatic,ci,ci
 2025-04-21T09:58:25.390Z,38.778331756592,-122.75783538818,0.64999997615814,1.56,md,23,84,0.009798,0.04,nc,nc75169176,2025-04-21T11:52:17.748Z,"0 km NW of The Geysers, CA",earthquake,0.26,0.50999999,0.15,28,automatic,nc,nc
-2025-04-21T09:46:04.790Z,19.3385,-155.21083333333,6.35,0.7,md,21,69,0.03538,0.08,hv,hv74657467,2025-04-21T21:44:23.040Z,"11 km SSE of Volcano, Hawaii",earthquake,0.31,0.71,0.10449931333325,5,reviewed,hv,hv
