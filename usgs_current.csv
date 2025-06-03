@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-06-03T11:30:34.881Z,32.015,-101.688,3.575,2.3,ml,71,51,0.1,0.5,tx,tx2025kuky,2025-06-03T11:34:33.548Z,"15 km SE of Stanton, Texas",earthquake,0,0.70828711986542,0.1,47,automatic,tx,tx
+2025-06-03T11:30:34.881Z,32.015,-101.688,3.575,2.3,ml,71,51,0.1,0.5,tx,tx2025kuky,2025-06-03T11:34:39.581Z,"15 km SE of Stanton, Texas",earthquake,0,0.70828711986542,0.1,47,automatic,tx,tx
 2025-06-03T11:05:51.940Z,33.6808333,-117.3973333,8.75,1.67,ml,80,34,0.03971,0.24,ci,ci40983247,2025-06-03T11:16:31.340Z,"7 km WNW of Lake Elsinore, CA",earthquake,0.18,0.4,0.185,28,automatic,ci,ci
 2025-06-03T10:48:53.300Z,40.720664978027,-122.35866546631,12.770000457764,2.2,md,9,132,0.1402,0.13,nc,nc75190416,2025-06-03T11:22:18.646Z,"5 km NNE of Shasta Lake, CA",earthquake,0.65,1.59000003,0.14,12,automatic,nc,nc
 2025-06-03T10:48:07.010Z,38.803001403809,-122.77850341797,2.4100000858307,0.44,md,9,149,0.01038,0.01,nc,nc75190411,2025-06-03T10:49:41.892Z,"3 km NNW of The Geysers, CA",earthquake,0.51,0.959999979,0.21,10,automatic,nc,nc
@@ -19,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-03T08:20:49.590Z,37.1149,-115.8424,7.7,1.1,ml,19,140.91,0.112,0.1943,nn,nn00898430,2025-06-03T08:22:49.536Z,"59 km S of Rachel, Nevada",earthquake,,1.6,0.48,11,automatic,nn,nn
 2025-06-03T07:50:17.990Z,38.045333862305,-122.2620010376,4.9699997901917,1.85,md,28,50,0.03075,0.13,nc,nc75190386,2025-06-03T08:32:19.513Z,"1 km NNE of Rodeo, CA",earthquake,0.26,0.550000012,0.17,24,automatic,nc,nc
 2025-06-03T07:44:13.050Z,38.795333862305,-122.78182983398,3.6600000858307,0.53,md,10,94,0.005222,0.02,nc,nc75190381,2025-06-03T08:07:20.351Z,"3 km NW of The Geysers, CA",earthquake,0.44,1.13,0.21,10,automatic,nc,nc
-2025-06-03T07:34:42.242Z,44.3519,-114.9943,16.107,4,mwr,43,31,0.268,0.8,us,us6000qhl8,2025-06-03T11:26:24.650Z,"15 km NNW of Stanley, Idaho",earthquake,2.64,7.22,0.027,131,reviewed,us,us
+2025-06-03T07:34:42.242Z,44.3519,-114.9943,16.107,4,mwr,43,31,0.268,0.8,us,us6000qhl8,2025-06-03T11:44:52.162Z,"15 km NNW of Stanley, Idaho",earthquake,2.64,7.22,0.027,131,reviewed,us,us
 2025-06-03T07:15:06.623Z,63.3215,-145.4945,10.6,1.4,ml,,,,0.22,ak,ak02572t0pja,2025-06-03T07:16:37.448Z,"26 km NNE of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-06-03T07:07:22.410Z,36.165,-118.058,1.09,1.11,ml,24,59,0.1711,0.19,ci,ci40983223,2025-06-03T07:10:46.107Z,"14 km SSW of Olancha, CA",earthquake,0.24,0.93,0.14,18,automatic,ci,ci
 2025-06-03T07:03:03.860Z,18.0125,-66.444666666667,15.41,2.34,md,7,251,0.1422,0.21,pr,pr71484263,2025-06-03T07:20:18.820Z,"3 km N of Playita Cortada, Puerto Rico",earthquake,1.19,1.53,0.10869866048036,2,reviewed,pr,pr
@@ -230,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-02T12:04:43.431Z,36.6996,-116.3116,9.8,-0.3,ml,22,105.92,0.029,0.0845,nn,nn00898395,2025-06-02T13:38:48.256Z,"46 km ESE of Beatty, Nevada",earthquake,,0.7,0.06,3,reviewed,nn,nn
 2025-06-02T11:56:22.389Z,44.3463,-114.9922,5.971,3.2,ml,52,30,0.262,0.65,us,us6000qhed,2025-06-02T16:30:26.386Z,"14 km NNW of Stanley, Idaho",earthquake,1.83,5.785,0.027,180,reviewed,us,us
 2025-06-02T11:51:14.770Z,19.268167495727,-155.38400268555,1.5700000524521,1.71000004,md,52,118,0.03306,0.25,hv,hv74686452,2025-06-02T11:54:27.100Z,"12 km NE of Pāhala, Hawaii",earthquake,0.28,0.560000002,0.140000001,3,automatic,hv,hv
-2025-06-02T11:45:41.137Z,50.1728,-179.3909,33.2,3.5,ml,,,,0.63,ak,ak0257181llj,2025-06-02T19:10:56.201Z,"270 km SW of Adak, Alaska",earthquake,,2.1,,,reviewed,ak,ak
