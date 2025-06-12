@@ -5,9 +5,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-12T06:21:03.332Z,61.8783,-149.3139,0,1.5,ml,,,,0.72,ak,ak0257hoaof1,2025-06-12T06:22:56.844Z,"15 km NNW of Fishhook, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-06-12T06:20:37.710Z,38.822666168213,-122.81116485596,3.1600000858307,1.02,md,12,92,0.001121,0.01,nc,nc75194606,2025-06-12T06:22:15.795Z,"7 km NNW of The Geysers, CA",earthquake,0.38,0.850000024,0.26,17,automatic,nc,nc
 2025-06-12T06:19:02.700Z,38.821166992188,-122.81099700928,2.8599998950958,1,md,13,61,0.002339,0.02,nc,nc75194601,2025-06-12T06:20:40.781Z,"7 km NNW of The Geysers, CA",earthquake,0.35,0.74000001,0.23,16,automatic,nc,nc
-2025-06-12T06:16:54.091Z,31.492,-104.033,5.9145,1.6,ml,15,88,0,0.4,tx,tx2025lkmt,2025-06-12T06:20:03.028Z,"30 km NW of Toyah, Texas",earthquake,0,2.7239565849304,0.2,8,automatic,tx,tx
+2025-06-12T06:16:54.596Z,31.5,-104.025,3.6699,1.4,mlv,25,65,0,0.3,tx,tx2025lkmt,2025-06-12T06:50:05.517Z,"30 km NW of Toyah, Texas",earthquake,0,1.1481306552887,0.2,19,automatic,tx,tx
 2025-06-12T06:14:26.544Z,-63.1617,-164.3586,10,5.3,mb,39,116,17.248,0.69,us,us6000qjrq,2025-06-12T06:30:14.040Z,"Pacific-Antarctic Ridge",earthquake,13.35,1.892,0.101,33,reviewed,us,us
-2025-06-12T06:09:52.744Z,31.5,-104.032,3.8246,2.4,mlv,41,64,0,0.4,tx,tx2025lkmo,2025-06-12T06:49:57.608Z,"30 km NW of Toyah, Texas",earthquake,0,0.96642816066742,0.1,29,automatic,tx,tx
+2025-06-12T06:09:52.744Z,31.5,-104.032,3.8246,2.4,mlv,41,64,0,0.4,tx,tx2025lkmo,2025-06-12T06:50:03.523Z,"30 km NW of Toyah, Texas",earthquake,0,0.96642816066742,0.1,29,automatic,tx,tx
 2025-06-12T05:45:17.456Z,31.623,-104.468,3.0333,1.6,ml,29,104,0,0.5,tx,tx2025lklp,2025-06-12T05:48:32.374Z,"61 km S of Whites City, New Mexico",earthquake,0,1.2782809734344,0.1,18,automatic,tx,tx
 2025-06-12T05:42:21.576Z,31.701,-104.185,4.0425,2.1,mlv,36,59,0.1,0.4,tx,tx2025lkln,2025-06-12T06:49:41.726Z,"55 km W of Mentone, Texas",earthquake,0,1.0385394096375,0.2,25,automatic,tx,tx
 2025-06-12T05:36:43.020Z,34.36,-119.1825,1.16,2,ml,50,46,0.05695,0.33,ci,ci40991975,2025-06-12T06:36:46.219Z,"10 km NNE of Ventura, CA",earthquake,0.26,0.5,0.189,25,automatic,ci,ci
@@ -239,9 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-11T07:23:41.800Z,39.005666666667,-111.41716666667,-1.14,1.49,ml,18,84,0.04613,0.1,uu,uu80110106,2025-06-11T13:56:42.740Z,"17 km WNW of Emery, Utah",earthquake,0.35,0.39,0.26154399836827,3,reviewed,uu,uu
 2025-06-11T07:19:00.822Z,31.634,-104.488,3.4073,1.6,ml,11,91,0,0.3,tx,tx2025litd,2025-06-11T08:02:01.513Z,"60 km S of Whites City, New Mexico",earthquake,0,2.2013170719147,0.1,8,automatic,tx,tx
 2025-06-11T07:10:15.278Z,16.6241,-97.8613,40.911,4.8,mb,66,170,1.151,0.83,us,us6000qji4,2025-06-11T14:01:04.620Z,"1 km W of La Reforma, Mexico",earthquake,6.13,8.153,0.027,423,reviewed,us,us
-2025-06-11T06:59:44.575Z,59.6012,-152.8055,87.2,2.2,ml,,,,0.28,ak,ak0257g0zkbd,2025-06-11T07:09:20.040Z,"57 km WNW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-06-11T06:57:52.520Z,35.540333333333,-120.821,5.26,1.23,md,20,56,0.08207,0.07,nc,nc75194136,2025-06-11T09:35:54.102Z,"10 km W of Templeton, CA",earthquake,0.24,0.62,0.128,11,reviewed,nc,nc
-2025-06-11T06:57:30.720Z,33.8548333,-116.9305,12.19,0.7,ml,19,77,0.1128,0.12,ci,ci41182448,2025-06-11T18:01:15.704Z,"8 km NNE of San Jacinto, CA",earthquake,0.21,0.84,0.139,15,reviewed,ci,ci
-2025-06-11T06:57:22.100Z,44.338666666667,-115.01783333333,6.16,1.92,ml,13,78,0.0391,0.11,mb,mb90095343,2025-06-11T20:52:26.480Z,"14 km NNW of Stanley, Idaho",earthquake,0.28,0.67,0.06991560337975,12,reviewed,mb,mb
-2025-06-11T06:53:58.260Z,18.008833333333,-66.765,12.83,2.47,md,15,166,0.02758,0.19,pr,pr71485438,2025-06-11T07:20:33.820Z,"1 km SSE of Magas Arriba, Puerto Rico",earthquake,0.55,0.33,0.083706320599568,6,reviewed,pr,pr
-2025-06-11T06:51:48.580Z,38.836333333333,-122.80683333333,2.19,0.69,md,27,52,0.01304,0.02,nc,nc75194131,2025-06-11T10:46:17.164Z,"7 km WNW of Cobb, CA",earthquake,0.2,0.35,0.141,24,reviewed,nc,nc
