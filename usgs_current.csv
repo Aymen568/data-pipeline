@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-13T06:57:28.160Z,33.3561667,-116.2643333,11.45,0.77,ml,38,144,0.03839,0.18,ci,ci40992951,2025-06-13T07:01:00.347Z,"15 km NE of Borrego Springs, CA",earthquake,0.22,0.28,0.14,16,automatic,ci,ci
 2025-06-13T06:28:32.941Z,-15.2974,-176.2438,367.835,5.1,mb,63,50,4.38,0.97,us,us6000qk1c,2025-06-13T06:45:37.040Z,"223 km S of Mata-Utu, Wallis and Futuna",earthquake,10.43,7.685,0.026,498,reviewed,us,us
 2025-06-13T06:27:39.087Z,31.65,-104.285,4.1339,2.2,ml,41,68,0,0.3,tx,tx2025lnsfnc,2025-06-13T06:32:22.790Z,"58 km S of Whites City, New Mexico",earthquake,0,0.91043901443481,0.2,27,automatic,tx,tx
 2025-06-13T06:25:17.910Z,38.835834503174,-122.80666351318,1.9299999475479,1.27,md,18,52,0.0127,0.02,nc,nc75195006,2025-06-13T06:26:56.193Z,"7 km WNW of Cobb, CA",earthquake,0.22,0.610000014,0.16,22,automatic,nc,nc
@@ -137,6 +138,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-12T17:56:13.640Z,38.761333465576,-122.72550201416,2.0199999809265,0.74,md,8,169,0.0005642,0.02,nc,nc75194796,2025-06-12T17:57:49.533Z,"3 km SE of The Geysers, CA",earthquake,0.81,0.810000002,0.18,9,automatic,nc,nc
 2025-06-12T17:52:35.420Z,38.791332244873,-122.77966308594,2.1099998950958,1.04,md,10,110,0.006709,0.01,nc,nc75194791,2025-06-12T17:54:10.720Z,"3 km NW of The Geysers, CA",earthquake,0.41,0.870000005,0.21,11,automatic,nc,nc
 2025-06-12T17:50:00.470Z,32.4005,-115.243,11.1,2.26,ml,26,58,0.05576,0.29,ci,ci40992375,2025-06-12T19:39:26.176Z,"7 km NW of Delta, B.C., MX",earthquake,0.43,0.86,0.291,22,reviewed,ci,ci
+2025-06-12T17:45:22.390Z,38.8125,-122.81116666667,5.32,-0.16,md,10,171,0.01091,0.16,nc,nc75003703,2025-06-13T06:53:46.774Z,"6 km NW of The Geysers, CA",earthquake,0.98,0.71,0.071,8,reviewed,nc,nc
 2025-06-12T17:45:13.350Z,38.493,-122.27733333333,6.13,0.97,md,16,82,0.0568,0.1,nc,nc75194786,2025-06-13T06:47:44.733Z,"12 km NE of Yountville, CA",earthquake,0.25,0.85,0.101,9,reviewed,nc,nc
 2025-06-12T17:30:52.441Z,31.663,-104.294,7.6379,2.9,ml,38,67,0,0.2,tx,tx2025lmsmdc,2025-06-12T17:46:51.040Z,"57 km S of Whites City, New Mexico",earthquake,0.67401336281141,0.67724686630209,0.2,30,reviewed,tx,tx
 2025-06-12T17:25:29.641Z,-4.8485,150.9001,253.162,4.8,mb,77,54,1.419,0.72,us,us6000qjv7,2025-06-12T17:43:12.040Z,"114 km NE of Kimbe, Papua New Guinea",earthquake,8.35,6.288,0.037,228,reviewed,us,us
