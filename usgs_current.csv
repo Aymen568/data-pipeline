@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-29T14:56:07.000Z,35.7493324,-117.571167,7.09,1.18,ml,12,125,0.1465,0.1,ci,ci41008487,2025-06-29T14:58:28.737Z,"15 km W of Searles Valley, CA",earthquake,0.52,1.48,0.572,7,automatic,ci,ci
+2025-06-29T14:51:52.730Z,35.2491667,-118.6061667,5.26,1.02,ml,27,71,0.06999,0.19,ci,ci41008479,2025-06-29T14:55:22.874Z,"19 km NW of Tehachapi, CA",earthquake,0.25,0.56,0.207,19,automatic,ci,ci
 2025-06-29T14:26:01.838Z,61.4914,-151.0131,63.1,2.6,ml,,,,0.74,ak,ak02589x843b,2025-06-29T14:27:43.310Z,"27 km WSW of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-06-29T14:19:42.537Z,45.5769,42.2676,36.559,4.2,mb,24,64,1.649,0.79,us,us7000q9ju,2025-06-29T14:58:05.040Z,"14 km NE of Trunovskoye, Russia",earthquake,8.63,8.023,0.102,27,reviewed,us,us
 2025-06-29T14:18:37.330Z,33.9705,-116.8566667,17.76,1.2,ml,64,32,0.07621,0.18,ci,ci41008463,2025-06-29T14:29:33.130Z,"5 km NNE of Banning, CA",earthquake,0.15,0.38,0.265,28,automatic,ci,ci
 2025-06-29T14:16:30.890Z,38.804668426514,-122.78366851807,3.5499999523163,0.43,md,7,103,0.009669,0.01,nc,nc75202226,2025-06-29T14:32:18.761Z,"4 km NNW of The Geysers, CA",earthquake,0.6,2.02999997,0.3,10,automatic,nc,nc
 2025-06-29T14:05:06.380Z,33.1495,-116.078,9.85,0.7,ml,38,35,0.07567,0.23,ci,ci41008455,2025-06-29T14:08:32.930Z,"5 km E of Ocotillo Wells, CA",earthquake,0.23,0.65,0.232,10,automatic,ci,ci
@@ -119,7 +122,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-29T02:45:43.770Z,37.315333333333,-117.9195,10.83,2.22,md,35,90,0.302,0.12,nc,nc75202011,2025-06-29T10:47:18.144Z,"8 km SSE of Deep Springs, CA",earthquake,0.34,0.8,0.318,30,reviewed,nc,nc
 2025-06-29T02:43:41.885Z,37.3526,-117.8908,6.1,0.6,ml,6,172.34,0.067,0.1442,nn,nn00899688,2025-06-29T03:53:12.496Z,"38 km SSE of Dyer, Nevada",earthquake,,2.3,0.27,3,reviewed,nn,nn
 2025-06-29T02:42:10.856Z,37.3302,-117.91,8.1,1.7,ml,11,94.97,0.062,0.0679,nn,nn00899685,2025-06-29T03:53:39.737Z,"38 km ENE of Big Pine, California",earthquake,,1.5,0.81,4,reviewed,nn,nn
-2025-06-29T02:37:58.310Z,37.316,-117.92066666667,11.6,4.61,mw,65,69,0.3013,0.1,nc,nc75202001,2025-06-29T12:44:54.625Z,"8 km SSE of Deep Springs, CA",earthquake,0.23,0.57,,15,reviewed,nc,nc
+2025-06-29T02:37:58.310Z,37.316,-117.92066666667,11.6,4.61,mw,65,69,0.3013,0.1,nc,nc75202001,2025-06-29T14:48:10.447Z,"8 km SSE of Deep Springs, CA",earthquake,0.23,0.57,,15,reviewed,nc,nc
 2025-06-29T02:36:21.741Z,29.403,129.4384,10,4.3,mb,25,110,2.275,1.28,us,us7000q9g5,2025-06-29T03:52:13.040Z,"106 km N of Tatsugō, Japan",earthquake,7.52,1.949,0.178,9,reviewed,us,us
 2025-06-29T02:34:27.480Z,36.827499389648,-121.5693359375,6.1599998474121,3.12,ml,72,48,0.02956,0.2,nc,nc75201996,2025-06-29T05:26:08.620Z,"3 km WSW of San Juan Bautista, CA",earthquake,0.24,0.49000001,0.262,26,automatic,nc,nc
 2025-06-29T02:32:53.380Z,30.3299,69.9739,10,4.5,mb,32,96,4.233,1.21,us,us7000q9g2,2025-06-29T03:40:01.040Z,"64 km NE of Barkhan, Pakistan",earthquake,10.84,1.898,0.099,30,reviewed,us,us
@@ -221,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-28T15:36:51.860Z,57.9338,-155.0449,75.1,0.9,ml,,,,0.13,ak,ak02588acg8y,2025-06-28T15:38:17.764Z,"53 km NW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2025-06-28T15:05:46.760Z,35.995833333333,-83.832833333333,11.77,1.97,md,13,94,0.1258,0.11,se,se60609126,2025-06-29T13:25:17.990Z,"8 km ENE of Knoxville, Tennessee",earthquake,0.51,1.1,0.091194059823683,10,reviewed,se,se
 2025-06-28T15:04:26.291Z,31.645,-104.282,4.6195,1.5,ml,26,68,0,0.3,tx,tx2025mpxgba,2025-06-28T15:07:12.659Z,"59 km NW of Toyah, Texas",earthquake,0,1.0787348747253,0.2,18,automatic,tx,tx
-2025-06-28T14:51:39.350Z,51.793166666667,-178.75283333333,17.17,0.14,ml,5,199,0.01156,0.11,av,av93651396,2025-06-28T22:30:33.720Z,"146 km W of Adak, Alaska",earthquake,2.49,1,0.074219509356607,5,reviewed,av,av
