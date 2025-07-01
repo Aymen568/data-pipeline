@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-01T10:55:12.290Z,38.808666229248,-122.77850341797,2.6900000572205,0.77,md,13,68,0.004893,0.03,nc,nc75203036,2025-07-01T10:56:48.057Z,"4 km NNW of The Geysers, CA",earthquake,0.34,0.730000019,0.09,15,automatic,nc,nc
+2025-07-01T10:54:48.390Z,34.0073318,-117.1815033,14.94,1.22,ml,46,41,0.06024,0.17,ci,ci41010663,2025-07-01T10:57:13.915Z,"5 km S of Redlands, CA",earthquake,0.25,0.6,0.293,14,automatic,ci,ci
+2025-07-01T10:54:42.500Z,38.835166931152,-122.79750061035,2.1199998855591,0.67,md,13,74,0.006459,0.01,nc,nc75203031,2025-07-01T10:56:18.011Z,"7 km WNW of Cobb, CA",earthquake,0.34,0.75999999,0.46,14,automatic,nc,nc
+2025-07-01T10:47:58.685Z,59.9182,-152.7921,102.8,1.4,ml,,,,0.67,ak,ak0258d61p3w,2025-07-01T10:50:23.758Z,"56 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-07-01T10:40:28.240Z,33.6905,-116.7335,17.92,1.16,ml,62,27,0.02964,0.17,ci,ci41010655,2025-07-01T10:44:19.430Z,"6 km SSW of Idyllwild, CA",earthquake,0.15,0.26,0.2,26,automatic,ci,ci
 2025-07-01T10:20:46.982Z,32.065,-103.727,7.9327,2,ml,41,43,0,0.2,tx,tx2025mvbagh,2025-07-01T10:35:34.626Z,"37 km ESE of Malaga, New Mexico",earthquake,0.50272120949942,0.83986463064814,0.1,19,reviewed,tx,tx
 2025-07-01T09:55:41.394Z,60.9408,-152.2841,106.8,1.4,ml,,,,0.47,ak,ak0258d5hxwb,2025-07-01T09:58:07.455Z,"60 km WNW of Nikiski, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -7,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-01T09:32:21.356Z,61.7053,-151.3811,70.1,1.7,ml,,,,0.25,ak,ak0258d5cyvr,2025-07-01T09:34:08.722Z,"31 km S of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-07-01T09:18:32.659Z,32.755,-100.65,1.6345,1.5,ml,16,80,0.1,0.7,tx,tx2025muyypt,2025-07-01T10:00:49.859Z,"16 km NE of Hermleigh, Texas",earthquake,0,1.4211456775665,0.1,12,automatic,tx,tx
 2025-07-01T09:15:36.839Z,64.604,-147.6879,8.3,1,ml,,,,0.52,ak,ak0258d59cwj,2025-07-01T10:09:12.708Z,"23 km SW of North Pole, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-07-01T09:12:20.075Z,31.05,-103.718,6.1687,1.9,ml,26,63,0.1,0.5,tx,tx2025muytfo,2025-07-01T10:01:02.865Z,"7 km NNE of Balmorhea, Texas",earthquake,0,2.2914650440216,0.2,18,automatic,tx,tx
+2025-07-01T09:12:19.904Z,31.037,-103.714,9.74,1.8,ml,14,65,0.1,0.1,tx,tx2025muytfo,2025-07-01T10:56:48.742Z,"6 km NNE of Balmorhea, Texas",earthquake,0.80475385631769,1.9297231894298,0.1,11,reviewed,tx,tx
 2025-07-01T09:00:22.320Z,38.78150177002,-122.74466705322,0.5799999833107,0.96,md,10,86,0.006445,0.02,nc,nc75203016,2025-07-01T09:01:56.898Z,"1 km ENE of The Geysers, CA",earthquake,0.28,0.579999983,0.16,9,automatic,nc,nc
 2025-07-01T08:24:15.230Z,34.2051667,-117.5411667,10.05,0.83,ml,44,43,0.03449,0.15,ci,ci41010615,2025-07-01T08:28:13.473Z,"7 km SSW of Lytle Creek, CA",earthquake,0.19,0.25,0.172,30,automatic,ci,ci
 2025-07-01T08:18:31.100Z,33.3701667,-116.8688333,7.72,1.19,ml,69,22,0.0173,0.21,ci,ci41010599,2025-07-01T08:29:05.260Z,"2 km NNW of Palomar Observatory, CA",earthquake,0.15,0.51,0.151,25,automatic,ci,ci
@@ -30,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-01T06:52:33.428Z,36.7128,-116.2848,9.3,-0.1,ml,16,81.88,0.034,0.1664,nn,nn00899898,2025-07-01T06:54:22.653Z,"47 km ESE of Beatty, Nevada",earthquake,,0.7,0.39,10,automatic,nn,nn
 2025-07-01T06:52:15.950Z,17.864666666667,-66.841166666667,12.94,2.14,md,6,250,0.1156,0.05,pr,pr71487848,2025-07-01T07:12:15.190Z,"13 km SSE of Maria Antonia, Puerto Rico",earthquake,0.89,0.48,0.041590780997141,4,reviewed,pr,pr
 2025-07-01T06:48:34.910Z,37.392501831055,-118.58850097656,9.3100004196167,2.63,md,40,69,0.1321,0.15,nc,nc75202951,2025-07-01T08:12:18.752Z,"3 km S of Round Valley, CA",earthquake,0.41,1.96000004,0.15,32,automatic,nc,nc
-2025-07-01T06:43:53.526Z,35.90457535,-97.3378067,1.43860662,2.13,ml,71,30.84582138,0.1696475595,0.6381281909,ok,ok2025mtfj,2025-07-01T07:20:54.807Z,"8 km ENE of Guthrie, Oklahoma",earthquake,1.349840365,1.303396934,0.32,55,automatic,ok,ok
+2025-07-01T06:43:53.526Z,35.90457535,-97.3378067,1.43860662,2.13,ml,71,30.84582138,0.1696475595,0.6381281909,ok,ok2025mtfj,2025-07-01T10:46:14.203Z,"8 km ENE of Guthrie, Oklahoma",earthquake,1.349840365,1.303396934,0.32,55,automatic,ok,ok
 2025-07-01T06:40:20.860Z,19.38433265686,-155.4503326416,6.710000038147,1.79,ml,53,32,0.01383,0.200000003,hv,hv74713232,2025-07-01T06:44:01.530Z,"20 km N of Pāhala, Hawaii",earthquake,0.29,0.550000012,0.13,5,automatic,hv,hv
 2025-07-01T06:20:40.616Z,29.2804,129.36,10,4.4,mb,37,144,2.414,0.94,us,us7000q9xc,2025-07-01T06:43:22.040Z,"94 km NNW of Tatsugō, Japan",earthquake,8.95,1.918,0.106,26,reviewed,us,us
 2025-07-01T06:14:58.697Z,32.066,-103.727,7.4969,1.6,ml,36,43,0,0.2,tx,tx2025muswis,2025-07-01T09:35:28.568Z,"37 km ESE of Malaga, New Mexico",earthquake,0.49780913855879,0.50749500177463,0.2,20,reviewed,tx,tx
@@ -266,4 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-30T11:10:56.790Z,30.8238,70.3952,10,4.1,mb,26,259,3.831,1.36,us,us7000q9qh,2025-06-30T12:49:02.040Z,"27 km WNW of Taunsa, Pakistan",earthquake,13.92,2.005,0.165,10,reviewed,us,us
 2025-06-30T11:09:45.345Z,62.1958,-150.1922,50.6,1.7,ml,,,,0.39,ak,ak0258bivlza,2025-06-30T11:11:20.893Z,"13 km S of Trapper Creek, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-06-30T11:05:04.510Z,36.0248333,-117.7766667,1.47,0.76,ml,23,65,0.009254,0.17,ci,ci41009295,2025-06-30T13:43:41.135Z,"15 km NE of Little Lake, CA",earthquake,0.17,0.15,0.224,13,reviewed,ci,ci
-2025-06-30T10:47:48.890Z,33.3708333,-116.8658333,8.34,0.69,ml,38,28,0.01738,0.18,ci,ci41009287,2025-06-30T13:45:17.700Z,"2 km N of Palomar Observatory, CA",earthquake,0.18,0.48,0.12,25,reviewed,ci,ci
