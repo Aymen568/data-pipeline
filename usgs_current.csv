@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-07-02T21:31:57.540Z,38.55033493042,-122.76633453369,6.1100001335144,1.42,md,16,95,0.05896,0.08,nc,nc75203766,2025-07-02T21:33:35.940Z,"4 km  of Larkfield-Wikiup, CA",earthquake,0.29,0.75999999,0.13,13,automatic,nc,nc
+2025-07-02T21:31:57.540Z,38.55033493042,-122.76633453369,6.1100001335144,1.42,md,16,95,0.05896,0.08,nc,nc75203766,2025-07-02T21:47:17.874Z,"4 km  of Larkfield-Wikiup, CA",earthquake,0.29,0.75999999,0.13,13,automatic,nc,nc
 2025-07-02T21:03:36.680Z,38.815498352051,-122.811668396,3.2400000095367,0.75,md,12,103,0.01483,0.02,nc,nc75203756,2025-07-02T21:05:11.258Z,"6 km NW of The Geysers, CA",earthquake,0.4,0.800000012,0.06,13,automatic,nc,nc
 2025-07-02T20:44:20.814Z,31.323,-103.677,7.8364,1.7,ml,28,46,0.1,0.4,tx,tx2025mxrkkh,2025-07-02T20:47:57.432Z,"11 km E of Toyah, Texas",earthquake,0,1.8340651988983,0.2,19,automatic,tx,tx
 2025-07-02T20:41:30.890Z,40.286334991455,-124.49949645996,8.710000038147,2.21,md,13,287,0.12,0.15,nc,nc75203746,2025-07-02T21:07:17.542Z,"19 km W of Petrolia, CA",earthquake,4.41,1.30999994,0.06,8,automatic,nc,nc
@@ -175,6 +175,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-02T05:22:17.159Z,29.2434,129.2687,10,4.6,mb,57,88,2.479,1.08,us,us7000qa4z,2025-07-02T06:50:25.040Z,"93 km NNW of Tatsugō, Japan",earthquake,2.83,1.871,0.078,49,reviewed,us,us
 2025-07-02T05:17:25.391Z,32.074,-102.299,8.8623,2.1,ml,53,60,0.1,0.1,tx,tx2025mwmrsi,2025-07-02T07:31:40.440Z,"9 km NE of Gardendale, Texas",earthquake,0.29200854719215,0.38057706078079,0.2,36,reviewed,tx,tx
 2025-07-02T05:13:15.091Z,62.2362,-150.9557,65.5,1.5,ml,,,,0.2,ak,ak0258eqehv9,2025-07-02T05:15:22.723Z,"30 km SSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-07-02T05:10:20.140Z,61.271166666667,-152.2405,4.01,-0.13,ml,11,106,0.0417,0.09,av,av93654846,2025-07-02T21:35:24.600Z,"63 km WNW of Tyonek, Alaska",earthquake,0.24,0.2,0.22353313811026,11,reviewed,av,av
 2025-07-02T05:01:14.923Z,61.9604,-150.4157,60.9,2.5,ml,,,,0.46,ak,ak0258eqbxaa,2025-07-02T05:03:44.560Z,"30 km NW of Willow, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-07-02T04:58:21.480Z,38.7936668396,-122.75099945068,2.3699998855591,1.27,md,20,89,0.009728,0.03,nc,nc75203396,2025-07-02T05:32:18.822Z,"2 km NNE of The Geysers, CA",earthquake,0.26,0.50999999,0.21,20,automatic,nc,nc
 2025-07-02T04:47:39.186Z,61.2976,-152.4836,0,1.2,ml,,,,0.77,ak,ak0258eq0egu,2025-07-02T21:17:54.510Z,"76 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -266,4 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-01T22:13:13.619Z,34.70133333,-95.83483333,7.98,1.75,ml,35,190,0.4418133012,0.17,ok,ok2025muka,2025-07-02T12:33:19.325Z,"1 km SE of Pittsburg, Oklahoma",earthquake,,1.7,0.18,12,reviewed,ok,ok
 2025-07-01T22:10:53.450Z,19.2715,-155.3465,31.28,1.24,ml,18,139,0.04432,0.11,hv,hv74713842,2025-07-02T00:24:17.360Z,"15 km ENE of Pāhala, Hawaii",earthquake,1.49,0.73,0.17173668029337,10,reviewed,hv,hv
 2025-07-01T22:07:30.380Z,53.852166666667,-166.47933333333,10.93,0.42,ml,10,195,0.01646,0.12,av,av93654511,2025-07-02T01:36:35.480Z,"4 km SE of Unalaska, Alaska",earthquake,0.56,0.45,0.32078755965507,10,reviewed,av,av
-2025-07-01T21:38:27.932Z,39.1455,-119.0514,3.3,1.1,ml,9,102.44,0.217,0.2192,nn,nn00899953,2025-07-01T21:40:57.984Z,"20 km NNE of Yerington, Nevada",earthquake,,14.9,0.11,7,automatic,nn,nn
