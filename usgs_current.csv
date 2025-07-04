@@ -225,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-03T11:44:12.432Z,9.2803,93.8796,10,4.7,mb,49,75,5.046,0.73,us,us7000qaev,2025-07-03T12:13:12.040Z,"291 km SSE of Port Blair, India",earthquake,8.77,1.831,0.077,51,reviewed,us,us
 2025-07-03T11:38:53.282Z,31.674,-104.445,5.3308,0.9,ml,6,81,0,0.1,tx,tx2025myvbia,2025-07-03T11:48:04.235Z,"56 km S of Whites City, New Mexico",earthquake,1.2171969814083,0.89649497824473,0.2,12,reviewed,tx,tx
 2025-07-03T11:37:21.372Z,65.1719,-152.2401,5.2,1.9,ml,,,,1.06,ak,ak0258ghnlnt,2025-07-03T11:39:29.567Z,"7 km W of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-07-03T11:23:06.070Z,40.436164855957,-124.31632995606,12.949999809265,1.62,md,7,247,0.07332,0.03,nc,nc75203976,2025-07-03T12:12:18.043Z,"13 km  of Petrolia, CA",earthquake,3.61,2.97000003,0.13,7,automatic,nc,nc
