@@ -104,7 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-05T19:47:27.604Z,-22.7306,172.1265,10,5.3,mww,74,68,4.324,1.04,us,us7000qavd,2025-07-05T20:07:16.040Z,"southeast of the Loyalty Islands",earthquake,8.6,1.763,0.086,13,reviewed,us,us
 2025-07-05T19:42:20.924Z,6.3214,95.1103,10,5.5,mww,98,46,2.126,0.99,us,us7000qavc,2025-07-05T22:07:21.867Z,"52 km NNW of Sabang, Indonesia",earthquake,8.02,1.837,0.069,20,reviewed,us,us
 2025-07-05T19:12:49.585Z,39.3108,-99.7353,9.752,2.6,mb_lg,32,47,0.496,0.45,us,us7000qav8,2025-07-05T21:28:03.085Z,"7 km SW of Bogue, Kansas",earthquake,2.08,7.488,0.059,75,reviewed,us,us
-2025-07-05T19:12:08.780Z,58.554,-153.903,34.9,1.8,ml,,,,1.21,ak,ak0258jxcdm6,2025-07-06T01:28:15.200Z,"80 km NW of Aleneva, Alaska",earthquake,,4.1,,,automatic,ak,ak
+2025-07-05T19:12:19.360Z,58.268666666667,-154.962,2.19,0.63,ml,7,246,0.06022,0.07,av,av93658851,2025-07-06T06:01:16.637Z,"83 km NNW of Karluk, Alaska",earthquake,0.42,0.35,0.23284970730917,8,reviewed,av,av
 2025-07-05T19:07:56.161Z,58.7337,-152.7223,71.2,2,ml,,,,0.43,ak,ak0258jxbeow,2025-07-05T19:10:44.728Z,"75 km N of Aleneva, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-07-05T19:06:12.500Z,33.9335,-117.0868333,13.6,1.45,ml,71,36,0.07278,0.18,ci,ci41015007,2025-07-05T19:17:26.870Z,"7 km SSW of Calimesa, CA",earthquake,0.13,0.36,0.225,29,automatic,ci,ci
 2025-07-05T18:36:10.260Z,38.799167633057,-122.7799987793,3.5,1.93,md,47,59,0.008605,0.07,nc,nc75205802,2025-07-05T19:22:16.372Z,"3 km NNW of The Geysers, CA",earthquake,0.2,0.300000012,0.11,45,automatic,nc,nc
@@ -220,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-05T06:16:02.000Z,33.9266667,-116.6765,16.98,0.84,ml,10,96,0.1141,0.29,ci,ci41014647,2025-07-05T06:19:34.791Z,"10 km E of Cabazon, CA",earthquake,0.78,2.25,0.169,25,automatic,ci,ci
 2025-07-05T06:11:35.699Z,54.5927,160.5944,92.41,4.7,mb,124,79,1.95,0.81,us,us7000qasx,2025-07-05T06:29:40.040Z,"127 km E of Mil’kovo, Russia",earthquake,8.56,7.107,0.026,434,reviewed,us,us
 2025-07-05T06:07:45.551Z,65.2649,-148.964,10.8,1.9,ml,,,,0.21,ak,ak0258jpkr0b,2025-07-05T06:09:19.254Z,"22 km NE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-07-05T05:58:35.630Z,34.017,-117.1476667,4.95,0.67,ml,30,103,0.0346,0.19,ci,ci41014639,2025-07-05T06:01:58.649Z,"5 km SE of Redlands, CA",earthquake,0.25,0.44,0.139,18,automatic,ci,ci
