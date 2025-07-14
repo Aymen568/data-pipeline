@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-14T16:57:27.745Z,64.0326,-148.8004,1.5,1.6,ml,,,,0.63,ak,ak0258yrnvxi,2025-07-14T16:59:18.463Z,"15 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-07-14T16:56:37.127Z,35.57326126,-98.15420532,2.032461643,2.17,ml,27,87.03900146,0.1122701615,1.418124302,ok,ok2025nrtd,2025-07-14T16:59:50.890Z,"4 km SW of Calumet, Oklahoma",earthquake,2.555151443,1.855434603,0.41,6,automatic,ok,ok
+2025-07-14T16:45:17.820Z,38.811332702637,-122.80599975586,2.789999961853,0.76,md,8,121,0.009007,0.01,nc,nc75209852,2025-07-14T16:46:56.059Z,"6 km NW of The Geysers, CA",earthquake,0.54,1.75,0.04,8,automatic,nc,nc
+2025-07-14T16:38:16.387Z,61.6048,-152.1624,22.2,0.6,ml,,,,1.84,ak,ak0258yrjsg6,2025-07-14T16:45:33.913Z,"58 km SW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-07-14T16:30:33.506Z,32.07,-103.732,6.9764,2.3,ml,41,63,0,0.4,tx,tx2025ntjsgt,2025-07-14T16:36:19.256Z,"36 km ESE of Malaga, New Mexico",earthquake,0,1.5739480257034,0.2,22,automatic,tx,tx
 2025-07-14T16:09:06.259Z,64.8425,-148.4207,18.1,0.5,ml,,,,0.57,ak,ak0258yrdjwh,2025-07-14T16:10:53.054Z,"19 km W of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-07-14T15:53:18.085Z,62.1629,-152.0707,103.6,1.5,ml,,,,0.6,ak,ak0258yr1kps,2025-07-14T15:56:29.642Z,"40 km WNW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -31,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-14T12:52:18.446Z,-2.0652,120.7166,10,5,mww,58,61,0.608,1.53,us,us7000qcky,2025-07-14T13:11:39.040Z,"69 km NE of Masamba, Indonesia",earthquake,3.73,1.769,0.073,18,reviewed,us,us
 2025-07-14T12:41:03.820Z,46.851165771484,-121.76699829102,-0.46000000834465,0.769999981,md,23,73,,0.0399999991,uw,uw62141797,2025-07-14T12:42:49.290Z,"22 km ENE of Ashford, Washington",earthquake,0.23,0.75,0.75999999,2,automatic,uw,uw
 2025-07-14T12:31:50.948Z,56.6621,-155.0758,0,2,ml,,,,0.66,ak,ak0258yp4mom,2025-07-14T12:33:40.022Z,"63 km WSW of Akhiok, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2025-07-14T12:18:02.055Z,59.8706,-153.3308,134.8,4.4,ml,,,,1,ak,ak0258yp1qg3,2025-07-14T16:37:39.851Z,"44 km ENE of Pedro Bay, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2025-07-14T12:18:02.055Z,59.8706,-153.3308,134.8,4.4,ml,,,,1,ak,ak0258yp1qg3,2025-07-14T16:42:55.423Z,"44 km ENE of Pedro Bay, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2025-07-14T12:16:39.690Z,36.7879,-116.241,7.9,0.1,ml,19,53.92,0.046,0.1513,nn,nn00900583,2025-07-14T12:18:28.037Z,"48 km ESE of Beatty, Nevada",earthquake,,0.8,0.26,12,automatic,nn,nn
 2025-07-14T12:11:12.730Z,33.7511667,-116.7846667,14.69,1.44,ml,71,21,0.05794,0.17,ci,ci41022255,2025-07-14T14:04:39.270Z,"6 km WNW of Idyllwild, CA",earthquake,0.13,0.22,0.267,27,reviewed,ci,ci
 2025-07-14T11:37:02.056Z,-2.8383,129.5355,10,4.7,mb,48,50,1.713,0.65,us,us7000qckq,2025-07-14T11:54:47.040Z,"80 km NE of Masohi, Indonesia",earthquake,6.9,1.876,0.082,45,reviewed,us,us
@@ -159,6 +163,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-13T22:06:05.730Z,36.1698333,-118.0303333,2.39,1.69,ml,30,55,0.0848,0.16,ci,ci41022015,2025-07-14T14:08:25.502Z,"13 km S of Olancha, CA",earthquake,0.19,0.84,0.169,25,reviewed,ci,ci
 2025-07-13T21:59:58.280Z,37.386501312256,-121.73699951172,7.0500001907349,1.31,md,14,67,0.08129,0.01,nc,nc75209517,2025-07-13T22:27:16.683Z,"8 km E of Alum Rock, CA",earthquake,0.32,1.07000005,0.16,11,automatic,nc,nc
 2025-07-13T21:59:03.540Z,38.790000915527,-122.76850128174,1.6100000143051,1.23,md,18,78,0.01264,0.02,nc,nc75209512,2025-07-13T22:57:18.899Z,"2 km NNW of The Geysers, CA",earthquake,0.22,0.400000006,0.24,18,automatic,nc,nc
+2025-07-13T21:46:30.696Z,32.119,-101.039,5.0049,1.2,ml,15,75,0.2,0.2,tx,tx2025nryltb,2025-07-14T16:54:17.077Z,"26 km S of Westbrook, Texas",earthquake,0.93486527916684,3.4303291048361,0.1,13,reviewed,tx,tx
 2025-07-13T21:27:00.850Z,38.79683303833,-122.81466674805,3.1500000953674,0.74,md,14,90,0.01242,0.03,nc,nc75209497,2025-07-13T21:28:37.841Z,"5 km NW of The Geysers, CA",earthquake,0.38,0.600000024,0.09,14,automatic,nc,nc
 2025-07-13T21:22:20.520Z,48.118833333333,-121.27966666667,12.36,1.16,ml,12,91,0.09492,0.23,uw,uw62141247,2025-07-13T22:47:01.950Z,"28 km ESE of Darrington, Washington",earthquake,0.44,1.29,0.14497843359279,3,reviewed,uw,uw
 2025-07-13T21:18:38.933Z,36.4882,70.6947,191.768,4.1,mb,26,157,2.313,0.61,us,us7000qch1,2025-07-14T03:59:30.040Z,"43 km SSW of Jurm, Afghanistan",earthquake,8.38,12.333,0.234,5,reviewed,us,us
@@ -214,8 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-13T17:36:05.880Z,38.827667236328,-122.85483551025,2.1600000858307,0.64,md,8,83,0.001596,0.02,nc,nc75209382,2025-07-13T17:37:43.279Z,"10 km NW of The Geysers, CA",earthquake,0.34,1.15999997,0.16,8,automatic,nc,nc
 2025-07-13T17:31:17.940Z,38.828498840332,-122.85549926758,2.5599999427795,1.1,md,20,70,0.001435,0.02,nc,nc75209377,2025-07-13T18:17:21.937Z,"10 km NW of The Geysers, CA",earthquake,0.32,0.439999998,0.17,22,automatic,nc,nc
 2025-07-13T17:08:31.252Z,7.1009,127.4752,10,5.1,mww,55,52,1.882,1.24,us,us7000qcft,2025-07-13T17:28:16.040Z,"101 km ESE of Santiago, Philippines",earthquake,7.5,1.874,0.103,9,reviewed,us,us
-2025-07-13T16:54:51.150Z,36.1743333,-118.0253333,3.11,0.87,ml,24,55,0.1492,0.17,ci,ci41021863,2025-07-13T20:59:12.841Z,"12 km S of Olancha, CA",earthquake,0.23,0.66,0.17,15,reviewed,ci,ci
-2025-07-13T16:53:31.350Z,19.187000274658,-155.48649597168,32.330001831055,2,ml,54,77,0.03897,0.129999995,hv,hv74724592,2025-07-13T16:56:52.930Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.46,0.5,0.17,9,automatic,hv,hv
-2025-07-13T16:52:31.450Z,63.0731,-149.8449,79.8,1.9,ml,,,,0.4,ak,ak0258x43h4b,2025-07-13T16:54:04.881Z,"57 km SW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2025-07-13T16:50:56.472Z,32.359,-102.027,5.835,0.6,ml,10,64,0,0.2,tx,tx2025nrorad,2025-07-14T16:02:32.382Z,"33 km NW of Stanton, Texas",earthquake,0.75265634037593,1.3761325026227,0.3,5,reviewed,tx,tx
-2025-07-13T16:41:05.370Z,33.7836667,-116.0851667,1.51,0.8,ml,36,46,0.1143,0.23,ci,ci41021855,2025-07-13T16:44:32.311Z,"14 km ENE of Indio, CA",earthquake,0.24,0.46,0.127,12,automatic,ci,ci
