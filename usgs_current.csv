@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-22T21:41:42.225Z,63.482,-150.8732,0.1,1.4,ml,,,,0.32,ak,ak0259c2ufke,2025-07-22T21:43:23.863Z,"42 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-07-22T21:39:24.316Z,32.132,-101.635,2.998,1.5,ml,30,63,0,0.5,tx,tx2025oiltlh,2025-07-22T21:42:15.472Z,"14 km E of Stanton, Texas",earthquake,0,0.97293299436569,0.2,20,automatic,tx,tx
+2025-07-22T21:37:27.071Z,63.5136,-150.9224,0,1.2,ml,,,,1.33,ak,ak0259c2tjj7,2025-07-22T21:39:44.564Z,"39 km E of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
+2025-07-22T21:34:14.410Z,33.7136667,-116.8158333,13.66,0.98,ml,29,103,0.0876,0.17,ci,ci41029167,2025-07-22T21:37:45.940Z,"8 km ESE of Valle Vista, CA",earthquake,0.39,0.56,0.29,23,automatic,ci,ci
 2025-07-22T21:27:46.459Z,61.9026,-150.0575,32.2,1.9,ml,,,,0.59,ak,ak0259c2rfv9,2025-07-22T21:29:11.890Z,"17 km N of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-22T21:24:46.720Z,38.826999664307,-122.81133270264,3.0999999046326,0.81,md,7,89,0.01891,0.01,nc,nc75213672,2025-07-22T21:26:22.577Z,"7 km NNW of The Geysers, CA",earthquake,0.54,1.82000005,0.13,10,automatic,nc,nc
 2025-07-22T21:24:20.268Z,64.4806,-146.9211,8.8,0.7,ml,,,,0.31,ak,ak0259c2qqp6,2025-07-22T21:26:26.287Z,"4 km S of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -21,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-22T18:42:12.670Z,33.9131667,-116.7126667,10.1,1.53,ml,70,18,0.0594,0.19,ci,ci41028887,2025-07-22T18:53:30.250Z,"7 km E of Cabazon, CA",earthquake,0.13,0.37,0.099,26,automatic,ci,ci
 2025-07-22T18:40:03.220Z,34.6398333,-117.121,-1.38,1.21,ml,18,67,0.2004,0.17,ci,ci41028895,2025-07-22T21:09:23.044Z,"17 km NNE of Apple Valley, CA",quarry blast,0.38,31.61,0.097,33,reviewed,ci,ci
 2025-07-22T18:31:16.417Z,59.0567,-153.0472,73.5,3,ml,,,,0.38,ak,ak0259c0zxl8,2025-07-22T19:18:38.040Z,"72 km WSW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-07-22T18:24:28.420Z,44.928166666667,-111.762,18.34,1.09,ml,9,94,0.06928,0.05,mb,mb90103093,2025-07-22T21:29:24.930Z,"43 km SSE of Virginia City, Montana",earthquake,0.42,1.04,0.32273631450885,7,reviewed,mb,mb
+2025-07-22T18:24:28.420Z,44.928166666667,-111.762,18.34,1.05,ml,9,94,0.06928,0.05,mb,mb90103093,2025-07-22T21:32:00.620Z,"43 km SSE of Virginia City, Montana",earthquake,0.42,1.04,0.30722013588715,9,reviewed,mb,mb
 2025-07-22T18:10:36.200Z,46.850166666667,-121.75983333333,0.01,0.27,ml,9,112,0.02274,0.07,uw,uw62156721,2025-07-22T18:51:10.980Z,"23 km ENE of Ashford, Washington",earthquake,0.22,0.64,0.051496887154155,3,reviewed,uw,uw
 2025-07-22T18:03:38.767Z,31.544,-104.346,5,1.7,ml,16,124,0.1,0.9,tx,tx2025oiepmw,2025-07-22T18:06:29.048Z,"58 km WNW of Toyah, Texas",earthquake,0,,0.2,9,automatic,tx,tx
 2025-07-22T18:01:32.590Z,33.4053333,-116.4215,11.94,0.35,ml,8,109,0.103,0.1,ci,ci41028847,2025-07-22T21:02:02.220Z,"17 km NNW of Borrego Springs, CA",earthquake,0.34,1.03,0.205,9,reviewed,ci,ci
@@ -278,4 +282,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-21T22:01:10.410Z,39.1389,139.8246,128.458,4.5,mb,26,157,2.889,0.93,us,us6000qu0n,2025-07-22T01:35:15.040Z,"16 km NNW of Yuza, Japan",earthquake,11.8,10.182,0.127,18,reviewed,us,us
 2025-07-21T21:53:37.189Z,61.301,-152.5151,0.1,0.9,ml,,,,0.2,ak,ak0259afdn9y,2025-07-21T21:55:20.961Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-07-21T21:51:32.973Z,40.8036,-74.5872,5,0.7,ml,4,311,0.163,0.44,us,us6000qu4w,2025-07-22T20:01:25.275Z,"3 km NNE of Mendham, New Jersey",earthquake,3.24,2.024,0.128,8,reviewed,us,us
-2025-07-21T21:37:47.089Z,61.6223,-149.8103,34.2,1.3,ml,,,,0.34,ak,ak0259afa8l0,2025-07-21T21:39:20.669Z,"0 km SSE of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
