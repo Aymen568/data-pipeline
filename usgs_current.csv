@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-08T09:56:37.190Z,33.2988333,-116.1626667,2.36,1.4,ml,68,36,0.1306,0.22,ci,ci41256232,2025-08-08T10:00:00.201Z,"18 km N of Ocotillo Wells, CA",earthquake,0.15,0.4,0.205,7,automatic,ci,ci
+2025-08-08T09:52:16.174Z,65.5212,-152.9316,0,1.5,ml,,,,1.47,ak,ak025a3zwfkh,2025-08-08T09:54:07.678Z,"55 km NW of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-08T09:41:34.640Z,19.16233253479,-155.47933959961,30.319999694824,1.99000001,md,57,112,0.01768,0.109999999,hv,hv74746147,2025-08-08T09:45:02.940Z,"4 km S of Pāhala, Hawaii",earthquake,0.45,0.5,0.170000002,5,automatic,hv,hv
 2025-08-08T09:38:48.890Z,19.405834197998,-155.28083801269,-0.40000000596046,1.7,ml,12,77,0.01216,0.25,hv,hv74746137,2025-08-08T09:41:44.960Z,"6 km SW of Volcano, Hawaii",earthquake,0.27,0.49000001,0.21,16,automatic,hv,hv
 2025-08-08T09:21:34.985Z,59.5269,-153.0064,76.3,1.8,ml,,,,0.51,ak,ak025a3zpttm,2025-08-08T09:23:52.768Z,"64 km WNW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -241,7 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-07T10:29:38.330Z,61.148666666667,-152.3125,2.51,-0.44,ml,6,270,0.04894,0.11,av,av93047934,2025-08-07T23:21:17.240Z,"64 km W of Tyonek, Alaska",earthquake,0.69,0.54,0.13446489376029,6,reviewed,av,av
 2025-08-07T10:26:05.890Z,61.145333333333,-152.32733333333,3.92,1.22,ml,16,113,0.05081,0.21,av,av93706763,2025-08-07T23:15:59.690Z,"64 km W of Tyonek, Alaska",earthquake,0.36,0.35,0.18731601023298,17,reviewed,av,av
 2025-08-07T10:02:51.930Z,33.5191667,-116.519,13.09,0.57,ml,23,71,0.07367,0.1,ci,ci41255368,2025-08-07T12:42:55.311Z,"15 km ESE of Anza, CA",earthquake,0.18,0.32,0.207,9,reviewed,ci,ci
-2025-08-07T10:00:43.590Z,61.310333333333,-152.49116666667,3.05,-0.17,ml,9,118,0.04942,0.08,av,av93706738,2025-08-07T23:10:02.890Z,"77 km WNW of Tyonek, Alaska",earthquake,0.37,0.39,0.25915142105546,10,reviewed,av,av
-2025-08-07T09:52:21.190Z,47.6235,-121.92433333333,15.68,0.82,ml,7,200,0.04235,0.08,uw,uw62167131,2025-08-08T06:29:21.370Z,"2 km SSW of Carnation, Washington",earthquake,0.47,0.86,0.044278995431012,3,reviewed,uw,uw
-2025-08-07T09:50:24.219Z,34.49933333,-97.66483333,6,1.87,ml,64,59,0.171866274,0.3,ok,ok2025pjbd,2025-08-07T16:25:54.596Z,"4 km N of Velma, Oklahoma",earthquake,,0.9,0.19,28,reviewed,ok,ok
-2025-08-07T09:48:56.298Z,36.8457,21.7164,10,4.8,mb,59,113,0.372,1.48,us,us6000qytt,2025-08-07T17:06:50.220Z,"3 km NNE of Methóni, Greece",earthquake,4.74,1.872,0.051,118,reviewed,us,us
