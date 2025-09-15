@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-15T11:54:44.574Z,31.611,-104.104,4.8384,2.2,ml,37,57,0,0.3,tx,tx2025sericp,2025-09-15T11:58:56.251Z,"44 km NW of Toyah, Texas",earthquake,0,0.88588172197342,0.2,29,automatic,tx,tx
 2025-09-15T11:20:24.500Z,33.8133333,-117.6443333,4.76,0.82,ml,23,110,0.03444,0.14,ci,ci41291744,2025-09-15T11:24:37.497Z,"10 km SW of Corona, CA",earthquake,0.22,0.37,0.311,18,automatic,ci,ci
 2025-09-15T11:13:51.970Z,35.7,-117.5176667,8.37,1.13,ml,31,51,0.08404,0.17,ci,ci41291736,2025-09-15T11:26:10.813Z,"13 km SW of Searles Valley, CA",earthquake,0.19,0.67,0.151,16,automatic,ci,ci
 2025-09-15T11:10:38.534Z,65.0699,-149.1573,5.9,1.1,ml,,,,0.76,ak,ak025buv9j71,2025-09-15T11:12:19.538Z,"12 km SE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -58,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T03:57:20.170Z,33.4813333,-116.818,5.45,2.08,ml,100,18,0.02331,0.23,ci,ci41291536,2025-09-15T04:08:26.540Z,"6 km NE of Aguanga, CA",earthquake,0.13,0.45,0.148,25,automatic,ci,ci
 2025-09-15T03:53:25.869Z,36.6748,25.6615,15.464,4.4,mb,49,50,1.655,0.85,us,us7000qw8t,2025-09-15T09:50:06.334Z,"27 km SW of Amorgós, Greece",earthquake,4.59,3.876,0.091,35,reviewed,us,us
 2025-09-15T03:42:52.750Z,33.6431667,-117.0108333,12.58,0.7,ml,36,58,0.00692,0.13,ci,ci41291528,2025-09-15T03:46:18.504Z,"10 km SE of Winchester, CA",earthquake,0.19,0.28,0.184,21,automatic,ci,ci
-2025-09-15T03:42:12.100Z,35.30652618,-97.95574188,1.810321093,1.76,ml,12,66.3999939,0.08975224942,1.130483518,ok,ok2025sbvq,2025-09-15T03:43:51.936Z,"1 km SW of Minco, Oklahoma",earthquake,3.382986484,2.360000656,0.31,10,automatic,ok,ok
+2025-09-15T03:42:11.349Z,35.33533333,-97.93366667,6.27,1.24,ml,55,55,0.05668887571,0.41,ok,ok2025sbvq,2025-09-15T11:57:47.940Z,"2 km NNE of Minco, Oklahoma",earthquake,,0.7,0.22,25,reviewed,ok,ok
 2025-09-15T03:41:00.914Z,60.0564,-151.5094,55.4,1.7,ml,,,,0.37,ak,ak025buqomnf,2025-09-15T03:42:16.678Z,"8 km E of Ninilchik, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-09-15T03:37:59.480Z,33.5445,-116.7101667,3.47,0.4,ml,32,57,0.03079,0.12,ci,ci41291520,2025-09-15T03:41:29.486Z,"4 km WSW of Anza, CA",earthquake,0.14,0.26,0.217,12,automatic,ci,ci
 2025-09-15T03:31:36.510Z,34.0325,-117.109,10.84,0.66,ml,31,86,0.07432,0.15,ci,ci41291512,2025-09-15T03:35:30.458Z,"5 km SSE of Mentone, CA",earthquake,0.22,0.5,0.149,18,automatic,ci,ci
