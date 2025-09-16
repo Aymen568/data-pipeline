@@ -1,6 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-16T17:17:10.525Z,61.403,-146.9838,10,1.9,ml,,,,0.68,ak,ak025bwmex64,2025-09-16T17:19:15.282Z,"45 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-09-16T16:59:51.491Z,-5.4693,153.7519,77.666,6,mww,164,43,2.029,0.71,us,us7000qwir,2025-09-16T17:27:03.002Z,"206 km SE of Kokopo, Papua New Guinea",earthquake,6.97,6.471,0.042,55,reviewed,us,us
+2025-09-16T16:59:51.491Z,-5.4693,153.7519,77.666,6,mww,164,43,2.029,0.71,us,us7000qwir,2025-09-16T17:32:48.060Z,"206 km SE of Kokopo, Papua New Guinea",earthquake,6.97,6.471,0.042,55,reviewed,us,us
 2025-09-16T16:56:34.649Z,57.0352,-154.695,6.9,2.8,ml,,,,0.39,ak,ak025bwm1wco,2025-09-16T17:22:58.040Z,"33 km WNW of Akhiok, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-16T16:53:12.090Z,40.297500610352,-124.51132965088,22.420000076294,1.89,md,9,307,0.1586,0.16,nc,nc75238442,2025-09-16T17:17:21.444Z,"19 km W of Petrolia, CA",earthquake,5.39,1.13999999,0.1,5,automatic,nc,nc
 2025-09-16T16:18:30.130Z,38.82816696167,-122.89817047119,4.4699997901917,0.87,md,10,116,0.01214,0.02,nc,nc75238432,2025-09-16T17:07:19.364Z,"11 km E of Cloverdale, CA",earthquake,0.56,1.13999999,0.14,9,automatic,nc,nc
@@ -102,6 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T03:22:42.848Z,-18.1522,-177.8149,585.524,4.4,mb,42,116,3.163,0.6,us,us7000qwf6,2025-09-16T04:17:42.040Z,"Fiji region",earthquake,14.5,8.704,0.099,29,reviewed,us,us
 2025-09-16T03:20:29.940Z,35.0158333,-118.492,6.54,0.88,ml,21,53,0.126,0.15,ci,ci41292128,2025-09-16T03:23:56.387Z,"14 km SSW of Tehachapi, CA",earthquake,0.2,0.86,0.197,17,automatic,ci,ci
 2025-09-16T03:18:27.232Z,39.5181,143.3224,10,4.4,mb,23,152,2.146,0.66,us,us7000qwf4,2025-09-16T03:38:36.040Z,"118 km E of Yamada, Japan",earthquake,8.47,1.903,0.149,13,reviewed,us,us
+2025-09-16T03:04:18.780Z,39.1515,-119.0598,12.7,0.9,ml,10,85.31,0.218,0.1396,nn,nn00904416,2025-09-16T17:41:33.525Z,"20 km NNE of Yerington, Nevada",earthquake,,3.7,0.22,5,reviewed,nn,nn
 2025-09-16T02:56:02.140Z,38.797668457031,-122.72933197022,-0.0099999997764826,1.94,md,28,55,0.02392,0.07,nc,nc75238237,2025-09-16T05:52:17.523Z,"3 km SSW of Cobb, CA",earthquake,0.2,0.419999987,0.11,27,automatic,nc,nc
 2025-09-16T02:55:43.013Z,31.678,-104.387,6.0999,1.7,ml,29,70,0,0.2,tx,tx2025sfvemc,2025-09-16T08:44:15.711Z,"55 km S of Whites City, New Mexico",earthquake,0.82513570933134,0.54566341655955,0.2,18,reviewed,tx,tx
 2025-09-16T02:52:35.540Z,32.4056667,-116.9568333,0.99,0.93,ml,18,110,0.2466,0.19,ci,ci41292120,2025-09-16T02:56:00.296Z,"11 km NE of Rosarito, B.C., MX",earthquake,0.63,2.32,0.152,6,automatic,ci,ci
@@ -204,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T18:02:52.250Z,33.5458333,-116.7086667,3.65,0.42,ml,18,93,0.03086,0.1,ci,ci41291872,2025-09-15T20:31:14.442Z,"3 km WSW of Anza, CA",earthquake,0.18,0.27,0.137,9,reviewed,ci,ci
 2025-09-15T18:01:01.845Z,19.2859,119.7149,10,4.5,mb,54,123,3.738,0.68,us,us7000qwcl,2025-09-15T18:24:25.040Z,"127 km NW of Davila, Philippines",earthquake,11.48,1.908,0.083,42,reviewed,us,us
 2025-09-15T17:51:17.840Z,51.882,178.4655,6.28,1.58,ml,4,328,0.07222,0.12,av,av93770328,2025-09-16T02:51:25.620Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.73,2.52,0.16907901749957,4,reviewed,av,av
-2025-09-15T17:34:48.150Z,31.673,-104.409,6.0999,1.8,ml,35,69,0,0.2,tx,tx2025sfcpbg,2025-09-16T16:28:37.435Z,"55 km S of Whites City, New Mexico",earthquake,0.78713206046304,0.54266773139886,0.1,19,reviewed,tx,tx
