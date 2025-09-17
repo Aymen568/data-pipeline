@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-17T00:01:16.590Z,39.514667510986,-123.34866333008,5.8899998664856,1.76,md,14,72,0.04644,0.04,nc,nc75238572,2025-09-17T00:02:52.435Z,"8 km NNE of Brooktrails, CA",earthquake,0.25,0.649999976,0.19,7,automatic,nc,nc
+2025-09-16T23:53:56.210Z,40.499500274658,-124.45099639893,15.479999542236,1.85,md,14,302,0.1682,0.06,nc,nc75238567,2025-09-16T23:55:32.676Z,"18 km WSW of Ferndale, CA",earthquake,2.74,0.810000002,0.1,8,automatic,nc,nc
 2025-09-16T23:49:39.906Z,58.0714,-156.3001,8.3,2,ml,,,,0.54,ak,ak025bwq6fza,2025-09-16T23:51:28.351Z,"65 km ESE of Egegik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-16T23:45:35.290Z,35.0233333,-117.7095,0.3,1.36,ml,18,205,0.0894,0.11,ci,ci41292576,2025-09-16T23:51:18.940Z,"6 km WNW of Boron, CA",earthquake,0.7,0.5,0.121,27,automatic,ci,ci
 2025-09-16T23:04:09.282Z,36.7699,-116.2562,11,-0.5,ml,8,129.67,0.051,0.0436,nn,nn00904454,2025-09-16T23:06:15.538Z,"47 km ESE of Beatty, Nevada",earthquake,,2.7,0.56,5,automatic,nn,nn
@@ -41,13 +43,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T17:49:46.678Z,36.7702,-116.2567,9.5,0.3,ml,35,59.58,0.034,0.0773,nn,nn00904434,2025-09-16T18:27:59.173Z,"47 km ESE of Beatty, Nevada",earthquake,,0.5,0.25,8,reviewed,nn,nn
 2025-09-16T17:45:06.870Z,35.7656667,-117.5798333,11.31,0.2,ml,14,115,0.05199,0.2,ci,ci41292368,2025-09-16T23:23:34.428Z,"16 km W of Searles Valley, CA",earthquake,0.41,0.73,0.127,8,reviewed,ci,ci
 2025-09-16T17:42:13.350Z,37.432498931885,-118.85333251953,4.9899997711182,2.26,md,24,101,0.1367,0.07,nc,nc75238472,2025-09-16T18:57:18.159Z,"21 km WSW of Toms Place, CA",earthquake,0.26,2.00999999,0.3,27,automatic,nc,nc
+2025-09-16T17:37:53.850Z,43.394166666667,-123.6405,-0.39,1.29,ml,8,89,0.1183,0.25,uw,uw62190181,2025-09-16T23:57:35.460Z,"21 km NW of Melrose, Oregon",explosion,0.59,31.61,0.068538062428938,3,reviewed,uw,uw
 2025-09-16T17:21:16.379Z,35.3295,-97.93266667,6.76,1.11,ml,55,54,0.06208781625,0.19,ok,ok2025sesd,2025-09-16T17:57:30.111Z,"2 km NNE of Minco, Oklahoma",earthquake,,0.3,0.22,26,reviewed,ok,ok
 2025-09-16T16:59:51.491Z,-5.4693,153.7519,77.666,6,mww,164,43,2.029,0.71,us,us7000qwir,2025-09-16T21:37:07.491Z,"206 km SE of Kokopo, Papua New Guinea",earthquake,6.97,6.471,0.042,55,reviewed,us,us
 2025-09-16T16:56:34.649Z,57.0352,-154.695,6.9,2.8,ml,,,,0.39,ak,ak025bwm1wco,2025-09-16T17:22:58.040Z,"33 km WNW of Akhiok, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-16T16:53:12.090Z,40.297500610352,-124.51132965088,22.420000076294,1.89,md,9,307,0.1586,0.16,nc,nc75238442,2025-09-16T17:57:17.722Z,"19 km W of Petrolia, CA",earthquake,5.39,1.13999999,0.1,5,automatic,nc,nc
 2025-09-16T16:18:30.130Z,38.82816696167,-122.89817047119,4.4699997901917,0.87,md,10,116,0.01214,0.02,nc,nc75238432,2025-09-16T17:07:19.364Z,"11 km E of Cloverdale, CA",earthquake,0.56,1.13999999,0.14,9,automatic,nc,nc
 2025-09-16T16:11:25.436Z,14.38,-92.9028,50.494,4.9,mww,168,140,2.03,0.93,us,us7000qwij,2025-09-16T16:29:56.040Z,"64 km SW of Puerto Madero, Mexico",earthquake,7.16,6.223,0.058,29,reviewed,us,us
-2025-09-16T16:05:37.427Z,36.7676,-116.2595,10,2.5,ml,61,27.83,0.031,0.1293,nn,nn00904422,2025-09-16T23:19:43.546Z,"47 km ESE of Beatty, Nevada",earthquake,,0.4,0.21,25,reviewed,nn,nn
+2025-09-16T16:05:37.427Z,36.7676,-116.2595,10,2.5,ml,61,27.83,0.031,0.1293,nn,nn00904422,2025-09-16T23:56:57.223Z,"47 km ESE of Beatty, Nevada",earthquake,,0.4,0.25,24,reviewed,nn,nn
 2025-09-16T16:01:24.374Z,60.1684,-151.4875,54.1,1.6,ml,,,,0.07,ak,ak025bwlq36d,2025-09-16T16:02:33.886Z,"8 km SW of Clam Gulch, Alaska",earthquake,,3.4,,,automatic,ak,ak
 2025-09-16T15:50:34.643Z,36.6997,-116.2887,6.2,0.4,ml,35,80.57,0.039,0.0882,nn,nn00904421,2025-09-16T18:09:26.283Z,"47 km ESE of Beatty, Nevada",earthquake,,0.5,0.21,9,reviewed,nn,nn
 2025-09-16T15:49:56.453Z,32.423,-102.025,8.0811,1.4,ml,36,41,0,0.2,tx,tx2025sguvjb,2025-09-16T16:45:32.011Z,"31 km WSW of Ackerly, Texas",earthquake,0.51124539015217,0.71839641148653,0.1,19,reviewed,tx,tx
@@ -133,7 +136,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T07:33:03.816Z,65.4506,-153.3683,4.8,2,ml,,,,1,ak,ak025bwgk025,2025-09-16T07:38:56.938Z,"67 km WNW of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-16T07:13:17.340Z,46.911833333333,-112.51733333333,8.51,0.62,ml,8,133,0.06697,0.07,mb,mb90112108,2025-09-16T20:50:05.490Z,"13 km ESE of Lincoln, Montana",earthquake,0.5,0.63,0.16023689032795,8,reviewed,mb,mb
 2025-09-16T07:00:58.940Z,47.380666666667,-113.1135,20,0.68,ml,10,86,0.2918,0.08,mb,mb90112148,2025-09-16T22:46:31.100Z,"35 km NE of Seeley Lake, Montana",earthquake,0.33,31.61,0.061758684283234,5,reviewed,mb,mb
-2025-09-16T07:00:51.950Z,32.9233333,-115.8205,6.64,1.14,ml,33,50,0.02777,0.21,ci,ci41292200,2025-09-16T07:04:16.894Z,"22 km SW of Westmorland, CA",earthquake,0.23,0.52,0.244,16,automatic,ci,ci
+2025-09-16T07:00:51.850Z,32.927,-115.815,7.31,1.15,ml,31,61,0.02206,0.18,ci,ci41292200,2025-09-16T23:54:08.120Z,"22 km SW of Westmorland, CA",earthquake,0.22,0.44,0.204,26,reviewed,ci,ci
 2025-09-16T06:28:21.825Z,32.193,-101.393,5.4932,1.1,ml,17,48,0.1,0.2,tx,tx2025sgcfsi,2025-09-16T14:50:55.212Z,"9 km NNW of Forsan, Texas",earthquake,0.83368161491358,1.7077121766068,0.2,7,reviewed,tx,tx
 2025-09-16T06:28:20.300Z,38.822334289551,-122.80316925049,2.4700000286102,1.14,md,14,119,0.005497,0.02,nc,nc75238307,2025-09-16T09:17:21.977Z,"6 km NNW of The Geysers, CA",earthquake,0.39,0.49000001,0.15,15,automatic,nc,nc
 2025-09-16T06:28:18.030Z,38.455833333333,-112.20116666667,1.66,0.73,md,7,155,0.2465,0.11,uu,uu80004853,2025-09-16T13:55:17.840Z,"2 km ENE of Marysvale, Utah",earthquake,0.73,31.61,0.10045710081185,5,reviewed,uu,uu
@@ -221,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T00:18:45.550Z,36.1731667,-118.0241667,3.43,0.96,ml,20,55,0.1478,0.2,ci,ci41292048,2025-09-16T13:34:23.199Z,"12 km S of Olancha, CA",earthquake,0.34,1.11,0.13,14,reviewed,ci,ci
 2025-09-16T00:17:00.040Z,36.0925,-89.406166666667,10.08,1.97,md,27,56,0.02376,0.09,nm,nm60613891,2025-09-16T16:26:03.340Z,"6 km NNW of Dyersburg, Tennessee",earthquake,0.19,0.41,0.10805002204531,19,reviewed,nm,nm
 2025-09-16T00:13:32.826Z,61.1924,-146.6759,65.8,1.6,ml,,,,1.03,ak,ak025bwc9qqq,2025-09-16T00:15:35.538Z,"18 km WNW of Valdez, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2025-09-15T23:57:11.265Z,67.3641,-156.7867,3,1.7,ml,,,,0.57,ak,ak025bv2or06,2025-09-15T23:59:18.381Z,"51 km N of Kobuk, Alaska",earthquake,,0.5,,,automatic,ak,ak
