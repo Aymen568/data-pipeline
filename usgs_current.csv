@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-19T23:17:42.060Z,33.3501667,-116.3831667,12.63,1.43,ml,71,17,0.02695,0.21,ci,ci40446482,2025-09-19T23:21:11.970Z,"10 km N of Borrego Springs, CA",earthquake,0.16,0.38,0.172,26,automatic,ci,ci
 2025-09-19T23:07:22.890Z,38.821334838867,-122.78666687012,1.460000038147,0.76,md,8,74,0.00932,0.02,nc,nc75239692,2025-09-19T23:08:57.185Z,"6 km W of Cobb, CA",earthquake,0.37,0.610000014,0.05,8,automatic,nc,nc
 2025-09-19T23:06:29.530Z,38.821166992188,-122.78700256348,1.3400000333786,1.09,md,12,63,0.009312,0.01,nc,nc75239687,2025-09-19T23:08:07.355Z,"6 km W of Cobb, CA",earthquake,0.27,0.460000008,0.15,12,automatic,nc,nc
 2025-09-19T23:06:23.325Z,61.3207,-151.6288,77.8,1.7,ml,,,,0.75,ak,ak025c1oj8e4,2025-09-19T23:07:48.881Z,"35 km NW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-19T22:44:50.383Z,62.6992,-148.3362,43.7,2.1,ml,,,,0.66,ak,ak025c1o602d,2025-09-19T22:46:40.145Z,"83 km SSE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-19T22:33:52.290Z,45.846,-122.46633333333,2.78,1.9,ml,33,59,0.0652,0.4,uw,uw62191661,2025-09-19T22:57:03.820Z,"5 km WSW of Yacolt, Washington",earthquake,0.57,2,0.098411419720972,14,reviewed,uw,uw
+2025-09-19T22:33:06.932Z,-0.525,-80.3016,34.456,4.9,mb,76,99,1.742,0.84,us,us7000qxh4,2025-09-19T23:21:27.040Z,"15 km ENE of Bahía de Caráquez, Ecuador",earthquake,4.95,5.596,0.035,254,reviewed,us,us
 2025-09-19T22:29:38.630Z,17.842,-66.412,14.14,2.44,md,11,220,0.1178,0.1,pr,pr71496018,2025-09-19T22:51:21.500Z,"13 km S of Santa Isabel, Puerto Rico",earthquake,0.55,0.75,0.23436171565047,12,reviewed,pr,pr
 2025-09-19T22:24:37.160Z,38.829833984375,-122.79566955566,1.5499999523163,0.78,md,9,127,0.01296,0.02,nc,nc75239677,2025-09-19T22:42:18.148Z,"6 km WNW of Cobb, CA",earthquake,0.37,0.970000029,0.09,9,automatic,nc,nc
 2025-09-19T22:17:07.660Z,51.941,179.57066666667,-1.29,0.74,ml,5,109,0.03701,0.19,av,av93779848,2025-09-19T22:31:09.120Z,"261 km W of Adak, Alaska",earthquake,0.54,4.25,0.29265545671091,5,reviewed,av,av
@@ -296,6 +298,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T23:53:46.537Z,36.8673,-117.7637,10.8,1.7,ml,11,95.76,0.343,0.2095,nn,nn00904625,2025-09-19T02:10:36.574Z,"39 km NE of Lone Pine, California",earthquake,,2.1,0.58,4,reviewed,nn,nn
 2025-09-18T23:40:46.231Z,52.6627,160.8035,10,4.9,mb,68,128,1.355,0.82,us,us7000qx5i,2025-09-19T00:11:55.040Z,"153 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.34,1.893,0.035,259,reviewed,us,us
 2025-09-18T23:38:16.360Z,38.659168243408,-122.60866546631,1.3700000047684,1.07,md,5,177,0.1938,0.05,nc,nc75239317,2025-09-19T00:32:18.609Z,"9 km  of Calistoga, CA",earthquake,2.83,8.88000011,,1,automatic,nc,nc
-2025-09-18T23:29:32.259Z,63.3527,-151.5198,0,1.8,ml,,,,0.41,ak,ak025c014u21,2025-09-18T23:31:23.358Z,"23 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-09-18T23:27:44.434Z,52.8185,160.9707,10,4.8,mb,81,128,1.42,0.99,us,us7000qx5h,2025-09-18T23:54:57.040Z,"159 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.92,1.893,0.042,176,reviewed,us,us
-2025-09-18T23:27:39.597Z,32.361,-102.055,6.1768,0.5,ml,11,67,0,0.2,tx,tx2025slbltx,2025-09-19T13:29:07.062Z,"35 km NW of Stanton, Texas",earthquake,0.71508197576984,1.3739131700605,0.1,6,reviewed,tx,tx
