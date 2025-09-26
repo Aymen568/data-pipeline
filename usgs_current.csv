@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-26T18:30:22.510Z,54.5578,-159.9874,6.5,3.4,ml,,,,0.85,ak,ak025cd6gn6m,2025-09-26T18:48:39.318Z,"92 km SSE of Sand Point, Alaska",earthquake,,1.8,,,reviewed,ak,ak
 2025-09-26T18:24:35.662Z,37.2755,-115.8215,0,0.9,ml,11,302.23,0.234,0.4465,nn,nn00905063,2025-09-26T18:26:43.475Z,"41 km S of Rachel, Nevada",earthquake,,0.2,0.1,8,automatic,nn,nn
 2025-09-26T18:16:03.170Z,38.761001586914,-122.72883605957,2.420000076294,0.96,md,6,210,0.003163,0.01,nc,nc75242307,2025-09-26T18:32:16.345Z,"3 km SE of The Geysers, CA",earthquake,0.98,1.19000006,0.19,6,automatic,nc,nc
-2025-09-26T18:06:03.760Z,20.0345,-155.55666666667,31.17,2.47,ml,21,191,0.2006,0.12,hv,hv74785987,2025-09-26T19:39:45.562Z,"9 km S of Kukuihaele, Hawaii",earthquake,0.69,0.88,0.19230348558791,10,reviewed,hv,hv
+2025-09-26T18:06:03.760Z,20.0345,-155.55666666667,31.17,2.47,ml,21,191,0.2006,0.12,hv,hv74785987,2025-09-26T20:38:48.040Z,"9 km S of Kukuihaele, Hawaii",earthquake,0.69,0.88,0.19230348558791,10,reviewed,hv,hv
 2025-09-26T17:55:10.457Z,31.668,-104.327,5.8051,2,ml,34,68,0.1,0.1,tx,tx2025szigjj,2025-09-26T18:48:17.953Z,"56 km S of Whites City, New Mexico",earthquake,0.6573982867689,0.57964533183991,0.1,23,reviewed,tx,tx
 2025-09-26T17:45:14.044Z,63.165,-147.7301,5.8,1.6,ml,,,,0.58,ak,ak025cd5yefg,2025-09-26T17:46:56.935Z,"66 km ESE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-26T17:33:35.050Z,38.797668457031,-122.75033569336,0.46999999880791,1.03,md,15,96,0.007899,0.03,nc,nc75242302,2025-09-26T17:35:13.913Z,"2 km NNE of The Geysers, CA",earthquake,0.24,0.449999988,0.23,14,automatic,nc,nc
@@ -211,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T21:06:49.416Z,-23.1652,-68.0136,171.943,,,11,221,0.261,1.22,us,us6000rcxv,2025-09-25T21:10:22.040Z,"34 km SE of San Pedro de Atacama, Chile",earthquake,10.49,17.512,,,automatic,us,us
 2025-09-25T21:05:13.778Z,36.675,-116.1222,1.2,-0.2,ml,11,255.22,0.028,0.0399,nn,nn00905026,2025-09-26T00:22:16.773Z,"42 km WNW of Indian Springs, Nevada",earthquake,,2.9,0.19,3,reviewed,nn,nn
 2025-09-25T20:50:04.160Z,36.028,-96.54166667,0,1.55,ml,69,59,0.1880630956,0.36,ok,ok2025svko,2025-09-25T21:35:49.194Z,"6 km NE of Drumright, Oklahoma",quarry blast,,0.3,0.18,32,reviewed,ok,ok
-2025-09-25T20:46:37.049Z,34.37566667,-96.85516667,0,1.2,ml,39,139,0.2654479101,0.44,ok,ok2025svkl,2025-09-26T13:34:08.360Z,"4 km SW of Mill Creek, Oklahoma",quarry blast,,0.7,0.22,20,reviewed,ok,ok
-2025-09-25T20:39:20.660Z,63.5856,-148.0019,4.7,2.9,ml,,,,0.85,ak,ak025cbk62vn,2025-09-25T20:50:14.040Z,"48 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
