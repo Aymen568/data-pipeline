@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-28T19:44:21.320Z,67.0603,-154.7599,11.7,1.8,ml,,,,0.82,ak,ak025cgi7rh0,2025-09-28T19:46:32.281Z,"94 km E of Kobuk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-28T19:31:45.581Z,60.586,-142.1784,14,1.1,ml,,,,0.07,ak,ak025cgi511a,2025-09-28T19:33:48.584Z,"102 km SSE of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-28T19:21:45.347Z,59.8644,-153.6646,123.6,2.9,ml,,,,0.15,ak,ak025cgi2vuu,2025-09-28T19:22:59.300Z,"26 km ENE of Pedro Bay, Alaska",earthquake,,2.2,,,automatic,ak,ak
-2025-09-28T19:21:00.177Z,61.4532,-150.6529,41.6,2,ml,,,,0.37,ak,ak025cgi2sdd,2025-09-28T19:22:24.919Z,"12 km SW of Susitna, Alaska",earthquake,,2.6,,,automatic,ak,ak
+2025-09-28T19:21:00.177Z,61.4532,-150.6529,41.6,2,ml,,,,0.37,ak,ak025cgi2sdd,2025-09-28T19:42:18.040Z,"12 km SW of Susitna, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2025-09-28T19:20:58.570Z,38.834499359131,-122.81583404541,1.6399999856949,0.3,md,10,83,0.01197,0.01,nc,nc75243062,2025-09-28T19:22:32.586Z,"8 km WNW of Cobb, CA",earthquake,0.35,1.03999996,0.17,12,automatic,nc,nc
 2025-09-28T19:19:57.460Z,35.8621667,-117.6833333,7.26,0.73,ml,26,39,0.08372,0.16,ci,ci41100271,2025-09-28T19:23:42.956Z,"22 km ESE of Little Lake, CA",earthquake,0.18,0.55,0.185,17,automatic,ci,ci
 2025-09-28T19:04:44.060Z,32.8165,-116.1263333,8.68,1.15,ml,39,48,0.03475,0.22,ci,ci41100263,2025-09-28T19:08:10.140Z,"15 km NW of Ocotillo, CA",earthquake,0.23,0.64,0.178,23,automatic,ci,ci
