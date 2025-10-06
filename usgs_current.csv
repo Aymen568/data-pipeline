@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-06T16:53:50.433Z,28.754,-98.463,7.5281,1.6,ml,8,58,0,0.4,tx,tx2025trpmfe,2025-10-06T17:00:38.797Z,"5 km SE of Christine, Texas",earthquake,0,3.7792546749115,0.2,6,automatic,tx,tx
+2025-10-06T16:53:28.750Z,31.3036671,-116.2201691,14.14,4.33,mlr,5,297,0.5616,0.01,ci,ci41103871,2025-10-06T17:00:53.118Z,"56 km SE of Maneadero, B.C., MX",earthquake,7.51,8.01,0.218,17,reviewed,ci,ci
+2025-10-06T16:53:02.460Z,38.79016494751,-122.78033447266,2.2699999809265,0.74,md,11,99,0.006647,0.01,nc,nc75245621,2025-10-06T16:54:36.998Z,"3 km NW of The Geysers, CA",earthquake,0.33,0.620000005,0.03,11,automatic,nc,nc
 2025-10-06T16:44:15.110Z,31.667,-104.421,4.6437,1.5,ml,23,70,0,0.4,tx,tx2025trpebd,2025-10-06T16:47:15.632Z,"56 km S of Whites City, New Mexico",earthquake,0,1.1852362155914,0.2,16,automatic,tx,tx
 2025-10-06T16:43:20.590Z,35.8633333,-117.6916667,7.31,1.1,ml,31,37,0.08079,0.17,ci,ci41103839,2025-10-06T16:46:45.754Z,"21 km ESE of Little Lake, CA",earthquake,0.2,0.55,0.195,25,automatic,ci,ci
-2025-10-06T16:37:32.427Z,28.771,-98.476,9.1367,1.8,ml,7,84,0,0.4,tx,tx2025troygx,2025-10-06T16:39:23.572Z,"2 km SE of Christine, Texas",earthquake,0,5.2885065078735,0.1,6,automatic,tx,tx
+2025-10-06T16:37:31.865Z,28.761,-98.47,10.8987,1.7,ml,8,102,0,0.2,tx,tx2025troygx,2025-10-06T17:00:36.795Z,"4 km SE of Christine, Texas",earthquake,0,4.7564964294434,0.1,6,automatic,tx,tx
 2025-10-06T16:20:08.180Z,34.3225,-116.8578333,6.79,1.42,ml,52,39,0.03578,0.14,ci,ci41103831,2025-10-06T16:31:07.710Z,"7 km N of Big Bear City, CA",earthquake,0.12,0.33,0.202,28,automatic,ci,ci
 2025-10-06T16:12:32.432Z,61.6373,-151.1966,0,1.2,ml,,,,0.96,ak,ak025ctojegh,2025-10-06T16:14:51.132Z,"37 km WNW of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-06T16:06:49.360Z,38.822498321533,-122.80833435059,2.579999923706,1.08,md,16,43,0.01772,0.02,nc,nc75245611,2025-10-06T16:08:27.426Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.670000017,0.16,16,automatic,nc,nc
@@ -141,7 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-06T02:13:11.130Z,46.103333333333,-122.6975,14.32,1.1,ml,11,177,0.05803,0.09,uw,uw62190112,2025-10-06T04:15:25.510Z,"15 km NE of Kalama, Washington",earthquake,0.67,1.32,0.21507243032646,6,reviewed,uw,uw
 2025-10-06T02:07:40.930Z,38.820835113525,-122.76399993897,2.0299999713898,0.76,md,10,118,0.01067,0.01,nc,nc75245356,2025-10-06T02:27:21.884Z,"4 km W of Cobb, CA",earthquake,0.35,1,0.07,12,automatic,nc,nc
 2025-10-06T01:59:26.852Z,62.0854,-148.796,32.1,2.2,ml,,,,0.71,ak,ak025ctfvyol,2025-10-06T02:09:56.864Z,"34 km N of Sutton-Alpine, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-10-06T01:27:59.017Z,38.8632,-118.7343,6.8,1.3,ml,10,123.77,0.412,0.1578,nn,nn00905481,2025-10-06T01:30:50.799Z,"11 km SE of Schurz, Nevada",earthquake,,1.4,0.16,6,automatic,nn,nn
+2025-10-06T01:27:59.510Z,38.877,-118.7343,10.1,1.3,ml,15,72.14,0.299,0.113,nn,nn00905481,2025-10-06T16:49:58.984Z,"10 km SE of Schurz, Nevada",earthquake,,3,0.21,11,reviewed,nn,nn
 2025-10-06T01:27:32.504Z,14.8923,147.1894,10,4.8,mb,31,140,1.392,0.57,us,us6000rf0b,2025-10-06T01:46:16.040Z,"158 km ESE of Saipan, Northern Mariana Islands",earthquake,8.82,1.556,0.103,29,reviewed,us,us
 2025-10-06T01:27:12.930Z,34.3175,-116.8558333,6.51,1.08,ml,48,46,0.03845,0.17,ci,ci41103359,2025-10-06T13:35:12.480Z,"6 km N of Big Bear City, CA",earthquake,0.16,0.43,0.209,30,reviewed,ci,ci
 2025-10-06T01:13:41.210Z,40.7015,-111.6285,7.38,0.41,md,16,93,0.09307,0.12,uu,uu80118811,2025-10-06T15:00:08.150Z,"5 km SSW of Summit Park, Utah",earthquake,0.36,1.6,0.33950646522226,10,reviewed,uu,uu
@@ -227,5 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T17:12:08.900Z,34.2393333,-117.139,5.16,0.91,ml,42,62,0.04389,0.18,ci,ci41103159,2025-10-05T17:15:35.200Z,"4 km NW of Running Springs, CA",earthquake,0.18,0.42,0.28,22,automatic,ci,ci
 2025-10-05T17:10:24.105Z,51.5577,159.5384,10,5.2,mb,90,122,1.566,0.88,us,us6000rez6,2025-10-05T17:27:31.040Z,"171 km SSE of Vilyuchinsk, Russia",earthquake,10.04,1.868,0.04,210,reviewed,us,us
 2025-10-05T17:03:14.880Z,32.001,-103.817,7.9071,1.5,ml,21,69,0,0.1,tx,tx2025tpubnz,2025-10-06T09:13:51.656Z,"34 km SE of Malaga, New Mexico",earthquake,0.54620863846598,0.54726104152113,0.1,9,reviewed,tx,tx
-2025-10-05T16:54:15.609Z,32.273,-101.926,8.5205,1.2,ml,46,28,0,0.1,tx,tx2025tpttur,2025-10-06T06:48:09.024Z,"20 km NW of Stanton, Texas",earthquake,0.25851891843695,0.4370122774013,0.2,25,reviewed,tx,tx
-2025-10-05T16:50:01.815Z,61.6506,-150.4826,28.1,1.5,ml,,,,0.87,ak,ak025cs184wl,2025-10-05T16:52:02.661Z,"12 km N of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
