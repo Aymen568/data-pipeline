@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-10T14:46:25.453Z,53.7557,-164.0078,0.3,1.7,ml,,,,0.88,ak,ak025d09p7g3,2025-10-10T14:50:20.324Z,"123 km ESE of Akutan, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-10-10T14:49:25.317Z,64.9334,-147.6077,11.6,1.1,ml,,,,0.36,ak,ak025d09pu9f,2025-10-10T14:52:03.773Z,"2 km S of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-10-10T14:46:25.453Z,53.7557,-164.0078,0.3,1.7,ml,,,,0.88,ak,ak025d09p7g3,2025-10-10T14:51:46.678Z,"123 km ESE of Akutan, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-10T14:44:07.421Z,59.9411,-151.8404,50.9,1.9,ml,,,,0.85,ak,ak025d09oqb7,2025-10-10T14:50:15.020Z,"6 km W of Happy Valley, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-10-10T14:15:19.020Z,38.770999908447,-122.72566986084,1.1100000143051,0.74,md,5,132,0.009414,0.01,nc,nc75247366,2025-10-10T14:32:17.110Z,"3 km ESE of The Geysers, CA",earthquake,1.44,2.77999997,0.08,7,automatic,nc,nc
 2025-10-10T14:06:16.450Z,33.3453333,-116.8183333,5.39,0.55,ml,23,70,0.038,0.23,ci,ci41106143,2025-10-10T14:10:19.050Z,"4 km ESE of Palomar Observatory, CA",earthquake,0.39,0.83,0.147,13,automatic,ci,ci
@@ -222,5 +223,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-09T15:19:05.266Z,63.1594,-147.6828,4,1.6,ml,,,,0.7,ak,ak025cymlgch,2025-10-09T15:22:34.294Z,"68 km ESE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-09T15:17:03.035Z,32.1221,-103.7116,10.48,2.5,ml,33,53,0.131,0.37,us,us6000rftv,2025-10-09T15:50:00.040Z,"35 km ESE of Malaga, New Mexico",earthquake,1.61,6.365,0.069,28,reviewed,us,us
 2025-10-09T15:14:03.350Z,33.1665,-116.419,8.07,1.12,ml,45,54,0.0904,0.19,ci,ci41105759,2025-10-09T15:18:53.346Z,"11 km SSW of Borrego Springs, CA",earthquake,0.18,0.72,0.164,29,automatic,ci,ci
-2025-10-09T15:03:00.366Z,-52.224,14.3187,10,5.4,mb,116,23,20.387,0.5,us,us6000rftu,2025-10-09T17:30:58.522Z,"southwest of Africa",earthquake,10.6,1.846,0.055,113,reviewed,us,us
-2025-10-09T15:00:34.290Z,34.0158333,-117.188,6.99,2.08,ml,94,14,0.06576,0.17,ci,ci41105751,2025-10-09T19:26:16.244Z,"4 km S of Redlands, CA",earthquake,0.1,0.31,0.15,60,reviewed,ci,ci
+2025-10-09T15:03:00.142Z,-52.2529,14.3796,10,5.4,mb,206,23,20.405,0.44,us,us6000rftu,2025-10-10T14:59:43.040Z,"southwest of Africa",earthquake,4.63,1.755,0.052,130,reviewed,us,us
