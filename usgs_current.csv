@@ -181,6 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-12T08:23:22.980Z,35.8645,-117.6883333,7.8,0.94,ml,25,65,0.08839,0.15,ci,ci41107063,2025-10-12T14:08:26.080Z,"21 km ESE of Little Lake, CA",earthquake,0.18,0.58,0.14,18,reviewed,ci,ci
 2025-10-12T08:21:50.369Z,39.3479,-120.0046,1.5,1,ml,11,118.45,0.06,0.1545,nn,nn00905848,2025-10-12T08:23:55.921Z,"5 km SSE of Floriston, California",earthquake,,0.7,0.31,8,automatic,nn,nn
 2025-10-12T08:17:26.410Z,38.822334289551,-122.76383209228,2.3499999046326,0.36,md,6,139,0.009411,0.01,nc,nc75248131,2025-10-12T08:52:21.460Z,"4 km W of Cobb, CA",earthquake,0.69,1.50999999,0.16,8,automatic,nc,nc
-2025-10-12T08:02:36.330Z,34.0305,-117.2268333,16.49,0.83,ml,34,72,0.09429,0.16,ci,ci41107055,2025-10-12T15:42:31.050Z,"4 km ESE of Loma Linda, CA",earthquake,0.25,0.45,0.155,14,reviewed,ci,ci
-2025-10-12T08:01:17.821Z,28.756,-98.463,8.8632,1.6,ml,26,53,0,0.2,tx,tx2025ubyesr,2025-10-12T15:39:00.127Z,"4 km SE of Christine, Texas",earthquake,0.43190851152484,0.70878722108326,0.1,16,reviewed,tx,tx
-2025-10-12T07:56:35.436Z,53.0475,161.4288,10,4.7,mb,41,118,1.678,0.99,us,us6000rgpx,2025-10-12T08:14:54.040Z,"187 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,10.06,1.889,0.065,72,reviewed,us,us
