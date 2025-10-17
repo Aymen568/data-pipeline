@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-17T17:43:54.650Z,60.9445,-149.1823,25.9,2,ml,,,,0.36,ak,ak025dbw8ci1,2025-10-17T17:45:32.040Z,"0 km WNW of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-10-17T17:53:14.727Z,28.967,-98.161,11.1235,1.8,ml,8,114,0.1,0.2,tx,tx2025ulwlcy,2025-10-17T17:55:20.629Z,"13 km SW of Poth, Texas",earthquake,0,4.3183627128601,0.2,7,automatic,tx,tx
+2025-10-17T17:47:21.999Z,60.8908,-149.1835,18.9,3,ml,,,,0.85,ak,ak025dbw94ui,2025-10-17T17:57:38.048Z,"5 km S of Girdwood, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-10-17T17:43:54.650Z,60.9445,-149.1823,25.9,2,ml,,,,0.36,ak,ak025dbw8ci1,2025-10-17T17:59:26.074Z,"0 km WNW of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-17T17:33:05.060Z,33.9868333,-117.208,15.39,1,ml,24,108,0.04905,0.24,ci,ci41110159,2025-10-17T17:36:34.546Z,"7 km NNE of Moreno Valley, CA",earthquake,0.37,0.62,0.274,32,automatic,ci,ci
 2025-10-17T17:24:23.060Z,36.52216720581,-121.13800048828,2.1099998950958,1.74,md,14,82,0.06246,0.1,nc,nc75250686,2025-10-17T17:42:18.860Z,"1 km SSE of Pinnacles, CA",earthquake,0.37,1.41999996,0.22,13,automatic,nc,nc
 2025-10-17T17:21:29.500Z,39.763332366943,-123.09950256348,0.93000000715256,2.47,md,10,148,0.6412,0.05,nc,nc75250681,2025-10-17T17:27:17.765Z,"13 km ESE of Covelo, CA",earthquake,1.63,6.57000017,,1,automatic,nc,nc
@@ -11,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-17T16:05:34.250Z,38.836334228516,-122.8125,1.8700000047684,0.31,md,8,76,0.01743,0.04,nc,nc75250666,2025-10-17T17:47:21.892Z,"8 km WNW of Cobb, CA",earthquake,0.37,1.23000002,0.15,9,automatic,nc,nc
 2025-10-17T15:59:34.790Z,38.82500076294,-122.78600311279,1.4500000476837,1.05,md,18,63,0.01244,0.03,nc,nc75250651,2025-10-17T17:22:18.735Z,"5 km W of Cobb, CA",earthquake,0.21,0.340000004,0.08,19,automatic,nc,nc
 2025-10-17T15:58:00.300Z,38.82816696167,-122.78350067139,1.25,1.12,md,12,78,0.01086,0.01,nc,nc75250646,2025-10-17T16:57:19.548Z,"5 km W of Cobb, CA",earthquake,0.28,0.479999989,0.15,14,automatic,nc,nc
-2025-10-17T15:48:48.983Z,53.5757,-165.7321,75.97,5.1,mwr,82,144,0.533,1.05,us,us6000rhss,2025-10-17T17:25:34.237Z,"62 km S of Akutan, Alaska",earthquake,5.24,5.714,0.071,19,reviewed,us,us
+2025-10-17T15:48:48.983Z,53.5757,-165.7321,75.97,5.1,mwr,82,144,0.533,1.05,us,us6000rhss,2025-10-17T17:58:53.945Z,"62 km S of Akutan, Alaska",earthquake,5.24,5.714,0.071,19,reviewed,us,us
 2025-10-17T15:30:57.004Z,36.9064,-116.2322,11.1,0,ml,9,81.51,0.017,0.1045,nn,nn00906044,2025-10-17T15:32:55.621Z,"46 km E of Beatty, Nevada",earthquake,,0.7,0.68,6,automatic,nn,nn
 2025-10-17T15:24:52.198Z,31.66,-104.482,4.2959,1.6,ml,20,91,0,0.3,tx,tx2025ulrniw,2025-10-17T16:01:02.540Z,"58 km S of Whites City, New Mexico",earthquake,0,1.3741683959961,0.2,13,automatic,tx,tx
 2025-10-17T15:17:05.412Z,62.1581,-147.9727,20.1,2.2,ml,,,,0.66,ak,ak025dbuvswi,2025-10-17T15:19:57.902Z,"42 km NNW of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -92,7 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-17T05:43:06.125Z,13.8036,39.8729,10,4.3,mb,25,172,3.678,0.68,us,us6000rhqw,2025-10-17T06:21:06.040Z,"54 km NE of Mek'ele, Ethiopia",earthquake,7.66,1.864,0.125,18,reviewed,us,us
 2025-10-17T05:33:42.828Z,-25.6175,179.4836,521.872,4.2,mb,25,130,7.946,1.22,us,us6000rhqt,2025-10-17T05:51:40.040Z,"south of the Fiji Islands",earthquake,14.87,11.108,0.089,35,reviewed,us,us
 2025-10-17T05:26:28.030Z,38.82833480835,-122.85666656494,2.1800000667572,0.66,md,12,108,0.000805,0.03,nc,nc75250521,2025-10-17T07:57:19.780Z,"10 km WNW of The Geysers, CA",earthquake,0.34,0.439999998,0.19,12,automatic,nc,nc
-2025-10-17T05:07:43.137Z,32.123,-101.922,8.1787,2.2,ml,24,51,0,0.1,tx,tx2025ukxbnb,2025-10-17T12:09:46.235Z,"12 km W of Stanton, Texas",earthquake,0.47063579668005,0.69435898240786,0,6,reviewed,tx,tx
+2025-10-17T05:07:43.137Z,32.123,-101.922,8.1787,2.2,ml,24,51,0,0.1,tx,tx2025ukxbnb,2025-10-17T17:48:44.958Z,"12 km W of Stanton, Texas",earthquake,0.47063579668005,0.69435898240786,0,6,reviewed,tx,tx
 2025-10-17T05:07:10.030Z,33.6353333,-116.6911667,13.48,0.49,ml,32,46,0.03648,0.14,ci,ci41109847,2025-10-17T15:04:58.150Z,"9 km N of Anza, CA",earthquake,0.17,0.32,0.304,13,reviewed,ci,ci
 2025-10-17T05:05:23.062Z,32.107,-101.918,8.8135,1.7,ml,19,61,0.1,0.1,tx,tx2025ukwzmz,2025-10-17T13:21:26.475Z,"12 km WSW of Stanton, Texas",earthquake,0.56274163837982,0.86678080193557,0,6,reviewed,tx,tx
 2025-10-17T05:02:28.469Z,35.776,-98.05433333,7,1.51,ml,92,70,0.01619682163,0.36,ok,ok2025uikj,2025-10-17T13:26:36.608Z,"8 km NW of Okarche, Oklahoma",earthquake,,0.6,0.25,45,reviewed,ok,ok
@@ -135,7 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-17T01:21:59.627Z,31.713,-104.252,6.7151,2.3,ml,36,80,0,0.1,tx,tx2025ukpnwy,2025-10-17T02:19:50.554Z,"52 km SSE of Whites City, New Mexico",earthquake,0.50589326350793,0.55445544804981,0.1,22,reviewed,tx,tx
 2025-10-17T01:19:15.370Z,38.790000915527,-122.76733398438,2.1900000572205,1.07,md,13,93,0.0164,0.02,nc,nc75250456,2025-10-17T03:17:26.762Z,"2 km NW of The Geysers, CA",earthquake,0.33,0.610000014,0.12,14,automatic,nc,nc
 2025-10-17T01:18:51.207Z,62.5684,-151.3243,86.3,2.4,ml,,,,0.4,ak,ak025dbmk1in,2025-10-17T01:58:32.040Z,"29 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-10-17T01:15:10.943Z,-30.7151,-71.4078,40.51,4.6,mb,31,96,0.2,1.03,us,us6000rhpp,2025-10-17T01:53:38.040Z,"23 km WSW of Ovalle, Chile",earthquake,4.13,6.559,0.173,10,reviewed,us,us
+2025-10-17T01:15:10.943Z,-30.7151,-71.4078,40.51,4.6,mb,31,96,0.2,1.03,us,us6000rhpp,2025-10-17T17:50:33.800Z,"23 km WSW of Ovalle, Chile",earthquake,4.13,6.559,0.173,10,reviewed,us,us
 2025-10-17T01:14:36.243Z,17.0517,-85.25,10,4.6,mb,55,43,4.635,0.87,us,us6000rhpq,2025-10-17T01:31:16.040Z,"92 km NE of Savannah Bight, Honduras",earthquake,8.28,1.92,0.032,292,reviewed,us,us
 2025-10-17T00:50:51.270Z,44.259833333333,-115.16966666667,8.07,1.63,ml,13,72,0.2786,0.14,mb,mb90117733,2025-10-17T13:04:54.550Z,"19 km WNW of Stanley, Idaho",earthquake,0.34,2.39,0.27102990434164,16,reviewed,mb,mb
 2025-10-17T00:46:58.600Z,35.025,-118.9735,14.88,2.05,ml,64,24,0.09651,0.24,ci,ci41109735,2025-10-17T00:57:51.580Z,"10 km NNW of Grapevine, CA",earthquake,0.19,0.43,0.165,25,automatic,ci,ci
@@ -146,10 +148,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-17T00:19:46.520Z,33.9901667,-117.2008333,12.98,1.24,ml,20,89,0.08624,0.16,ci,ci41109703,2025-10-17T00:24:30.545Z,"8 km SSW of Redlands, CA",earthquake,0.28,0.81,0.483,25,automatic,ci,ci
 2025-10-17T00:07:36.530Z,37.444667816162,-119.02283477783,7.4099998474121,2.54,md,28,88,0.08848,0.07,nc,nc75250441,2025-10-17T02:12:18.287Z,"22 km S of Mammoth Lakes, CA",earthquake,0.24,1.33000004,0.24,33,automatic,nc,nc
 2025-10-17T00:01:48.380Z,33.2075,-116.7408333,9.06,1.55,ml,72,17,0.03213,0.21,ci,ci41109695,2025-10-17T00:12:33.770Z,"4 km SSE of Lake Henshaw, CA",earthquake,0.14,0.4,0.239,27,automatic,ci,ci
-2025-10-16T23:57:40.868Z,9.7339,126.2206,67.469,4.8,mb,54,90,2.722,0.99,us,us6000rhpf,2025-10-17T01:45:52.640Z,"12 km ESE of Union, Philippines",earthquake,10.69,6.135,0.069,65,reviewed,us,us
+2025-10-16T23:57:40.868Z,9.7339,126.2206,67.469,4.8,mb,54,90,2.722,0.99,us,us6000rhpf,2025-10-17T17:48:29.735Z,"12 km ESE of Union, Philippines",earthquake,10.69,6.135,0.069,65,reviewed,us,us
 2025-10-16T23:57:40.140Z,37.875667572021,-122.25233459473,9.0100002288818,1.86,md,52,32,0.003294,0.08,nc,nc75250436,2025-10-17T01:57:17.163Z,"2 km ENE of Berkeley, CA",earthquake,0.15,0.300000012,0.2,37,automatic,nc,nc
 2025-10-16T23:55:11.010Z,34.0333333,-117.2468333,6.93,0.85,ml,19,134,0.08982,0.15,ci,ci41109687,2025-10-16T23:58:42.380Z,"2 km SE of Loma Linda, CA",earthquake,0.33,0.82,0.237,28,automatic,ci,ci
-2025-10-16T23:53:37.224Z,34.3827,70.8308,10,4.7,mb,54,132,1.408,1.3,us,us6000rhpc,2025-10-17T12:35:38.093Z,"15 km NNW of Bāsawul, Afghanistan",earthquake,7.93,1.888,0.078,49,reviewed,us,us
+2025-10-16T23:53:37.224Z,34.3827,70.8308,10,4.7,mb,54,132,1.408,1.3,us,us6000rhpc,2025-10-17T17:48:13.210Z,"15 km NNW of Bāsawul, Afghanistan",earthquake,7.93,1.888,0.078,49,reviewed,us,us
 2025-10-16T23:51:41.590Z,47.869333333333,-124.2615,-0.3,1.27,ml,17,66,0.1073,0.35,uw,uw62194812,2025-10-17T02:37:34.500Z,"12 km SE of Forks, Washington",earthquake,0.53,1.12,0.22317179721572,9,reviewed,uw,uw
 2025-10-16T23:40:34.020Z,34.0411667,-117.2323333,7.16,2.03,ml,106,15,0.07657,0.17,ci,ci41109671,2025-10-16T23:51:22.400Z,"3 km ESE of Loma Linda, CA",earthquake,0.1,0.28,0.135,25,automatic,ci,ci
 2025-10-16T23:39:26.040Z,34.04,-117.233,6.49,1.36,ml,68,21,0.07725,0.19,ci,ci41109655,2025-10-16T23:50:17.020Z,"3 km ESE of Loma Linda, CA",earthquake,0.13,0.45,0.145,27,automatic,ci,ci
@@ -224,7 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-16T18:10:28.620Z,38.788333892822,-122.76833343506,0.95999997854233,0.81,md,12,80,0.01605,0.02,nc,nc75250296,2025-10-16T18:37:18.969Z,"2 km NW of The Geysers, CA",earthquake,0.3,0.560000002,0.24,11,automatic,nc,nc
 2025-10-16T18:05:04.260Z,18.739,-65.0065,40.39,3.34,md,25,210,0.4845,0.23,pr,pr71498203,2025-10-16T18:36:40.780Z,"44 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.55,3.43,0.14422907413572,18,reviewed,pr,pr
 2025-10-16T18:00:58.290Z,32.92,-116.2371667,7.68,1.43,ml,49,45,0.0655,0.17,ci,ci41109279,2025-10-16T20:58:51.100Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.17,0.57,0.15,45,reviewed,ci,ci
-2025-10-16T17:58:28.409Z,28.977,-98.167,6.2453,1.9,ml,22,120,0.1,0.2,tx,tx2025ukawvs,2025-10-16T21:26:01.634Z,"13 km SW of Poth, Texas",earthquake,0.68290134204401,1.1714804031337,0.1,14,reviewed,tx,tx
-2025-10-16T17:58:11.480Z,40.756832122803,-123.25933074951,29.209999084473,3.09,ml,55,52,0.1512,0.16,nc,nc75250286,2025-10-17T17:35:08.888Z,"23 km NNW of Hayfork, CA",earthquake,0.37,1.14999998,0.348,9,automatic,nc,nc
-2025-10-16T17:56:57.253Z,28.978,-98.168,8.1135,1.9,ml,21,66,0.1,0.2,tx,tx2025ukavnl,2025-10-16T19:35:48.109Z,"13 km SW of Poth, Texas",earthquake,0.7563642137875,1.4281395073574,0.2,13,reviewed,tx,tx
-2025-10-16T17:55:28.700Z,47.430666666667,-123.94166666667,5.51,0.4,ml,5,134,0.06284,0.09,uw,uw62194617,2025-10-16T21:09:58.750Z,"4 km SW of Amanda Park, Washington",earthquake,0.36,1.31,0.074699922236158,3,reviewed,uw,uw
