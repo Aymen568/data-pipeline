@@ -190,8 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-19T06:20:00.630Z,38.830501556396,-122.81883239746,1.5199999809265,1.99,md,16,50,0.01464,0.02,nc,nc75251361,2025-10-19T08:17:21.652Z,"8 km NW of The Geysers, CA",earthquake,0.25,0.620000005,0.34,17,automatic,nc,nc
 2025-10-19T06:19:31.190Z,38.82799911499,-122.81700134277,1.6200000047684,2.49,md,49,38,0.0149,0.06,nc,nc75251366,2025-10-19T08:32:18.750Z,"8 km NW of The Geysers, CA",earthquake,0.13,0.219999999,0.15,60,automatic,nc,nc
 2025-10-19T06:13:54.417Z,60.2499,-150.6864,47.8,1.7,ml,,,,0.6,ak,ak025df0kuc1,2025-10-19T06:15:28.154Z,"28 km S of Funny River, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2025-10-19T06:00:21.148Z,30.937,-103.572,7.1965,1.7,ml,18,91,0.2,0.7,tx,tx2025uoqgqa,2025-10-19T07:00:23.949Z,"17 km ESE of Balmorhea, Texas",earthquake,0,2.8278160095215,0.1,12,automatic,tx,tx
-2025-10-19T06:00:20.754Z,30.937,-103.549,8.0664,1.7,ml,15,93,0.1,0.6,tx,tx2025uoqgqg,2025-10-19T06:03:55.041Z,"19 km ESE of Balmorhea, Texas",earthquake,0,2.9700772762299,0.2,9,automatic,tx,tx
-2025-10-19T05:58:17.490Z,31.659,-104.366,4.3761,1.5,ml,27,74,0.1,0.4,tx,tx2025uoqemk,2025-10-19T17:13:46.924Z,"57 km S of Whites City, New Mexico",earthquake,0,1.0809222459793,0.1,19,automatic,tx,tx
-2025-10-19T05:54:00.010Z,35.6888333,-117.5316667,6.23,0.8,ml,25,43,0.09103,0.13,ci,ci41111159,2025-10-19T13:26:14.600Z,"14 km SW of Searles Valley, CA",earthquake,0.18,0.68,0.163,11,reviewed,ci,ci
-2025-10-19T05:53:34.259Z,31.649,-104.373,4.0547,2.1,ml,33,71,0.1,0.4,tx,tx2025uoqajt,2025-10-19T06:02:32.031Z,"58 km S of Whites City, New Mexico",earthquake,0,0.98147815465927,0.2,25,automatic,tx,tx
