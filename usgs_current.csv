@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-21T10:51:03.651Z,60.083,-150.6337,52.5,1.9,ml,,,,0.69,ak,ak025die9b00,2025-10-21T10:53:29.476Z,"30 km NE of Fox River, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-10-21T10:48:36.183Z,31.548,-104.169,4.2917,1.5,ml,30,71,0,0.2,tx,tx2025usrgul,2025-10-21T10:51:38.065Z,"44 km NW of Toyah, Texas",earthquake,0,1.1057606935501,0.1,20,automatic,tx,tx
+2025-10-21T10:47:07.580Z,38.810665130615,-122.80783081055,3.3599998950958,1.2,md,20,72,0.01015,0.02,nc,nc75252286,2025-10-21T10:48:44.244Z,"6 km NW of The Geysers, CA",earthquake,0.28,0.50999999,0.15,21,automatic,nc,nc
 2025-10-21T10:30:57.910Z,33.4706667,-116.4456667,4.14,0.69,ml,47,38,0.133,0.18,ci,ci41112151,2025-10-21T10:34:20.459Z,"23 km ESE of Anza, CA",earthquake,0.16,0.51,0.104,19,automatic,ci,ci
 2025-10-21T10:30:53.770Z,36.1226667,-117.8346667,7.15,0.96,ml,25,49,0.01712,0.14,ci,ci41112143,2025-10-21T10:34:19.883Z,"13 km NE of Coso Junction, CA",earthquake,0.2,0.36,0.212,11,automatic,ci,ci
-2025-10-21T10:19:31.120Z,36.666500091553,-121.32933044434,1.3999999761581,1.75,md,28,48,0.04315,0.16,nc,nc75252276,2025-10-21T10:21:10.324Z,"14 km S of Tres Pinos, CA",earthquake,0.33,0.920000017,0.18,25,automatic,nc,nc
+2025-10-21T10:19:31.120Z,36.666500091553,-121.32933044434,1.3999999761581,1.75,md,28,48,0.04315,0.16,nc,nc75252276,2025-10-21T10:42:20.222Z,"14 km S of Tres Pinos, CA",earthquake,0.33,0.920000017,0.18,25,automatic,nc,nc
 2025-10-21T10:16:20.360Z,36.666000366211,-121.327003479,1.6900000572205,1.9,md,31,48,0.04425,0.16,nc,nc75252271,2025-10-21T10:32:18.237Z,"14 km S of Tres Pinos, CA",earthquake,0.3,0.870000005,0.15,25,automatic,nc,nc
 2025-10-21T10:11:32.030Z,58.4138,-154.7145,3.5,1.2,ml,,,,0.32,ak,ak025die0skz,2025-10-21T10:13:04.635Z,"95 km N of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-21T09:55:44.977Z,60.0506,-152.8321,98.2,1.8,ml,,,,0.38,ak,ak025didothd,2025-10-21T09:57:54.395Z,"62 km W of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -62,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-21T01:38:17.830Z,38.0053,-116.0906,6.0278,1.57,ml,14,285,0.817,0.3611,nn,nn00906172,2025-10-21T01:41:14.171Z,"50 km NW of Rachel, Nevada",earthquake,,1.2894,0.22,8,automatic,nn,nn
 2025-10-21T01:27:30.310Z,38.81916809082,-122.80233001709,2.4800000190735,0.74,md,11,72,0.01246,0.02,nc,nc75252146,2025-10-21T03:07:20.088Z,"6 km NW of The Geysers, CA",earthquake,0.37,0.819999993,0.41,14,automatic,nc,nc
 2025-10-21T01:18:03.330Z,32.3996667,-115.225,10.94,2.04,ml,24,110,0.0705,0.34,ci,ci41112015,2025-10-21T01:21:32.983Z,"6 km NNW of Delta, B.C., MX",earthquake,0.57,0.97,0.212,25,automatic,ci,ci
-2025-10-21T00:59:05.839Z,32.481,-101.172,3.3076,1.1,ml,14,64,0.1,0.3,tx,tx2025urxsuz,2025-10-21T01:02:27.155Z,"20 km NW of Westbrook, Texas",earthquake,0,1.6454653739929,0.2,10,automatic,tx,tx
+2025-10-21T00:59:05.958Z,32.477,-101.163,6.2744,1.2,ml,14,65,0.1,0.2,tx,tx2025urxsuz,2025-10-21T10:38:55.561Z,"19 km NW of Westbrook, Texas",earthquake,0.82252801329924,1.5750028999714,0.1,8,reviewed,tx,tx
 2025-10-21T00:58:56.970Z,33.4913333,-116.478,13.33,0.85,ml,46,64,0.1038,0.16,ci,ci41112007,2025-10-21T01:02:27.294Z,"20 km ESE of Anza, CA",earthquake,0.18,0.41,0.168,26,automatic,ci,ci
 2025-10-21T00:58:30.588Z,37.3431,-114.9275,4.1204,1.5,ml,21,220,0.117,0.4097,nn,nn00906171,2025-10-21T01:01:27.176Z,"21 km E of Alamo, Nevada",earthquake,,2.8964,0.32,15,automatic,nn,nn
 2025-10-21T00:37:59.930Z,38.801998138428,-122.77016448975,1.1900000572205,1.13,md,18,85,0.01393,0.02,nc,nc75252136,2025-10-21T02:42:16.932Z,"3 km NNW of The Geysers, CA",earthquake,0.23,0.400000006,0.2,17,automatic,nc,nc
@@ -115,7 +118,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-20T19:39:08.690Z,46.310833333333,-122.21416666667,2.83,0.67,ml,6,233,0.03569,0.08,uw,uw61504853,2025-10-20T20:30:53.940Z,"27 km S of Morton, Washington",earthquake,0.52,0.84,0.18086514388154,6,reviewed,uw,uw
 2025-10-20T19:38:57.150Z,46.3025,-122.21666666667,3.4,-0.66,md,4,224,0.02726,0.07,uw,uw61504843,2025-10-20T20:28:33.260Z,"28 km S of Morton, Washington",earthquake,0.76,0.92,,1,reviewed,uw,uw
 2025-10-20T19:38:50.360Z,46.311,-122.21416666667,2.67,0.43,ml,7,233,0.03585,0.06,uw,uw62205051,2025-10-20T20:25:07.310Z,"27 km S of Morton, Washington",earthquake,0.54,0.81,0.079216692920939,5,reviewed,uw,uw
-2025-10-20T19:13:46.014Z,18.5775,-70.6429,10,5,mb,45,104,0.732,1.13,us,us6000rich,2025-10-21T04:27:23.122Z,"13 km N of Estebanía, Dominican Republic",earthquake,5.68,1.882,0.059,91,reviewed,us,us
+2025-10-20T19:13:46.014Z,18.5775,-70.6429,10,5,mb,45,104,0.732,1.13,us,us6000rich,2025-10-21T10:50:30.959Z,"13 km N of Estebanía, Dominican Republic",earthquake,5.68,1.882,0.059,91,reviewed,us,us
 2025-10-20T19:13:07.237Z,31.611,-104.338,7.9489,1.6,ml,22,79,0.1,0.3,tx,tx2025urmgpj,2025-10-20T20:44:22.266Z,"61 km WNW of Toyah, Texas",earthquake,1.0162426667784,1.3686790496076,0.2,18,reviewed,tx,tx
 2025-10-20T19:04:51.781Z,31.608,-104.099,5.5712,1.8,ml,25,65,0,0.1,tx,tx2025urlzmd,2025-10-20T20:34:57.104Z,"43 km NW of Toyah, Texas",earthquake,0.46794249359259,0.42036983464514,0.1,29,reviewed,tx,tx
 2025-10-20T19:04:06.080Z,35.4058,135.4838,359.663,5.1,mww,94,29,1.264,0.69,us,us6000ricg,2025-10-20T19:34:44.040Z,"11 km SSW of Takahama, Japan",earthquake,7.65,5.64,0.073,18,reviewed,us,us
@@ -164,8 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-20T11:49:01.500Z,33.1898333,-116.3896667,13.36,0.83,ml,49,34,0.08148,0.18,ci,ci41111623,2025-10-20T14:00:38.750Z,"8 km S of Borrego Springs, CA",earthquake,0.19,0.45,0.164,19,reviewed,ci,ci
 2025-10-20T11:40:09.710Z,38.833999633789,-122.80750274658,2.1600000858307,0.72,md,9,68,0.01411,0.01,nc,nc75251946,2025-10-20T13:27:19.525Z,"7 km W of Cobb, CA",earthquake,0.37,1.25999999,0.1,11,automatic,nc,nc
 2025-10-20T11:35:51.115Z,6.9405,127.3427,10,5.8,mww,90,51,1.755,1.31,us,us6000ri9x,2025-10-20T22:23:38.272Z,"93 km ESE of Santiago, Philippines",earthquake,6.95,1.853,0.044,50,reviewed,us,us
-2025-10-20T10:48:38.924Z,61.5701,-149.8092,38.5,1.4,ml,,,,0.59,ak,ak025dgqpe44,2025-10-20T11:00:41.235Z,"6 km S of Houston, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-10-20T10:47:18.990Z,38.820331573486,-122.80666351318,3.0699999332428,0.77,md,10,108,0.0152,0.02,nc,nc75251936,2025-10-20T12:42:19.223Z,"6 km NW of The Geysers, CA",earthquake,0.46,1.09000003,0.15,10,automatic,nc,nc
-2025-10-20T10:46:55.160Z,35.9593333,-117.674,2.58,1.37,ml,28,45,0.0223,0.16,ci,ci41111615,2025-10-20T13:57:22.508Z,"21 km E of Little Lake, CA",earthquake,0.18,0.24,0.181,23,reviewed,ci,ci
-2025-10-20T10:42:49.970Z,20.011666666667,-155.59683333333,-0.22,1.43,md,28,173,0.1642,0.22,hv,hv74809781,2025-10-20T23:04:53.170Z,"8 km E of Waimea, Hawaii",earthquake,0.39,0.42,0.049841289647285,8,reviewed,hv,hv
-2025-10-20T10:41:00.570Z,52.359333333333,-174.2085,3.37,0.59,ml,5,108,0.02529,0.31,av,av93834591,2025-10-20T23:56:21.070Z,"18 km N of Atka, Alaska",earthquake,1.34,2.04,0.6564316382289,5,reviewed,av,av
