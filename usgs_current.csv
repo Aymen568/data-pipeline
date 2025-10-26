@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-26T20:29:45.420Z,38.834331512451,-122.80033111572,4.0900001525879,0.74,md,8,73,0.02043,0.01,nc,nc75254946,2025-10-26T20:31:24.829Z,"7 km WNW of Cobb, CA",earthquake,0.73,6.92000008,0.13,8,automatic,nc,nc
+2025-10-26T20:45:58.954Z,61.2718,-150.8573,12.2,2.4,ml,,,,0.81,ak,ak025dqtv7fk,2025-10-26T20:49:16.682Z,"18 km NE of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-26T20:44:26.922Z,61.675,-151.289,14.6,1.1,ml,,,,0.5,ak,ak025dqtuxc4,2025-10-26T20:46:17.617Z,"35 km S of Skwentna, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-10-26T20:29:45.420Z,38.834331512451,-122.80033111572,4.0900001525879,0.74,md,8,73,0.02043,0.01,nc,nc75254946,2025-10-26T20:47:19.367Z,"7 km WNW of Cobb, CA",earthquake,0.73,6.92000008,0.13,8,automatic,nc,nc
 2025-10-26T20:18:43.630Z,38.819667816162,-122.81666564941,2.0699999332428,1.03,md,8,84,0.01455,0.01,nc,nc75254941,2025-10-26T20:37:18.298Z,"7 km NW of The Geysers, CA",earthquake,0.39,1.11000001,0.26,9,automatic,nc,nc
 2025-10-26T20:18:29.290Z,33.7025,-116.8105,16.34,0.8,ml,29,77,0.07872,0.14,ci,ci41320552,2025-10-26T20:22:57.192Z,"9 km ESE of Valle Vista, CA",earthquake,0.27,0.37,0.233,23,automatic,ci,ci
 2025-10-26T20:04:00.590Z,36.2233333,-117.5331667,20.73,0.92,ml,10,195,0.06768,0.15,ci,ci41320544,2025-10-26T20:07:59.467Z,"42 km ENE of Coso Junction, CA",earthquake,0.87,1.92,0.256,10,automatic,ci,ci
@@ -12,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-26T18:26:42.820Z,33.9765,-118.7968333,13.31,1.69,ml,29,101,0.02908,0.2,ci,ci41320528,2025-10-26T18:30:32.432Z,"3 km SSE of Malibu, CA",earthquake,0.32,0.43,0.263,32,automatic,ci,ci
 2025-10-26T18:20:42.940Z,38.829166412354,-122.85316467285,1.75,1.04,md,11,124,0.003318,0.01,nc,nc75254911,2025-10-26T20:37:17.299Z,"10 km NW of The Geysers, CA",earthquake,0.4,0.460000008,0.1,11,automatic,nc,nc
 2025-10-26T18:16:31.363Z,63.0472,-150.7883,109.2,1.6,ml,,,,0.52,ak,ak025dqsi2lp,2025-10-26T18:19:48.519Z,"61 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2025-10-26T18:15:22.490Z,35.352,-117.7926667,5.7,2.88,ml,61,32,0.09493,0.18,ci,ci41320520,2025-10-26T18:25:44.030Z,"14 km W of Johannesburg, CA",earthquake,0.15,0.63,0.149,24,automatic,ci,ci
+2025-10-26T18:15:22.490Z,35.352,-117.7926667,5.7,2.88,ml,61,32,0.09493,0.18,ci,ci41320520,2025-10-26T20:50:52.697Z,"14 km W of Johannesburg, CA",earthquake,0.15,0.63,0.149,24,automatic,ci,ci
 2025-10-26T18:11:15.221Z,63.4945,-148.9436,83,1.7,ml,,,,0.68,ak,ak025dqsgy8z,2025-10-26T18:14:02.063Z,"11 km N of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-10-26T17:53:01.157Z,63.3087,-151.8835,8,1.2,ml,,,,1.05,ak,ak025dqs4hz7,2025-10-26T17:55:13.117Z,"27 km SSW of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-26T17:38:19.372Z,31.609,-104.107,4.7874,1.2,ml,21,59,0,0.3,tx,tx2025vcjmgf,2025-10-26T18:02:41.182Z,"44 km NW of Toyah, Texas",earthquake,0,1.1961975097656,0.2,12,automatic,tx,tx
@@ -154,4 +156,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-25T21:33:37.620Z,33.2198333,-116.0666667,5.46,1.02,ml,48,35,0.08772,0.24,ci,ci41320032,2025-10-25T21:37:17.443Z,"10 km NE of Ocotillo Wells, CA",earthquake,0.2,0.54,0.133,25,automatic,ci,ci
 2025-10-25T21:32:03.668Z,-25.9409,-178.7304,347.966,4.4,mb,47,126,10.621,0.94,us,us6000rjhc,2025-10-25T22:27:52.040Z,"south of the Fiji Islands",earthquake,14.61,7.442,0.095,34,reviewed,us,us
 2025-10-25T20:53:33.604Z,63.5697,-150.772,15.7,1.5,ml,,,,0.86,ak,ak025dp6dir9,2025-10-25T20:56:15.864Z,"47 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-10-25T20:50:49.950Z,37.131332397461,-121.95950317383,8.8000001907349,1.15,md,5,128,0.05804,0.05,nc,nc75254531,2025-10-25T22:47:19.329Z,"4 km SSE of Lexington Hills, CA",earthquake,2.98,6.61000013,0.18,8,automatic,nc,nc
