@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-01T04:58:58.860Z,38.831832885742,-122.81583404541,2.5,0.71,md,13,55,0.01677,0.02,nc,nc75257381,2025-11-01T05:00:36.863Z,"8 km NW of The Geysers, CA",earthquake,0.32,1.19000006,0.09,12,automatic,nc,nc
 2025-11-01T04:45:32.800Z,38.819831848145,-122.80233001709,2.3800001144409,0.99,md,21,34,0.01306,0.03,nc,nc75257371,2025-11-01T04:47:10.589Z,"6 km NW of The Geysers, CA",earthquake,0.22,0.460000008,0.22,22,automatic,nc,nc
 2025-11-01T04:40:49.077Z,59.5958,-150.2107,29.5,2.4,ml,,,,0.8,ak,ak025e0hj9g6,2025-11-01T04:52:55.450Z,"51 km SE of Fox River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-01T04:33:54.909Z,61.1598,-151.3292,73,1.5,ml,,,,0.69,ak,ak025e0hhru6,2025-11-01T04:36:36.873Z,"13 km W of Beluga, Alaska",earthquake,,1.7,,,automatic,ak,ak
