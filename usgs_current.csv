@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-02T05:02:31.830Z,38.831165313721,-122.81749725342,1.7000000476837,1.03,md,13,65,0.01588,0.02,nc,nc75257896,2025-11-02T05:04:09.091Z,"8 km NW of The Geysers, CA",earthquake,0.28,0.620000005,0.21,15,automatic,nc,nc
+2025-11-02T05:01:39.320Z,38.83150100708,-122.81749725342,1.8099999427795,0.99,md,9,96,0.01573,0.01,nc,nc75257891,2025-11-02T05:03:14.468Z,"8 km NW of The Geysers, CA",earthquake,0.38,0.74000001,0.27,13,automatic,nc,nc
+2025-11-02T04:57:28.644Z,64.3995,-150.3434,13.3,1.8,ml,,,,0.8,ak,ak025e2567k0,2025-11-02T04:59:29.091Z,"56 km W of Anderson, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-11-02T04:56:13.327Z,31.713,-104.323,3.9471,1.6,ml,29,115,0.1,0.4,tx,tx2025voghsd,2025-11-02T05:00:43.090Z,"51 km S of Whites City, New Mexico",earthquake,0,1.0077860355377,0.1,22,automatic,tx,tx
 2025-11-02T04:52:33.644Z,64.6692,-149.2022,16,1.6,ml,,,,0.45,ak,ak025e2555d0,2025-11-02T04:54:23.488Z,"8 km NNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-11-02T04:46:01.896Z,62.0465,-149.3362,43.7,1.8,ml,,,,0.96,ak,ak025e253sm5,2025-11-02T04:48:00.180Z,"29 km ESE of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-11-02T04:30:45.418Z,-6.1865,131.5407,36.244,4.5,mb,26,112,2.321,0.83,us,us6000rl03,2025-11-02T04:47:34.040Z,"147 km WSW of Tual, Indonesia",earthquake,7.27,8.917,0.136,16,reviewed,us,us
@@ -177,5 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-01T05:29:45.703Z,38.4933,-116.466,1.2837,1.68,ml,9,168,0.705,0.2475,nn,nn00906659,2025-11-01T05:32:56.943Z,"81 km NE of Tonopah, Nevada",earthquake,,11.1564,0.23,4,automatic,nn,nn
 2025-11-01T05:26:59.709Z,64.8195,-147.5023,16.4,1.1,ml,,,,0.4,ak,ak025e0i1pv6,2025-11-01T05:28:43.425Z,"2 km NE of Badger, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-11-01T05:14:20.360Z,17.906833333333,-66.597,13.75,2.43,md,17,173,0.06999,0.22,pr,pr71499473,2025-11-01T05:34:56.360Z,"11 km SSE of Ponce, Puerto Rico",earthquake,0.52,0.4,0.023869755278125,4,reviewed,pr,pr
-2025-11-01T04:58:58.860Z,38.831832885742,-122.81583404541,2.5,0.71,md,13,55,0.01677,0.02,nc,nc75257381,2025-11-01T06:17:22.115Z,"8 km NW of The Geysers, CA",earthquake,0.32,1.19000006,0.09,12,automatic,nc,nc
-2025-11-01T04:58:42.028Z,39.2086,28.1616,10,4,mb,26,56,0.987,0.86,us,us6000rkwi,2025-11-01T05:15:43.040Z,"3 km SSW of Sındırgı, Turkey",earthquake,4.87,1.944,0.173,9,reviewed,us,us
