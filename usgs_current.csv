@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-11-03T20:33:44.410Z,33.3313333,-117.1456667,3.73,1.06,ml,38,62,0.04845,0.21,ci,ci40480610,2025-11-03T20:37:15.429Z,"7 km WSW of Pala, CA",earthquake,0.21,0.66,0.231,33,automatic,ci,ci
+2025-11-03T20:33:44.410Z,33.3313333,-117.1456667,3.73,1.06,ml,38,62,0.04845,0.21,ci,ci40480610,2025-11-03T20:46:45.681Z,"7 km WSW of Pala, CA",earthquake,0.21,0.66,0.231,33,automatic,ci,ci
 2025-11-03T20:32:06.432Z,32.106,-101.925,3.5331,1.7,ml,53,33,0.1,0.5,tx,tx2025vrgyql,2025-11-03T20:37:20.138Z,"13 km WSW of Stanton, Texas",earthquake,0,0.73138254880905,0.2,30,automatic,tx,tx
 2025-11-03T20:13:37.865Z,62.2227,-151.207,70.7,1.5,ml,,,,0.34,ak,ak025e41z2xm,2025-11-03T20:15:43.665Z,"27 km NNE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-11-03T20:10:22.478Z,32.095,-101.908,2.7689,1,ml,14,72,0.1,0.5,tx,tx2025vrgieh,2025-11-03T20:13:37.562Z,"11 km WSW of Stanton, Texas",earthquake,0,1.4511246681213,0.1,6,automatic,tx,tx
@@ -152,6 +152,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-03T05:11:16.610Z,35.356,-117.801,6.75,1.18,ml,42,36,0.09568,0.14,ci,ci41324760,2025-11-03T14:29:55.385Z,"15 km W of Johannesburg, CA",earthquake,0.14,0.39,0.219,26,reviewed,ci,ci
 2025-11-03T04:42:38.450Z,33.7088333,-116.7331667,17.6,0.95,ml,53,23,0.01849,0.14,ci,ci41324752,2025-11-03T14:35:37.840Z,"4 km SSW of Idyllwild, CA",earthquake,0.14,0.23,0.229,26,reviewed,ci,ci
 2025-11-03T04:41:44.229Z,61.1198,-149.3468,27.3,1.1,ml,,,,0.44,ak,ak025e3sm5sm,2025-11-03T04:44:24.235Z,"21 km SE of Elmendorf Air Force Base, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-11-03T04:38:47.520Z,54.746,-164.0505,6.61,0.55,ml,5,162,0.04794,0.32,av,av93864701,2025-11-03T20:55:38.080Z,"42 km WSW of False Pass, Alaska",earthquake,1.13,2.12,0.23763209690939,5,reviewed,av,av
 2025-11-03T04:35:36.440Z,38.678665161133,-119.54550170898,11.64999961853,2.15,md,10,128,0.2205,0.06,nc,nc75258271,2025-11-03T07:12:17.877Z,"19 km NNW of Walker, CA",earthquake,0.4,2.08999991,0.42,4,automatic,nc,nc
 2025-11-03T04:34:45.470Z,38.821166992188,-122.85182952881,3.0899999141693,1.03,md,15,113,0.007489,0.02,nc,nc75258266,2025-11-03T05:12:17.052Z,"10 km WNW of The Geysers, CA",earthquake,0.33,0.550000012,0.22,15,automatic,nc,nc
 2025-11-03T04:29:44.810Z,33.216,-116.748,19.91,0.67,ml,29,28,0.02187,0.12,ci,ci41324744,2025-11-03T14:30:20.235Z,"3 km SSE of Lake Henshaw, CA",earthquake,0.2,0.4,0.191,14,reviewed,ci,ci
@@ -166,6 +167,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-03T03:51:23.728Z,60.1028,-152.8158,111.5,1.2,ml,,,,0.74,ak,ak025e3s2ttn,2025-11-03T03:53:47.579Z,"62 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-11-03T03:36:24.340Z,38.791168212891,-122.75583648682,0.47999998927116,1.28,md,21,82,0.009917,0.04,nc,nc75258246,2025-11-03T06:32:17.604Z,"2 km N of The Geysers, CA",earthquake,0.22,0.379999995,0.09,21,automatic,nc,nc
 2025-11-03T03:30:49.530Z,38.822334289551,-122.78983306885,0.74000000953674,1.31,md,17,50,0.01154,0.03,nc,nc75258241,2025-11-03T06:07:18.420Z,"6 km W of Cobb, CA",earthquake,0.21,0.419999987,0.09,20,automatic,nc,nc
+2025-11-03T03:17:49.810Z,54.755666666667,-163.9995,-0.53,0.45,ml,4,105,0.04633,0.19,av,av93864566,2025-11-03T20:47:37.530Z,"39 km WSW of False Pass, Alaska",earthquake,0.26,0.55,0.23630759727942,4,reviewed,av,av
 2025-11-03T03:16:54.804Z,64.5375,-149.7792,3.1,1.6,ml,,,,0.73,ak,ak025e3rvdxg,2025-11-03T03:26:41.916Z,"32 km WSW of Four Mile Road, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-11-03T03:14:25.180Z,38.820499420166,-122.76616668701,2.4800000190735,0.57,md,10,111,0.01038,0.03,nc,nc75258226,2025-11-03T05:12:17.161Z,"4 km W of Cobb, CA",earthquake,0.42,0.810000002,0.32,10,automatic,nc,nc
 2025-11-03T03:10:17.910Z,38.838665008545,-122.8381652832,1.289999961853,0.66,md,8,154,0.002093,0.01,nc,nc75258231,2025-11-03T05:37:20.223Z,"10 km NW of The Geysers, CA",earthquake,0.43,0.620000005,0.12,9,automatic,nc,nc
@@ -215,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-02T21:33:07.020Z,38.672668457031,-122.75883483887,5.8600001335144,1.16,md,9,143,0.03803,0.02,nc,nc75258121,2025-11-02T22:57:17.495Z,"12 km S of The Geysers, CA",earthquake,0.6,0.540000021,0.14,10,automatic,nc,nc
 2025-11-02T21:21:08.290Z,32.121,-101.489,6.8115,1.1,ml,15,76,0.1,0.1,tx,tx2025vpmyky,2025-11-03T13:27:55.012Z,"11 km W of Forsan, Texas",earthquake,0.5168325778107,0.90128979509979,0.2,11,reviewed,tx,tx
 2025-11-02T20:56:58.580Z,38.84349822998,-122.82583618164,1.8799999952316,0.5,md,11,132,0.008991,0.02,nc,nc75258101,2025-11-02T22:07:19.131Z,"9 km WNW of Cobb, CA",earthquake,0.34,0.939999998,0.36,12,automatic,nc,nc
-2025-11-02T20:47:39.330Z,33.8153333,-116.9603333,14.67,1.46,ml,68,20,0.1123,0.19,ci,ci41324672,2025-11-02T21:34:05.080Z,"4 km N of San Jacinto, CA",earthquake,0.15,0.32,0.207,27,reviewed,ci,ci
