@@ -2,6 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-06T13:42:31.740Z,38.824333190918,-122.7945022583,2.5699999332428,1.05,md,16,103,0.01545,0.02,nc,nc75259826,2025-11-06T13:44:08.786Z,"6 km NNW of The Geysers, CA",earthquake,0.29,0.519999981,0.04,16,automatic,nc,nc
 2025-11-06T13:31:59.995Z,31.684,-104.345,4.4828,2,ml,9,166,0.1,0.2,tx,tx2025vwghro,2025-11-06T13:34:12.742Z,"54 km S of Whites City, New Mexico",earthquake,0,2.7085328102112,0.3,7,automatic,tx,tx
 2025-11-06T13:31:59.857Z,31.668,-104.349,3.8864,2.1,ml,24,84,0.1,0.3,tx,tx2025vwghhu,2025-11-06T13:36:28.737Z,"56 km S of Whites City, New Mexico",earthquake,0,1.3840211629868,0.2,18,automatic,tx,tx
+2025-11-06T13:27:32.585Z,31.61,-104.325,16.488,1.5,ml,8,215,0.1,0.6,tx,tx2025vwgdns,2025-11-06T14:00:39.935Z,"60 km WNW of Toyah, Texas",earthquake,0,8.9601173400879,0.1,3,automatic,tx,tx
 2025-11-06T13:17:58.583Z,63.0111,-150.502,93.5,2.2,ml,,,,0.46,ak,ak025e8wfzn6,2025-11-06T13:20:05.936Z,"58 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-11-06T13:06:01.817Z,63.5566,-150.9053,0.9,1.9,ml,,,,0.68,ak,ak025e8wdidx,2025-11-06T13:07:54.673Z,"40 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-11-06T12:38:26.276Z,38.4849,-116.4635,3.8056,1.78,ml,12,159,0.661,0.2206,nn,nn00906962,2025-11-06T12:42:57.082Z,"81 km NE of Tonopah, Nevada",earthquake,,1.8269,0.27,4,automatic,nn,nn
@@ -185,5 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-05T14:30:55.250Z,36.8925,-112.484,15.5,2.16,ml,6,147,0.2977,0.16,uu,uu80121326,2025-11-05T15:28:15.260Z,"7 km SSE of Fredonia, Arizona",earthquake,0.86,2.75,0.12809971643973,3,reviewed,uu,uu
 2025-11-05T14:28:10.980Z,38.786834716797,-122.76866912842,0.9200000166893,0.81,md,10,81,0.01545,0.02,nc,nc75259471,2025-11-05T15:37:18.015Z,"2 km NW of The Geysers, CA",earthquake,0.29,0.589999974,0.1,11,automatic,nc,nc
 2025-11-05T14:19:28.370Z,60.044166666667,-153.05783333333,2,-0.34,ml,5,156,0.01354,0.15,av,av93870726,2025-11-05T21:11:10.900Z,"65 km ENE of Pedro Bay, Alaska",earthquake,0.93,1.37,0.49068155576684,5,reviewed,av,av
-2025-11-05T13:55:13.477Z,32.353,-102.105,8.4473,0.7,ml,16,56,0.1,0.1,tx,tx2025vuliun,2025-11-06T13:35:58.756Z,"38 km NW of Stanton, Texas",earthquake,0.64767845379686,1.0518106654966,0,6,reviewed,tx,tx
-2025-11-05T13:52:36.380Z,31.677,-104.401,6.6125,1.9,ml,30,69,0,0.2,tx,tx2025vulgnt,2025-11-05T14:48:05.296Z,"55 km S of Whites City, New Mexico",earthquake,0.94683070888696,0.67471535471122,0.1,19,reviewed,tx,tx
