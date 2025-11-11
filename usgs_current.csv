@@ -1,10 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-11T18:39:28.750Z,38.831832885742,-122.8004989624,1.3700000047684,0.7,md,10,81,0.0103,0.03,nc,nc75262046,2025-11-11T18:41:07.833Z,"7 km W of Cobb, CA",earthquake,0.33,0.839999974,0.13,11,automatic,nc,nc
+2025-11-11T18:33:14.930Z,38.830833435059,-122.81983184815,1.9800000190735,0.38,md,7,93,0.01415,0.01,nc,nc75262041,2025-11-11T18:34:52.927Z,"8 km NW of The Geysers, CA",earthquake,0.52,1.60000002,0.28,8,automatic,nc,nc
 2025-11-11T18:00:10.360Z,38.821998596191,-122.80533599853,2.6800000667572,1.08,md,20,50,0.01605,0.02,nc,nc75262026,2025-11-11T18:27:18.976Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.469999999,0.06,21,automatic,nc,nc
 2025-11-11T17:59:07.012Z,64.6921,-149.1129,13.7,1.2,ml,,,,0.9,ak,ak025eh8rcmf,2025-11-11T18:02:10.231Z,"9 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-11T17:53:54.685Z,62.946,-150.2874,11.9,1.6,ml,,,,0.6,ak,ak025eh8q60c,2025-11-11T17:56:03.543Z,"55 km NNE of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-11T17:53:12.000Z,38.785331726074,-122.77266693115,0.15000000596046,1.07,md,8,163,0.01556,0.08,nc,nc75262016,2025-11-11T18:17:20.904Z,"2 km WNW of The Geysers, CA",earthquake,0.43,0.829999983,0.21,8,automatic,nc,nc
 2025-11-11T17:36:10.370Z,33.1905,-115.594,3.89,1.33,ml,37,44,0.02232,0.16,ci,ci40483794,2025-11-11T17:39:55.837Z,"9 km SW of Niland, CA",earthquake,0.17,0.19,0.175,23,automatic,ci,ci
 2025-11-11T17:36:10.330Z,33.1935,-115.5945,3.54,1.42,ml,9,104,0.02387,0.12,ci,ci40483786,2025-11-11T17:39:39.090Z,"9 km SW of Niland, CA",earthquake,0.97,0.75,0.262,10,automatic,ci,ci
+2025-11-11T17:32:35.410Z,41.1625,71.4781,19.892,4.6,mb,59,90,0.388,0.94,us,us6000rmse,2025-11-11T18:39:54.040Z,"11 km SSW of Kosonsoy, Uzbekistan",earthquake,4.59,4.296,0.079,48,reviewed,us,us
 2025-11-11T17:26:34.823Z,32.363,-102.081,8.6215,1.2,ml,12,59,0,0.4,tx,tx2025wfssfz,2025-11-11T18:00:32.776Z,"37 km NW of Stanton, Texas",earthquake,0,2.7937738895416,0.2,9,automatic,tx,tx
 2025-11-11T17:20:08.547Z,43.3843,-127.6203,10,3.1,ml,22,287,2.621,0.7,us,us6000rmsg,2025-11-11T18:27:37.040Z,"262 km W of Bandon, Oregon",earthquake,12.37,2.026,0.044,68,reviewed,us,us
 2025-11-11T17:10:08.350Z,32.063,-101.676,1.8428,1.3,ml,14,86,0.1,0.7,tx,tx2025wfsebf,2025-11-11T17:13:14.998Z,"12 km SE of Stanton, Texas",earthquake,0,1.8416563272476,0.2,9,automatic,tx,tx
@@ -183,7 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-10T19:14:13.939Z,-6.4121,130.268,169.282,4.9,mb,85,41,1.912,0.99,us,us6000rmn4,2025-11-10T19:31:07.040Z,"288 km WSW of Tual, Indonesia",earthquake,7.77,6.972,0.055,104,reviewed,us,us
 2025-11-10T19:03:04.660Z,34.49366667,-97.26966667,0,1.39,ml,61,76,0.09448145951,0.44,ok,ok2025wbie,2025-11-11T14:19:16.246Z,"12 km SE of Katie, Oklahoma",quarry blast,,0.5,0.19,25,reviewed,ok,ok
 2025-11-10T19:02:19.080Z,44.789,-110.838,4.46,1.26,ml,18,104,0.008926,0.14,uu,uu80121886,2025-11-10T19:36:54.460Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.26,0.33,0.38194011354916,4,reviewed,uu,uu
-2025-11-10T18:51:49.217Z,51.1996,174.7934,10,4.5,mb,54,164,1.591,0.78,us,us6000rmn2,2025-11-11T06:13:16.113Z,"213 km SSE of Attu Station, Alaska",earthquake,7.39,1.928,0.045,144,reviewed,us,us
-2025-11-10T18:51:32.748Z,-38.8562,175.0747,236.796,4.6,mb,44,47,0.364,0.87,us,us6000rmn1,2025-11-10T19:17:58.002Z,"65 km WNW of Turangi, New Zealand",earthquake,6.71,4.327,0.102,29,reviewed,us,us
-2025-11-10T18:45:07.520Z,37.760665893555,-121.94400024414,6.0999999046326,1.53,md,12,108,0.02783,0.1,nc,nc75261601,2025-11-10T20:18:02.786Z,"4 km SE of San Ramon, CA",earthquake,0.46,0.699999988,0.09,10,automatic,nc,nc
-2025-11-10T18:41:30.820Z,60.580666666667,-152.90466666667,10.12,-0.72,ml,8,224,0.02225,0.06,av,av93881121,2025-11-11T05:05:30.540Z,"86 km W of Salamatof, Alaska",earthquake,0.33,0.46,0.27180416776167,8,reviewed,av,av
