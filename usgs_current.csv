@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-11-16T05:51:39.480Z,38.764667510986,-122.70066833496,1.8300000429153,0.77,md,7,151,0.003669,0.03,nc,nc75264021,2025-11-16T05:53:16.819Z,"1 km SSW of Anderson Springs, CA",earthquake,0.52,0.620000005,0.09,5,automatic,nc,nc
 2025-11-16T05:46:44.676Z,62.9038,-150.4334,5.5,1.6,ml,,,,0.4,ak,ak025epb86fn,2025-11-16T05:49:57.452Z,"48 km NNE of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-11-16T05:45:20.249Z,62.721,-152.4129,0,2.1,ml,,,,0.87,ak,ak025epb7wu0,2025-11-16T05:47:26.248Z,"88 km WNW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-11-16T05:45:55.560Z,61.6438,-151.7066,81,1.5,ml,,,,1.41,ak,ak025epb7zk4,2025-11-16T05:56:34.718Z,"41 km SSW of Skwentna, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2025-11-16T05:45:20.199Z,62.7087,-152.5355,0,2.2,ml,,,,0.87,ak,ak025epb7wu0,2025-11-16T05:57:52.875Z,"93 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-11-16T05:27:18.524Z,61.6572,-151.1234,67.9,1.4,ml,,,,0.1,ak,ak025epb41u9,2025-11-16T05:29:39.273Z,"34 km WNW of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-11-16T05:26:40.994Z,31.63,-104.3926,11.022,3.3,ml,41,67,0.1,0.32,us,us6000rnjv,2025-11-16T05:40:42.040Z,"60 km S of Whites City, New Mexico",earthquake,2.53,8.33,0.057,70,reviewed,us,us
 2025-11-16T05:25:43.980Z,19.413000106811,-155.27250671387,1.289999961853,1.78,ml,15,75,0.01188,0.25999999,hv,hv74831657,2025-11-16T05:29:12.750Z,"5 km SW of Volcano, Hawaii",earthquake,0.3,0.330000013,0.39,12,automatic,hv,hv
@@ -197,7 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-15T06:22:40.591Z,31.718,-101.686,8.7646,2.5,ml,44,61,0.1,0.1,tx,tx2025wmfone,2025-11-15T16:08:45.856Z,"25 km SW of Garden City, Texas",earthquake,0.5074520061903,0.58954561954882,0.2,32,reviewed,tx,tx
 2025-11-15T06:22:28.955Z,62.0389,-151.6564,85.9,1.8,ml,,,,0.61,ak,ak025eno535b,2025-11-15T06:24:37.137Z,"14 km WNW of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-11-15T06:13:57.459Z,-28.7985,-71.5292,35.956,5,mww,47,154,0.715,0.79,us,us6000rnf6,2025-11-15T17:09:36.431Z,"79 km WSW of Vallenar, Chile",earthquake,4.68,7.096,0.086,13,reviewed,us,us
-2025-11-15T06:05:33.370Z,38.8125,-122.78616333008,1.5499999523163,0.77,md,13,86,0.004347,0.02,nc,nc75263481,2025-11-15T06:07:12.472Z,"5 km NNW of The Geysers, CA",earthquake,0.31,0.5,0.15,14,automatic,nc,nc
-2025-11-15T06:02:00.623Z,63.5691,-148.8829,0.6,1.5,ml,,,,0.63,ak,ak025eno0qn5,2025-11-15T06:12:05.317Z,"18 km S of Denali Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-11-15T05:58:28.830Z,35.3503333,-117.8068333,7.37,1.55,ml,47,35,0.08866,0.15,ci,ci40485290,2025-11-15T06:02:26.419Z,"16 km W of Johannesburg, CA",earthquake,0.13,0.53,0.127,25,automatic,ci,ci
-2025-11-15T05:58:10.190Z,54.751333333333,-163.9815,-2.91,0.93,ml,5,94,0.04294,0.33,av,av93889396,2025-11-16T04:13:16.950Z,"38 km WSW of False Pass, Alaska",earthquake,0.59,1.26,0.35154027114323,5,reviewed,av,av
