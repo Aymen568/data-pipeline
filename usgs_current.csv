@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-17T07:53:48.585Z,31.561,-104.297,0,0.8,ml,12,192,0.1,0.8,tx,tx2025wqabwr,2025-11-17T08:01:24.007Z,"55 km WNW of Toyah, Texas",earthquake,0,,0.4,9,automatic,tx,tx
 2025-11-17T07:40:38.760Z,19.130332946777,-155.3758392334,28.959999084473,1.73,md,43,193,0.08529,0.129999995,hv,hv74832627,2025-11-17T07:44:06.950Z,"13 km SE of Pāhala, Hawaii",earthquake,0.57,0.629999995,0.10376147711045,15,automatic,hv,hv
 2025-11-17T07:15:25.166Z,60.5818,-151.7456,67.3,1.7,ml,,,,0.35,ak,ak025eqzrpfo,2025-11-17T07:22:31.584Z,"23 km W of Salamatof, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-11-17T07:14:40.238Z,63.6744,-149.242,6.2,1.7,ml,,,,0.91,ak,ak025eqzrivr,2025-11-17T07:17:02.430Z,"17 km WSW of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
